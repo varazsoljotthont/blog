@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Házvásárlás"
-cover: /assets/dithering/cover.png
+cover: /assets/hazvasarlas/cover.png
 image:
-  path: /assets/dithering/cover.png
+  path: /assets/hazvasarlas/cover.png
   height: 300
   width: 300
 ---
