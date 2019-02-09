@@ -54,8 +54,7 @@ A „Miházunkban”.
 ![parasztház](/assets/hazvasarlas/ház4.jpg)
 
 
-
-      _és végül ilyen lett a házunk_
+ _...és végül ilyen lett a házunk!_
 
 
 +1 gondolat:
