@@ -22,6 +22,6 @@ Bízom benne, hogy nektek is hasznos olvasnivalóval szolgál a Varázsolj ottho
 
 Kriszta
 
-˘![isten hozott tábla](/assets/rolam/isten hozott.jpg)
+˘![isten hozott tábla](/assets/rolam/isten-hozott.jpg)
 
 
