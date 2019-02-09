@@ -52,8 +52,6 @@ Kimerültünk fizikailag - anyagilag, de ott voltunk.
 A „Miházunkban”.
 
 ![parasztház](/assets/hazvasarlas/ház4.jpg)
-
-
  _...és végül ilyen lett a házunk!_
 
 
