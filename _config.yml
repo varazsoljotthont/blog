@@ -1,14 +1,14 @@
 # Site settings
-title:          LittlevGL's Blog
-description:    "News and Tutorials for Embedded GUI Enthusiasts: Release notes of LittlevGL, Tutorials, Poring guides, Development board and microcontroller test, ideas, tips and tricks and more."
+title:          Varázsolj otthont
+description:    "Házat téglából, otthont lélekből"
 
 # Site settings
 cover: /assets/def_post_cover.png
 
 # Author
 author:
-  name:         Gabor Kiss-Vamosi
-  email:        kisvegabor@gmail.com
+  name:         Stegh Krisztina
+  email:        kisvkriszti@gmail.com
 
 # Build settings
 markdown:       kramdown
