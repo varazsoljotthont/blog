@@ -53,7 +53,7 @@ $("#subscribe_form").submit(function(event){
            <h1 class="catalogue-title">{{ post.title }}</h1>
            <div class="catalogue-line"></div>
            <p> {{ post.content | strip_html | truncatewords: 30 }} </p>
-           <time datetime="{{ post.date }}" class="catalogue-time">{{ post.date | date: "%B %d, %Y" }}</time>
+           <time datetime="{{ post.date }}" class="catalogue-time">{{ post.date | date: "%Y. %B %d." }}</time>
          </div>
      </div>
    </a>   
