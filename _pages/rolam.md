@@ -3,7 +3,7 @@ layout: default
 permalink: /rolam/
 ---
 
-***Mottó: Mindig mindent újra gondolunk!						
+#Mottó: Mindig mindent újra gondolunk!						
 									
 									
 									
