@@ -27,7 +27,7 @@ _Hangulatos parasztház (Forrás: Pinterest)_
 
 ***Megtaláltuk a "Miházunkat"					
 
-Megnéztünk néhány ingatlant, és a helyzet elkeserítő volt. Elhanyagolt ingatlanok, festéssel elfedett repedések, gazos udvarok… Ami tetszett azt pedig a nem mi pénztárcánkhoz szabták. Hetek teltek el a miközben kerestük a leendő otthonunkat, végül egy jó barátunk személyében megérkezett a segítség. Ő hívta fel a figyelmünket egy házra, ami akkor még nem volt jelen az ingatlan piacon. Így elsőként tudtuk megnézni, felmérni, hogy milyen állapotban van. _*_  Ház vásárlásnál nagyjából az első benyomás a döntő. Így történt ez a mi esetünkben is. A lakóépület külseje kissé ijesztő volt, de a belső terek tiszták, rendezettek voltak.
+Megnéztünk néhány ingatlant, és a helyzet elkeserítő volt. Elhanyagolt ingatlanok, festéssel elfedett repedések, gazos udvarok… Ami tetszett azt pedig a nem mi pénztárcánkhoz szabták. Hetek teltek el a miközben kerestük a leendő otthonunkat, végül egy jó barátunk személyében megérkezett a segítség. Ő hívta fel a figyelmünket egy házra, ami akkor még nem volt jelen az ingatlan piacon. Így elsőként tudtuk megnézni, felmérni, hogy milyen állapotban van. Ház vásárlásnál nagyjából az első benyomás a döntő. Így történt ez a mi esetünkben is. A lakóépület külseje kissé ijesztő volt, de a belső terek tiszták, rendezettek voltak.
 
 ![romos ház felújítás előtt](/assets/hazvasarlas/ház1jav2.jpg)
 _Ilyen volt a ház mikor megvettük_
