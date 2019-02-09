@@ -32,7 +32,7 @@ Megnéztünk néhány ingatlant, és a helyzet elkeserítő volt. Elhanyagolt in
 ![romos ház felújítás előtt](/assets/hazvasarlas/tezst1.jpg)
 _Ilyen volt a ház mikor megvettük_
 
-![romos utca ajtó](assets/hazvasarlas/haz2.png)
+![romos kapu](assets/hazvasarlas/haz2.png)
 
 
 
