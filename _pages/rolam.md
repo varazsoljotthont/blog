@@ -3,7 +3,8 @@ layout: default
 permalink: /rolam/
 ---
 
-*Mottó: Mindig mindent újra gondolunk!*							˘[szemüveges nó padon](én)
+*Mottó: Mindig mindent újra gondolunk!
+[szemüveges nó padon](/assets/rolam/én.jpg)
 							
 Szeretettel köszöntök mindenkit a Varázsolj otthont blogon-
 
@@ -21,6 +22,6 @@ Bízom benne, hogy nektek is hasznos olvasnivalóval szolgál a Varázsolj ottho
 
 Kriszta
 
-˘![isten hozott tábla](isten hozott)
+˘![isten hozott tábla](/assats/rolam/isten-hozott.jpg)
 
 
