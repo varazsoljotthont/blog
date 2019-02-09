@@ -23,10 +23,12 @@ Nem volt szempont az óvoda, iskola közelsége, és nem volt lényeges hogy vá
 
 
 					                 Foto: Pinterest
-Megtaláltuk a “Miházunkat”					
+Megtaláltuk a "Miházunkat"					
 
 Megnéztünk néhány házat, és a helyzet elkeserítő volt. Elhanyagolt ingatlanok, festéssel elfedett repedések, gazos udvar… Ami tetszett azt pedig a nem mi pénztárcánkhoz szabták. De mint oly sokszor az elmúlt években, a szerencse most is mellénk állt. Egy kedves barátom hívta fel a figyelmemet a jövőbeli házunkra. Igaz nem volt még eladó, de a tulajdonosok nem zárkóztak el attól, hogy megnézzük milyen állapotban van. Ház vásárlásnál nagyjából az első benyomás a döntő. Így történt ez a mi esetünkben is. A lakóépület külseje kissé ijesztő volt, de a belső terek tiszták, rendezettek voltak.
 
+![romos hátz felújítás előtt](/assets/hazvasarlas/tezst1.jpg)
+_képaláírás_
 
 
 
