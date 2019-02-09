@@ -40,7 +40,7 @@ Mielőtt rábólintottunk volna a vásárlásra, többször “bejártuk” a h�
 Volt a házban, a telekben fantázia (pedig jól eldugták)… Éreztük, hogy sok munkával, sok ötlettel egy nekünk tetsző, stílusos parasztházzá tudjuk majd alakítani… A tervezgetések eredményeként végül az üzlet megköttetett, a házat MEGVETTÜK!!! 2014 november közepén lezajlott az adás-vétel és megkaptuk a kulcsokat.
 Megkezdtük hát a nagy átalakítást, és ezzel együtt kitűztük a befejezés időpontját. 2015 március 01-ig kellett eljutni addig, hogy költözni tudjunk.
 
-![ház felújítás](/assets/hazvasarlas/ház3.jpg)
+![ház felújítás](/assets/hazvasarlas/ház3jav.jpg)
 
 
 
