@@ -4,7 +4,7 @@ permalink: /rolam/
 ---
 
 *Mottó: Mindig mindent újra gondolunk!
-[szemüveges nő padon](/assets/rolam/én.jpg)
+![szemüveges nő padon](/assets/rolam/én.jpg)
 							
 Szeretettel köszöntök mindenkit a Varázsolj otthont blogon-
 
