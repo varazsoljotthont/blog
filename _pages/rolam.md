@@ -3,11 +3,19 @@ layout: default
 permalink: /rolam/
 ---
 
-*Mottó: Mindig mindent újra gondolunk!						
-									![szemüveges nő padon](/assets/rolam/énjav.jpg)
+***Mottó: Mindig mindent újra gondolunk!						
+									
+									
+									
+									
+									
+									
+									
+									
+![szemüveges nő padon](/assets/rolam/énjav.jpg)
 									
 							
-Szeretettel köszöntök mindenkit a Varázsolj otthont blogon-
+Szeretettel köszöntök mindenkit a Varázsolj otthont blogon.
 
 Szegh Krisztina vagyok, amatőr ám nagyon lelkes dekoratőr, otthonunk megálmodója, lakberendezője. 
 Vallom, hogy a hangulatos otthon kialakítása nem pénz kérdése.
@@ -22,6 +30,8 @@ Az eltelt időben sok pozitív visszajelzést kaptunk arról, hogy jó, amit csi
 Bízom benne, hogy nektek is hasznos olvasnivalóval szolgál a Varázsolj otthont blog.
 
 Kriszta
+
+
 
 ˘![isten hozott tábla](/assets/rolam/isten-hozottjav.jpg)
 
