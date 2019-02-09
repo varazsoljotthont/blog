@@ -4,8 +4,8 @@ title: "Kell egy ház... De hol, milyen, mennyiért?"
 cover: /assets/hazvasarlas/cover.png
 image:
   path: /assets/hazvasarlas/cover.png
-  height: 300
-  width: 300
+  height: 200
+  width: 200
 ---
 
  
