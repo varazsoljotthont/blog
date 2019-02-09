@@ -55,7 +55,7 @@ A „Miházunkban”.
 
 
 
-      _és végül ilyen lett a házunk!_
+      _...és végül ilyen lett a házunk!
 
 
 +1 gondolat:
