@@ -23,7 +23,7 @@ Nem volt szempont az óvoda, iskola közelsége, és nem volt lényeges hogy vá
 Elképzelésünk egy hangulatos parasztház volt:
 
 ![csoda szép parasztház](/assets/hazvasarlas/1.png)
-_Hangulatos parasztház_
+_Hangulatos parasztház (Forrás: Pinterest)_
 
 Megtaláltuk a "Miházunkat"					
 
