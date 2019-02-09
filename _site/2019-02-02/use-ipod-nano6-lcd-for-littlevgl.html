@@ -1,0 +1,331 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <!-- Begin Jekyll SEO tag v2.5.0 -->
+<title>How to use the iPod Nano 6 LCD for LittlevGL | LittlevGL’s Blog</title>
+<meta name="generator" content="Jekyll v3.8.5" />
+<meta property="og:title" content="How to use the iPod Nano 6 LCD for LittlevGL" />
+<meta name="author" content="techtoys" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="This blog tells you how to hack the screen that is supposed to display in an Apple’s iPodNano6 for LittlevGL with an Espressif ESP32 Wifi/BLE SoC." />
+<meta property="og:description" content="This blog tells you how to hack the screen that is supposed to display in an Apple’s iPodNano6 for LittlevGL with an Espressif ESP32 Wifi/BLE SoC." />
+<link rel="canonical" href="http://localhost:4000/2019-02-02/use-ipod-nano6-lcd-for-littlevgl" />
+<meta property="og:url" content="http://localhost:4000/2019-02-02/use-ipod-nano6-lcd-for-littlevgl" />
+<meta property="og:site_name" content="LittlevGL’s Blog" />
+<meta property="og:image" content="http://localhost:4000/assets/def_post_cover.png" />
+<meta property="og:image:height" content="300" />
+<meta property="og:image:width" content="300" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2019-02-02T00:00:00+01:00" />
+<script type="application/ld+json">
+{"datePublished":"2019-02-02T00:00:00+01:00","image":{"height":300,"width":300,"url":"http://localhost:4000/assets/def_post_cover.png","@type":"imageObject"},"mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/2019-02-02/use-ipod-nano6-lcd-for-littlevgl"},"@type":"BlogPosting","url":"http://localhost:4000/2019-02-02/use-ipod-nano6-lcd-for-littlevgl","author":{"@type":"Person","name":"techtoys"},"headline":"How to use the iPod Nano 6 LCD for LittlevGL","description":"This blog tells you how to hack the screen that is supposed to display in an Apple’s iPodNano6 for LittlevGL with an Espressif ESP32 Wifi/BLE SoC.","dateModified":"2019-02-02T00:00:00+01:00","@context":"http://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+
+  
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-78811084-3"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-78811084-3');
+  </script>
+
+  <!-- CSS -->
+  <link rel="stylesheet" href="/assets/main.css">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Libre+Baskerville:400,400i,700">
+
+  <!-- Favicon -->
+  <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon-16x16.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png">
+
+
+    <!-- Cookie consent -->
+    <link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.0/cookieconsent.min.css" />
+    <script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.0/cookieconsent.min.js"></script>
+    <script>
+    window.addEventListener("load", function(){
+    window.cookieconsent.initialise({
+      "palette": {
+        "popup": {
+          "background": "#252e39"
+        },
+        "button": {
+          "background": "#14a7d0"
+        }
+      }
+    })});
+    </script>
+
+  <!-- RSS -->
+  <link type="application/atom+xml" rel="alternate" href="http://localhost:4000/feed.xml" title="LittlevGL's Blog" />
+
+  <!-- Google Analytics-->
+  
+</head>
+
+
+  <body>
+
+    <nav class="nav">
+  <div class="nav-container">
+    <a href="https://blog.littlevgl.com">
+      <h2 class="nav-title">LittlevGL's Blog</h2>
+    </a>
+    <ul>
+      <li><a href="/">Posts</a></li>
+      <li><a href="https://littlevgl.com">Home</a></li>
+      <li><a href="https://github.com/littlevgl/lvgl">GitHub</a></li>
+    </ul>
+  </div>
+</nav>
+
+
+    <main>
+      <div class="post">
+  <div class="post-info">
+    <span>Written by</span>
+    
+        techtoys
+    
+
+    
+      <br>
+      <span>on&nbsp;</span><time datetime="2019-02-02 00:00:00 +0100">February 02, 2019</time>
+    
+  </div>
+
+  <h1 class="post-title">How to use the iPod Nano 6 LCD for LittlevGL</h1>
+  <div class="post-line"></div>
+
+  <p><strong>This blog tells you how to hack the screen that is supposed to display in an Apple’s iPodNano6 for LittlevGL with an Espressif ESP32 Wifi/BLE SoC.</strong></p>
+
+<p>All the source code can be downloaded at the bottom of the page.</p>
+
+<p><img src="/assets/iPodNano6/Running_littlevGL.JPG" alt="Running_littlevGL with i Pod Nano6's display" /></p>
+
+<h2 id="something-about-mipi-dsi">Something about MIPI DSI</h2>
+<p>LCD for iPod Nano6 uses MIPI Display Serial Interface (MIPI DSI) which is a high-speed serial interface between a host processor and a display module. LCDs belong to this category are very common for smartphones, tablets, and smartwatches. Reference is available from <a href="https://www.mipi.org/specifications/dsi">MIPI alliance page</a>. Some MIPI LCDs on hands are shown here.
+<img src="/assets/iPodNano6/Some_mipi_displays.jpg" alt="Some mipi displays" /></p>
+
+<p><em>Googling</em> the keyword MIPI brings up several pdf documents of hundred pages. It is always fun to learn from specifications like this - http://bfiles.chinaaet.com/justlxy/blog/20171114/1000019445-6364627609238902374892404.pdf.
+It states <em>“MIPI DSI specifies the interface between a host processor and a display…”</em> and finally a picture like this shows up that I can barely understand.
+<img src="/assets/iPodNano6/mipi_IF.jpg" alt="MIPI interface" /></p>
+
+<p>If a 100-pages specification takes too much time, this may be all you need to know about MIPI D’PHY RX<br />
+<a href="https://www.edn.com/Pdf/ViewPdf?contentItemId=4440302">https://www.edn.com/Pdf/ViewPdf?contentItemId=4440302</a></p>
+
+<p>Transmission speed of MIPI is very high, ranging from 1.0Gbps/lane to 4.5Gbps/lane with 1-4 data lane plus 1 clock signal all in differential buses. Voltage swing driven by the difference buses is also different from RGB/MCU-typed LCD. For MIPI DSI there are high-speed (HS) and low-speed (LS) modes to drive 200mV peak-to-peak and 1.2V whereas data of RGB/MCU-typed LCDs is carried with single-ended signals matching VDDIO of MCU host.<br />
+Table below summaries the difference.</p>
+
+<p><img src="/assets/iPodNano6/mipi_vs_conventional-LCD.jpg" alt="MIPI-vs-conventional-LCD" /></p>
+
+<p>Usually interface of a MIPI LCD needs much less pins and lower voltage than its MCU/RGB counterpart. 
+<img src="/assets/iPodNano6/Pinout_compare.jpg" alt="MIPI-vs-conventional-LCD piiout compare" /></p>
+
+<h2 id="mipi-bridge-chip">MIPI bridge Chip</h2>
+<p>The problem is, how do we drive a MIPI display when there is no DSI output from our MCU (like ESP32) and how to port it to LittlevGL? Here comes the MIPI bridge IC - SSD2805, which is an interface chip to convert between RGB/8080 video signal to MIPI signal. 
+<img src="/assets/iPodNano6/SSD2805_top.jpg" alt="" />
+This is a very tiny chip of 5*5mm with 0.5mm pitch BGA!
+<img src="/assets/iPodNano6/SSD2805_bottom.jpg" alt="SSD2805 bottom" /></p>
+
+<h2 id="block-diagram-of-my-setup">Block diagram of my setup</h2>
+<p><img src="/assets/iPodNano6/block_diagram.jpg?raw=true" alt="LittlevGL - iPod Nano 6 system architecture" />
+ESP32 is programmed with ESP-IDF (Espressif IoT Development Framework). Its installation procedure is described in full details at <a href="https://docs.espressif.com/projects/esp-idf/en/latest/get-started/index.html">Espressif’s documentation site</a>. My host computer is a Windows 7 Pro SP1 64-bit Operating System. Hardware is an old Intel Core i5 with 8GB RAM. I have followed the default installation path described in ESP-IDF’s Getting Started Guide. It gave me back a mingw32.exe application under C:\msys32.</p>
+
+<p><img src="/assets/iPodNano6/mingw32_folders.jpg" alt="mingw32 folders" />
+At first I was not comfortable with command line tool like mingw32.exe. With innumerable Google searches I tried to install Eclipse IDE. Unfortunately all hours in Eclipse became futile. At the end I found the time spent on configuring Eclipse was even more than programming itself so I just gave it up. Don’t mean Eclipse is bad. It is just me not able to get it work.</p>
+
+<p>Because there is no standard evaluation kit for ESP32 + SSD2805 + MIPI Display combo, I was forced to use jumper cables to wire up things with mess like this :(
+<img src="/assets/iPodNano6/messy_wireup.JPG" alt="LittlevGL - iPod Nano 6 messy wire up" /></p>
+
+<h2 id="hardware">Hardware</h2>
+<p>Boards employed include:</p>
+<ol>
+  <li>ESP32-Pico-Kit v4</li>
+  <li>SSD2805 breakout board Release 3</li>
+  <li>1.54 inch LH154Q01 MIPI display with CTP on PCB. SSD2541 CTP driver is soldered on this board.</li>
+  <li>Plus a lot jumper cables!
+The pinout diagram is illustrated below.
+<img src="/assets/iPodNano6/pinout_eps32_LCD.jpg" alt="ESP32 LCD Pinout" /></li>
+</ol>
+
+<h2 id="software">Software</h2>
+<p>To work with LittlevGL, the prerequisite is a fully working LCD and touch screen drivers outside it. I started with a program of 5 source files to drive the LCD listed below:</p>
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>1. i2s_8080_hello_world.c
+2. SSD2805_8080_drv.c and .h
+3. i2s_lcd.c and .h
+</code></pre></div></div>
+<p>Source files i2s_lcd.c and .h were modified from their <a href="https://github.com/espressif/esp-iot-solution/tree/master/components/i2s_devices/lcd_common">GitHub source</a>.</p>
+
+<p>ESP32 uses I2S module to write in 8080 8-bit parallel mode. DMA is used to queue command and data.</p>
+
+<p>Full source code of this project <code class="highlighter-rouge">i2s_8080_lcd</code>can be downloaded at the end of this page.</p>
+
+<p>To compile this project, just copy the complete folder to any place you find it convenient, in my case it is <code class="highlighter-rouge">D:\esp32\i2s_8080_lcd</code>.</p>
+
+<p>Launch mingw32.exe from C:/msys32
+<img src="/assets/iPodNano6/Launch_mingw32.jpg" alt="" /></p>
+
+<p>Change directory to the root of Makefile with <code class="highlighter-rouge">cd D:/esp32/i2s_8080_lcd</code></p>
+
+<p><img src="/assets/iPodNano6/cd_i2s_8080_lcd_dir.jpg" alt="" /></p>
+
+<p>Set the right serial port with <code class="highlighter-rouge">make menuconfig</code></p>
+
+<p><img src="/assets/iPodNano6/make_menuconfig.jpg" alt="" /></p>
+
+<p>Browse to Serial flasher config —&gt; set it to COM2 (for my case).</p>
+
+<p><img src="/assets/iPodNano6/COM2_to_use.jpg" alt="" /></p>
+
+<p>Click EXIT several times and click <code class="highlighter-rouge">&lt;Yes&gt;</code> at the end to save new configurations.</p>
+
+<p>The last step is to <code class="highlighter-rouge">make flash</code></p>
+
+<p><img src="/assets/iPodNano6/make_flash.jpg" alt="" /></p>
+
+<p>Now a fake AppleWatch is visible.</p>
+
+<p><img src="/assets/iPodNano6/AppleWatch.JPG" alt="" /></p>
+
+<p>Screen capture below shows all public functions of SSD2805. No text print, no shape draw or framebuffer operation. All GUI-related features are left to LittlevGL with a single API function <code class="highlighter-rouge">SSD2805_dispFlush(args)</code>, which has been designed to match the blueprint required not more or less. This is also the only function get called when screen refresh or update is required.</p>
+
+<p><img src="/assets/iPodNano6/SSD2805_8080_drv_h.jpg" alt="" /></p>
+
+<p>Similarly the driver for CTP was developed and tested with basic program that prints coordinates of finger with pressure to serial port. Screen capture of SSD2541.h is shown below. API function <code class="highlighter-rouge">SSD2541_getPoint(args)</code> is the only interface required by LittlevGL.
+<img src="/assets/iPodNano6/SSD2541_h.jpg" alt="" /></p>
+
+<p>In mingw32 console type <code class="highlighter-rouge">cd D:/esp32/SSd2541_drv_test</code>, repeat the same procedure as SSD2805 by <code class="highlighter-rouge">make menuconfig</code>, set Serial flasher config —&gt; to COM2 (in my case). Save changes and finally <code class="highlighter-rouge">make flash</code>. This time we need a terminal program like Serial Monitor of Arduino. Screen capture below shows a stream from Serial Monitor with finger released from (96,113), touched at (88,117) with varying pressure and then released again. LittlevGL requires that touch coordinates shoud be the last valid point when the figner is released. 
+<img src="/assets/iPodNano6/SSD2541_finger_event.jpg" alt="" /></p>
+
+<p>Everthing seems ready for porting LittlevGL. The last program <code class="highlighter-rouge">littlevgl_port</code> is the final example of this blog to demonstrate several LittlevGL features (not all) including label, button, and image display. Browse to the components folder you will see exactly the same driver for SSD2805 and SSD2541. lvgl (version 5.3 commit 17c19fc) has been pulled directly from github. 
+<img src="/assets/iPodNano6/littlevgl_port_components.jpg" alt="" /></p>
+
+<p>There are few somethings to do before LittlevGL can be used:</p>
+<ol>
+  <li>modify <code class="highlighter-rouge">lv_conf.h</code> from its template for our screen resolution. This header is located in the same root as Makefile, the project directory.
+    <div class="language-c highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="cm">/* Horizontal and vertical resolution of the library.*/</span>
+<span class="cp">#define LV_HOR_RES          (240)
+#define LV_VER_RES          (240)
+#define LV_DPI              100
+</span></code></pre></div>    </div>
+  </li>
+  <li>In the main file <code class="highlighter-rouge">littlevgl_example.c</code>, define a local function to call <code class="highlighter-rouge">SSD2805_dispFlush(args)</code> and then inform LittlevGL that screen flush is ready with <code class="highlighter-rouge">lv_flush_ready()</code>.
+    <div class="language-c highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="cm">/**
+ * @brief   API for LittlevGL with LV_VDB_SIZE!=0 in lv_conf.h
+ */</span> 
+<span class="k">static</span> <span class="kt">void</span> <span class="nf">ex_disp_flush</span><span class="p">(</span><span class="kt">int32_t</span> <span class="n">x1</span><span class="p">,</span> <span class="kt">int32_t</span> <span class="n">y1</span><span class="p">,</span> <span class="kt">int32_t</span> <span class="n">x2</span><span class="p">,</span> <span class="kt">int32_t</span> <span class="n">y2</span><span class="p">,</span> <span class="k">const</span> <span class="n">lv_color_t</span> <span class="o">*</span> <span class="n">color_p</span><span class="p">)</span>
+<span class="p">{</span>
+ <span class="n">SSD2805_dispFlush</span><span class="p">(</span><span class="n">x1</span><span class="p">,</span> <span class="n">y1</span><span class="p">,</span> <span class="n">x2</span><span class="p">,</span> <span class="n">y2</span><span class="p">,</span> <span class="p">(</span><span class="k">const</span> <span class="kt">uint16_t</span><span class="o">*</span><span class="p">)</span><span class="n">color_p</span><span class="p">);</span>
+ <span class="n">lv_flush_ready</span><span class="p">();</span>
+<span class="p">}</span>
+</code></pre></div>    </div>
+  </li>
+  <li>In the main file <code class="highlighter-rouge">littlevgl_example.c</code>, define a local function to call <code class="highlighter-rouge">SSD2541_getPoint(args)</code> to store the last valid finger position to data-&gt;point.x and point.y. Pressure is not required for LittelvGL so a NULL is passed.
+    <div class="language-c highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="cm">/**
+ * @brief   API for touch screen
+ */</span>  
+<span class="k">static</span> <span class="n">bool</span> <span class="nf">ex_tp_read</span><span class="p">(</span><span class="n">lv_indev_data_t</span> <span class="o">*</span> <span class="n">data</span><span class="p">)</span>
+<span class="p">{</span>
+ <span class="kt">int16_t</span> <span class="n">ctp_x</span><span class="p">,</span> <span class="n">ctp_y</span><span class="p">;</span>
+ <span class="n">bool</span> <span class="n">sta</span> <span class="o">=</span> <span class="n">SSD2541_getPoint</span><span class="p">(</span><span class="o">&amp;</span><span class="n">ctp_x</span><span class="p">,</span> <span class="o">&amp;</span><span class="n">ctp_y</span><span class="p">,</span> <span class="nb">NULL</span><span class="p">);</span>
+
+ <span class="p">(</span><span class="n">sta</span><span class="o">==</span><span class="nb">true</span><span class="p">)</span><span class="o">?</span> <span class="p">(</span><span class="n">data</span><span class="o">-&gt;</span><span class="n">state</span> <span class="o">=</span> <span class="n">LV_INDEV_STATE_PR</span><span class="p">)</span><span class="o">:</span><span class="p">(</span><span class="n">data</span><span class="o">-&gt;</span><span class="n">state</span> <span class="o">=</span> <span class="n">LV_INDEV_STATE_REL</span><span class="p">);</span>
+    
+ <span class="n">data</span><span class="o">-&gt;</span><span class="n">point</span><span class="p">.</span><span class="n">x</span> <span class="o">=</span> <span class="n">ctp_x</span><span class="p">;</span>
+ <span class="n">data</span><span class="o">-&gt;</span><span class="n">point</span><span class="p">.</span><span class="n">y</span> <span class="o">=</span> <span class="n">ctp_y</span><span class="p">;</span>
+
+ <span class="k">return</span> <span class="nb">false</span><span class="p">;</span>
+<span class="p">}</span>
+</code></pre></div>    </div>
+  </li>
+  <li>Define a tick function as heart-beat for LittlevGL and register this function for ESP32.
+    <div class="language-c highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="cm">/**
+ * @brief   Heart beat for LittlevGL
+ */</span> 
+<span class="k">static</span> <span class="kt">void</span> <span class="nf">lv_tick_task</span><span class="p">(</span><span class="kt">void</span><span class="p">)</span>
+<span class="p">{</span>
+ <span class="n">lv_tick_inc</span><span class="p">(</span><span class="n">portTICK_RATE_MS</span><span class="p">);</span>
+<span class="p">}</span>
+<span class="c1">//...</span>
+<span class="n">esp_register_freertos_tick_hook</span><span class="p">(</span><span class="n">lv_tick_task</span><span class="p">);</span> <span class="c1">//this is specific to ESP32</span>
+</code></pre></div>    </div>
+  </li>
+  <li>The last step is to initialize SSD2805, SSD2541, lv_init(), and register the API functions.
+    <div class="language-c highlighter-rouge"><div class="highlight"><pre class="highlight"><code> <span class="n">SSD2805_begin</span><span class="p">();</span>
+ <span class="n">SSD2541_begin</span><span class="p">();</span>
+ <span class="n">lv_init</span><span class="p">();</span>
+    
+ <span class="n">lv_disp_drv_t</span> <span class="n">disp_drv</span><span class="p">;</span>
+ <span class="n">lv_disp_drv_init</span><span class="p">(</span><span class="o">&amp;</span><span class="n">disp_drv</span><span class="p">);</span>
+ <span class="n">disp_drv</span><span class="p">.</span><span class="n">disp_flush</span> <span class="o">=</span> <span class="n">ex_disp_flush</span><span class="p">;</span>
+ <span class="n">lv_disp_drv_register</span><span class="p">(</span><span class="o">&amp;</span><span class="n">disp_drv</span><span class="p">);</span>
+
+ <span class="n">lv_indev_drv_t</span> <span class="n">indev_drv</span><span class="p">;</span>                       <span class="cm">/*Descriptor of an input device driver*/</span>
+ <span class="n">lv_indev_drv_init</span><span class="p">(</span><span class="o">&amp;</span><span class="n">indev_drv</span><span class="p">);</span>                  <span class="cm">/*Basic initialization*/</span>
+ <span class="n">indev_drv</span><span class="p">.</span><span class="n">type</span> <span class="o">=</span> <span class="n">LV_INDEV_TYPE_POINTER</span><span class="p">;</span>         <span class="cm">/*The touchpad is pointer type device*/</span>
+ <span class="n">indev_drv</span><span class="p">.</span><span class="n">read</span> <span class="o">=</span> <span class="n">ex_tp_read</span><span class="p">;</span>                    <span class="cm">/*Library ready your touchpad via this function*/</span>
+ <span class="n">lv_indev_drv_register</span><span class="p">(</span><span class="o">&amp;</span><span class="n">indev_drv</span><span class="p">);</span>              <span class="cm">/*Finally register the driver*/</span>
+</code></pre></div>    </div>
+    <p>The result is a fully operational CTP with button, image display, and text printing!
+<img src="/assets/iPodNano6/Running_littlevGL.JPG" alt="LittlevGL ESP32 Ipod Nano 6 display example 1" />
+<img src="/assets/iPodNano6/child.JPG" alt="LittlevGL ESP32 Ipod Nano 6 display example 2" />
+<img src="/assets/iPodNano6/polynesia.JPG" alt="LittlevGL ESP32 Ipod Nano 6 display example 3" /></p>
+  </li>
+</ol>
+
+<h2 id="download">Download</h2>
+<ul>
+  <li><a href="/assets/iPodNano6/i2s_8080_lcd.zip">I2S 8080 LCD driver</a></li>
+  <li><a href="/assets/iPodNano6/SSD2541_drv_test.zip">SSD2541 driver test</a></li>
+  <li><a href="/assets/iPodNano6/littlevgl_port.zip">Project</a></li>
+</ul>
+
+
+
+</div>
+
+<div class="pagination">
+  
+  
+    <a href="/2019-01-31/esp32" class="right arrow">&#8594;</a>
+  
+
+  <a href="#" class="top">Top</a>
+</div>
+
+<script>
+
+window.onload = function () {
+    var tags = [ "h1","h2","h3", "h4", "h5", "h6" ];
+    var h;
+
+    for(var i = 0; i < tags.length; i++) {
+        h = document.getElementsByTagName(tags[i]);
+            
+        for(j = 0; j < h.length; j++) {
+            var x = "<a href='#" + h[j].id + "' style='color:#353535'>" + h[j].innerHTML + "</a>";
+            h[j].innerHTML = x; 
+        }
+    }
+}
+    
+</script>
+
+    </main>
+
+    <footer>
+  <span>
+    &copy; <time datetime="2019-02-09 05:26:57 +0100">2019</time> Gabor Kiss-Vamosi. Made with Jekyll using the <a href="https://github.com/chesterhow/tale/">Tale</a> theme.
+  </span>
+</footer>
+
+  </body>
+</html>

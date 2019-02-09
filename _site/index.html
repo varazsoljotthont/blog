@@ -1,0 +1,222 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <!-- Begin Jekyll SEO tag v2.5.0 -->
+<title>Blog | LittlevGL’s Blog</title>
+<meta name="generator" content="Jekyll v3.8.5" />
+<meta property="og:title" content="Blog" />
+<meta name="author" content="Gabor Kiss-Vamosi" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="News and Tutorials for Embedded GUI Enthusiasts: Release notes of LittlevGL, Tutorials, Poring guides, Development board and microcontroller test, ideas, tips and tricks and more." />
+<meta property="og:description" content="News and Tutorials for Embedded GUI Enthusiasts: Release notes of LittlevGL, Tutorials, Poring guides, Development board and microcontroller test, ideas, tips and tricks and more." />
+<link rel="canonical" href="http://localhost:4000/" />
+<meta property="og:url" content="http://localhost:4000/" />
+<meta property="og:site_name" content="LittlevGL’s Blog" />
+<link rel="next" href="http://localhost:4000/page2" />
+<script type="application/ld+json">
+{"@type":"WebSite","url":"http://localhost:4000/","name":"LittlevGL’s Blog","author":{"@type":"Person","name":"Gabor Kiss-Vamosi"},"headline":"Blog","description":"News and Tutorials for Embedded GUI Enthusiasts: Release notes of LittlevGL, Tutorials, Poring guides, Development board and microcontroller test, ideas, tips and tricks and more.","@context":"http://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+
+  
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-78811084-3"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-78811084-3');
+  </script>
+
+  <!-- CSS -->
+  <link rel="stylesheet" href="/assets/main.css">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Libre+Baskerville:400,400i,700">
+
+  <!-- Favicon -->
+  <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon-16x16.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png">
+
+
+    <!-- Cookie consent -->
+    <link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.0/cookieconsent.min.css" />
+    <script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.0/cookieconsent.min.js"></script>
+    <script>
+    window.addEventListener("load", function(){
+    window.cookieconsent.initialise({
+      "palette": {
+        "popup": {
+          "background": "#252e39"
+        },
+        "button": {
+          "background": "#14a7d0"
+        }
+      }
+    })});
+    </script>
+
+  <!-- RSS -->
+  <link type="application/atom+xml" rel="alternate" href="http://localhost:4000/feed.xml" title="LittlevGL's Blog" />
+
+  <!-- Google Analytics-->
+  
+</head>
+
+
+  <body>
+
+    <nav class="nav">
+  <div class="nav-container">
+    <a href="https://blog.littlevgl.com">
+      <h2 class="nav-title">LittlevGL's Blog</h2>
+    </a>
+    <ul>
+      <li><a href="/">Posts</a></li>
+      <li><a href="https://littlevgl.com">Home</a></li>
+      <li><a href="https://github.com/littlevgl/lvgl">GitHub</a></li>
+    </ul>
+  </div>
+</nav>
+
+
+    <main>
+      <!--
+<p style="color:#666;"> <span style="font-weight:bold; font-size:18px;  color:#333">Subscribe for interesting News and useful Tutorials</span></p>
+   
+<form id="subscribe_form" method="post">	
+        <div>
+            <label for="form_name">Name</label>
+            <input id="form_name" type="text" name="name" placeholder="Your name" required="required" data-error="Name is required.">
+        </div>
+        <div>
+            <label for="form_email">Email</label>
+            <input id="form_email" type="email" name="email" placeholder="Your email address" required="required" data-error="Valid email is required.">
+            <div class="help-block with-errors"></div>
+        </div>
+    <div style="padding-top:10px">
+        <input type="submit" class="subscr_btn" value="Subscribe">
+    </div>
+</form>
+<div>
+    <p id="subscribe_result"></p>
+</div>
+
+<script>
+$("#subscribe_form").submit(function(event){
+
+    event.preventDefault();
+    var $form = $(this);
+
+    var name = $("#form_name).val();
+    var email = $("#form_email").val(); 
+    request = $.post("https://littlevgl.com/webgalamb/subscriber.php?g=3&f=bc65kkeabc",
+    			{f_12: name, subscr: email, sub: "Feliratkozás"});		
+    			
+    var p_res = $("#subscribe_result");
+    p_res.html("You have subscribed with " + email + " address.<br>Check your mailbox for a welcome e-mail!");
+});
+</script>
+-->
+
+<div class="catalogue">
+  
+   <a href="/2019-02-02/use-ipod-nano6-lcd-for-littlevgl" class="catalogue-item">
+     <div style="margin-top:24px; margin-bottom:24px; border-bottom: 1px solid #eee;">
+         
+           <img class="post_cover_img" src="/assets/def_post_cover.png" height="200px" width="200px" border="1px" style="border: 0px solid #ddd; padding-right:12px;padding-top:12px">
+         
+        
+         <div class="catalogue-item post_box"> 
+           <h1 class="catalogue-title">How to use the iPod Nano 6 LCD for LittlevGL</h1>
+           <div class="catalogue-line"></div>
+           <p> This blog tells you how to hack the screen that is supposed to display in an Apple’s iPodNano6 for LittlevGL with an Espressif ESP32 Wifi/BLE SoC. All the source code... </p>
+           <time datetime="2019-02-02 00:00:00 +0100" class="catalogue-time">February 02, 2019</time>
+         </div>
+     </div>
+   </a>   
+  
+   <a href="/2019-01-31/esp32" class="catalogue-item">
+     <div style="margin-top:24px; margin-bottom:24px; border-bottom: 1px solid #eee;">
+         
+           <img class="post_cover_img" src="/assets/esp32/cover.png" height="200px" width="200px" border="1px" style="border: 0px solid #ddd; padding-right:12px;padding-top:12px">
+         
+        
+         <div class="catalogue-item post_box"> 
+           <h1 class="catalogue-title">Espressif officially supports LittlevGL on ESP32!  Let's try it!</h1>
+           <div class="catalogue-line"></div>
+           <p> Espressif has announced that they support LittlevGL on their ESP32 chips. Adding GUI to your ESP32 based IoT device is easier than ever. I made it work in 15 minutes,... </p>
+           <time datetime="2019-01-31 00:00:00 +0100" class="catalogue-time">January 31, 2019</time>
+         </div>
+     </div>
+   </a>   
+  
+   <a href="/2019-01-08/hardware-button" class="catalogue-item">
+     <div style="margin-top:24px; margin-bottom:24px; border-bottom: 1px solid #eee;">
+         
+           <img class="post_cover_img" src="/assets/hardware_button/logo.jpg" height="200px" width="200px" border="1px" style="border: 0px solid #ddd; padding-right:12px;padding-top:12px">
+         
+        
+         <div class="catalogue-item post_box"> 
+           <h1 class="catalogue-title">Hardware button usage</h1>
+           <div class="catalogue-line"></div>
+           <p> We use the STM32F429I-DISC1 Discovery kit to test for the LittlevGL hardware button capability. The board have two push-buttons: USER and RESET [1]. We use USER push-button. User button connected... </p>
+           <time datetime="2019-01-08 00:00:00 +0100" class="catalogue-time">January 08, 2019</time>
+         </div>
+     </div>
+   </a>   
+  
+   <a href="/2019-01-03/qt-creator" class="catalogue-item">
+     <div style="margin-top:24px; margin-bottom:24px; border-bottom: 1px solid #eee;">
+         
+           <img class="post_cover_img" src="/assets/qt_creator/logo.png" height="200px" width="200px" border="1px" style="border: 0px solid #ddd; padding-right:12px;padding-top:12px">
+         
+        
+         <div class="catalogue-item post_box"> 
+           <h1 class="catalogue-title">Running LittlevGL PC Simulator from Qt-Creator in Windows</h1>
+           <div class="catalogue-line"></div>
+           <p> Qt-Creator is a powerful IDE and is easy manage non Qt project too. With the latest release Qt 5.12.0, GCC x64 compiler, Windows is also supported. This is a step... </p>
+           <time datetime="2019-01-03 00:00:00 +0100" class="catalogue-time">January 03, 2019</time>
+         </div>
+     </div>
+   </a>   
+  
+   <a href="/2018-12-26/references" class="catalogue-item">
+     <div style="margin-top:24px; margin-bottom:24px; border-bottom: 1px solid #eee;">
+         
+           <img class="post_cover_img" src="/assets/references/cover.png" height="200px" width="200px" border="1px" style="border: 0px solid #ddd; padding-right:12px;padding-top:12px">
+         
+        
+         <div class="catalogue-item post_box"> 
+           <h1 class="catalogue-title">LittlevGL References</h1>
+           <div class="catalogue-line"></div>
+           <p> Here you can find some projects where LittlevGL was used as GUI library. Please, write a few lines about your LittlevGL based project by hitting the Edit button here. Uploading... </p>
+           <time datetime="2018-12-26 00:00:00 +0100" class="catalogue-time">December 26, 2018</time>
+         </div>
+     </div>
+   </a>   
+  
+</div>
+
+<div class="pagination">
+  
+  
+    <a href="/page2" class="right arrow">&#8594;</a>
+  
+
+  <span>1</span>
+</div>
+
+    </main>
+
+    <footer>
+  <span>
+    &copy; <time datetime="2019-02-09 05:26:57 +0100">2019</time> Gabor Kiss-Vamosi. Made with Jekyll using the <a href="https://github.com/chesterhow/tale/">Tale</a> theme.
+  </span>
+</footer>
+
+  </body>
+</html>

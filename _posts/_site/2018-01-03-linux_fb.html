@@ -1,0 +1,128 @@
+<p>LittlevGL is a graphics library targeting microcontrollers with limited resources. However it possible to use it to create embedded GUIs with high-end microprocessors and boards running Linux operation system. The most well know processors cores are the ARM Cortex A9 (e.g. <a href="https://www.nxp.com/products/processors-and-microcontrollers/applications-processors/i.mx-applications-processors/i.mx-6-processors:IMX6X_SERIES">NXP i.MX6</a>) and ARM Cortex A53 (e.g. <a href="https://www.raspberrypi.org/products/raspberry-pi-3-model-b/">Raspbery PI 3</a>). You can create an embedded GUI on this single board computers by simply using Linux’s frame buffer device (typically /dev/fb0). If you don’t know LittlevGL yet learn more about it here: <a href="https://littlevgl.com">LittlevGL</a></p>
+
+<h3 id="why-use-the-frame-buffer-directly">Why use the frame buffer directly?</h3>
+<p>The frame buffer device is a very low-level interface to display something on the screen.
+Speaking about an embedded GUI there are several reasons to use the frame buffer directly instead of a Window manager:</p>
+<ul>
+  <li><strong>simple</strong> Just write the pixels to a memory</li>
+  <li><strong>fast</strong> No window manager which means fast boot and less overhead</li>
+  <li><strong>portable</strong> Independently from the distribution  every Linux system has a frame buffer device so it’s compatible with all of them</li>
+</ul>
+
+<h3 id="get-started-with-the-linux-frame-buffer">Get started with the Linux frame buffer</h3>
+<p>Maybe you are familiar with the Linux frame buffer device. It is a file usually located at <strong>/dev/fb0</strong>. This file contains the pixel data of your display. If you write something into the frame buffer file then the changes will be shown on the display. If you are using Linux on your PC you can try it using a terminal:</p>
+<ol>
+  <li>Press <em>Ctrl + Alt + F1</em>  to leave the desktop and change to simple character terminal</li>
+  <li>Type <code class="highlighter-rouge">sudo su</code> and type your password</li>
+  <li>Stop your Display manager (on Ubuntu it’s <em>lightdm</em>): <code class="highlighter-rouge">service lightdm stop</code> Important: it will log you out, so all windows will be closed</li>
+  <li>Write random data to the frame buffer device: <code class="highlighter-rouge">cat /dev/urandom &gt; /dev/fb0</code> You should see random colored pixels on the whole screen.</li>
+  <li>To go back to the normal Graphical User Interface: <code class="highlighter-rouge">service lightdm start</code></li>
+</ol>
+
+<p><img src="/assets/linux_fb/linux_fb_random.png#post-img-responsive" alt="Random pixels in Linux frame buffer using urandom" /></p>
+
+<p>It should work on Linux based single board computer too like:</p>
+<ul>
+  <li><a href="https://www.raspberrypi.org/">Raspberry PI</a></li>
+  <li><a href="http://www.banana-pi.org/">Banana PI</a></li>
+  <li><a href="http://beagleboard.org/bone">BeagleBone</a></li>
+  <li><a href="http://www.gizmosphere.org/products/">Gizmo</a></li>
+</ul>
+
+<h3 id="get-littlevgl-to-create-embedded-gui">Get LittlevGL to create embedded GUI</h3>
+<p>Now you know how to change the pixels on your displays. But you still need something which creates GUI elements instead of random pixels.  Here comes the <a href="https://littlevgl.com">Littlev Graphics Library</a> into the picture. This software library is designed to create GUI elements (like labels, buttons, charts, sliders, checkboxes etc.)  on an embedded system’s display. Check all the widgets here: <a href="https://docs.littlevgl.com/#Object-types">Graphical object types</a>. The graphics library is written in C so you can surely adapt it in your project. The make your GUI impressive opacity, smooth animations, anti-aliasing and shadows can be added.</p>
+
+<p>To use LittlevGL you need to clone it from <a href="https://github.com/littlevgl/">GitHub</a> or get from the <a href="https://littlevgl.com/download">Download</a> page.
+The following components will be required:</p>
+<ul>
+  <li><strong>lvgl</strong> The core of the graphics library</li>
+  <li><strong>lv_drivers</strong> Contains a Linux frame buffer driver</li>
+  <li><strong>lv_examples</strong> Optionally to load a demo application to test</li>
+</ul>
+
+<h3 id="gui-project-set-up">GUI project set-up</h3>
+<p>The most simple case to test the frame buffer device based GUI on your Linux PC. Later you apply the same code on an embedded device too.</p>
+<ol>
+  <li>Create a new project in your preferred IDE</li>
+  <li>Copy the template configuration files next to <em>lvgl</em> and <em>lv_drivers</em> folders:
+    <ul>
+      <li><em>lvgl/lv_conf_templ.h</em> as <em>lv_conf.h</em></li>
+      <li><em>lv_drivers/lv_drv_conf_templ.h</em> as <em>lv_drv_conf.h</em></li>
+    </ul>
+  </li>
+  <li>In the config files remove the first and last <em>#if</em> and <em>#endif</em> to enable their content.</li>
+</ol>
+
+<p><img src="/assets/linux_fb/linux_fb_files.png#post-img-responsive" alt="Files for Embedded GUI using Linux frame buffer" /></p>
+
+<ol>
+  <li>In <em>lv_drv_conf.h</em> set <strong>USE_FBDEV    1</strong></li>
+  <li>In <em>lv_conf.h</em> change the color depth: <strong>LV_COLOR_DEPTH     32</strong></li>
+  <li>Add the projects root folder as include path</li>
+</ol>
+
+<h3 id="create-an-embedded-gui-application">Create an embedded GUI application</h3>
+
+<ol>
+  <li>In main.c write the following code to create a hello world label:</li>
+</ol>
+
+<div class="language-c highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="cp">#include "lvgl/lvgl.h"
+#include "lv_drivers/display/fbdev.h"
+#include &lt;unistd.h&gt;
+</span>
+<span class="kt">int</span> <span class="nf">main</span><span class="p">(</span><span class="kt">void</span><span class="p">)</span>
+<span class="p">{</span>
+    <span class="cm">/*LittlevGL init*/</span>
+    <span class="n">lv_init</span><span class="p">();</span>
+
+    <span class="cm">/*Linux frame buffer device init*/</span>
+    <span class="n">fbdev_init</span><span class="p">();</span>
+
+    <span class="cm">/*Add a display the LittlevGL sing the frame buffer driver*/</span>
+    <span class="n">lv_disp_drv_t</span> <span class="n">disp_drv</span><span class="p">;</span>
+    <span class="n">lv_disp_drv_init</span><span class="p">(</span><span class="o">&amp;</span><span class="n">disp_drv</span><span class="p">);</span>
+    <span class="n">disp_drv</span><span class="p">.</span><span class="n">disp_flush</span> <span class="o">=</span> <span class="n">fbdev_flush</span><span class="p">;</span>      <span class="cm">/*It flushes the internal graphical buffer to the frame buffer*/</span>
+    <span class="n">lv_disp_drv_register</span><span class="p">(</span><span class="o">&amp;</span><span class="n">disp_drv</span><span class="p">);</span>
+
+    <span class="cm">/*Create a "Hello world!" label*/</span>
+    <span class="n">lv_obj_t</span> <span class="o">*</span> <span class="n">label</span> <span class="o">=</span> <span class="n">lv_label_create</span><span class="p">(</span><span class="n">lv_scr_act</span><span class="p">(),</span> <span class="nb">NULL</span><span class="p">);</span>
+    <span class="n">lv_label_set_text</span><span class="p">(</span><span class="n">label</span><span class="p">,</span> <span class="s">"Hello world!"</span><span class="p">);</span>
+    <span class="n">lv_obj_align</span><span class="p">(</span><span class="n">label</span><span class="p">,</span> <span class="nb">NULL</span><span class="p">,</span> <span class="n">LV_ALIGN_CENTER</span><span class="p">,</span> <span class="mi">0</span><span class="p">,</span> <span class="mi">0</span><span class="p">);</span>
+
+    <span class="cm">/*Handle LitlevGL tasks (tickless mode)*/</span>
+    <span class="k">while</span><span class="p">(</span><span class="mi">1</span><span class="p">)</span> <span class="p">{</span>
+        <span class="n">lv_tick_inc</span><span class="p">(</span><span class="mi">5</span><span class="p">);</span>
+        <span class="n">lv_task_handler</span><span class="p">();</span>
+        <span class="n">usleep</span><span class="p">(</span><span class="mi">5000</span><span class="p">);</span>
+    <span class="p">}</span>
+
+    <span class="k">return</span> <span class="mi">0</span><span class="p">;</span>
+<span class="p">}</span>
+</code></pre></div></div>
+
+<ol>
+  <li>Compile the code and go back to character terminal mode (Ctrl + Alt + F1 and <code class="highlighter-rouge">service lightdm stop</code>)</li>
+  <li>Go to the built executable file and type: <code class="highlighter-rouge">./file_name</code></li>
+</ol>
+
+<p><img src="/assets/linux_fb/linux_fb_hello_world.png#post-img-responsive" alt="Hello world test for Embedded GUI using Linux frame buffer" /></p>
+
+<ol>
+  <li>Test with a demo application by replace the Hello world label create with: <code class="highlighter-rouge">demo_create();</code></li>
+</ol>
+
+<p><img src="/assets/linux_fb/linux_fb_demo.png#post-img-responsive" alt="Demo GUI for embedded GUI using Linux frame buffer" /></p>
+
+<h3 id="download-a-ready-to-use-project">Download a ready-to-use project</h3>
+<p>In the <a href="https://github.com/littlevgl/lv_boards">lv_projects</a> repository you find an <a href="https://www.eclipse.org/cdt/">Eclipse CDT</a> project to try out the plain frame buffer based GUI with a Linux PC.</p>
+
+<h3 id="summary">Summary</h3>
+<p>I hope you liked this tutorial and found it useful for your microprocessor-based embedded Linux projects. As you can see it’s super easy is to create an embedded GUI with LittlevGL using only a plain Linux frame buffer.</p>
+
+<p>To learn more about the graphics library start to read the <a href="https://docs.littlevgl.com/#Porting">Documentation</a> or check the <a href="https://docs.littlevgl.com/#Object-types">Embedded GUI building blocks</a>.</p>
+
+<p>If you don’t have a embedded hardware right now you can begin the GUI <a href="https://docs.littlevgl.com/#PC-simulator">development on PC</a>.</p>
+
+<p>If you have questions use <a href="https://github.com/littlevgl/lvgl/issues">GitHub issue tracker</a>.</p>
+

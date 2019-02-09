@@ -1,0 +1,197 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <!-- Begin Jekyll SEO tag v2.5.0 -->
+<title>New release v5.0.0 - Unicode support, themes, simpler architecture, new object types, bugfixes | LittlevGL’s Blog</title>
+<meta name="generator" content="Jekyll v3.8.5" />
+<meta property="og:title" content="New release v5.0.0 - Unicode support, themes, simpler architecture, new object types, bugfixes" />
+<meta name="author" content="kisvegabor" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Here is the v5.0.0 release with a much simpler architecture. Now the graphics library means only the lvgl repository. Besides the architectural changes Unicode support, style themes, new smart phone-like object types are added. To make easier to get started a tutorial is released in lv_examples repository" />
+<meta property="og:description" content="Here is the v5.0.0 release with a much simpler architecture. Now the graphics library means only the lvgl repository. Besides the architectural changes Unicode support, style themes, new smart phone-like object types are added. To make easier to get started a tutorial is released in lv_examples repository" />
+<link rel="canonical" href="http://localhost:4000/2017-12-21/release_v5_0" />
+<meta property="og:url" content="http://localhost:4000/2017-12-21/release_v5_0" />
+<meta property="og:site_name" content="LittlevGL’s Blog" />
+<meta property="og:image" content="http://localhost:4000/assets/release_v5_0/cover.png" />
+<meta property="og:image:height" content="300" />
+<meta property="og:image:width" content="300" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2017-12-21T00:00:00+01:00" />
+<script type="application/ld+json">
+{"datePublished":"2017-12-21T00:00:00+01:00","image":{"height":300,"width":300,"url":"http://localhost:4000/assets/release_v5_0/cover.png","@type":"imageObject"},"mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/2017-12-21/release_v5_0"},"@type":"BlogPosting","url":"http://localhost:4000/2017-12-21/release_v5_0","author":{"@type":"Person","name":"kisvegabor"},"headline":"New release v5.0.0 - Unicode support, themes, simpler architecture, new object types, bugfixes","description":"Here is the v5.0.0 release with a much simpler architecture. Now the graphics library means only the lvgl repository. Besides the architectural changes Unicode support, style themes, new smart phone-like object types are added. To make easier to get started a tutorial is released in lv_examples repository","dateModified":"2017-12-21T00:00:00+01:00","@context":"http://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+
+  
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-78811084-3"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-78811084-3');
+  </script>
+
+  <!-- CSS -->
+  <link rel="stylesheet" href="/assets/main.css">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Libre+Baskerville:400,400i,700">
+
+  <!-- Favicon -->
+  <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon-16x16.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png">
+
+
+    <!-- Cookie consent -->
+    <link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.0/cookieconsent.min.css" />
+    <script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.0/cookieconsent.min.js"></script>
+    <script>
+    window.addEventListener("load", function(){
+    window.cookieconsent.initialise({
+      "palette": {
+        "popup": {
+          "background": "#252e39"
+        },
+        "button": {
+          "background": "#14a7d0"
+        }
+      }
+    })});
+    </script>
+
+  <!-- RSS -->
+  <link type="application/atom+xml" rel="alternate" href="http://localhost:4000/feed.xml" title="LittlevGL's Blog" />
+
+  <!-- Google Analytics-->
+  
+</head>
+
+
+  <body>
+
+    <nav class="nav">
+  <div class="nav-container">
+    <a href="https://blog.littlevgl.com">
+      <h2 class="nav-title">LittlevGL's Blog</h2>
+    </a>
+    <ul>
+      <li><a href="/">Posts</a></li>
+      <li><a href="https://littlevgl.com">Home</a></li>
+      <li><a href="https://github.com/littlevgl/lvgl">GitHub</a></li>
+    </ul>
+  </div>
+</nav>
+
+
+    <main>
+      <div class="post">
+  <div class="post-info">
+    <span>Written by</span>
+    
+        kisvegabor
+    
+
+    
+      <br>
+      <span>on&nbsp;</span><time datetime="2017-12-21 00:00:00 +0100">December 21, 2017</time>
+    
+  </div>
+
+  <h1 class="post-title">New release v5.0.0 - Unicode support, themes, simpler architecture, new object types, bugfixes</h1>
+  <div class="post-line"></div>
+
+  <p>Here is the v5.0.0 release with a much simpler architecture. Now the graphics library means only the lvgl repository. Besides the architectural changes Unicode support, style themes, new smart phone-like object types are added. To make easier to get started a tutorial is released  in lv_examples repository</p>
+
+<p><strong>Note that it’s major release so it’s not backward compatible.</strong></p>
+
+<p>To learn the new features its highly recommended to read the basics in the <a href="https://littlevgl.com/porting">Documentation</a></p>
+
+<h2 id="architectural-changes">Architectural changes</h2>
+<ul>
+  <li>Integrate misc into lvlg</li>
+  <li>Integrate hal** into lvlg</li>
+  <li>Convert Applications into simple examples</li>
+  <li>Rename repository from proj_pc to pc_simulator</li>
+  <li>Create a new independent repository for examples (lv_examples)</li>
+  <li>Create a new independent repository for development boards (lv_boards)</li>
+  <li>Create a new independent repository for drivers (lv_drivers)</li>
+</ul>
+
+<h2 id="system-level-changes">System level changes</h2>
+<ul>
+  <li>Object type inheritance is hidden. Every object have its own API (except <code class="highlighter-rouge">lv_obj_set/get_...</code> functions)</li>
+  <li>Rework lv_style_t to be more versatile</li>
+  <li>Rename (and slightly rework) some function, defines and enums to be more descriptive</li>
+  <li>Make styles to global variable for less typing</li>
+  <li>Make fonts to global variables for less typing and easy user-font adding</li>
+  <li>Join symbol fonts into normal built-in fonts (use normal fonts, and lvlg will find symbol fonts too)</li>
+  <li>rename lv_dispi_… to lv_indev_…</li>
+  <li>Simplified action functions: <code class="highlighter-rouge">lv_res_t action (lv_obj_t * obj)</code> use <code class="highlighter-rouge">lv_indev_act()</code>if required</li>
+</ul>
+
+<h2 id="new-features">New features</h2>
+<ul>
+  <li>Unicode support with UTF-8 decode</li>
+  <li>Themes with predefined styles</li>
+  <li>lv_tabview: new object type to organize content with tabs</li>
+  <li>lv_sw: new object type, switch, turn on/off by tap (a little slider)</li>
+  <li>lv_roller: new object type, a roller to select a value (like on smartphones)</li>
+  <li>lv_kb: new object type, Keyboard</li>
+  <li>lv_btnm: lv_btnm_set_toggle() to toggle last button</li>
+  <li>lv_btnm: rework width control. Now a control byte is used for width, hide and no long press settings.</li>
+  <li>lv_ta: cursor types</li>
+  <li>lv_gauge_ rework to make it more like line meter (remove background but add scale lines)</li>
+  <li>partial border draw in styles</li>
+  <li>Hide anti-aliasing upscale (no x * LV_DOWSCALE is required)</li>
+</ul>
+
+<h2 id="bugfixes">Bugfixes</h2>
+<p>Due to <a href="https://github.com/littlevgl/lv_examples/tree/master/lv_tests">lv_tests</a> massive number of bug fixes happened.</p>
+
+
+
+</div>
+
+<div class="pagination">
+  
+    <a href="/2018-01-03/linux_fb" class="left arrow">&#8592;</a>
+  
+  
+    <a href="/2017-07-23/pic32mz_da" class="right arrow">&#8594;</a>
+  
+
+  <a href="#" class="top">Top</a>
+</div>
+
+<script>
+
+window.onload = function () {
+    var tags = [ "h1","h2","h3", "h4", "h5", "h6" ];
+    var h;
+
+    for(var i = 0; i < tags.length; i++) {
+        h = document.getElementsByTagName(tags[i]);
+            
+        for(j = 0; j < h.length; j++) {
+            var x = "<a href='#" + h[j].id + "' style='color:#353535'>" + h[j].innerHTML + "</a>";
+            h[j].innerHTML = x; 
+        }
+    }
+}
+    
+</script>
+
+    </main>
+
+    <footer>
+  <span>
+    &copy; <time datetime="2019-02-09 05:26:57 +0100">2019</time> Gabor Kiss-Vamosi. Made with Jekyll using the <a href="https://github.com/chesterhow/tale/">Tale</a> theme.
+  </span>
+</footer>
+
+  </body>
+</html>
