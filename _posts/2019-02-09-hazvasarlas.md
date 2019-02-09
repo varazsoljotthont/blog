@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Házvásárlás"
+title: "Kell egy ház... De hol, milyen, mennyiért?"
 cover: /assets/hazvasarlas/cover.png
 image:
   path: /assets/hazvasarlas/cover.png
@@ -8,24 +8,26 @@ image:
   width: 300
 ---
 
-Kell egy ház... De hol, milyen, mennyiért?
+ 
+**Házat venni komoly feladat. A döntésünk hosszú évekre szól és nem csak a mi, hanem a családunk életére is hatással van. Ezért rengeteg mindent figyelembe kell venni, mielőtt elhatározzuk magunkat.**
 
-Házat venni komoly feladat. A döntésünk hosszú évekre szól és nem csak a mi, hanem a családunk életére is hatással van. Ezért rengeteg mindent figyelembe kell venni, mielőtt elhatározzuk magunkat.
 A mi helyzetünk nem volt annyira bonyolult. A férjemmel kerestünk magunknak megfelelő otthont. Kettecskén élünk (a gyerekek már kirepültek), így viszonylag könnyű dolgunk volt. Sorra vettük az alapvető elvárásainkat a leendő a házunkkal szemben. 
-Megfizethető
-Az átalakítással költségével együtt is vállalható legyen
-Csendes környék
-Egyszintes
-Közel a munkahelyekhez
-Rendezett udvar, kert
+* Megfizethető
+* Az átalakítással költségével együtt is vállalható legyen
+* Csendes környék
+* Egyszintes
+* Közel a munkahelyekhez
+* Rendezett udvar, kert
+
 Nem volt szempont az óvoda, iskola közelsége, és nem volt lényeges hogy városban éljünk. Korunknál fogva ( közelítjük az ötvenet ) csendes, nyugodt környékre vágytunk. 
-                                          Elképzelésünk egy hangulatos parasztház volt:
+Elképzelésünk egy hangulatos parasztház volt:
 
+![csoda szép parasztház](/assets/hazvasarlas/1.png)
+_Hangulatos parasztház_
 
-					                 Foto: Pinterest
 Megtaláltuk a "Miházunkat"					
 
-Megnéztünk néhány házat, és a helyzet elkeserítő volt. Elhanyagolt ingatlanok, festéssel elfedett repedések, gazos udvar… Ami tetszett azt pedig a nem mi pénztárcánkhoz szabták. De mint oly sokszor az elmúlt években, a szerencse most is mellénk állt. Egy kedves barátom hívta fel a figyelmemet a jövőbeli házunkra. Igaz nem volt még eladó, de a tulajdonosok nem zárkóztak el attól, hogy megnézzük milyen állapotban van. Ház vásárlásnál nagyjából az első benyomás a döntő. Így történt ez a mi esetünkben is. A lakóépület külseje kissé ijesztő volt, de a belső terek tiszták, rendezettek voltak.
+Megnéztünk néhány házat, és a helyzet elkeserítő volt. Elhanyagolt ingatlanok, festéssel elfedett repedések, gazos udvar… Ami tetszett azt pedig a nem mi pénztárcánkhoz szabták. De mint oly sokszor az elmúlt években, a szerencse most is mellénk állt. Egy kedves barátom hívta fel a figyelmemet a jövőbeli házunkra. _*_ nem volt még eladó, de a tulajdonosok nem zárkóztak el attól, hogy megnézzük milyen állapotban van. Ház vásárlásnál nagyjából az első benyomás a döntő. Így történt ez a mi esetünkben is. A lakóépület külseje kissé ijesztő volt, de a belső terek tiszták, rendezettek voltak.
 
 ![romos hátz felújítás előtt](/assets/hazvasarlas/tezst1.jpg)
 _képaláírás_
