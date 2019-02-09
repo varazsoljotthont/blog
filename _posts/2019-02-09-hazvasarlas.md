@@ -11,7 +11,7 @@ image:
  
 **Házat venni komoly feladat. A döntésünk hosszú évekre szól és nem csak a mi, hanem a családunk életére is hatással van. Ezért rengeteg mindent figyelembe kell venni, mielőtt elhatározzuk magunkat.**
 
-A mi helyzetünk nem volt annyira bonyolult. A férjemmel kerestünk magunknak megfelelő otthont. Kettecskén élünk (a gyerekek már kirepültek), így viszonylag könnyű dolgunk volt. Sorra vettük az alapvető elvárásainkat a leendő a házunkkal szemben. 
+A mi helyzetünk nem volt annyira bonyolult. A férjemmel kerestünk magunknak megfelelő otthont. Kettecskén élünk (a gyerekek már kirepültek), így viszonylag könnyű dolgunk volt. Az tervezgetéskor sorra vettük az alapvető elvárásainkat a leendő a házunkkal szemben. 
 * Megfizethető
 * Az átalakítással költségével együtt is vállalható legyen
 * Csendes környék
@@ -27,9 +27,9 @@ _Hangulatos parasztház (Forrás: Pinterest)_
 
 Megtaláltuk a "Miházunkat"					
 
-Megnéztünk néhány házat, és a helyzet elkeserítő volt. Elhanyagolt ingatlanok, festéssel elfedett repedések, gazos udvar… Ami tetszett azt pedig a nem mi pénztárcánkhoz szabták. De mint oly sokszor az elmúlt években, a szerencse most is mellénk állt. Egy kedves barátom hívta fel a figyelmemet a jövőbeli házunkra. _*_ nem volt még eladó, de a tulajdonosok nem zárkóztak el attól, hogy megnézzük milyen állapotban van. Ház vásárlásnál nagyjából az első benyomás a döntő. Így történt ez a mi esetünkben is. A lakóépület külseje kissé ijesztő volt, de a belső terek tiszták, rendezettek voltak.
+Megnéztünk néhány ingatlant, és a helyzet elkeserítő volt. Elhanyagolt ingatlanok, festéssel elfedett repedések, gazos udvarok… Ami tetszett azt pedig a nem mi pénztárcánkhoz szabták. Hetek teltek el a miközben kerestük a leendő otthonunkat, végül egy jó barátunk személyében megérkezett a segítség. Ő hívta fel a figyelmünket egy házra, ami akkor még nem volt jelen az ingatlan piacon.Így elsőként tudtuk megnézni, felmérni, hogy milyen állapotban van. _*_  Ház vásárlásnál nagyjából az első benyomás a döntő. Így történt ez a mi esetünkben is. A lakóépület külseje kissé ijesztő volt, de a belső terek tiszták, rendezettek voltak.
 
-![romos hátz felújítás előtt](/assets/hazvasarlas/tezst1.jpg)
+![romos ház felújítás előtt](/assets/hazvasarlas/tezst1.jpg)
 _képaláírás_
 
 
