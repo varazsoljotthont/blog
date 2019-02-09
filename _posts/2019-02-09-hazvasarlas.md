@@ -4,8 +4,8 @@ title: "Kell egy ház... De hol, milyen, mennyiért?"
 cover: /assets/hazvasarlas/cover.png
 image:
   path: /assets/hazvasarlas/cover.png
-  height: 200
-  width: 200
+  height: 300
+  width: 300
 ---
 
  
@@ -40,6 +40,8 @@ Mielőtt rábólintottunk volna a vásárlásra, többször “bejártuk” a h�
 Volt a házban, a telekben fantázia (pedig jól eldugták)… Éreztük, hogy sok munkával, sok ötlettel egy nekünk tetsző, stílusos parasztházzá tudjuk majd alakítani… A tervezgetések eredményeként végül az üzlet megköttetett, a házat MEGVETTÜK!!! 2014 november közepén lezajlott az adás-vétel és megkaptuk a kulcsokat.
 Megkezdtük hát a nagy átalakítást, és ezzel együtt kitűztük a befejezés időpontját. 2015 március 01-ig kellett eljutni addig, hogy költözni tudjunk.
 
+![ház felújítás](/assets/hazvasarlas/ház3.jpg)
+
 
 
 
@@ -49,9 +51,11 @@ Ez 3,5 hónap kőkemény munkát jelentett, aminek jelentős részét férjemmel
 Kimerültünk fizikailag - anyagilag, de ott voltunk.
 A „Miházunkban”.
 
+![parasztház](/assets/hazvasarlas/ház4.jpg)
 
 
-       ….és végül ilyen lett a házunk!
+
+       _….és végül ilyen lett a házunk!_
 
 
 +1 gondolat:
