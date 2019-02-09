@@ -3,7 +3,7 @@ layout: default
 permalink: /rolam/
 ---
 
-**Mottó: Mindig mindent újra gondolunk!						![szemüveges nő padon](/assets/rolam/500x300en2jav.jpg)
+**Mottó: Mindig mindent újra gondolunk!						![szemüveges nő padon](/assets/rolam/en2jav.jpg)
 									
 							
 Szeretettel köszöntök mindenkit a Varázsolj otthont blogon-
