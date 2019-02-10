@@ -66,6 +66,7 @@ Csak sejtettük mennyi munka lesz, hogy az elképzeléseinket beletegyük" ebbe 
 ![ház felújítás](/assets/hazvasarlas/letöltés.jpg)
 
 Mi eldöntöttük, hogy megcsináljuk! Lelkesedésünk, tenni akarásunk határtalan volt. 
+
 Meg akartuk csinálni a "Miházunkat"!
 
 ![ház felújítás](/assets/hazvasarlas/blogjav3.jpg)
