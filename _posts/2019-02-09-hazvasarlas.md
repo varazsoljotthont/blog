@@ -28,7 +28,6 @@ Korunknál fogva ( közelítjük az ötvenet ) nyugodt környékre vágytunk. A 
 Éreztem, ha megtaláljuk a nekünk való házat, akkor azt igazi otthonná tudjuk alakítani. Olyan lesz, ahova mindennap örömmel érkezünk haza.
 
 ![csoda szép parasztház](/assets/hazvasarlas/1jav2.png)
-
 _Hangulatos parasztház (Forrás: Pinterest)_
 
 **Megtaláltuk a "Miházunkat"**				
@@ -42,9 +41,7 @@ Hetek teltek el miközben kerestük a leendő otthonunkat, mikor egy jó barátu
 Az utcafrontra nézett a két szoba, ahol a padló földágyba volt rakva. Az elektromos felszereltség elég kezdetleges volt, és a helyiségekben kályhákkal fűtöttek. 
 
 ![romos ház felújítás előtt](/assets/hazvasarlas/blogjav1.jpg)
-
 _Ilyen volt a ház mikor megvettük_
-
 ![üres régi szoba](/assets/hazvasarlas/blogjav2.jpg)
 
 
@@ -64,12 +61,10 @@ Csak sejtettük mennyi munka lesz, hogy a megálmodott házunkat "beletegyük" e
 Mi eldöntöttük, hogy megcsináljuk! Lelkesedésünk, tenni akarásunk határtalan volt. Meg akartuk csinálni a "Miházunkat"!
 
 ![ház felújítás](/assets/hazvasarlas/blogjav3.jpg)
-
 _beindultunk, zajlanak a munkák_
 
 
 ![homesweethome](/assets/hazvasarlas//blogjav4.jpg)
-
 _biztatás az átalakítás során_
 
 
@@ -82,8 +77,7 @@ Kimerültünk fizikailag - anyagilag, de ott voltunk.
 A „Miházunkban”.
 
 ![parasztház](/assets/hazvasarlas/mihazunkjav2.jpg)
- 
- _...és végül ilyen lett a házunk!_
+  _...és végül ilyen lett a házunk!_
 
 
 +1 gondolat:
