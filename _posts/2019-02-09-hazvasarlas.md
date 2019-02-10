@@ -69,7 +69,7 @@ Ez 3,5 hónap kőkemény munkát jelentett, aminek jelentős részét férjemmel
 Kimerültünk fizikailag - anyagilag, de ott voltunk.
 A „Miházunkban”.
 
-![parasztház](/assets/hazvasarlas/mihazunk.jpg)
+![parasztház](/assets/hazvasarlas/mihazunkjav.jpg)
  _...és végül ilyen lett a házunk!_
 
 
