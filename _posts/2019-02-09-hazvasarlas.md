@@ -43,9 +43,7 @@ Az utcafrontra nézett a két szoba, ahol a padló földágyba volt rakva. Az el
 
 ![romos ház felújítás előtt](/assets/hazvasarlas/blogjav1.jpg)
 
-
 _Ilyen volt a ház mikor megvettük_
-
 
 ![üres régi szoba](/assets/hazvasarlas/blogjav2.jpg)
 
