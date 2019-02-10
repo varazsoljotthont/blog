@@ -12,6 +12,8 @@ image:
 **Házat venni komoly feladat. A döntésünk hosszú évekre szól és nem csak a mi, hanem a családunk életére is hatással van. Ezért rengeteg mindent figyelembe kell venni, mielőtt elhatározzuk magunkat.**
 
 A mi helyzetünk nem volt annyira bonyolult. A férjemmel kerestünk magunknak megfelelő otthont. Kettecskén élünk (a gyerekek már kirepültek), így viszonylag könnyű dolgunk volt. A tervezgetéskor sorra vettük az elvárásainkat a leendő a házunkkal szemben, és lassan összeállt a lista. 
+
+
 Álmaink háza legyen:
 
 * Megfizethető
@@ -27,7 +29,7 @@ Korunknál fogva ( közelítjük az ötvenet ) nyugodt környékre vágytunk. A 
 ![csoda szép parasztház](/assets/hazvasarlas/1jav2.png)
 _Hangulatos parasztház (Forrás: Pinterest)_
 
-*Megtaláltuk a "Miházunkat"*				
+**Megtaláltuk a "Miházunkat"**				
 
 Megnéztünk néhány ingatlant, és a helyzet elkeserítő volt. Elhanyagolt házak, festéssel elfedett repedések, gazos udvarok… Ami tetszett azt pedig a nem mi pénztárcánkhoz szabták. 
 A rossz tapasztalatok ellenére pozitívan álltunk a helyzethez. Tudtuk, hogy meg lesz a ház, ez nem volt kérdés...
