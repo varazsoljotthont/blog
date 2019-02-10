@@ -31,7 +31,7 @@ Megnéztünk néhány ingatlant, és a helyzet elkeserítő volt. Elhanyagolt in
 
 ![romos ház felújítás előtt](/assets/hazvasarlas/blogjav1.jpg)
 _Ilyen volt a ház mikor megvettük_
-!üres régi szoba](/assets/hazvasarlas/blogjav2.jpg)
+![üres régi szoba](/assets/hazvasarlas/blogjav2.jpg)
 
 
 
