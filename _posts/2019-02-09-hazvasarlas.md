@@ -38,7 +38,8 @@ A rossz tapasztalatok ellenére pozitívan álltunk a helyzethez. Tudtuk, hogy m
 
 
 
-A hetek teltek, mi közben kerestük a leendő otthonunkat, mikor egy jó barátunk személyében megérkezett a segítség. Ő hívta fel a figyelmünket egy házra, ami akkor még nem volt jelen az ingatlan piacon. Elsőként tudtuk megnézni és felmérni, hogy milyen állapotban van, megfelel-e az elképzelésünknek. A házzal, a telek méretével nagyjából elégedettek voltunk. A belső terek tiszták, rendezettek voltak, de külseje ijesztően hatott. Régi ablakok, leomló vakolat, a házzal egybe építve az istálló, azon egy nagyon rossz állapotú ajtó. A látvány nem volt túl barátságos. 
+A hetek teltek, közben kerestük a leendő otthonunkat, de nem voltunk igazán sikeresek. 
+A véletlenek játéka folytán egy jó barátunk hozta el nekünk a megoldást. Ő hívta fel a figyelmünket egy házra, ami akkor még nem volt jelen az ingatlan piacon. Elsőként tudtuk megnézni és felmérni, hogy milyen állapotban van, megfelel-e az elképzelésünknek. A házzal, a telek méretével nagyjából elégedettek voltunk. A belső terek tiszták, rendezettek voltak, de külseje ijesztően hatott. Régi ablakok, leomló vakolat, a házzal egybe építve az istálló, azon egy nagyon rossz állapotú ajtó. A látvány nem volt túl barátságos. 
 Az utcafrontra nézett a két szoba, ahol a padló földágyba volt rakva. Az elektromos felszereltség elég kezdetleges volt, és a helyiségekben kályhákkal fűtöttek. 
 
 ![romos ház felújítás előtt](/assets/hazvasarlas/blogjav1.jpg)
