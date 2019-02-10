@@ -33,6 +33,6 @@ Kriszta
 
 
 
-˘![isten hozott tábla](/assets/rolam/isten-hozottjav.jpg)
+˘![isten hozott tábla](/assets/rolam/istenhozott.jpg)
 
 
