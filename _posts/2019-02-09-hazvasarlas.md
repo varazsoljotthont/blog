@@ -66,6 +66,8 @@ _biztatás az átalakítás során_
 
 
 Ez 3,5 hónap kőkemény munkát jelentett, aminek jelentős részét férjemmel ketten végeztük. Közben mindketten dolgoztunk, csak a finisben vettünk ki egy-egy nap szabadságot. Munka után jöttünk a házhoz, és este kilenc - tíz óráig itt voltunk. Mindig, minden mesterrel jó előre megbeszéltük az időpontokat és az elvégzendő munkákat. A szobák betonozásához hívtunk kőművest, és a villany - víz – fűtés szerelést bíztuk szakemberekre. A jó szervezéssel, a mindennapos munkákkal tartani tudtuk a kitűzött célt, és 2015. február 28-án beköltöztünk.
+
+
 Kimerültünk fizikailag - anyagilag, de ott voltunk.
 A „Miházunkban”.
 
