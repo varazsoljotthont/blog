@@ -17,17 +17,18 @@ A mi helyzetünk nem volt annyira bonyolult. A férjemmel kerestünk magunknak m
 Álmaink háza legyen:
 
 * Megfizethető
-* Az átalakítással költségével együtt is vállalható 
+* Az átalakításs költségével együtt is vállalható 
 * Egyszintes
 * Közel a munkahelyekhez
 * Rendezett udvar, kert
 * Csendes
 
 Nem volt szempont az óvoda, iskola közelsége, és nem volt lényeges hogy városban éljünk. 
-Korunknál fogva ( közelítjük az ötvenet ) nyugodt környékre vágytunk. A fejemben már meg volt, hogy milyen lesz a házunk. Ha lehunytam a szemem, láttam magam előtt... Fehér falak, zöld ablakok, muskátli, napfény, méhecskék, illatok...
+Korunknál fogva ( közelítjük az ötvenet ) nyugodt környékre vágytunk. A lelkemben  már meg volt, hogy milyen lesz a házunk. Ha lehunytam a szemem, láttam magam előtt... Fehér falak, zöld ablakok, muskátli, napfény, méhecskék, illatok...
 Éreztem, ha megtaláljuk a nekünk való házat, akkor azt igazi otthonná tudjuk alakítani. Olyan lesz, ahova mindennap örömmel érkezünk haza.
 
 ![csoda szép parasztház](/assets/hazvasarlas/1jav2.png)
+
 _Hangulatos parasztház (Forrás: Pinterest)_
 
 **Megtaláltuk a "Miházunkat"**				
