@@ -28,6 +28,7 @@ Korunknál fogva ( közelítjük az ötvenet ) nyugodt környékre vágytunk. A 
 Éreztem, ha megtaláljuk a nekünk való házat, akkor azt igazi otthonná tudjuk alakítani. Olyan lesz, ahova mindennap örömmel érkezünk haza.
 
 ![csoda szép parasztház](/assets/hazvasarlas/1jav2.png)
+
 _Hangulatos parasztház (Forrás: Pinterest)_
 
 **Megtaláltuk a "Miházunkat"**				
@@ -41,7 +42,9 @@ Hetek teltek el miközben kerestük a leendő otthonunkat, mikor egy jó barátu
 Az utcafrontra nézett a két szoba, ahol a padló földágyba volt rakva. Az elektromos felszereltség elég kezdetleges volt, és a helyiségekben kályhákkal fűtöttek. 
 
 ![romos ház felújítás előtt](/assets/hazvasarlas/blogjav1.jpg)
+
 _Ilyen volt a ház mikor megvettük_
+
 ![üres régi szoba](/assets/hazvasarlas/blogjav2.jpg)
 
 
@@ -50,6 +53,8 @@ Az udvar, a kert csupaszon állt. Nem volt semmi. Se egy fa, se egy bokor… Kon
 
 A tulajdonosok végül az eladás mellett döntöttek, ám mielőtt rábólintottunk volna a vásárlásra, még többször “bejártuk” a házat. Tudni akartam, hogy mit mutat meg magából, bele tudjuk-e látni a jövőnket. Agyalgattunk a férjemmel mit hogyan lehetne átalakítani, és milyen munkákkal jár majd. Mennyi idő alatt tudjuk felújítani, beköltözhetővé tenni.
 Volt a házban, a telekben fantázia (pedig jól eldugták)… Éreztük, hogy sok munkával, sok ötlettel egy nekünk tetsző, stílusos parasztházzá tudjuk majd alakítani…  A tervezgetések eredményeként végül az üzlet megköttetett, a házat MEGVETTÜK!!! 
+
+
 Szívünk szerint, azonnal nekikezdtünk volna a munkálatoknak, de a bürokrácia még az utunkat állta... 
 Ügyvéd, bank, közjegyző. Közüzemi számlák átíratása... Az ügyintézésre kb 2 hét kellett, végül 2014 november közepén lezajlott az adás-vétel és megkaptuk a kulcsokat.
 
@@ -58,7 +63,9 @@ Csak sejtettük mennyi munka lesz, hogy a megálmodott házunkat "beletegyük" e
 
 **Akár azt hiszed képes vagy rá, akár azt, hogy nem, igazad lesz. ( Henry Ford )
 
-Mi eldöntöttük, hogy megcsináljuk! Lelkesedésünk, tenni akarásunk határtalan volt. Meg akartuk csinálni a "Miházunkat"!
+Mi eldöntöttük, hogy megcsináljuk! Lelkesedésünk, tenni akarásunk határtalan volt. 
+
+Meg akartuk csinálni a "Miházunkat"!
 
 ![ház felújítás](/assets/hazvasarlas/blogjav3.jpg)
 _beindultunk, zajlanak a munkák_
@@ -66,7 +73,6 @@ _beindultunk, zajlanak a munkák_
 
 ![homesweethome](/assets/hazvasarlas//blogjav4.jpg)
 _biztatás az átalakítás során_
-
 
 
 Ez 3,5 hónap kőkemény munkát jelentett, aminek jelentős részét férjemmel ketten végeztük. Közben mindketten dolgoztunk, csak a finisben vettünk ki egy-egy nap szabadságot. Munka után jöttünk a házhoz, és este kilenc - tíz óráig itt voltunk. Mindig, minden mesterrel jó előre megbeszéltük az időpontokat és az elvégzendő munkákat. A szobák betonozásához hívtunk kőművest, és a villany - víz – fűtés szerelést bíztuk szakemberekre. A jó szervezéssel, a mindennapos munkákkal tartani tudtuk a kitűzött célt, és 2015. február 28-án beköltöztünk.
