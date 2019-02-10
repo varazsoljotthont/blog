@@ -73,10 +73,12 @@ Mi eldöntöttük, hogy megcsináljuk! Lelkesedésünk, tenni akarásunk határt
 Meg akartuk csinálni a "Miházunkat"!
 
 ![ház felújítás](/assets/hazvasarlas/blogjav3.jpg)
+
 _Beindultunk, zajlanak a munkák_
 
 
 ![homesweethome](/assets/hazvasarlas//blogjav4.jpg)
+
 _Biztatás az átalakítás során_
 
 
