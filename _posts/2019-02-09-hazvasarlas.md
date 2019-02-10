@@ -29,7 +29,6 @@ A lelkemben  már meg volt, hogy milyen lesz a házunk. ...ha lehunytam a szemem
 Éreztem, ha megtaláljuk a nekünk való házat, akkor azt igazi otthonná tudjuk alakítani. Olyan lesz, ahova mindennap örömmel érkezünk haza.
 
 ![csoda szép parasztház](/assets/hazvasarlas/1jav2.png)
-
 _Hangulatos parasztház (Forrás: Pinterest)_
 
 **Megtaláltuk a "Miházunkat"**				
@@ -45,9 +44,7 @@ A házzal, a telek méretével nagyjából elégedettek voltunk. A belső terek 
 Az utcafrontra nézett a két szoba, ahol a padló földágyba volt rakva. Az elektromos felszereltség elég kezdetleges volt, és a helyiségekben kályhákkal fűtöttek. 
 
 ![romos ház felújítás előtt](/assets/hazvasarlas/blogjav1.jpg)
-
 _Ilyen volt a ház mikor megvettük_
-
 ![üres régi szoba](/assets/hazvasarlas/blogjav2.jpg)
 
 
@@ -64,7 +61,7 @@ Szívünk szerint, azonnal nekikezdtünk volna a munkálatoknak, de a bürokrác
 Az ügyintézésre kb 2 hét kellett, végül 2014 november közepén lezajlott az adás-vétel és megkaptuk a kulcsokat.
 
 Vettünk egy nagy levegőt, és megkezdtük az átalakítást, ezzel együtt kitűztük a befejezés időpontját is. 2015 március 01-ig kell eljutni addig, hogy költözni tudjunk. 
-Csak sejtettük mennyi munka lesz, hogy az elképzeléseinket beletegyük" ebbe a 60 éves, szocreál, romos külsejű, idejét múlt házba. 
+Csak sejtettük mennyi munka lesz, hogy az elképzeléseinket "beletegyük" ebbe a 60 éves, szocreál, romos külsejű, idejét múlt házba. 
 
 ![ház felújítás](/assets/hazvasarlas/letöltés.jpg)
 
@@ -73,12 +70,10 @@ Mi eldöntöttük, hogy megcsináljuk! Lelkesedésünk, tenni akarásunk határt
 Meg akartuk csinálni a "Miházunkat"!
 
 ![ház felújítás](/assets/hazvasarlas/blogjav3.jpg)
-
 _Beindultunk, zajlanak a munkák_
 
 
 ![homesweethome](/assets/hazvasarlas//blogjav4.jpg)
-
 _Biztatás az átalakítás során_
 
 
