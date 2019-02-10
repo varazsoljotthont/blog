@@ -55,9 +55,13 @@ Csak sejtettük mennyi munka lesz, hogy a megálmodott házunkat "beletegyük" e
 **Akár azt hiszed képes vagy rá, akár azt, hogy nem, igazad lesz. ( Henry Ford )
 
 Mi eldöntöttük, hogy megcsináljuk! Lelkesedésünk, tenni akarásunk határtalan volt. Meg akartuk csinálni a "Miházunkat"!
-![ház felújítás](/assets/hazvasarlas/blogjav3.jpg)
-![homesweethome](/assets/hazvasarlas//blogjav4.jpg)
 
+![ház felújítás](/assets/hazvasarlas/blogjav3.jpg)
+_beindultunk, zajlanak a munkák_
+
+
+![homesweethome](/assets/hazvasarlas//blogjav4.jpg)
+_biztatás az átalakítás során_
 
 
 
@@ -65,7 +69,7 @@ Ez 3,5 hónap kőkemény munkát jelentett, aminek jelentős részét férjemmel
 Kimerültünk fizikailag - anyagilag, de ott voltunk.
 A „Miházunkban”.
 
-![parasztház](/assets/hazvasarlas/ház4jav.jpg)
+![parasztház](/assets/hazvasarlas/mihazunk.jpg)
  _...és végül ilyen lett a házunk!_
 
 
