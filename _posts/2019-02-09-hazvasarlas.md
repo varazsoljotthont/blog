@@ -61,7 +61,7 @@ Szívünk szerint, azonnal nekikezdtünk volna a munkálatoknak, de a bürokrác
 Vettünk egy nagy levegőt, és megkezdtük a nagy átalakítást, ezzel együtt kitűztük a befejezés időpontját. 2015 március 01-ig kellett eljutni addig, hogy költözni tudjunk. 
 Csak sejtettük mennyi munka lesz, hogy a megálmodott házunkat "beletegyük" ebbe a 60 éves, szocreál, romos külsejű, idejét múlt házba. 
 
-**Akár azt hiszed képes vagy rá, akár azt, hogy nem, igazad lesz. ( Henry Ford )**
+![ház felújítás](/assets/hazvasarlas/letöltés.jpg)
 
 Mi eldöntöttük, hogy megcsináljuk! Lelkesedésünk, tenni akarásunk határtalan volt. 
 
