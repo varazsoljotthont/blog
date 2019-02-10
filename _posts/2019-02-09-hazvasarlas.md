@@ -16,12 +16,12 @@ A mi helyzetünk egyszerű(bb)nek tűnt. A férjemmel kerestük magunknak a megf
 
 Álmaink háza legyen:
 
-* Megfizethető
-* Az átalakításs költségével együtt is vállalható 
-* Egyszintes
-* Közel a munkahelyekhez
-* Rendezett udvar, kert
-* Csendes
+* megfizethető
+* az átalakítás költségével együtt is vállalható 
+* egyszintes
+* közel a munkahelyekhez
+* rendezett az Udvar, a kert 
+* csendes
 
 Nem volt szempont az óvoda, iskola közelsége, és nem volt lényeges hogy városban éljünk. 
 Korunknál fogva ( közelítjük az ötvenet ) nyugodt környékre vágytunk. A lelkemben  már meg volt, hogy milyen lesz a házunk. Ha lehunytam a szemem, láttam magam előtt... Fehér falak, zöld ablakok, muskátli, napfény, méhecskék, illatok...
@@ -38,7 +38,7 @@ A rossz tapasztalatok ellenére pozitívan álltunk a helyzethez. Tudtuk, hogy m
 
 
 
-Hetek teltek el miközben kerestük a leendő otthonunkat, mikor egy jó barátunk személyében megérkezett a segítség. Ő hívta fel a figyelmünket egy házra, ami akkor még nem volt jelen az ingatlan piacon. Elsőként tudtuk megnézni és felmérni, hogy milyen állapotban van, megfelel-e az elképzelésünknek. A házzal, a telek méretével nagyjából elégedettek voltunk. A belső terek tiszták, rendezettek voltak, de külseje ijesztően hatott. Régi ablakok, leomló vakolat, a házzal egybe építve az istálló, azon egy nagyon rossz állapotú ajtó. A látvány nem volt túl barátságos. 
+A hetek teltek, mi közben kerestük a leendő otthonunkat, mikor egy jó barátunk személyében megérkezett a segítség. Ő hívta fel a figyelmünket egy házra, ami akkor még nem volt jelen az ingatlan piacon. Elsőként tudtuk megnézni és felmérni, hogy milyen állapotban van, megfelel-e az elképzelésünknek. A házzal, a telek méretével nagyjából elégedettek voltunk. A belső terek tiszták, rendezettek voltak, de külseje ijesztően hatott. Régi ablakok, leomló vakolat, a házzal egybe építve az istálló, azon egy nagyon rossz állapotú ajtó. A látvány nem volt túl barátságos. 
 Az utcafrontra nézett a két szoba, ahol a padló földágyba volt rakva. Az elektromos felszereltség elég kezdetleges volt, és a helyiségekben kályhákkal fűtöttek. 
 
 ![romos ház felújítás előtt](/assets/hazvasarlas/blogjav1.jpg)
@@ -51,15 +51,16 @@ _Ilyen volt a ház mikor megvettük_
 
 Az udvar, a kert csupaszon állt. Nem volt semmi. Se egy fa, se egy bokor… Konkrétan egy kiszáradt körtefa,és két szőlőtőke árválkodott az egész telken, a kertben pedig vadon nőtt a lucerna. Ez kopárság először nagyon zavart, ridegnek tűnt az udvar. Tovább gondolva azonban rájöttünk, hogy ennél jobb nem is lehetne a hely. Úgy lehet alakítani, ahogy akarjuk, és nem kell az irtással foglalkozni.
 
-A tulajdonosok végül az eladás mellett döntöttek, ám mielőtt rábólintottunk volna a vásárlásra, még többször “bejártuk” a házat. Tudni akartam, hogy mit mutat meg magából, bele tudjuk-e látni a jövőnket. Agyalgattunk a férjemmel mit hogyan lehetne átalakítani, és milyen munkákkal jár majd. Mennyi idő alatt tudjuk felújítani, beköltözhetővé tenni.
+A tulajdonosok végül az eladás mellett döntöttek, ám mielőtt mi is rábólintottunk volna a vásárlásra, még többször “bejártuk” a házat. Tudni akartam, hogy mit mutat meg magából, bele tudjuk-e látni a jövőnket. Agyalgattunk a férjemmel mit, hogyan lehetne átalakítani, és milyen munkákkal jár majd. Mennyi idő alatt tudjuk felújítani, beköltözhetővé tenni.
 Volt a házban, a telekben fantázia (pedig jól eldugták)… Éreztük, hogy sok munkával, sok ötlettel egy nekünk tetsző, stílusos parasztházzá tudjuk majd alakítani…  A tervezgetések eredményeként végül az üzlet megköttetett, a házat MEGVETTÜK!!! 
 
 
 Szívünk szerint, azonnal nekikezdtünk volna a munkálatoknak, de a bürokrácia még az utunkat állta... 
-Ügyvéd, bank, közjegyző. Közüzemi számlák átíratása... Az ügyintézésre kb 2 hét kellett, végül 2014 november közepén lezajlott az adás-vétel és megkaptuk a kulcsokat.
+Ügyvéd, bank, közjegyző. Közüzemi számlák átíratása... 
+Az ügyintézésre kb 2 hét kellett, végül 2014 november közepén lezajlott az adás-vétel és megkaptuk a kulcsokat.
 
-Vettünk egy nagy levegőt, és megkezdtük a nagy átalakítást, ezzel együtt kitűztük a befejezés időpontját. 2015 március 01-ig kellett eljutni addig, hogy költözni tudjunk. 
-Csak sejtettük mennyi munka lesz, hogy a megálmodott házunkat "beletegyük" ebbe a 60 éves, szocreál, romos külsejű, idejét múlt házba. 
+Vettünk egy nagy levegőt, és megkezdtük az átalakítást, ezzel együtt kitűztük a befejezés időpontját is. 2015 március 01-ig kell eljutni addig, hogy költözni tudjunk. 
+Csak sejtettük mennyi munka lesz, hogy az elképzeléseinket beletegyük" ebbe a 60 éves, szocreál, romos külsejű, idejét múlt házba. 
 
 ![ház felújítás](/assets/hazvasarlas/letöltés.jpg)
 
