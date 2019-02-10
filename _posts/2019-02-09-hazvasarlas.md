@@ -26,6 +26,7 @@ A mi helyzetünk nem volt annyira bonyolult. A férjemmel kerestünk magunknak m
 Nem volt szempont az óvoda, iskola közelsége, és nem volt lényeges hogy városban éljünk. 
 Korunknál fogva ( közelítjük az ötvenet ) nyugodt környékre vágytunk. A fejemben már meg volt, hogy milyen lesz a házunk. Ha lehunytam a szemem, láttam magam előtt... Fehér falak, zöld ablakok, muskátli, napfény, méhecskék, illatok...
 Éreztem, ha megtaláljuk a nekünk való házat, akkor azt igazi otthonná tudjuk alakítani. Olyan lesz, ahova mindennap örömmel érkezünk haza.
+
 ![csoda szép parasztház](/assets/hazvasarlas/1jav2.png)
 _Hangulatos parasztház (Forrás: Pinterest)_
 
@@ -38,8 +39,11 @@ A rossz tapasztalatok ellenére pozitívan álltunk a helyzethez. Tudtuk, hogy m
 
 Hetek teltek el miközben kerestük a leendő otthonunkat, mikor egy jó barátunk személyében megérkezett a segítség. Ő hívta fel a figyelmünket egy házra, ami akkor még nem volt jelen az ingatlan piacon. Elsőként tudtuk megnézni és felmérni, hogy milyen állapotban van, megfelel-e az elképzelésünknek. A házzal, a telek méretével nagyjából elégedettek voltunk. A belső terek tiszták, rendezettek voltak, de külseje ijesztően hatott. Régi ablakok, leomló vakolat, a házzal egybe építve az istálló, azon egy nagyon rossz állapotú ajtó. A látvány nem volt túl barátságos. 
 Az utcafrontra nézett a két szoba, ahol a padló földágyba volt rakva. Az elektromos felszereltség elég kezdetleges volt, és a helyiségekben kályhákkal fűtöttek. 
+
 ![romos ház felújítás előtt](/assets/hazvasarlas/blogjav1.jpg)
+
 _Ilyen volt a ház mikor megvettük_
+
 ![üres régi szoba](/assets/hazvasarlas/blogjav2.jpg)
 
 
@@ -59,10 +63,12 @@ Csak sejtettük mennyi munka lesz, hogy a megálmodott házunkat "beletegyük" e
 Mi eldöntöttük, hogy megcsináljuk! Lelkesedésünk, tenni akarásunk határtalan volt. Meg akartuk csinálni a "Miházunkat"!
 
 ![ház felújítás](/assets/hazvasarlas/blogjav3.jpg)
+
 _beindultunk, zajlanak a munkák_
 
 
 ![homesweethome](/assets/hazvasarlas//blogjav4.jpg)
+
 _biztatás az átalakítás során_
 
 
@@ -71,9 +77,11 @@ Ez 3,5 hónap kőkemény munkát jelentett, aminek jelentős részét férjemmel
 
 
 Kimerültünk fizikailag - anyagilag, de ott voltunk.
+
 A „Miházunkban”.
 
 ![parasztház](/assets/hazvasarlas/mihazunkjav2.jpg)
+ 
  _...és végül ilyen lett a házunk!_
 
 
