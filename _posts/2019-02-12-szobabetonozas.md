@@ -102,7 +102,8 @@ A folyamat ugyanaz volt, mint az első esetben. Földnedves beton, újra keveré
 ![régi szoba](/assets/szobabetonozas/15.jpg)
 _Végre! A szerelőbetonra rákerült az aljzatbeton_ 
 
-Nagyon sok munka volt, és sokba is került, de egy felújítás során mindent meg kell csinálni. Amikor szét van verve a ház, már úgyis mindegy…  Érdemes teljesen új villanyvezetékeket húzni a házba, és minden régi szerelvényt ilyenkor kell át ill. kicserélni. Nagyon lényeges, hogy a mesterekkel időben egyeztessük le az elvégzendő munkákat.  
+Nagyon sok munka volt, és sokba is került, de egy felújítás során mindent meg kell csinálni.  
+Amikor szét van verve a ház, már úgyis mindegy…  Érdemes teljesen új villanyvezetékeket húzni a házba, és minden régi szerelvényt ilyenkor kell át ill. kicserélni. Nagyon lényeges, hogy a mesterekkel időben egyeztessük le az elvégzendő munkákat.  
 Az, hogy mi 3,5 hónap alatt megcsináltuk, az ( is ) kellett, hogy mindenki akkor jött, amikor mi akartuk. Minden napot ki tudtunk használni a felújításra, nem voltak "üresjáratok".
 
 
