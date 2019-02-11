@@ -17,11 +17,11 @@ Miután az újdonsült tulajdonosok átveszik a felújításra váró házuk kul
 Már a ház megvétele előtt is, több alkalommal jártunk a házban. Ismerkedtünk egymással. A ház felosztása alapvetően megfelelt, de más-más funkciókat szántunk helyiségeknek. 
 Sorra vettük az igényeinket mit szeretnénk, mi az, ami a kényelmünket szolgálja. A nagyobbik szobából (5X4 ) terveztük kialakítani a konyha – étkezőt. A régi konyhából akartuk a nappalit. Ez a helyiség kisebb volt, de átgondoltam, hogy majd a mindennapokban hogy fog működni a konyha és a nappali. Nálunk leginkább felnőtt társaság jön össze, inkább a konyha-étkező legyen a központi hely, a kisebb nappali elég kettőnknek. A mi esetünkben (ketten vagyunk a férjemmel, a gyerekek már nem élnek velünk) ez tűnt praktikusnak. A régi konyhából, a majdani nappaliból nyílt a spájz, azt kinéztem gardróbnak.
 
-![falusi konyha kályhával]/(assets/talaljukkahazunkat/1.jpg)
+![falusi konyha kályhával]/(assets/talaljukkahazunkat/1jpg)
 
 _ilyen volt, ilyen lett_
 
-![modern nappali szivs dísszel]/(assets/talaljukkahazunkat/2.jpg)
+![modern nappali szives dísszel]/(assets/talaljukkahazunkat/2jpg)
 
 
   
