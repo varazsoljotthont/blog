@@ -10,7 +10,7 @@ image:
 
 ## Találjuk ki a házunkat!
 
-Miután az újdonsült tulajdonosok átveszik a felújításra váró házuk kulcsait, következik az egyik legizgalmasabb feladat. Mindent ki kell találni, meg kell tervezni, és meg kell szervezni. Régi ház esetében ez még összetettebb feladat. Eljött az idő, hogy mi is elkezdjük a munkálatokat.
+**Miután az újdonsült tulajdonosok átveszik a felújításra váró házuk kulcsait, következik az egyik legizgalmasabb feladat. Mindent ki kell találni, meg kell tervezni, és meg kell szervezni. Régi ház esetében ez még összetettebb feladat. Eljött az idő, hogy mi is elkezdjük a munkálatokat.**
 
 **Csináljunk a régiből, újat!**
 
@@ -32,11 +32,17 @@ _ilyen volt, ilyen lett_
 
 A fürdőszobához nem nagyon kellett nyúlni, az előző tulajdonos nagyjából megcsinálta. A villanyvezetékeket muszáj volt cserélni, és pár konnektort, kapcsolót, és a ventillátort is fel kellett tenni.  A csempe, járólap nem igazán tetszett, de butaság lett volna szétverni. Abban biztos voltam, hogy a mosógépet csak átmenetileg rakjuk a fürdőszobába. Már akkor tervbe vettük, hogy az istálló helyén mosókonyha lesz.
 
-  
+![fürdőszoba](/assets/talaljuk_ki/3jav.jpg)
+
+ ![fürdőszoba](/assets/talaljuk_ki/4jav.jpg) 
 
 
 Egybe nyitott tereket szerettünk volna, és ez falbontással járt. Ehhez „feltérképeztük”, hogy hol vannak tartó falak. A bontás során láttuk meg, hogy régen ún.: sármajtert használtak a falazásnál. Szinte ki lehetett kotorni a téglák közül. Nagy alapossággal végeztük el bontási munkákat.
 A statikai szempontokat mindig figyelembe kell venni
+
+![falbontás](/assets/talaljuk_ki/5jav.jpg)
+
+_Bontjuk a falat a konyha - nappali között_
 
  
 
@@ -45,6 +51,17 @@ A statikai szempontokat mindig figyelembe kell venni
 Következő lépésként az ajtók, ablakok vizsgálata jött. 
 A régi, alacsony ajtókat kiszedtük, az ablakokat cseréltük, a belső folyosós ablakot megszüntettük. A bejárati ajtót áthelyeztük. A régi helyét befalaztuk, az újnak kibontottuk a falat. Összenyitottuk az előteret és a volt istállót, mert a mosókonyhát, kamrát, és a kazánházat ott szerettük volna kialakítani.
 
+![átalakítás](/assets/talaljuk_ki/7jav.jpg)
+
+_Kibontottuk a belső abalakot_
+
+![átalakítás](/assets/talaljuk_ki/6jav.jpg)
+
+![falazás](/assets/talaljuk_ki/8jav.jpg)
+
+_Bejárati ajtó befalazása_
+
+![falazás](/assets/talaljuk_ki/10jav.jpg)
 
  
   
