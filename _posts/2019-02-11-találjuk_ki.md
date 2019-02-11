@@ -110,6 +110,6 @@ A házunk lakórésze nagyjából elkészült, - a részletes felújítást olva
 Kövesd a blogot, és te is meglátod a végeredményt.
 
 
-Következik:Első lépés, a szobák betonozása
+Következik: Első lépés, a szobák betonozása
 
 
