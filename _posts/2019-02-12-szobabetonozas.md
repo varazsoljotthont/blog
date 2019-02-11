@@ -86,9 +86,10 @@ A mesterekkel mindent átbeszéltünk, és az előre megbeszélt időpontban meg
 ![régi szoba](/assets/szobabetonozas/8.jpg)
 ![régi szoba](/assets/szobabetonozas/9.jpg)
 ![régi szoba](/assets/szobabetonozas/10.jpg)   
+_Csövek erre, arra._
 ![régi szoba](/assets/szobabetonozas/11.jpg)
 ![régi szoba](/assets/szobabetonozas/12.jpg)   
-_Csövek erre, arra._
+
  
 Itt kell megjegyeznem, hogy azzal, hogy ezek a munkák megkezdődtek a házban, elzárták a vizet, és kikapcsolták a villanyt. A vizet a kútból húztuk és a kályhán melegítettük, áram pedig a villanyórától, hosszabítókon keresztül volt. Nem volt egyszerű :D  
 Pár nap alatt becsöveztek mindent, és megbeszéltük velük a soron következő munkák idejét.  
