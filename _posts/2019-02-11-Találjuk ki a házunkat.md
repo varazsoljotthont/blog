@@ -21,7 +21,7 @@ Sorra vettük az igényeinket mit szeretnénk, mi az, ami a kényelmünket szolg
 
 _ilyen volt, ilyen lett_
 
-![nappali]/(assets/talaljukkahazunkat/2.jpg
+![modern nappali]/(assets/talaljukkahazunkat/2.jpg)
 
 
   
