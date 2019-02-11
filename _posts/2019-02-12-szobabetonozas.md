@@ -9,13 +9,13 @@ image:
 ---
 
 
-Ahhoz, hogy a régi házból új legyen, rendbe kell hozni azt, ami már nem korszerű. A legtöbb régi ház esetében a padlózatot föld ill. homok ágyra rakták. Így volt ez a mi esetünkben is. A mai otthonok alap követelménye, hogy a burkolatok alatt beton legyen. A szerelvényezési munkák megkezdése előtt, nekünk is le kellett betonozni a szobákat.
+**Ahhoz, hogy a régi házból új legyen, rendbe kell hozni azt, ami már nem korszerű. A legtöbb régi ház esetében a padlózatot föld ill. homok ágyra rakták. Így volt ez a mi esetünkben is. A mai otthonok alap követelménye, hogy a burkolatok alatt beton legyen. A szerelvényezési munkák megkezdése előtt, nekünk is le kellett betonozni a szobákat.**
 
-**Azt hittük maradhat a régi padló**
+**Azt hittük maradhat a régi padló**  
 Mikor még csak ismerkedtem a házzal, és figyelgettem a részleteket, a szobákban lévő hajópadlók azonnal megtetszettek. Szerettük volna megtartani, de látszott, hogy néhány helyen korhadt, és járkálás közben hullámzott alattunk. Így hiába volt hangulatos, megszavaztuk, hogy mennie kell. 
-Az egyik sarokban óvatosan megbontottuk a padlót, és hát nem volt szerencsénk… Kiderült, hogy, a szobák nem betonosak. A régi eljárásnak megfelelően, föld – homok ágyba rakták a párnafákat. Két helyiségről volt szó amit betonozni kellett, és a munka nem tűrt halasztást.  
-Feszítővassal, szöghúzóval kezdtük el felszedni a padlót, és igyekeztünk a lehető legtöbbet megmenteni belőle. Tudtuk, hogy ez padló újragondolva még meg fog jelenni a házban. Az ablakon kinyújtva tudtuk csak kihordani, mert az 5 méteres hossza miatt, sehogy sem tudtunk velük forgolódni. 
-A padló és a párnafák felszedésére elég volt kétszer fél nap. Az egész padló projektből, ez a rész volt a legkönnyebb  
+Az egyik sarokban óvatosan megbontottuk a padlót, és hát nem volt szerencsénk… Kiderült, hogy, a szobák nem betonosak. A régi eljárásnak megfelelően, föld – homok ágyba rakták a párnafákat. Két helyiségről volt szó amit betonozni kellett, és a munkával nem lehetett várni.  
+Feszítővassal, szöghúzóval kezdtük el felszedni a padlót, és igyekeztünk a lehető legtöbbet megmenteni belőle. Tudtuk, hogy ez padló újragondolva még meg fog jelenni a házban. Az ablakon kinyújtva tudtuk csak kihordani, mert az 5 méteres hossza miatt, sehogy sem tudtunk velük forgolódni.  
+A padló és a párnafák felszedésére elég volt kétszer fél nap. Az egész padló projektből, ez a rész volt a legkönnyebb. 
 A felbontás után ott álltunk a földes szobában, és én nem tudtam, hogy sírjak, vagy nevessek. 
 
   
@@ -24,27 +24,26 @@ A felbontás után ott álltunk a földes szobában, és én nem tudtam, hogy s�
  
 
 
-Elszántság, erő, talicska!
+**Elszántság, erő, talicska!**
 
 A neheze most jött, hogy a padlókat, párnafákat kihordtuk ( és száraz helyre tettük ) és csak a homokosföld maradt.
 A föld, a talicska, és mi ketten.
 
 Még a betonozás megkezdése előtt a kőművesek, kiszintezték, kimérték leendő aljzat beton magasságát. 
 Az aljzat magassága nálunk
--	egy réteg betonból-
--	a szerelvényekből, amik 3 cm szigetelésbe lettek ágyazva
--	egy újabb beton rétegből adódott össze. 
+
+*	egy réteg betonból-
+* a szerelvényekből, amik 3 cm szigetelésbe lettek ágyazva
+*	egy újabb beton rétegből adódott össze. 
+
 A szomszédos helyiségekhez mérték fel a szintet, mert a frissen betonozott helyiségek aljzat magassága nem lehet magasabb, mint a többi helyiségé. 
-A leendő szint magasságától függ az is, hogy mennyi földet kell kilapátolni a szobákból.
-Mikor mindezt megbeszéltük, megkezdtük a föld kihordását…
-Az idők folyamán kő kemény lett, először fel kellett lazítani, aztán azt a réteget lelapátolni, és újra lazítani, lapátolni. 
- 
-Hogy könnyebben mozgassuk a talicskát, pallókat tettük le a szobák aljára, hogy azon toljuk ki földet. Nem tudom hányat fordultunk, az udvaron hatalmas földkupacot hoztunk össze. A kihordott földben sok szög maradt, ezért olyan helyre talicskáztuk, ahol az autókra sem jelentett veszélyt.
+A leendő szint magasságától függ az is, hogy mennyi földet kell kilapátolni a szobákból. Mikor mindezt megbeszéltük, megkezdtük a föld kihordását… Az idők folyamán kő kemény lett, először fel kellett lazítani, aztán azt a réteget lelapátolni, és újra lazítani, lapátolni. 
+Hogy könnyebben mozgassuk a talicskát, pallókat tettük le a szobák aljára, hogy azon toljuk ki földet. Nem tudom hányat fordultunk, de az udvaron hatalmas földkupacot hoztunk össze. A kihordott földben sok szög maradt, ezért olyan helyre talicskáztuk, ahol az autókra sem jelentett veszélyt.
 Őszinte leszek, ez az egyik legrosszabb munka volt. 
 Időigényes, fárasztó, unalmas. Cserébe viszont nem volt gondunk az alvással, és napokig éreztük izmainkban az elvégzett munkát.
 
 
-Üres a szoba, jöhet a kőműves.
+**Üres a szoba, jöhet a kőműves.**
 
 Mesterembert találni nem egyszerű. 
 Hetekkel a munkák megkezdése előtt körbenéztünk, hogy a környéken találunk-e szakembert. Ajánlottak egy falubeli kőművest, aki eljött és megnézte, hogy milyen munkáról van szó. Elvállalta a munkát, és már akkor meg is beszéltük az időpontokat. 
@@ -59,7 +58,7 @@ A betonkeverő, a talicska, és én ez idő tájt lettünk nagyon jó barátok. 
 
 Hogy a felújítás gördülékenyen menjen, a mesterekkel megbeszéltük a 2. réteg betonozásának idejét.
 
-Előre gondolkodni, mindent jól megtervezni.
+**Előre gondolkodni, mindent jól megtervezni.**
 
 Mint írtam, a jó mesterembereket előre le kell foglalni, és ez csak tervezéssel megy.
 A villany, víz és központi fűtés szerelőt, szinte a házvásárlással egy időben megkerestük, és elmondtuk a terveinket. Körvonalaztuk az időt, hogy mikor számíthatnak a munkára.
