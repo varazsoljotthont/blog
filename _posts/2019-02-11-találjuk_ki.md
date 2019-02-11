@@ -113,6 +113,5 @@ A házunk lakórésze nagyjából elkészült, - a részletes felújítást olva
 Kövesd a blogot, és te is meglátod a végeredményt.
 
 
-Előző: Kell egy ház... De hol, milyen,mennyiért?                                           Következik: Első lépés, a szobák betonozása
 
 
