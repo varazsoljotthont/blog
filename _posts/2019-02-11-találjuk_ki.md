@@ -18,6 +18,7 @@ Már a ház megvétele előtt is, több alkalommal jártunk a házban. Ismerkedt
 Sorra vettük az igényeinket mit szeretnénk, mi az, ami a kényelmünket szolgálja. A nagyobbik szobából (5X4 ) terveztük kialakítani a konyha – étkezőt. A régi konyhából akartuk a nappalit. Ez a helyiség kisebb volt, de átgondoltam, hogy majd a mindennapokban hogy fog működni a konyha és a nappali. Nálunk leginkább felnőtt társaság jön össze, inkább a konyha-étkező legyen a központi hely, a kisebb nappali elég kettőnknek. A mi esetünkben (ketten vagyunk a férjemmel, a gyerekek már nem élnek velünk) ez tűnt praktikusnak. A régi konyhából, a majdani nappaliból nyílt a spájz, azt kinéztem gardróbnak.
 
 ![falusi konyha kályhával](/assets/talaljuk_ki/1jav.jpg)
+
 _ilyen volt, ilyen lett_
 
 ![modern nappali szives dísszel](/assets/talaljuk_ki/2jav.jpg)
@@ -34,11 +35,11 @@ A fürdőszobához nem nagyon kellett nyúlni, az előző tulajdonos nagyjából
 
 ![fürdőszoba](/assets/talaljuk_ki/3jav.jpg)
 
- ![fürdőszoba](/assets/talaljuk_ki/4jav.jpg) 
+![fürdőszoba](/assets/talaljuk_ki/4jav.jpg) 
 
 
-Egybe nyitott tereket szerettünk volna, és ez falbontással járt. Ehhez „feltérképeztük”, hogy hol vannak tartó falak. A bontás során láttuk meg, hogy régen ún.: sármajtert használtak a falazásnál. Szinte ki lehetett kotorni a téglák közül. Nagy alapossággal végeztük el bontási munkákat.
-A statikai szempontokat mindig figyelembe kell venni
+Egybe nyitott tereket szerettünk volna, és ez falbontással járt. Ehhez „feltérképeztük”, hogy hol vannak tartó falak. A bontás során láttuk meg, hogy régen ún.: sármajtert használtak a falazásnál. Szinte ki lehetett kotorni a téglák közül. Nagy alapossággal végeztük el bontási munkákat.  
+A statikai szempontokat mindig figyelembe kell venni!
 
 ![falbontás](/assets/talaljuk_ki/5jav.jpg)
 
