@@ -68,17 +68,15 @@ Hogy a felújítás gördülékenyen menjen, a mesterekkel megbeszéltük a 2. r
 **Előre gondolkodni, mindent jól megtervezni.**
 
 Mint írtam, a jó mesterembereket előre le kell foglalni, és ez csak tervezéssel megy.
-A villany, víz és központi fűtés szerelőt, szinte a házvásárlással egy időben megkerestük, és elmondtuk a terveinket. Körvonalaztuk az időt, hogy mikor számíthatnak a munkára.
-A betonozás után kellett néhány nap a beton száradásának. Ebben a pár napban találtuk ki a férjemmel, hogy pontosan hova-mit szeretnénk.  Ahhoz, hogy ne utólag kelljen alakítani, a kész falakat szétvésni, konkrét tervekre volt szükség.
-
+A villany, víz és központi fűtés szerelőt, szinte a házvásárlással egy időben megkerestük, és elmondtuk a terveinket. Körvonalaztuk az időt, hogy mikor számíthatnak a munkára.  
+A betonozás után kellett néhány nap a beton száradásának. Ebben a pár napban találtuk ki a férjemmel, hogy pontosan hova-mit szeretnénk.  Ahhoz, hogy ne utólag kelljen alakítani, a kész falakat szétvésni, konkrét tervekre volt szükség.  
 Most kellett meghatározni, minden radiátor, konnektor, villanykapcsoló, de még a mosogató, mosogatógép, stb helyét is. Pl: előre tudni kell, hogy miként változnak a helyiségek funkciói. ( Nálunk a szobából konyha lett, a konyhából nappali, a spájzból gardrób ) Tudni kell milyen lesz a konyhabútor, ott hova akarunk konnektorokat, és mennyi kell belőle. Melyik konnektorba fogunk kisgépeket használni, és hol kell erősebb vezetékelésű. Hol lesz a páraelszívó, a mosogatógép, a gáztűzhely. A tűzhely villanyos lesz-e, mert akkor annak konnektor kell. 
 
 **Előre eldöntöttem, hogy hol fog állni majd a karácsonyfa, mert nagyon nem akartam hosszabítókat használni** 
 
-Sok-sok kicsinek tűnő dolog, de ha nincs alaposan megtervezve komoly problémákat okoz. 
-A villanykapcsolók elhelyezése legalább ilyen fontos.  Pl: milyen magasságban legyenek, váltó kapcsolók legyenek-e, mennyezeti lámpák helye, stb. 
-A fűtés és a víz esetében ugyanígy jártunk el. Nem akartunk a falon kívül csöveket, ezért úgy döntöttünk, hogy minden szerelvényt az szerelőbetonban „viszünk el”.
-
+Sok-sok kicsinek tűnő dolog, de ha nincs alaposan megtervezve komoly problémákat okoz.  
+A villanykapcsolók elhelyezése legalább ilyen fontos.  Pl: milyen magasságban legyenek, váltó kapcsolók legyenek-e, mennyezeti lámpák helye, stb.  
+A fűtés és a víz esetében ugyanígy jártunk el. Nem akartunk a falon kívül csöveket, ezért úgy döntöttünk, hogy minden szerelvényt az szerelőbetonban „viszünk el”.  
 A mesterekkel mindent átbeszéltünk, és az előre megbeszélt időpontban meg is kezdték a munkát… …a munkát, ami első ránézésre elég ijesztő volt. A fűtés - víz miatt, a már eleve betonos helyiségek alját felvésték. A villanyszerelő a falakat bombázta szét…
 
 ![régi szoba](/assets/szobabetonozas/8.jpg)
@@ -89,7 +87,7 @@ A mesterekkel mindent átbeszéltünk, és az előre megbeszélt időpontban meg
 _Csövek erre, arra_
  
 
-Itt kell megjegyeznem, hogy azzal, hogy ezek a munkák megkezdődtek a házban, elzárták a vizet, és kikapcsolták a villanyt. A vizet a kútból húztuk és a kályhán melegítettük, áram pedig a villanyórától, hosszabítókon keresztül volt. Nem volt egyszerű :D 
+Itt kell megjegyeznem, hogy azzal, hogy ezek a munkák megkezdődtek a házban, elzárták a vizet, és kikapcsolták a villanyt. A vizet a kútból húztuk és a kályhán melegítettük, áram pedig a villanyórától, hosszabítókon keresztül volt. Nem volt egyszerű :D  
 Pár nap alatt becsöveztek mindent, és megbeszéltük velük a soron következő munkák idejét. A frissen betonozott helyiségekre leraktuk a 3 cm-es hungarocell táblákat. A férjem a csövek helyét kivagdosta a szigetelésben, és összeillesztgettük szigetelést a csövekkel.  A hungarocellre fóliát terítettünk, hogy arra kerüljön a beton.
 
 ![régi szoba](/assets/szobabetonozas/13.jpg)
@@ -97,14 +95,15 @@ Pár nap alatt becsöveztek mindent, és megbeszéltük velük a soron következ
  
 
 
-A kőművesek újra jöttek, hogy a második betonozást megcsinálják a szobákban, ill. már a szoba, konyhában. Még a 2. betonozás megkezdése előtt a fal aljához 10 cm magas dilatációs szalagot raktunk, a beton mozgása, hőtágulása miatt.
+A kőművesek újra jöttek, hogy a második betonozást megcsinálják a szobákban, ill. már a szoba, konyhában. Még a 2. betonozás megkezdése előtt a fal aljához 10 cm magas dilatációs szalagot raktunk, a beton mozgása, hőtágulása miatt.  
 A folyamat ugyanaz volt, mint az első esetben. Földnedves beton, újra keverés, talicska. Szépen elsimították, hisz erre már a burkolat került.
 
 ![régi szoba](/assets/szobabetonozas/14.jpg)
 ![régi szoba](/assets/szobabetonozas/15.jpg)
 _Végre! A szerelőbetonra rákerült az aljzatbeton_ 
 
-Nagyon sok munka volt, és sokba is került, de egy felújítás során mindent meg kell csinálni. Amikor szét van verve a ház, már úgyis mindegy…  Érdemes teljesen új villanyvezetékeket húzni a házba, és minden régi szerelvényt ilyenkor kell át ill. kicserélni. Nagyon lényeges, hogy a mesterekkel időben egyeztessük le az elvégzendő munkákat. Az, hogy mi 3,5 hónap alatt megcsináltuk, az ( is ) kellett, hogy mindenki akkor jött, amikor mi akartuk. Minden napot ki tudtunk használni a felújításra, nem voltak "üresjáratok".
+Nagyon sok munka volt, és sokba is került, de egy felújítás során mindent meg kell csinálni. Amikor szét van verve a ház, már úgyis mindegy…  Érdemes teljesen új villanyvezetékeket húzni a házba, és minden régi szerelvényt ilyenkor kell át ill. kicserélni. Nagyon lényeges, hogy a mesterekkel időben egyeztessük le az elvégzendő munkákat.  
+Az, hogy mi 3,5 hónap alatt megcsináltuk, az ( is ) kellett, hogy mindenki akkor jött, amikor mi akartuk. Minden napot ki tudtunk használni a felújításra, nem voltak "üresjáratok".
 
 
 
