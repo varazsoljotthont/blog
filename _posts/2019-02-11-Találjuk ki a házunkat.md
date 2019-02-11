@@ -8,20 +8,20 @@ image:
   width: 300
 ---
 
-**Találjuk ki a házunkat!
+**Találjuk ki a házunkat!**
 
 Miután az újdonsült tulajdonosok átveszik a felújításra váró házuk kulcsait, következik az egyik legizgalmasabb feladat. Mindent ki kell találni, meg kell tervezni, és meg kell szervezni. Régi ház esetében ez még összetettebb feladat. Eljött az idő, hogy mi is elkezdjük a munkálatokat.
 
-**Csináljunk a régiből, újat!
+**Csináljunk a régiből, újat!**
 
 Már a ház megvétele előtt is, több alkalommal jártunk a házban. Ismerkedtünk egymással. A ház felosztása alapvetően megfelelt, de más-más funkciókat szántunk helyiségeknek. 
 Sorra vettük az igényeinket mit szeretnénk, mi az, ami a kényelmünket szolgálja. A nagyobbik szobából (5X4 ) terveztük kialakítani a konyha – étkezőt. A régi konyhából akartuk a nappalit. Ez a helyiség kisebb volt, de átgondoltam, hogy majd a mindennapokban hogy fog működni a konyha és a nappali. Nálunk leginkább felnőtt társaság jön össze, inkább a konyha-étkező legyen a központi hely, a kisebb nappali elég kettőnknek. A mi esetünkben (ketten vagyunk a férjemmel, a gyerekek már nem élnek velünk) ez tűnt praktikusnak. A régi konyhából, a majdani nappaliból nyílt a spájz, azt kinéztem gardróbnak.
 
-![falusi konyha kályhával]/(assets/talaljukkahazunkat/1jpg)
+![falusi konyha kályhával]/(assets/talaljukkahazunkat/1.jpg)
 
 _ilyen volt, ilyen lett_
 
-![modern nappali szives dísszel]/(assets/talaljukkahazunkat/2jpg)
+![modern nappali szives dísszel]/(assets/talaljukkahazunkat/2.jpg)
 
 
   
@@ -29,7 +29,7 @@ _ilyen volt, ilyen lett_
 
 
 
-**Mit kell kibontani, szétszedni?
+**Mit kell kibontani, szétszedni?**
 
 A fürdőszobához nem nagyon kellett nyúlni, az előző tulajdonos nagyjából megcsinálta. A villanyvezetékeket muszáj volt cserélni, és pár konnektort, kapcsolót, és a ventillátort is fel kellett tenni.  A csempe, járólap nem igazán tetszett, de butaság lett volna szétverni. Abban biztos voltam, hogy a mosógépet csak átmenetileg rakjuk a fürdőszobába. Már akkor tervbe vettük, hogy az istálló helyén mosókonyha lesz.
 
@@ -61,7 +61,7 @@ A szobákban kályhák voltak, ezek helyett központfűtést akartunk. A vizet �
   
 
 
- **A bontás eredménye: 
+ **A bontás eredménye:** 
  
 
 
