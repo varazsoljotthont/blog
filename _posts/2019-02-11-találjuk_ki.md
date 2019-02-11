@@ -53,7 +53,7 @@ Következő lépésként az ajtók, ablakok szemrevételezése jött. És a feli
 A régi, alacsony ajtókat kiszedtük, az ablakokat cseréltük, a belső folyosós ablakot megszüntettük. A bejárati ajtót áthelyeztük. A régi helyét befalaztuk, az újnak kibontottuk a falat. Összenyitottuk az előteret és a volt istállót, mert a mosókonyhát, kamrát, és a kazánházat ott szerettük volna kialakítani.
 
 ![átalakítás](/assets/talaljuk_ki/7jav.jpg)
-_Kibontottuk a belső ablakot és mindnen mást_
+_Kibontottuk a belső ablakot és minden mást_
 ![átalakítás](/assets/talaljuk_ki/6jav.jpg)
 ![falazás](/assets/talaljuk_ki/8jav.jpg)
 _Bejárati ajtó befalazása_
