@@ -27,7 +27,7 @@ Nem volt szempont az óvoda, iskola közelsége, és nem volt lényeges hogy vá
 Korunknál fogva ( közelítjük az ötvenet ) nyugodt környékre vágytunk. 
 A lelkemben  már hosszú ideje meg volt, milyen lesz a házunk.  
 ...ha lehunytam a szemem, láttam magam előtt... Fehér falak, zöld ablakok, muskátli, napfény, méhecskék, illatok...  
-Éreztem, ha megtaláljuk, akkor azt igazi otthonná tudjuk alakítani. Olyan lesz, ahova mindennap örömmel érkezünk haza.
+Éreztem ha megtaláljuk, akkor azt igazi otthonná tudjuk alakítani. Olyan lesz, ahova mindennap örömmel érkezünk haza.
 
 ![csoda szép parasztház](/assets/hazvasarlas/1jav2.png)
 _Hangulatos parasztház (Forrás: Pinterest)_
