@@ -12,6 +12,7 @@ image:
 **Ahhoz, hogy a régi házból új legyen, rendbe kell hozni azt, ami már nem korszerű. A legtöbb régi ház esetében a padlózatot föld ill. homok ágyra rakták. Így volt ez a mi esetünkben is. A mai otthonok alap követelménye, hogy a burkolatok alatt beton legyen. A szerelvényezési munkák megkezdése előtt, nekünk is le kellett betonozni a szobákat.**
 
 **Azt hittük maradhat a régi padló**  
+
 Mikor még csak ismerkedtem a házzal, és figyelgettem a részleteket, a szobákban lévő hajópadlók azonnal megtetszettek. Szerettük volna megtartani, de látszott, hogy néhány helyen korhadt, és járkálás közben hullámzott alattunk. Így hiába volt hangulatos, megszavaztuk, hogy mennie kell. 
 Az egyik sarokban óvatosan megbontottuk a padlót, és hát nem volt szerencsénk… Kiderült, hogy, a szobák nem betonosak. A régi eljárásnak megfelelően, föld – homok ágyba rakták a párnafákat. Két helyiségről volt szó amit betonozni kellett, és a munkával nem lehetett várni.  
 Feszítővassal, szöghúzóval kezdtük el felszedni a padlót, és igyekeztünk a lehető legtöbbet megmenteni belőle. Tudtuk, hogy ez padló újragondolva még meg fog jelenni a házban. Az ablakon kinyújtva tudtuk csak kihordani, mert az 5 méteres hossza miatt, sehogy sem tudtunk velük forgolódni.  
