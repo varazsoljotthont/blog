@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Kell egy ház... De hol, milyen, mennyiért?"
-cover: /assets/hazvasarlas/cover.png
+cover: /assets/hazvasarlas/cover.jpg
 image:
-  path: /assets/hazvasarlas/cover.png
+  path: /assets/hazvasarlas/cover.jpg
   height: 300
   width: 300
 ---
