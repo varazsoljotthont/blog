@@ -84,9 +84,9 @@ A szobákban kályhák voltak, ezek helyett központfűtést akartunk. A vizet �
 
 ![kályha](/assets/talaljuk_ki/15jav.jpg)
 
-![járólap bontása](/assets/talaljuk_ki/17jav.jpg)
+![járólap bontása](/assets/talaljuk_ki/16jav.jpg)
 
-![falbontása](/assets/talaljuk_ki/16jav.jpg)
+![falbontása](/assets/talaljuk_ki/17jav.jpg)
 
 
  **A bontás eredménye:** 
