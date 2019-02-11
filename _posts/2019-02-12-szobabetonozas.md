@@ -61,7 +61,7 @@ A betonkeverő, a talicska, és én ez idő tájt lettünk nagyon jó barátok. 
 ![régi szoba](/assets/szobabetonozas/5.jpg)
 ![régi szoba](/assets/szobabetonozas/6.jpg)
 ![régi szoba](/assets/szobabetonozas/7.jpg)
-_...alakul, alakul.._
+_...alakul, alakul..._
 
 Hogy a felújítás gördülékenyen menjen, a mesterekkel megbeszéltük a 2. réteg betonozásának idejét.
 
@@ -84,7 +84,7 @@ A mesterekkel mindent átbeszéltünk, és az előre megbeszélt időpontban meg
 ![régi szoba](/assets/szobabetonozas/10.jpg)   
 ![régi szoba](/assets/szobabetonozas/11.jpg)
 ![régi szoba](/assets/szobabetonozas/12.jpg)   
-_Csövek erre, arra_
+_Csövek erre, arra._
  
 
 Itt kell megjegyeznem, hogy azzal, hogy ezek a munkák megkezdődtek a házban, elzárták a vizet, és kikapcsolták a villanyt. A vizet a kútból húztuk és a kályhán melegítettük, áram pedig a villanyórától, hosszabítókon keresztül volt. Nem volt egyszerű :D  
@@ -100,7 +100,7 @@ A folyamat ugyanaz volt, mint az első esetben. Földnedves beton, újra keveré
 
 ![régi szoba](/assets/szobabetonozas/14.jpg)
 ![régi szoba](/assets/szobabetonozas/15.jpg)
-_Végre! A szerelőbetonra rákerült az aljzatbeton_ 
+_Végre! A szerelőbetonra rákerült az aljzatbeton._ 
 
 Nagyon sok munka volt, és sokba is került, de egy felújítás során mindent meg kell csinálni.  
 Amikor szét van verve a ház, már úgyis mindegy…  Érdemes teljesen új villanyvezetékeket húzni a házba, és minden régi szerelvényt ilyenkor kell át ill. kicserélni. Nagyon lényeges, hogy a mesterekkel időben egyeztessük le az elvégzendő munkákat.  
