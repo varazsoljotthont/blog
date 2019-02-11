@@ -53,7 +53,7 @@ A régi, alacsony ajtókat kiszedtük, az ablakokat cseréltük, a belső folyos
 
 ![átalakítás](/assets/talaljuk_ki/7jav.jpg)
 
-_Kibontottuk a belső abalakot_
+_Kibontottuk a belső ablakot és mindnen mást_
 
 ![átalakítás](/assets/talaljuk_ki/6jav.jpg)
 
