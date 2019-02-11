@@ -52,8 +52,8 @@ _Egy barátság kezdete_
 
 **Üres a szoba, jöhet a kőműves.**
 
-Mesterembert találni nem egyszerű. 
-Hetekkel az átalakítás megkezdése előtt körbenéztünk, hogy a környéken találunk-e szakembert. Ajánlottak egy falubeli kőművest, aki eljött és megnézte, hogy milyen munkáról van szó. Elvállalta, és már akkor meg is beszéltük az időpontokat. 
+Mesterembert találni nem egyszerű.  
+Hetekkel az átalakítás megkezdése előtt körbenéztünk, hogy a környéken találunk-e szakembert. Ajánlottak egy falubeli kőművest, aki eljött és megnézte, hogy milyen munkáról van szó. Elvállalta, és már akkor meg is beszéltük az időpontokat.  
 Földnedves betont hozattunk, így kevesebb ember kellett hozzá, mintha magunk kevertük volna. Árban pedig nem volt sokkal több. Nagy fóliát terítettünk le az udvaron, arra borította az autó a betont. Onnan vissza lapátoltuk a betonkeverőbe, hogy kis vízzel átkeverve a kőművesek dolgozni tudjanak. 
 Kevertük a betont, toltuk be a talicskában, kevertük, toltuk, a mesterek meg csak húzták a betont…
 A betonkeverő, a talicska, és én ez idő tájt lettünk nagyon jó barátok. A kőművesek pár óra alatt végeztek, én pedig örültem, mert olyan szépnek láttam a szobákat a szürke föld után. 
@@ -67,7 +67,7 @@ Hogy a felújítás gördülékenyen menjen, a mesterekkel megbeszéltük a 2. r
 
 **Előre gondolkodni, mindent jól megtervezni.**
 
-Mint írtam, a jó mesterembereket előre le kell foglalni, és ez csak tervezéssel megy.
+Mint írtam, a jó mesterembereket előre le kell foglalni, és ez csak tervezéssel megy.  
 A villany, víz és központi fűtés szerelőt, szinte a házvásárlással egy időben megkerestük, és elmondtuk a terveinket. Körvonalaztuk az időt, hogy mikor számíthatnak a munkára.  
 A betonozás után kellett néhány nap a beton száradásának. Ebben a pár napban találtuk ki a férjemmel, hogy pontosan hova-mit szeretnénk.  Ahhoz, hogy ne utólag kelljen alakítani, a kész falakat szétvésni, konkrét tervekre volt szükség.  
 Most kellett meghatározni, minden radiátor, konnektor, villanykapcsoló, de még a mosogató, mosogatógép, stb helyét is. Pl: előre tudni kell, hogy miként változnak a helyiségek funkciói. ( Nálunk a szobából konyha lett, a konyhából nappali, a spájzból gardrób ) Tudni kell milyen lesz a konyhabútor, ott hova akarunk konnektorokat, és mennyi kell belőle. Melyik konnektorba fogunk kisgépeket használni, és hol kell erősebb vezetékelésű. Hol lesz a páraelszívó, a mosogatógép, a gáztűzhely. A tűzhely villanyos lesz-e, mert akkor annak konnektor kell. 
