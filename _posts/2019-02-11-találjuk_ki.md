@@ -42,6 +42,7 @@ A fürdőszobához nem nagyon kellett nyúlni, az előző tulajdonos nagyjából
 
 Egybe nyitott tereket szerettünk volna, és ez falbontással járt. Ehhez „feltérképeztük”, hogy hol vannak tartó falak. A bontás során láttuk meg, hogy régen ún.: sármajtert használtak a falazásnál. Szinte ki lehetett kotorni a téglák közül. Szigorúan a statikai szempontok figyelembevételével kezdtük el szétszedni a házat.
 
+![átalakítás](/assets/talaljuk_ki/5jav.jpg)
 _Bontjuk a falat, a konyha - nappali között_
 
  
@@ -52,21 +53,14 @@ Következő lépésként az ajtók, ablakok szemrevételezése jött. És a feli
 A régi, alacsony ajtókat kiszedtük, az ablakokat cseréltük, a belső folyosós ablakot megszüntettük. A bejárati ajtót áthelyeztük. A régi helyét befalaztuk, az újnak kibontottuk a falat. Összenyitottuk az előteret és a volt istállót, mert a mosókonyhát, kamrát, és a kazánházat ott szerettük volna kialakítani.
 
 ![átalakítás](/assets/talaljuk_ki/7jav.jpg)
-
 _Kibontottuk a belső ablakot és mindnen mást_
-
 ![átalakítás](/assets/talaljuk_ki/6jav.jpg)
-
 ![falazás](/assets/talaljuk_ki/8jav.jpg)
-
 _Bejárati ajtó befalazása_
-
 ![falazás](/assets/talaljuk_ki/10jav.jpg)
 
-
 ![ablak](/assets/talaljuk_ki/12jav.jpg)
-
- _Régi ablak, új ablak_
+_Régi ablak, új ablak_
   
   
 
@@ -79,7 +73,6 @@ Biztos voltam benne, hogy az elképzeléseim szerint fog alakulni a ház!
 ...de addig még rengeteg munka várt ránk. 
 
 ![kitartás idézet](/assets/talaljuk_ki/kitartas.jpg)
-
 _Kitartás_
 
 
