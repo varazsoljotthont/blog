@@ -15,7 +15,9 @@ image:
 **Csináljunk a régiből, újat!**
 
 Mielőtt megvettük a házat, több alkalommal is megnéztük. Ismerkedtünk egymással. A ház felosztása alapvetően megfelelt számunkra, de más-más funkciókat szántunk helyiségeknek. 
-Sorra vettük az igényeinket mit szeretnénk, mi az, ami a kényelmünket szolgálja. Az utcafrontra néző nagyobbik szobából (5X4 m) terveztük kialakítani a konyha – étkezőt, a régi konyhából pedig a nappalit. Ez a helyiség kisebb volt, de átgondoltam, hogy majd a mindennapokban hogy fog működni a konyha és a nappali. Nálunk leginkább felnőtt társaság jön össze, inkább a konyha-étkező legyen a központi hely, a kisebb nappali elég kettőnknek. A mi esetünkben (ketten vagyunk a férjemmel, a gyerekek már nem élnek velünk) ez tűnt praktikusnak. A régi konyhából, a majdani nappaliból nyílt a spájz, azt kinéztem gardróbnak.
+Sorra vettük az igényeinket mit szeretnénk, mi az, ami a kényelmünket szolgálja. Az utcafrontra néző nagyobbik szobából (5X4 m) terveztük kialakítani a konyha – étkezőt, a régi konyhából pedig a nappalit. Ez a helyiség kisebb volt, de átgondoltam, hogy majd a mindennapokban hogy funkcionálnak ezek helyiségek.  
+"Nálunk leginkább felnőtt társaság jön össze, inkább a konyha-étkező legyen a központi hely, a kisebb nappali elég kettőnknek."  
+A mi esetünkben (ketten vagyunk a férjemmel, a gyerekek már nem élnek velünk) ez tűnt praktikusnak. A régi konyhából, a majdani nappaliból nyílt a spájz, azt kinéztem gardróbnak.
 
 ![falusi konyha kályhával](/assets/talaljuk_ki/1jav.jpg)
 
@@ -46,7 +48,7 @@ _Bontjuk a falat a konyha - nappali között_
 
 
 
-Következő lépésként az ajtók, ablakok szemrevételezése jött. 
+Következő lépésként az ajtók, ablakok szemrevételezése jött. És utána a felismerés, hogy a régiekből semmi nem marad. Az utcai ablakok renoválás után tetszettek volna, de annyira szú ette volt mindkettő, hogy végül lemondtunk róluk.  ( Az újak sokkal szebbek lettek. )
 A régi, alacsony ajtókat kiszedtük, az ablakokat cseréltük, a belső folyosós ablakot megszüntettük. A bejárati ajtót áthelyeztük. A régi helyét befalaztuk, az újnak kibontottuk a falat. Összenyitottuk az előteret és a volt istállót, mert a mosókonyhát, kamrát, és a kazánházat ott szerettük volna kialakítani.
 
 ![átalakítás](/assets/talaljuk_ki/7jav.jpg)
@@ -72,7 +74,8 @@ _Bejárati ajtó befalazása_
   
 
 Mivel semmi sem maradt a helyén, a villanyszerelőnek is akadt dolga. A vezetékek, a rengeteg konnektor, a kapcsolók, az új villanyóra szekrény szerelése sok munkával, és jelentős kiadással járt. A mester dolgozott, mi pedig szurkoltunk, hogy ne dőljön ránk a ház.  
-Talán ekkor volt a ház a legijesztőbb... Néha elbizonytalanodtam, hogy lesz ebből költözés 3 hónap múlva... De gyorsan lecsuktam a szemem és láttam, hogy milyen lesz majd, ha elkészül... ...de addig még rengeteg munka várt ránk. 
+Talán ekkor volt az egész felújítás a legijesztőbb... Néha elbizonytalanodtam, hogy lesz ebből költözés 3 hónap múlva... De gyorsan lecsuktam a szemem és láttam, hogy milyen lesz majd, ha elkészül...  
+...de addig még rengeteg munka várt ránk. 
 
 ![kitartás idézet](/assets/talaljuk_ki/kitartas.jpg)
 
