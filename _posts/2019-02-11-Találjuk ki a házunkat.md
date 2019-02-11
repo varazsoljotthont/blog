@@ -8,7 +8,7 @@ image:
   width: 300
 ---
 
-##**Találjuk ki a házunkat!**
+##Találjuk ki a házunkat!**
 
 Miután az újdonsült tulajdonosok átveszik a felújításra váró házuk kulcsait, következik az egyik legizgalmasabb feladat. Mindent ki kell találni, meg kell tervezni, és meg kell szervezni. Régi ház esetében ez még összetettebb feladat. Eljött az idő, hogy mi is elkezdjük a munkálatokat.
 
