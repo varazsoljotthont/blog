@@ -61,9 +61,7 @@ A szobákban kályhák voltak, ezek helyett központfűtést akartunk. A vizet �
   
 
 
- 
-
-**A bontás eredménye: 
+ **A bontás eredménye: 
  
 
 
