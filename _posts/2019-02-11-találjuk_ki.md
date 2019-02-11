@@ -63,7 +63,10 @@ _Bejárati ajtó befalazása_
 
 ![falazás](/assets/talaljuk_ki/10jav.jpg)
 
- 
+
+![ablak](/assets/talaljuk_ki/12jav.jpg)
+
+ _Régi ablak, új ablak_
   
   
 
@@ -71,19 +74,32 @@ _Bejárati ajtó befalazása_
   
 
 Mivel semmi sem maradt a helyén, a villanyszerelőnek is akadt dolga. A vezetékek, a rengeteg konnektor, a kapcsolók, az új villanyóra szekrény szerelése sok munkával, és jelentős kiadással járt. Véste csövek helyét, mi pedig szurkoltunk, hogy ne dőljön össze a ház. 
+
+![falbontás](/assets/talaljuk_ki/13jav.jpg)
+
+![falbontás](/assets/talaljuk_ki/14jav.jpg)
   
 
 A szobákban kályhák voltak, ezek helyett központfűtést akartunk. A vizet át kellett vinni az új konyhába. A hajópadlók alatt, az aljzat nem volt lebetonozva. A régi időkben elterjedt volt, hogy földes – homokos alapra rakták a pallót. Ezt is meg kellett szüntetni. A már betonos helyiségekben járólap volt, de a fűtés miatt a betont ott is feltörték… Szóval, oda is kellett valami megoldás.
-  
+
+![kályha](/assets/talaljuk_ki/15jav.jpg)
+
+![járólap bontása](/assets/talaljuk_ki/17jav.jpg)
+
+![falbontása](/assets/talaljuk_ki/164jav.jpg)
 
 
  **A bontás eredménye:** 
  
-
+ 
+ ![törmelék](/assets/talaljuk_ki/18jav.jpg)
 
 Ezeknek a belső munkáknak az elvégzésére volt 3,5 hónapunk. Közben dolgoztunk, és mivel már az évvége felé jártunk, szabadsággal is igencsak gyengén álltunk. De végül a jó szervezésnek, a profi hozzáállásunknak, az elszántságunknak köszönhetően sikerült. 
 Jöttünk, láttunk, beköltöztünk. 
 
+![folyosó](/assets/talaljuk_ki/19jav.jpg)
+
+_3,5 hónap eredménye_
  
 
 A házunk lakórésze nagyjából elkészült, - a részletes felújítást olvashatod a blogon - csak néhány apróság hiányzott. A ház külseje viszont még szánalmas volt. Rengeteg munka várt még ránk, de mi rendületlenül hittünk magunkban. Tudtuk, hogy meg tudjuk csinálni.
