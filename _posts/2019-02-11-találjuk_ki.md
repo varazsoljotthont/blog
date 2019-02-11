@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Találjuk ki a házunkat"
-cover: /assets/Találjuk ki a házunkat/cover.jpg
+cover: /assets/találjuk_ki/cover.jpg
 image:
-  path: /assets/találjuk ki a házunkats/cover.jpg
+  path: /assets/találjuk_ki/cover.jpg
   height: 300
   width: 300
 ---
@@ -110,6 +110,6 @@ A házunk lakórésze nagyjából elkészült, - a részletes felújítást olva
 Kövesd a blogot, és te is meglátod a végeredményt.
 
 
-Eőző: Kell egy ház... De hol, milyen,mennyiért?                                           Következik: Első lépés, a szobák betonozása
+Előző: Kell egy ház... De hol, milyen,mennyiért?                                           Következik: Első lépés, a szobák betonozása
 
 
