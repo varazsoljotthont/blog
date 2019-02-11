@@ -20,7 +20,7 @@ Sorra vettük az igényeinket mit szeretnénk, mi az, ami a kényelmünket szolg
 A mi esetünkben (ketten vagyunk a férjemmel, a gyerekek már nem élnek velünk) ez tűnt praktikusnak. A régi konyhából, a majdani nappaliból nyílt a spájz, azt kinéztem gardróbnak.
 
 ![falusi konyha kályhával](/assets/talaljuk_ki/1jav.jpg)
-_ilyen volt, ilyen lett_
+_Ilyen volt, ilyen lett_
 ![modern nappali szives dísszel](/assets/talaljuk_ki/2jav.jpg)
 
 
@@ -98,7 +98,7 @@ Jöttünk, láttunk, beköltöztünk.
 
 ![folyosó](/assets/talaljuk_ki/19jav.jpg)
 
-_3,5 hónap eredménye_
+_3,5 hónap munkája_
  
 
 A házunk lakórésze nagyjából elkészült, - a részletes felújítást olvashatod a blogon - csak néhány apróság hiányzott. A ház külseje viszont még szánalmas volt. Rengeteg munka várt még ránk, de mi rendületlenül hittünk magunkban. Tudtuk, hogy meg tudjuk csinálni.
