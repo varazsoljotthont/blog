@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "találjuk ki a házunkat"
-cover: /assets/találjuk ki a házunkat/cover.png
+title: "Találjuk ki a házunkat"
+cover: /assets/Találjuk ki a házunkat/cover.png
 image:
   path: /assets/találjuk ki a házunkats/cover.png
   height: 300
