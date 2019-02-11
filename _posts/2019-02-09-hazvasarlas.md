@@ -27,7 +27,7 @@ Nem volt szempont az óvoda, iskola közelsége, és nem volt lényeges hogy vá
 Korunknál fogva ( közelítjük az ötvenet ) nyugodt környékre vágytunk. 
 A lelkemben  már meg volt, hogy milyen lesz a házunk. 
 
-...ha lehunytam a szemem, láttam magam előtt... Fehér falak, zöld ablakok, muskátli, napfény, méhecskék, illatok...
+...ha lehunytam a szemem, láttam magam előtt... Fehér falak, zöld ablakok, muskátli, napfény, méhecskék, illatok...  
 Éreztem, ha megtaláljuk a nekünk való házat, akkor azt igazi otthonná tudjuk alakítani. Olyan lesz, ahova mindennap örömmel érkezünk haza.
 
 ![csoda szép parasztház](/assets/hazvasarlas/1jav2.png)
@@ -35,7 +35,7 @@ _Hangulatos parasztház (Forrás: Pinterest)_
 
 **Megtaláltuk a "Miházunkat"**				
 
-Megnéztünk néhány ingatlant, és a helyzet elkeserítő volt. Elhanyagolt házak, festéssel elfedett repedések, gazos udvarok… Ami tetszett azt pedig a nem mi pénztárcánkhoz szabták. 
+Megnéztünk néhány ingatlant, és a helyzet elkeserítő volt. Elhanyagolt házak, festéssel elfedett repedések, gazos udvarok… Ami tetszett azt pedig a nem mi pénztárcánkhoz szabták.  
 A rossz tapasztalatok ellenére pozitívan álltunk a helyzethez. Tudtuk, hogy meg lesz a ház, ez nem volt kérdés...
 
 
@@ -53,8 +53,7 @@ _Ilyen volt a ház mikor megvettük_
 
 Az udvar, a kert csupaszon állt. Nem volt semmi. Se egy fa, se egy bokor… Konkrétan egy kiszáradt körtefa,és két szőlőtőke árválkodott az egész telken, a kertben pedig vadon nőtt a lucerna. Ez kopárság először nagyon zavart, ridegnek tűnt az udvar. Tovább gondolva azonban rájöttünk, hogy ennél jobb nem is lehetne a hely. Úgy lehet alakítani, ahogy akarjuk, és nem kell az irtással foglalkozni.
 
-A tulajdonosok végül az eladás mellett döntöttek, ám mielőtt mi is rábólintottunk volna a vásárlásra, még többször “bejártuk” a házat. Tudni akartam, hogy mit mutat meg magából, bele tudjuk-e látni a jövőnket. Agyalgattunk a férjemmel mit, hogyan lehetne átalakítani, és ez milyen munkákkal jár majd. Mennyi idő alatt tudjuk felújítani, beköltözhetővé tenni.
-
+A tulajdonosok végül az eladás mellett döntöttek, ám mielőtt mi is rábólintottunk volna a vásárlásra, még többször “bejártuk” a házat. Tudni akartam, hogy mit mutat meg magából, bele tudjuk-e látni a jövőnket. Agyalgattunk a férjemmel mit, hogyan lehetne átalakítani, és ez milyen munkákkal jár majd. Mennyi idő alatt tudjuk felújítani, beköltözhetővé tenni.  
 Volt a házban, a telekben fantázia (pedig jól eldugták)… Éreztük, hogy sok munkával, sok ötlettel egy nekünk tetsző, stílusos parasztházzá tudjuk majd alakítani…  A tervezgetések eredményeként végül az üzlet megköttetett, a házat MEGVETTÜK!!! 
 
 
@@ -67,8 +66,7 @@ Csak sejtettük mennyi munka lesz, hogy az elképzeléseinket "beletegyük" ebbe
 
 ![ház felújítás](/assets/hazvasarlas/letöltés.jpg)
 
-Mi eldöntöttük, hogy megcsináljuk! Lelkesedésünk, tenni akarásunk határtalan volt. 
-
+Mi eldöntöttük, hogy megcsináljuk! Lelkesedésünk, tenni akarásunk határtalan volt.   
 Meg akartuk csinálni a "Miházunkat"!
 
 ![ház felújítás](/assets/hazvasarlas/blogjav3.jpg)
@@ -79,11 +77,8 @@ _Beindultunk, zajlanak a munkák_
 _Biztatás az átalakítás során_
 
 
-Ez 3,5 hónap kőkemény munkát jelentett, aminek jelentős részét férjemmel ketten végeztük. Közben mindketten dolgoztunk, csak a finisben vettünk ki egy-egy nap szabadságot. Munka után jöttünk a házhoz, és este kilenc - tíz óráig itt voltunk. Mindig, minden mesterrel jó előre megbeszéltük az időpontokat és az elvégzendő munkákat. A szobák betonozásához hívtunk kőművest, és a villany - víz – fűtés szerelést bíztuk szakemberekre. A jó szervezéssel, a mindennapos munkákkal tartani tudtuk a kitűzött célt, és 2015. február 28-án beköltöztünk.
-
-
-Kimerültünk fizikailag - anyagilag, de ott voltunk.
-
+Ez 3,5 hónap kőkemény munkát jelentett, aminek jelentős részét férjemmel ketten végeztük. Közben mindketten dolgoztunk, csak a finisben vettünk ki egy-egy nap szabadságot. Munka után jöttünk a házhoz, és este kilenc - tíz óráig itt voltunk. Mindig, minden mesterrel jó előre megbeszéltük az időpontokat és az elvégzendő munkákat. A szobák betonozásához hívtunk kőművest, és a villany - víz – fűtés szerelést bíztuk szakemberekre. A jó szervezéssel, a mindennapos munkákkal tartani tudtuk a kitűzött célt, és 2015. február 28-án beköltöztünk. 
+Kimerültünk fizikailag - anyagilag, de ott voltunk.  
 A „Miházunkban”.
 
 ![parasztház](/assets/hazvasarlas/mihazunkjav2.jpg)
