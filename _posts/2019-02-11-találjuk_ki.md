@@ -106,7 +106,7 @@ _3,5 hónap eredménye_
 A házunk lakórésze nagyjából elkészült, - a részletes felújítást olvashatod a blogon - csak néhány apróság hiányzott. A ház külseje viszont még szánalmas volt. Rengeteg munka várt még ránk, de mi rendületlenül hittünk magunkban. Tudtuk, hogy meg tudjuk csinálni.
 Kövesd a blogot, és te is meglátod a végeredményt 
 
-![kitartás](/assets/talaljuk_ki/letöltés (1).jpg)
+![kitartás](/assets/talaljuk_ki/kitartás.jpg)
 
 
 
