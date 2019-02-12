@@ -25,7 +25,7 @@ A mi helyzetünk egyszerű(bb)nek tűnt. A férjemmel kerestük magunknak a megf
 
 Nem volt szempont az óvoda, iskola közelsége, és nem volt lényeges hogy városban éljünk. 
 Korunknál fogva ( közelítjük az ötvenet ) nyugodt környékre vágytunk. 
-A lelkemben  már hosszú ideje meg volt, milyen lesz a házunk.  
+A szívemben már hosszú ideje őrizgettem a képet, hogy milyen lesz a házunk.  
 ...ha lehunytam a szemem, láttam magam előtt... Fehér falak, zöld ablakok, muskátli, napfény, méhecskék, illatok...  
 Éreztem ha megtaláljuk, igazi otthonná tudjuk alakítani. Olyan lesz, ahova mindennap örömmel érkezünk haza.
 
@@ -37,26 +37,28 @@ _Hangulatos parasztház (Forrás: Pinterest)_
 Megnéztünk néhány ingatlant, és a helyzet elkeserítő volt. Elhanyagolt házak, festéssel elfedett repedések, gazos udvarok… Ami tetszett azt pedig a nem mi pénztárcánkhoz szabták.  
 A rossz tapasztalatok ellenére pozitívan álltunk a helyzethez. Tudtuk, hogy meg lesz a ház, ez nem volt kérdés...
 
-
+![idézet](/assets/hazvasarlas/letöltés.jpg)
 
 A hetek teltek, közben kerestük a leendő otthonunkat, de nem voltunk igazán sikeresek. 
 A véletlenek játéka folytán egy jó barátunk hozta el nekünk a megoldást. Ő hívta fel a figyelmünket egy házra, ami akkor még nem volt jelen az ingatlan piacon. Elsőként tudtuk megnézni és felmérni, hogy milyen állapotban van, megfelel-e az elképzelésünknek. 
-A házzal, a telek méretével nagyjából elégedettek voltunk. A belső terek tiszták, rendezettek voltak, de külseje ijesztően hatott. Régi ablakok, leomló vakolat, a házzal egybe építve az istálló, azon egy nagyon rossz állapotú ajtó. A látvány nem volt túl barátságos. 
+A házzal, a telek méretével nagyjából elégedettek voltunk. A belső terek tiszták, rendezettek voltak, de külseje ijesztően hatott. Régi ablakok, leomló vakolat, a házzal egybe építve az istálló, azon egy nagyon rossz állapotú ajtó. A látvány nem volt túl barátságos.  
 Az utcafrontra nézett a két szoba, ahol a padló földágyba volt rakva. Az elektromos felszereltség elég kezdetleges volt, és a helyiségekben kályhákkal fűtöttek. 
 
 ![romos ház felújítás előtt](/assets/hazvasarlas/blogjav1.jpg)
+
 _Ilyen volt a ház mikor megvettük_
+
 ![üres régi szoba](/assets/hazvasarlas/blogjav2.jpg)
 
 
 
-Az udvar, a kert csupaszon állt. Nem volt semmi. Se egy fa, se egy bokor… Konkrétan egy kiszáradt körtefa,és két szőlőtőke árválkodott az egész telken, a kertben pedig vadon nőtt a lucerna. Ez kopárság először nagyon zavart, ridegnek tűnt az udvar. Tovább gondolva azonban rájöttünk, hogy ennél jobb nem is lehetne a hely. Úgy lehet alakítani, ahogy akarjuk, és nem kell az irtással foglalkozni.
+Az udvar, a kert csupaszon állt. Nem volt semmi. Se egy fa, se egy bokor… Konkrétan egy kiszáradt körtefa,és két szőlőtőke árválkodott az egész telken, a kertben pedig vadon nőtt a lucerna. Ez kopárság először nagyon zavart. Ridegnek, barátságtalannak tűnt az udvar. Tovább gondolva azonban rájöttünk, hogy ennél jobb nem is lehetne a hely. Úgy lehet alakítani, ahogy akarjuk, és nem kell az irtással foglalkozni.
 
 A tulajdonosok végül az eladás mellett döntöttek, ám mielőtt mi is rábólintottunk volna a vásárlásra, még többször “bejártuk” a házat. Tudni akartam, hogy mit mutat meg magából, bele tudjuk-e látni a jövőnket. Agyalgattunk a férjemmel mit, hogyan lehetne átalakítani, és ez milyen munkákkal jár majd. Mennyi idő alatt tudjuk felújítani, beköltözhetővé tenni.  
 Volt a házban, a telekben fantázia (pedig jól eldugták)… Éreztük, hogy sok munkával, sok ötlettel egy nekünk tetsző, stílusos parasztházzá tudjuk majd alakítani…  A tervezgetések eredményeként végül az üzlet megköttetett, a házat MEGVETTÜK!!!  
 Szívünk szerint, azonnal nekikezdtünk volna a munkálatoknak, de a bürokrácia még az utunkat állta... 
 Ügyvéd, bank, közjegyző. Közüzemi számlák átíratása... 
-Az ügyintézésre kb 2 hét kellett, végül 2014 november közepén lezajlott az adás-vétel és megkaptuk a kulcsokat.  
+Az ügyintézésre kb 2 hét kellett, és végül 2014 november közepére lezajlott az adás-vétel és megkaptuk a kulcsokat.  
 
 **Indul a házalakító projekt**
 
