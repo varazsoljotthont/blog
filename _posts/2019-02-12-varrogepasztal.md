@@ -15,12 +15,15 @@ image:
 
 **A varrógépállvány története**
 
-Épp, hogy beköltöztünk a házba, az udvaron még minden szanaszét hevert, és a "Miházunk" külseje is rémes képet mutatott. A tavasz közeledtével egyre több idő töltöttünk kint, és a lelkem nagyon vágyott valami szépre. Virágokra, kellemes kávézgatásra a nem létező teraszunkon... Volt egy kicsi beton placc a leendő terasz helyén, azt neveztem ki pihenő résznek.  
+Épp, hogy beköltöztünk a házba, az udvaron még minden szanaszét hevert, és a "Miházunk" külseje is rémes képet mutatott. A tavasz közeledtével egyre több idő töltöttünk kint, és a lelkem nagyon vágyott valami szépre. Virágokra, kellemes kávézgatásra a nem létező teraszunkon... Volt egy kicsi beton placc a leendő terasz helyén, jobb nem lévén azt kineveztem  pihenő résznek.  
 De ha már pihenés és kávé, akkor jó lenne egy stílusos asztal is...
-A szerencse, mint már olyan sokszor most is mellénk állt. Egy barátunkat vittük el az apósához, ahol, míg ők a dolgukat intézték, én nézegettem az udvaron. Alig észrevehetően lapult meg a sufniban a két öntöttvas varrógép állvány. Nem túlzok, mikor azt mondom, hogy hevesebben kezdett verni a szívem.  Nagyon szerettem volna az egyiket…
-Gyorsan végig futtattam a lehetőségeket, hogy mi történhet, ha a barátunknál, vagy a bácsinál rákérdezek. Veszteni valóm nincs.. A legrosszabb eshetőség, hogy nem kapom meg. De akkor még pont ott vagyok, ahol eddig… Nincs varrógépem… Szóval nagy levegő, kérdezés, és a válasz igen lett. Elvihetem, ha nekem ez a lim-lom ennyire tetszik. Juhééééé!!! Bátraké a szerencse.
+A szerencse, mint már olyan sokszor most is mellénk állt. Egy barátunkat vittük el az apósához, ahol, míg ők a dolgukat intézték, én nézegettem az udvaron. Alig észrevehetően lapult meg a sufniban a két öntöttvas varrógép állvány. Nem túlzok, mikor azt mondom, hogy hevesebben kezdett verni a szívem.  
+Nagyon szerettem volna az egyiket…  
+Gyorsan végig futtattam a lehetőségeket, hogy mi történhet, ha a barátunknál, vagy a bácsinál rákérdezek. 
+"Veszteni valóm nincs.. A legrosszabb eshetőség, hogy nem kapom meg. De akkor még pont ott vagyok, ahol eddig… Nincs varrógépem…"  Szóval nagy levegő, kérdezés, és a válasz igen lett. Elvihetem, ha nekem ez a lim-lom ennyire tetszik. 
+Juhééééé!!! **Bátraké a szerencse.**
 
-![idézet](/assets/varrogepasztal/idézet.jpg)
+![idézet](/assets/varrogepasztal/idézet.png)
 
 **Legyen strapabíró, dizájnos asztalunk.**
 
@@ -31,7 +34,7 @@ Az állványt hazavittük, és a boldogságom határtalan volt. Nézegettem, kö
 * falap + csempe
 * lambéria
 
-Az asztalt a teraszra szántuk, ezért olyan felület kellett, amit könnyen tisztán lehet tartani, bírja a napsütést, és persze tetszik is.
+Az asztalt a majdani teraszra szántuk, ezért olyan felület kellett, amit könnyen tisztán lehet tartani, bírja a napsütést, és persze tetszik is.
 Férjemmel konzultálva úgy határoztunk, hogy CK lap ( cementkötésű lap ) lesz az alap, arra pedig járólap darabokból mozaikot rakok ki.
 Ck lap, ragasztó volt itthon, maradék járólapot pedig találtunk a férjem szülői házában. 
 ( A régi falusi házak kincsesbányák az ilyen típusú embereknek, mint mi vagyunk. A mama házában sok régi tárgy volt, amit átalakítva újra felhasználtunk. Pl: régi, fém lámpa búrák, kilincsek, faanyagok )
@@ -39,6 +42,7 @@ Miután a lapot a férjem méretre vágta, rögzítette, elkezdtem megtervezni a
 A válogatás eredménye: zöld, türkiz, és fehér járólap. Ezeket óvatosan, kartonpapír alatt kalapáccsal összetörtem, és megkezdtem a kirakóst. Először ragasztó nélkül, ide-oda tologattam a darabkákat. A türkizből kettőy, a fehérből egy darab volt mindössze, ezért nem volt mindegy hogy melyiket hova rakom.
 A száraz kirakósdi után lefényképeztem, majd visszaszedtem az egészet. A CK lapra a férjem néhány mm vastagon felkente csempe ragasztót, és visszarakosgattam a mozaikot. Minden darab között hagytam a fugának helyet. A ragasztó száradása után, fehér fugázóval kentem ki a hézagokat. Nedves szivaccsal áttöröltem a felületet, és vártam a teljes száradást.
 Míg száradt, elégedetten nézegettem első DIY alkotásomat. Aztán főztem egy jó kávét, és szervíroztam a még nem létező teraszunk, létező asztalán. 
+
 Ötlet: A kivitelezést könnyebben meg tudtam volna csinálni, ha a körbe az asztal széléhez teszünk egy keretet. Nem gondoltunk rá, hogy kellene. De kétségtelen, hogy egyszerűbb lett volna munka, bár így is megérte 
 
 
