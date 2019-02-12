@@ -11,14 +11,16 @@ image:
 
 
 
-Régi vágyam volt egy öntöttvas varrógép állvány, ami a képzeletemben asztalként szerepelt. Tökéletes kültérre, a mérete miatt kis helyre is alkalmas. Csak a fantázián múlik, hogy milyen formában születik újjá. 
+**Régi vágyam volt egy öntöttvas varrógép állvány, ami a képzeletemben asztalként szerepelt. Tökéletes kültérre, a mérete miatt kis helyre is alkalmas. Csak a fantázián múlik, hogy milyen formában születik újjá.**
 
 **A varrógépállvány története**
 
-Azt már a házvásárlásakor megbeszéltük a férjemmel, hogy terasz kell a házba. Igazi gádoros, vidékies hangulatú. 2015 február végén költöztünk, és októberben el is kezdtük építeni. De a kávézás, szusszanás örömét addig is élvezni akartuk. Volt egy kicsi beton placc a leendő terasz helyén, azt kineveztem pihenő résznek. De ha már pihenés és kávé, akkor asztal is kell(ene).
-A szerencse, mint már olyan sokszor most is mellénk állt. Egy barátunkat vittük el az apósához, ahol, míg ők a dolgukat intézték, én nézegettem az udvaron. Alig észrevehetően lapult meg az egyik sufniban kettő öntöttvas varrógép állvány. Nem túlzok, mikor azt mondom, hogy hevesebben kezdett verni a szívem :D  Nagyon szerettem volna az egyiket…
-Gyorsan végig futtattam a lehetőségeket, hogy mi történhet, ha a bácsinál rákérdezek. A legrosszabb, hogy nem kapom meg. De akkor még pont ott vagyok, ahol eddig… Nincs varrógépem… Szóval nagy levegő, kérdezés, és a válasz igen lett. Elvihetem, ha nekem ez a lim-lom ennyire tetszik. Juhééééé!!! Bátraké a szerencse.
+Épp, hogy beköltöztünk a házba, az udvaron még minden szanaszét hevert, és a "Miházunk" külseje is rémes képet mutatott. A tavasz közeledtével egyre több idő töltöttünk kint, és a lelkem nagyon vágyott valami szépre. Virágokra, kellemes kávézgatásra a nem létező teraszunkon... Volt egy kicsi beton placc a leendő terasz helyén, azt neveztem ki pihenő résznek.  
+De ha már pihenés és kávé, akkor jó lenne egy stílusos asztal is...
+A szerencse, mint már olyan sokszor most is mellénk állt. Egy barátunkat vittük el az apósához, ahol, míg ők a dolgukat intézték, én nézegettem az udvaron. Alig észrevehetően lapult meg a sufniban a két öntöttvas varrógép állvány. Nem túlzok, mikor azt mondom, hogy hevesebben kezdett verni a szívem.  Nagyon szerettem volna az egyiket…
+Gyorsan végig futtattam a lehetőségeket, hogy mi történhet, ha a barátunknál, vagy a bácsinál rákérdezek. Veszteni valóm nincs.. A legrosszabb eshetőség, hogy nem kapom meg. De akkor még pont ott vagyok, ahol eddig… Nincs varrógépem… Szóval nagy levegő, kérdezés, és a válasz igen lett. Elvihetem, ha nekem ez a lim-lom ennyire tetszik. Juhééééé!!! Bátraké a szerencse.
 
+[idézet](/assets/varrogepasztal/idézet.jpg)
 
 **Legyen strapabíró, dizájnos asztalunk.**
 
