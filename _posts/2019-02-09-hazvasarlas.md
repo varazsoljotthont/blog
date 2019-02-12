@@ -64,8 +64,6 @@ Az ügyintézésre kb 2 hét kellett, és végül 2014 november közepére lezaj
 Vettünk egy nagy levegőt, és megkezdtük az átalakítást, ezzel együtt kitűztük a befejezés időpontját is. 2015 március 01-ig kell eljutni addig, hogy költözni tudjunk. 
 Csak sejtettük mennyi munka lesz, hogy az elképzeléseinket "beletegyük" ebbe a 60 éves, szocreál, romos külsejű, idejét múlt házba. 
 
-![ház felújítás](/assets/hazvasarlas/letöltés.jpg)
-
 Mi eldöntöttük, hogy megcsináljuk! Lelkesedésünk, tenni akarásunk határtalan volt.   
 Meg akartuk csinálni a "Miházunkat"!
 
@@ -77,7 +75,7 @@ _Beindultunk, zajlanak a munkák_
 _A bíztatás_
 
 
-Ez 3,5 hónap kőkemény munkát jelentett, aminek jelentős részét férjemmel ketten végeztük. Közben mindketten dolgoztunk, csak a finisben vettünk ki egy-egy nap szabadságot. Munka után jöttünk a házhoz, és este kilenc - tíz óráig itt voltunk. Mindig, minden mesterrel jó előre megbeszéltük az időpontokat és az elvégzendő munkákat. A [ ](/http://blog.varazsoljotthont.hu/2019-02-12/szobabetonozashívtunk )kőművest, és a villany - víz – fűtés szerelést bíztuk szakemberekre. A jó szervezéssel, a mindennapos munkákkal tartani tudtuk a kitűzött célt, és 2015. február 28-án beköltöztünk. 
+Ez 3,5 hónap kőkemény munkát jelentett, aminek jelentős részét férjemmel ketten végeztük. Közben mindketten dolgoztunk, csak a finisben vettünk ki egy-egy nap szabadságot. Munka után jöttünk a házhoz, és este kilenc - tíz óráig itt voltunk. Mindig, minden mesterrel jó előre megbeszéltük az időpontokat és az elvégzendő munkákat. A [szobák betonozásához](/http://blog.varazsoljotthont.hu/2019-02-12/szobabetonozas/) hívtunk kőművest, és a villany - víz – fűtés szerelést bíztuk szakemberekre. A jó szervezéssel, a mindennapos munkákkal tartani tudtuk a kitűzött célt, és 2015. február 28-án beköltöztünk. 
 Kimerültünk fizikailag - anyagilag, de ott voltunk.  
 A „Miházunkban”.
 
@@ -89,6 +87,6 @@ A „Miházunkban”.
 Régi ház vásárlásakor szinte mindig marad a házban egy kis ez-az az előző tulajdonostól.
 Érdemes ezeket félretenni, megőrizni. Sok minden akadhat a tárgyak között, amit újra gondolva fel lehet használni a ház körül.
 
-Kapcsolódó cikkek:
+
 
 
