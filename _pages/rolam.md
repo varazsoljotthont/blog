@@ -12,7 +12,7 @@ permalink: /rolam/
 									
 									
 									
-![szemüveges nő padon](/assets/rolam/en2jav.jpg)
+![szemüveges nő padon](/assets/rolam/énjav.jpg)
 									
 							
 Szeretettel köszöntök mindenkit a Varázsolj otthont blogon.
