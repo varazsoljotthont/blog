@@ -13,7 +13,7 @@ image:
 
 ## Búcsú a hajópadlótól
 
-Mikor még csak ismerkedtem a házzal, (([erről itt olvashatsz](/2019-02-09/hazvasarlas)) és figyelgettem a részleteket, a szobákban lévő hajópadlók azonnal megtetszettek. Szerettük volna megtartani, de látszott, hogy néhány helyen korhadt, és járkálás közben hullámzott alattunk. Így hiába volt hangulatos, megszavaztuk, hogy mennie kell. Az egyik sarokban óvatosan megbontottuk a padlót, és hát nem volt szerencsénk… Kiderült, hogy, a szobák nem betonosak. A régi eljárásnak megfelelően, föld – homok ágyba rakták a párnafákat. Két helyiségről volt szó amit betonozni kellett, és a munkával nem lehetett várni.  
+Mikor még csak ismerkedtem a házzal, ([erről itt olvashatsz](/2019-02-09/hazvasarlas)) és figyelgettem a részleteket, a szobákban lévő hajópadlók azonnal megtetszettek. Szerettük volna megtartani, de látszott, hogy néhány helyen korhadt, és járkálás közben hullámzott alattunk. Így hiába volt hangulatos, megszavaztuk, hogy mennie kell. Az egyik sarokban óvatosan megbontottuk a padlót, és hát nem volt szerencsénk… Kiderült, hogy, a szobák nem betonosak. A régi eljárásnak megfelelően, föld – homok ágyba rakták a párnafákat. Két helyiségről volt szó amit betonozni kellett, és a munkával nem lehetett várni.  
 Feszítővassal, szöghúzóval kezdtük el felszedni a padlót, és igyekeztünk a lehető legtöbbet megmenteni belőle. Tudtuk, hogy ez padló újragondolva még meg fog jelenni a házban. Az ablakon kinyújtva tudtuk csak kihordani, mert az 5 méteres hossza miatt, sehogy sem tudtunk velük forgolódni.  
 A padló és a párnafák felszedésére elég volt kétszer fél nap. Az egész padló projektből, ez a rész volt a legkönnyebb. 
 A felbontás után ott álltunk a földes szobában, és én nem tudtam, hogy sírjak, vagy nevessek. 
