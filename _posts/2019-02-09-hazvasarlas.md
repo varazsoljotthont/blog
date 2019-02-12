@@ -58,7 +58,7 @@ Szívünk szerint, azonnal nekikezdtünk volna a munkálatoknak, de a bürokrác
 Ügyvéd, bank, közjegyző. Közüzemi számlák átíratása... 
 Az ügyintézésre kb 2 hét kellett, és végül 2014 november közepére lezajlott az adás-vétel és megkaptuk a kulcsokat.  
 
-**Indul a házalakító projekt**
+### Indul a házalakító projekt
 
 Vettünk egy nagy levegőt, és megkezdtük az átalakítást, ezzel együtt kitűztük a befejezés időpontját is. 2015 március 01-ig kell eljutni addig, hogy költözni tudjunk. 
 Csak sejtettük mennyi munka lesz, hogy az elképzeléseinket "beletegyük" ebbe a 60 éves, szocreál, romos külsejű, idejét múlt házba. 
@@ -86,6 +86,9 @@ A „Miházunkban”.
 Régi ház vásárlásakor szinte mindig marad a házban egy kis ez-az az előző tulajdonostól.
 Érdemes ezeket félretenni, megőrizni. Sok minden akadhat a tárgyak között, amit újra gondolva fel lehet használni a ház körül.
 
+### Kapcsoldó cikkek
+* [A földes szobákkal kezdtük a házfelújítást!](2019-02-12/szobabetonozas)
+* [Régi varrógép új élete!](2019-02-12/varrogepasztal)
 
 
 
