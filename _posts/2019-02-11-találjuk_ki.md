@@ -14,8 +14,8 @@ image:
 
 Mielőtt megvettük a házat, több alkalommal is megnéztük. Ismerkedtünk egymással. ([erről itt olvashatsz](/2019-02-09/hazvasarlas)) A ház felosztása alapvetően megfelelt számunkra, de más-más funkciókat szántunk helyiségeknek. 
 Sorra vettük az igényeinket mit szeretnénk, mi az, ami a kényelmünket szolgálja. Az utcafrontra néző nagyobbik szobából (5X4 m) terveztük kialakítani a konyha – étkezőt, a régi konyhából pedig a nappalit. Ez a helyiség kisebb volt, de átgondoltam, hogy majd a mindennapokban hogy funkcionálnak ezek helyiségek.  
-"Nálunk leginkább felnőtt társaság jön össze, inkább a konyha-étkező legyen a központi hely, a kisebb nappali elég kettőnknek."  
-A mi esetünkben (ketten vagyunk a férjemmel, a gyerekek már nem élnek velünk) ez tűnt praktikusnak. A régi konyhából, a majdani nappaliból nyílt a spájz, azt kinéztem gardróbnak.
+Tudtam,hogy nálunk leginkább felnőtt társaság jön össze, így inkább a konyha-étkező legyen a központi hely, a kisebb nappali elég kettőnknek. 
+A mi esetünkben ez tűnt praktikusnak. A régi konyhából, a majdani nappaliból nyílt a spájz, azt kinéztem gardróbnak.
 
 ![falusi konyha kályhával](/assets/talaljuk_ki/1jav.jpg)
 _Ilyen volt, ilyen lett_
