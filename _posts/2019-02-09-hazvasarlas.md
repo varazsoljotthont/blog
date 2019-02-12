@@ -44,7 +44,6 @@ A házzal, a telek méretével nagyjából elégedettek voltunk. A belső terek 
 Az utcafrontra nézett a két szoba, ahol a padló földágyba volt rakva. Az elektromos hálózat elavult volt, és a helyiségekben kályhákkal fűtöttek. 
 
 ![romos ház felújítás előtt](/assets/hazvasarlas/blogjav1.jpg)
-
 _Ilyen volt a ház mikor megvettük_
 
 ![üres régi szoba](/assets/hazvasarlas/blogjav2.jpg)
