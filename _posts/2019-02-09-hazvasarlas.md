@@ -63,7 +63,7 @@ Az ügyintézésre kb 2 hét kellett, végül 2014 november közepére lezajlott
 Vettünk egy nagy levegőt, és megkezdtük az átalakítást, ezzel együtt kitűztük a befejezés időpontját is. 2015 március 01-ig kell eljutni addig, hogy költözni tudjunk. 
 Csak sejtettük mennyi munka lesz, hogy az elképzeléseinket "beletegyük" ebbe a 60 éves, szocreál, romos külsejű, idejét múlt házba. 
 
-Mi eldöntöttük, hogy megcsináljuk! Lelkesedésünk, tenni akarásunk határtalan volt.   
+De mi eldöntöttük, hogy megcsináljuk! Lelkesedésünk, tenni akarásunk határtalan volt.   
 Meg akartuk csinálni a "Miházunkat"!
 
 ![ház felújítás](/assets/hazvasarlas/blogjav3.jpg)
