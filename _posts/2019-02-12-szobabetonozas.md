@@ -57,6 +57,7 @@ _Egy barátság kezdete_
 ![földes szoba](/assets/szobabetonozas/3jav.jpg)
 ...talán látszik, mennyi földet szedtünk ki... 
 
+
 Őszinte leszek, ez az egyik legrosszabb munka volt.  
 Időigényes, fárasztó, unalmas. Cserébe viszont nem volt gondunk az alvással, és napokig éreztük izmainkban az elvégzett munkát.
 
@@ -99,8 +100,11 @@ A mesterekkel mindent átbeszéltünk, és az előre megbeszélt időpontban meg
 
 ![régi szoba](/assets/szobabetonozas/9.jpg)
 
+
 ![régi szoba](/assets/szobabetonozas/10.jpg)   
 _Csövek erre, arra._
+
+
 ![régi szoba](/assets/szobabetonozas/11.jpg)
 ![régi szoba](/assets/szobabetonozas/12.jpg)   
 
