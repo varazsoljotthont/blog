@@ -55,7 +55,7 @@ A száraz kirakósdi után lefényképeztem, majd visszaszedtem az egészet. A C
 ![mozaik asztal](/assets/varrogepasztal/5.jpg)
 
 
-Míg száradt, elégedetten nézegettem első DIY alkotásomat. Aztán főztem egy jó kávét, és szervíroztam a még nem létező teraszunk, létező asztalán. 
+Míg száradt, elégedetten nézegettem első DIY alkotásomat. Aztán főztem egy jó kávét, és nagy mosollyal az arcomon szervíroztam a még nem létező teraszunk, létező asztalán. 
 
 Ötlet: A kivitelezést könnyebben meg tudtam volna csinálni, ha a körbe az asztal széléhez teszünk egy keretet. Nem gondoltunk rá, hogy kellene. De kétségtelen, hogy egyszerűbb lett volna munka, bár így is megérte 
 
