@@ -56,7 +56,7 @@ A tulajdonosok végül az eladás mellett döntöttek, ám mielőtt mi is rábó
 Volt a házban, a telekben fantázia (pedig jól eldugták)… Éreztük, hogy sok munkával, sok ötlettel egy nekünk tetsző, stílusos parasztházzá tudjuk majd alakítani…  A tervezgetések eredményeként végül az üzlet megköttetett, a házat MEGVETTÜK!!!  
 Szívünk szerint, azonnal nekikezdtünk volna a munkálatoknak, de a bürokrácia még az utunkat állta... 
 Ügyvéd, bank, közjegyző. Közüzemi számlák átíratása... 
-Az ügyintézésre kb 2 hét kellett, és végül 2014 november közepére lezajlott az adás-vétel és megkaptuk a kulcsokat.  
+Az ügyintézésre kb 2 hét kellett, végül 2014 november közepére lezajlott az adás-vétel és megkaptuk a kulcsokat.  
 
 ## Indul a házalakító projekt
 
@@ -74,7 +74,7 @@ _Beindultunk, zajlanak a munkák_
 _A bíztatás_
 
 
-Ez 3,5 hónap kőkemény munkát jelentett, aminek jelentős részét férjemmel ketten végeztük. Közben mindketten dolgoztunk, csak a finisben vettünk ki egy-egy nap szabadságot. Munka után jöttünk a házhoz, és este kilenc - tíz óráig itt voltunk. Mindig, minden mesterrel jó előre megbeszéltük az időpontokat és az elvégzendő munkákat. A szobák betonozásához ([erről itt olvashatsz](/2019-02-12/szobabetonozas)) hívtunk kőművest, és a villany - víz – fűtés szerelést bíztuk szakemberekre. A jó szervezéssel, a mindennapos munkákkal tartani tudtuk a kitűzött célt, és 2015. február 28-án beköltöztünk. 
+A projekt 3,5 hónap kőkemény munkát jelentett, aminek jelentős részét férjemmel ketten végeztük. Közben mindketten dolgoztunk, csak a finisben vettünk ki egy-egy nap szabadságot. Munka után jöttünk a házhoz, és este kilenc - tíz óráig itt voltunk. Mindig, minden mesterrel jó előre megbeszéltük az időpontokat és az elvégzendő munkákat. A szobák betonozásához ([erről itt olvashatsz](/2019-02-12/szobabetonozas)) hívtunk kőművest, és a villany - víz – fűtés szerelést bíztuk szakemberekre. A jó szervezéssel, a mindennapos munkákkal tartani tudtuk a kitűzött célt, és 2015. február 28-án beköltöztünk. 
 Kimerültünk fizikailag - anyagilag, de ott voltunk.  
 A „Miházunkban”.
 
