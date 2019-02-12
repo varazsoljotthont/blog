@@ -82,7 +82,7 @@ A „Miházunkban”.
   _...és végül ilyen lett a házunk!_
 
 
-+1 gondolat:
+**+1 gondolat:
 Régi ház vásárlásakor szinte mindig marad egy kis ez-az az előző tulajdonostól.
 Érdemes ezeket félretenni, megőrizni. Sok minden akadhat a tárgyak között, amit újra gondolva fel lehet használni a ház körül.
 
