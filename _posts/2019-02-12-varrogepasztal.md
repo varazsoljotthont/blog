@@ -13,7 +13,7 @@ image:
 
 **Régi vágyam volt egy öntöttvas varrógép állvány, ami a képzeletemben asztalként szerepelt. Tökéletes kültérre, a mérete miatt kis helyre is alkalmas. Csak a fantázián múlik, hogy milyen formában születik újjá.**
 
-**A varrógépállvány története**
+## A varrógépállvány története
 
 Közeledett a tavasz, alig pár hete költöztünk a házba. Az udvaron a pusztaság egyhangúságát a bontással járó lomok színesítették, és a "Miházunk" külseje is rémes képet mutatott. Ahogy jött a jó idő egyre több időt töltöttünk kint, és a lelkem nagyon vágyott valami szépre. Virágokra, kellemes kávézgatásra a nem létező teraszunkon...  
 Volt egy kicsi beton placc a leendő terasz helyén, jobb nem lévén azt kineveztem  pihenő résznek.  
@@ -26,7 +26,7 @@ Juhééééé!!! **Bátraké a szerencse.**
 
 ![idézet](/assets/varrogepasztal/idézet.png)
 
-**Legyen strapabíró, dizájnos asztalunk.**
+## Legyen strapabíró, dizájnos asztalunk.
 
 Az állványt hazavittük, és a boldogságom határtalan volt. Nézegettem, körbejártam milyen fazon illene hozzá a legjobban. Több variáció is felmerült, hogy miből csináljuk meg az asztallap részét. 
 
