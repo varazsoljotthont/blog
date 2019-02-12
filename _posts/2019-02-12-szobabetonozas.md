@@ -102,8 +102,7 @@ A mesterekkel mindent átbeszéltünk, és az előre megbeszélt időpontban meg
 
 
 ![régi szoba](/assets/szobabetonozas/10.jpg)   
-_Csövek erre, arra._
-
+_Csövek erre is, arra is_
 
 ![régi szoba](/assets/szobabetonozas/11.jpg)
 ![régi szoba](/assets/szobabetonozas/12.jpg)   
