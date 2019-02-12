@@ -45,6 +45,8 @@ A szomszédos helyiségekhez mérték fel a szintet, mert a frissen betonozott h
 Először fel kellett lazítani, (csákányozni ) aztán azt a réteget lelapátolni, és újra lazítani, lapátolni.  
 Hogy könnyebben mozgassuk a talicskát, pallókat tettük le a szobák aljára, hogy azon toljuk ki földet. Nem tudom hányat fordultunk, de az udvaron hatalmas földkupacot hordtunk össze. A kihordott földben sok szög maradt, ezért olyan helyre talicskáztuk, ahol az autókra nem jelentett veszélyt.  
 
+![talicska](/assets/szobabetonozas/idézet.jpg)
+
 Őszinte leszek, ez az egyik legrosszabb munka volt.  
 Időigényes, fárasztó, unalmas. Cserébe viszont nem volt gondunk az alvással, és napokig éreztük izmainkban az elvégzett munkát.
 
