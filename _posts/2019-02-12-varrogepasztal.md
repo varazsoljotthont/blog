@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Régi varrógépúj élete!"
+title: "Régi varrógép új élete!"
 cover: /assets/varrogepasztals/cover.jpg
 image:
   path: /assets/varrogepasztal/cover.jpg
