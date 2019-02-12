@@ -36,7 +36,7 @@ _Hangulatos parasztház (Forrás: Pinterest)_
 Megnéztünk néhány ingatlant, és a helyzet elkeserítő volt. Elhanyagolt házak, festéssel elfedett repedések, gazos udvarok… Ami tetszett,  azt pedig a nem mi pénztárcánkhoz szabták.  
 A rossz tapasztalatok ellenére pozitívan álltunk a helyzethez. Tudtuk, hogy meg lesz a ház, ez nem volt kérdés...
 
-![idézet](/assets/hazvasarlas/letöltés.jpg)
+![idézet](/assets/hazvasarlas/letöltés2.jpg)
 
 A hetek teltek, közben kerestük a leendő otthonunkat, de nem voltunk igazán sikeresek. 
 A véletlenek játéka folytán egy jó barátunk hozta el nekünk a megoldást. Ő hívta fel a figyelmünket egy házra, ami akkor még nem volt jelen az ingatlan piacon. Elsőként tudtuk megnézni és felmérni, hogy milyen állapotban van, megfelel-e az elképzelésünknek. 
@@ -74,10 +74,10 @@ _Beindultunk, zajlanak a munkák_
 
 
 ![homesweethome](/assets/hazvasarlas//blogjav4.jpg)
-_Bíztató szavak_
+_A bíztatás_
 
 
-Ez 3,5 hónap kőkemény munkát jelentett, aminek jelentős részét férjemmel ketten végeztük. Közben mindketten dolgoztunk, csak a finisben vettünk ki egy-egy nap szabadságot. Munka után jöttünk a házhoz, és este kilenc - tíz óráig itt voltunk. Mindig, minden mesterrel jó előre megbeszéltük az időpontokat és az elvégzendő munkákat. A szobák betonozásához hívtunk kőművest, és a villany - víz – fűtés szerelést bíztuk szakemberekre. A jó szervezéssel, a mindennapos munkákkal tartani tudtuk a kitűzött célt, és 2015. február 28-án beköltöztünk. 
+Ez 3,5 hónap kőkemény munkát jelentett, aminek jelentős részét férjemmel ketten végeztük. Közben mindketten dolgoztunk, csak a finisben vettünk ki egy-egy nap szabadságot. Munka után jöttünk a házhoz, és este kilenc - tíz óráig itt voltunk. Mindig, minden mesterrel jó előre megbeszéltük az időpontokat és az elvégzendő munkákat. A [ ](/http://blog.varazsoljotthont.hu/2019-02-12/szobabetonozashívtunk )kőművest, és a villany - víz – fűtés szerelést bíztuk szakemberekre. A jó szervezéssel, a mindennapos munkákkal tartani tudtuk a kitűzött célt, és 2015. február 28-án beköltöztünk. 
 Kimerültünk fizikailag - anyagilag, de ott voltunk.  
 A „Miházunkban”.
 
@@ -88,4 +88,7 @@ A „Miházunkban”.
 +1 gondolat:
 Régi ház vásárlásakor szinte mindig marad a házban egy kis ez-az az előző tulajdonostól.
 Érdemes ezeket félretenni, megőrizni. Sok minden akadhat a tárgyak között, amit újra gondolva fel lehet használni a ház körül.
+
+Kapcsolódó cikkek:
+
 
