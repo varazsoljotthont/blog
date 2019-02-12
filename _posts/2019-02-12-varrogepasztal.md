@@ -39,8 +39,15 @@ Férjemmel konzultálva úgy határoztunk, hogy CK lap ( cementkötésű lap ) l
 Ck lap, ragasztó volt itthon, maradék járólapot pedig találtunk a férjem szülői házában. 
 ( A régi falusi házak kincsesbányák az ilyen típusú embereknek, mint mi vagyunk. A mama házában sok régi tárgy volt, amit átalakítva újra felhasználtunk. Pl: régi, fém lámpa búrák, kilincsek, faanyagok )
 Miután a lapot a férjem méretre vágta, rögzítette, elkezdtem megtervezni a mozaikmintáját. Első lépésként meghatároztam színeket. Az ajtók, ablakok mohazöld színűek, a falak fehérek, a teraszt csupa téglára terveztük. Igyekeztem semleges felületű, és színben egymáshoz passzoló darabokat választani. 
-A válogatás eredménye: zöld, türkiz, és fehér járólap. Ezeket óvatosan, kartonpapír alatt kalapáccsal összetörtem, és megkezdtem a kirakóst. Először ragasztó nélkül, ide-oda tologattam a darabkákat. A türkizből kettőy, a fehérből egy darab volt mindössze, ezért nem volt mindegy hogy melyiket hova rakom.
+A válogatás eredménye: zöld, türkiz, és fehér járólap. Ezeket óvatosan, kartonpapír alatt kalapáccsal összetörtem, és megkezdtem a kirakóst. Először ragasztó nélkül, ide-oda tologattam a darabkákat. A türkizből kettő, a fehérből egy darab volt mindössze, ezért nem volt mindegy hogy melyiket hova rakom.
+
+![idézet](/assets/varrogepasztal/1.jpg)
+![idézet](/assets/varrogepasztal/2.jpg
+
+
 A száraz kirakósdi után lefényképeztem, majd visszaszedtem az egészet. A CK lapra a férjem néhány mm vastagon felkente csempe ragasztót, és visszarakosgattam a mozaikot. Minden darab között hagytam a fugának helyet. A ragasztó száradása után, fehér fugázóval kentem ki a hézagokat. Nedves szivaccsal áttöröltem a felületet, és vártam a teljes száradást.
+
+![idézet](/assets/varrogepasztal/idézet.png)
 Míg száradt, elégedetten nézegettem első DIY alkotásomat. Aztán főztem egy jó kávét, és szervíroztam a még nem létező teraszunk, létező asztalán. 
 
 Ötlet: A kivitelezést könnyebben meg tudtam volna csinálni, ha a körbe az asztal széléhez teszünk egy keretet. Nem gondoltunk rá, hogy kellene. De kétségtelen, hogy egyszerűbb lett volna munka, bár így is megérte 
