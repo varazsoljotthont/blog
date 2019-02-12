@@ -20,7 +20,7 @@ A mi helyzetünk egyszerű(bb)nek tűnt. A férjemmel kerestük magunknak a megf
 * az átalakítás költségével együtt is vállalható 
 * egyszintes
 * közel a munkahelyekhez
-* rendezett az udvar, a kert 
+* rendezett udvar, a kert 
 * csendes
 
 Nem volt szempont az óvoda, iskola közelsége, és nem volt lényeges hogy városban éljünk. 
