@@ -43,7 +43,7 @@ A válogatás eredménye: zöld, türkiz, és fehér járólap. Ezeket óvatosan
 
 ![varrógép asztal](/assets/varrogepasztal/1.jpg)
 
-![mozaik asztal](/assets/varrogepasztal/2.jpg)
+![varrógép asztal](/assets/varrogepasztal/2.jpg)
 
 
 A száraz kirakósdi után lefényképeztem, majd visszaszedtem az egészet. A CK lapra a férjem néhány mm vastagon felkente csempe ragasztót, és visszarakosgattam a mozaikot. Minden darab között hagytam a fugának helyet. A ragasztó száradása után, fehér fugázóval kentem ki a hézagokat. Nedves szivaccsal áttöröltem a felületet, és vártam a teljes száradást.
