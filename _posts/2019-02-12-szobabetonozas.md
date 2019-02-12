@@ -13,7 +13,7 @@ image:
 
 ## Búcsú a hajópadlótól
 
-Mikor még csak ismerkedtem a házzal, és figyelgettem a részleteket, a szobákban lévő hajópadlók azonnal megtetszettek. Szerettük volna megtartani, de látszott, hogy néhány helyen korhadt, és járkálás közben hullámzott alattunk. Így hiába volt hangulatos, megszavaztuk, hogy mennie kell. Az egyik sarokban óvatosan megbontottuk a padlót, és hát nem volt szerencsénk… Kiderült, hogy, a szobák nem betonosak. A régi eljárásnak megfelelően, föld – homok ágyba rakták a párnafákat. Két helyiségről volt szó amit betonozni kellett, és a munkával nem lehetett várni.  
+Mikor még csak ismerkedtem a házzal, (([erről itt olvashatsz](/2019-02-09/hazvasarlas)) és figyelgettem a részleteket, a szobákban lévő hajópadlók azonnal megtetszettek. Szerettük volna megtartani, de látszott, hogy néhány helyen korhadt, és járkálás közben hullámzott alattunk. Így hiába volt hangulatos, megszavaztuk, hogy mennie kell. Az egyik sarokban óvatosan megbontottuk a padlót, és hát nem volt szerencsénk… Kiderült, hogy, a szobák nem betonosak. A régi eljárásnak megfelelően, föld – homok ágyba rakták a párnafákat. Két helyiségről volt szó amit betonozni kellett, és a munkával nem lehetett várni.  
 Feszítővassal, szöghúzóval kezdtük el felszedni a padlót, és igyekeztünk a lehető legtöbbet megmenteni belőle. Tudtuk, hogy ez padló újragondolva még meg fog jelenni a házban. Az ablakon kinyújtva tudtuk csak kihordani, mert az 5 méteres hossza miatt, sehogy sem tudtunk velük forgolódni.  
 A padló és a párnafák felszedésére elég volt kétszer fél nap. Az egész padló projektből, ez a rész volt a legkönnyebb. 
 A felbontás után ott álltunk a földes szobában, és én nem tudtam, hogy sírjak, vagy nevessek. 
@@ -86,12 +86,12 @@ Mint írtam, a jó mesterembereket előre le kell foglalni, és ez csak tervezé
 A villany, víz és központi fűtés szerelőt, szinte a házvásárlással egy időben megkerestük, és elmondtuk a terveinket. Körvonalaztuk az időt, hogy mikor számíthatnak a munkára.  
 A betonozás után kellett néhány nap a beton száradásának.  
 Ebben a pár napban találtuk ki a férjemmel, hogy pontosan hova-mit szeretnénk.  Ahhoz, hogy ne utólag kelljen alakítani, a kész falakat szétvésni, konkrét tervekre volt szükség.  
-Most kellett meghatározni, minden radiátor, konnektor, villanykapcsoló, de még a mosogató, mosogatógép, stb helyét is. Pl: előre tudni kell, hogy miként változnak a helyiségek funkciói. ( Nálunk a szobából konyha lett, a konyhából nappali, a spájzból gardrób ) Tudni kell milyen lesz a konyhabútor, ott hova akarunk konnektorokat, és mennyi kell belőle. Melyik konnektorba fogunk kisgépeket használni, és hol kell erősebb vezetékelésű. Hol lesz a páraelszívó, a mosogatógép, a gáztűzhely. A tűzhely villanyos lesz-e, mert akkor annak konnektor kell. 
+Most kellett meghatározni, minden radiátor, konnektor, villanykapcsoló, de még a mosogató, mosogatógép, stb helyét is. Pl: előre tudni kell, hogy miként változnak a helyiségek funkciói. ( Nálunk a szobából konyha lett, a konyhából nappali, a spájzból gardrób ) (([erről itt olvashatsz](/2019-02-11/találjuk_ki)) Tudni kell milyen lesz a konyhabútor, ott hova akarunk konnektorokat, és mennyi kell belőle. Melyik konnektorba fogunk kisgépeket használni, és hol kell erősebb vezetékelésű. Hol lesz a páraelszívó, a mosogatógép, a gáztűzhely. A tűzhely villanyos lesz-e, mert akkor annak is konnektor kell. A villanykapcsolók helye legalább ilyen fontos.  Pl: milyen magasságban legyenek, váltó kapcsolók legyenek-e, mennyezeti lámpák helye, stb.
 
 **Előre eldöntöttem, hogy hol fog állni majd a karácsonyfa, mert nagyon nem akartam hosszabítókat használni** 
 
-Sok-sok kicsinek tűnő dolog, de ha nincs alaposan megtervezve komoly problémákat okoz.  
-A villanykapcsolók elhelyezése legalább ilyen fontos.  Pl: milyen magasságban legyenek, váltó kapcsolók legyenek-e, mennyezeti lámpák helye, stb.  
+Sok-sok kicsinek tűnő dolog, de ha nincs alaposan megtervezve komoly gondot okoz.  
+  
 A fűtés és a víz esetében ugyanígy jártunk el. Nem akartunk a falon kívül csöveket, ezért úgy döntöttünk, hogy minden szerelvényt az szerelőbetonban „viszünk el”.  
 A mesterekkel mindent átbeszéltünk, és az előre megbeszélt időpontban meg is kezdték a munkát… …a munkát, ami első ránézésre elég ijesztő volt. A fűtés - víz miatt, a már eleve betonos helyiségek alját felvésték. A villanyszerelő a falakat bombázta szét…
 
@@ -108,14 +108,13 @@ _Csövek erre, arra._
  
 Itt kell megjegyeznem, hogy azzal, hogy ezek a munkák megkezdődtek a házban, elzárták a vizet, és kikapcsolták a villanyt. A vizet a kútból húztuk és a kályhán melegítettük, áram pedig a villanyórától, hosszabítókon keresztül volt. Nem volt egyszerű :D  
 Pár nap alatt becsöveztek mindent, és megbeszéltük velük a soron következő munkák idejét.  
-A frissen betonozott helyiségekre leraktuk a 3 cm-es hungarocell táblákat. A férjem a csövek helyét kivagdosta a szigetelésben, és összeillesztgettük szigetelést a csövekkel. A hungarocellre fóliát terítettünk, hogy arra kerüljön a beton.
+A frissen betonozott helyiségekre leraktuk a 3 cm-es hungarocell táblákat. A férjem a csövek helyét kivagdosta a szigetelésben, és összeillesztgettük szigetelést a csövekkel. A hungarocellre fóliát terítettünk, hogy arra kerüljön az újabb réteg beton.
 
 ![régi szoba](/assets/szobabetonozas/13.jpg)
 
  
 
-
-A kőművesek újra jöttek, hogy a második betonozást megcsinálják a szobákban, ill. már a szoba, konyhában. Még a 2. betonozás megkezdése előtt a fal aljához 10 cm magas dilatációs szalagot raktunk, a beton mozgása, hőtágulása miatt.  
+A kőművesek újra jöttek, hogy a második betonozást megcsinálják a szobákban, ill. már a szoba, konyhában. Még a 2. fázis megkezdése előtt a fal aljához 10 cm magas dilatációs szalagot raktunk, a beton mozgása, hőtágulása miatt.  
 A folyamat ugyanaz volt, mint az első esetben. Földnedves beton, újra keverés, talicska. Szépen elsimították, hisz erre már a burkolat került.
 
 ![régi szoba](/assets/szobabetonozas/14.jpg)
