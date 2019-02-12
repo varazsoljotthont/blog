@@ -66,6 +66,5 @@ _Évek óta a kedvencünk egy jó kávéhoz_
 
 
 
-**+ 1 gondolat:** 
-Könnyebb lett volna a kivitelezés, ha a körbe az asztal széléhez teszünk egy keretet. A ragasztó, a fuga nem folyt volna le. Így is megoldottam, de kétségtelen, hogy egyszerűbb lett volna munka.
+**+ 1 gondolat: Könnyebb lett volna a kivitelezés, ha a körbe az asztal széléhez teszünk egy keretet. A ragasztó, a fuga nem tudott volna lefolyni. Így is megoldottam, de kétségtelen, hogy egyszerűbb lett volna munka.
 
