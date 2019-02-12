@@ -20,7 +20,7 @@ De ha már pihenés és kávé, akkor jó lenne egy stílusos asztal is...
 A szerencse, mint már olyan sokszor most is mellénk állt. Egy barátunkat vittük el az apósához, ahol, míg ők a dolgukat intézték, én nézegettem az udvaron. Alig észrevehetően lapult meg a sufniban a két öntöttvas varrógép állvány. Nem túlzok, mikor azt mondom, hogy hevesebben kezdett verni a szívem.  Nagyon szerettem volna az egyiket…
 Gyorsan végig futtattam a lehetőségeket, hogy mi történhet, ha a barátunknál, vagy a bácsinál rákérdezek. Veszteni valóm nincs.. A legrosszabb eshetőség, hogy nem kapom meg. De akkor még pont ott vagyok, ahol eddig… Nincs varrógépem… Szóval nagy levegő, kérdezés, és a válasz igen lett. Elvihetem, ha nekem ez a lim-lom ennyire tetszik. Juhééééé!!! Bátraké a szerencse.
 
-[idézet](/assets/varrogepasztal/idézet.jpg)
+![idézet](/assets/varrogepasztal/idézet.jpg)
 
 **Legyen strapabíró, dizájnos asztalunk.**
 
