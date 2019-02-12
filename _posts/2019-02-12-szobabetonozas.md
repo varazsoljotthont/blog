@@ -55,7 +55,7 @@ Hogy könnyebben mozgassuk a talicskát, pallókat tettük le a szobák aljára,
 _Egy barátság kezdete_
 
 ![földes szoba](/assets/szobabetonozas/3jav.jpg)
-... talán látszik, mennyi földet szedtünk ki... 
+...talán látszik, mennyi földet szedtünk ki... 
 
 Őszinte leszek, ez az egyik legrosszabb munka volt.  
 Időigényes, fárasztó, unalmas. Cserébe viszont nem volt gondunk az alvással, és napokig éreztük izmainkban az elvégzett munkát.
