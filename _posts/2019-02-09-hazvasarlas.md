@@ -43,7 +43,7 @@ A véletlenek játéka folytán egy jó barátunk hozta el nekünk a megoldást.
 A házzal, a telek méretével nagyjából elégedettek voltunk. A belső terek tiszták, rendezettek voltak, de külseje ijesztően hatott. Régi ablakok, leomló vakolat, a házzal egybe építve az istálló, azon egy nagyon rossz állapotú ajtó. A látvány nem volt túl szívderítő.  
 Az utcafrontra nézett a két szoba, ahol a padló földágyba volt rakva. Az elektromos hálózat elavult volt, és a helyiségekben kályhákkal fűtöttek. 
 
-![romos ház felújítás előtt](/assets/hazvasarlas/blogjav1.jpg)
+![romos ház felújítás előtt](/assets/hazvasarlas/blogjav.jpg)
 _Ilyen volt a ház mikor megvettük_
 
 ![üres régi szoba](/assets/hazvasarlas/blogjav2.jpg)
