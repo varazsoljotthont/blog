@@ -29,7 +29,7 @@ _Ilyen volt, ilyen lett_
 
 ## Mit kell kibontani, szétszedni? 
 
-A fürdőszobához nem nagyon kellett nyúlni, az előző tulajdonos nagyjából megcsinálta. A villanyvezetékeket viszont muszáj volt cserélni, és pár konnektort, kapcsolót, és a ventillátort is fel kellett tenni.  A csempe, járólap nem igazán tetszett, de butaság lett volna szétverni. (Utólag már nem bántam, hogy egyszerű szürke volt, ehhez a színhez könnyebben tudtam alkalmazkodni. Na, és a ma divatos sötét színű burkoló anyagokkal szemben, nem kényesek ) Abban biztos voltam, hogy a mosógépet csak átmenetileg rakjuk a fürdőszobába. Már akkor tervbe vettük, hogy az istálló helyén mosókonyha lesz.
+A fürdőszobához nem nagyon kellett nyúlni, az előző tulajdonos nagyjából megcsinálta. A villanyvezetékeket viszont muszáj volt cserélni, és pár konnektort, kapcsolót, és a ventillátort is fel kellett tenni.  A csempe, járólap nem igazán tetszett, de butaság lett volna szétverni. (Utólag már nem bántam, hogy egyszerű szürke volt, ehhez a színhez könnyebben tudtam alkalmazkodni. Na, és a ma divatos sötét színű burkoló anyagokkal szemben nem kényes ) Abban biztos voltam, hogy a mosógépet csak átmenetileg rakjuk a fürdőszobába. Már akkor tervbe vettük, hogy az istálló helyén mosókonyha lesz.
 
 ![fürdőszoba](/assets/talaljuk_ki/3jav.jpg)
 
