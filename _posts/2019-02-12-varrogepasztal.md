@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Régi varrógép új élete!"
-cover: /assets/varrogepasztal/cover.jpg
+cover: /assets/varrogepasztal/coverjav.jpg
 image:
-  path: /assets/varrogepasztal/cover.jpg
+  path: /assets/varrogepasztal/coverjav.jpg
   height: 300
   width: 300  
 ---
