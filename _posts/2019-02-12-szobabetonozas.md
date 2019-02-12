@@ -55,7 +55,7 @@ Hogy könnyebben mozgassuk a talicskát, pallókat tettük le a szobák aljára,
 _Egy barátság kezdete_
 
 ![földes szoba](/assets/szobabetonozas/3jav.jpg)
-...talán látszik, mennyi földet szedtünk ki... 
+_...talán látszik, mennyi földet szedtünk ki..._
 
 
 Őszinte leszek, ez az egyik legrosszabb munka volt.  
@@ -77,7 +77,7 @@ A kőművesek pár óra alatt végeztek, én pedig örültem, mert olyan szépne
 ![régi szoba](/assets/szobabetonozas/6.jpg)
 
 ![régi szoba](/assets/szobabetonozas/7.jpg)
-_...alakul, alakul..._
+_alakul, alakul..._
 
 Hogy a felújítás gördülékenyen menjen, a mesterekkel megbeszéltük a 2. réteg betonozásának idejét.
 
