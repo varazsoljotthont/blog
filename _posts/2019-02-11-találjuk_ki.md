@@ -45,7 +45,7 @@ _Bontjuk a falat, a konyha - nappali között_
 
 
 
-Következő lépésként az ajtók, ablakok szemrevételezése jött. És a felismerés, hogy nem hagyunk meg semmit a régi nyílászárókból. Az utcai ablakok renoválás után ugyan tetszettek volna, de annyira szú ette volt mindkettő, hogy végül lemondtunk róluk. ( Persze az újak sokkal szebbek is lettek. )
+Következő lépésként az ajtók, ablakok szemrevételezése jött. És a felismerés, hogy nem marad meg semmi a régi nyílászárókból. Az utcai ablakok renoválás után ugyan tetszettek volna, de annyira szú ette volt mindkettő, hogy végül lemondtunk róluk. ( Persze az újak sokkal szebbek is lettek. )
 A régi, alacsony ajtókat kiszedtük, az ablakokat cseréltük, a belső folyosós ablakot megszüntettük. A bejárati ajtót áthelyeztük. A régi helyét befalaztuk, az újnak kibontottuk a falat. Összenyitottuk az előteret és a volt istállót, mert a mosókonyhát, kamrát, és a kazánházat ott szerettük volna kialakítani.
 
 
