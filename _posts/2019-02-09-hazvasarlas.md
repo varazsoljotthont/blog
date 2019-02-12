@@ -50,9 +50,9 @@ _Ilyen volt a ház mikor megvettük_
 
 
 
-Az udvar, a kert csupaszon állt. Nem volt semmi. Se egy fa, se egy bokor… Konkrétan egy kiszáradt körtefa,és két szőlőtőke árválkodott az egész telken, a kertben pedig vadon nőtt a lucerna. Ez kopárság először nagyon zavart. Ridegnek, barátságtalannak tűnt az udvar. Tovább gondolva azonban rájöttünk, hogy ennél jobb nem is lehetne a hely. Úgy lehet alakítani, ahogy akarjuk, és nem kell az irtással foglalkozni.
+Az udvar, a kert csupaszon állt. Nem volt semmi. Se egy fa, se egy bokor… Konkrétan egy kiszáradt körtefa, és két szőlőtőke árválkodott az egész telken, a kertben pedig vadon nőtt a lucerna. Ez kopárság először nagyon zavart. Ridegnek, barátságtalannak tűnt az udvar. Tovább gondolva azonban rájöttünk, hogy ennél jobb nem is lehetne a hely. Úgy lehet alakítani, ahogy akarjuk, és nem kell az irtással foglalkozni.
 
-A tulajdonosok végül az eladás mellett döntöttek, ám mielőtt mi is rábólintottunk volna a vásárlásra, még többször “bejártuk” a házat. Tudni akartam, hogy mit mutat meg magából, bele tudjuk-e látni a jövőnket. Agyalgattunk a férjemmel mit, hogyan lehetne átalakítani, és ez milyen munkákkal jár majd. Mennyi idő alatt tudjuk felújítani, beköltözhetővé tenni.  
+A tulajdonosok végül az eladás mellett döntöttek, ám mielőtt mi is rábólintottunk volna a vásárlásra, még többször “bejártuk” a házat. Tudni akartuk, hogy mit mutat meg magából, bele tudjuk-e látni a jövőnket. Agyalgattunk a férjemmel mit, hogyan lehetne átalakítani, és ez milyen munkákkal jár majd. Mennyi idő alatt tudjuk felújítani, beköltözhetővé tenni.  
 Volt a házban, a telekben fantázia (pedig jól eldugták)… Éreztük, hogy sok munkával, sok ötlettel egy nekünk tetsző, stílusos parasztházzá tudjuk majd alakítani…  A tervezgetések eredményeként végül az üzlet megköttetett, a házat MEGVETTÜK!!!  
 Szívünk szerint, azonnal nekikezdtünk volna a munkálatoknak, de a bürokrácia még az utunkat állta... 
 Ügyvéd, bank, közjegyző. Közüzemi számlák átíratása... 
