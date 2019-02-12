@@ -129,7 +129,7 @@ Nagyon sok munka volt, és sokba is került, de egy felújítás során mindent 
 Amikor szét van verve a ház, már úgyis mindegy…  Érdemes teljesen új villanyvezetékeket húzni a házba, és minden régi szerelvényt ilyenkor kell át ill. kicserélni. Nagyon lényeges, hogy a mesterekkel időben egyeztessük le az elvégzendő munkákat.  
 Az, hogy mi 3,5 hónap alatt megcsináltuk, az ( is ) kellett, hogy mindenki akkor jött, amikor mi akartuk. Minden napot ki tudtunk használni a felújításra, nem voltak "üresjáratok".
 
-**+1 gondolat: Idő -pénz hiányában a padlófűtés ötletét elvetettük, ennek hiányában a szigetelésnek nem sok érteleme lett. A lelkünket megnyugtattuk, de a járólap hideg maradt.**
+**+ 1 gondolat: Idő -pénz hiányában a padlófűtés ötletét elvetettük, ennek hiányában a szigetelésnek nem sok érteleme lett. A lelkünket megnyugtattuk, de a járólap hideg maradt.**
 
 
 
