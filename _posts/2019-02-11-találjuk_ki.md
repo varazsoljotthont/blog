@@ -110,7 +110,7 @@ Kövesd a blogot, és te is meglátod a végeredményt.
 
 ## Kapcsolódó cikkek
 
-* [Találjuk ki a házunkat](2019-02-11/találjuk_ki)
+* [Találjuk ki a házunkat](2019-02-09/hazvasarlas)
 * [A földes szobákkal kezdtük a házfelújítást!](2019-02-12/szobabetonozas)
 * [Régi varrógép új élete!](2019-02-12/varrogepasztal)
 
