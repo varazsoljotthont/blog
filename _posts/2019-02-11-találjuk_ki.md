@@ -103,13 +103,13 @@ Ezeknek a belső munkáknak az elvégzésére volt 3,5 hónapunk. Közben dolgoz
 Jöttünk, láttunk, beköltöztünk. 
 
 ![folyosó](/assets/talaljuk_ki/19jav.jpg)
-_Költözés idején, 3,5 hónap munkája_
+_Költözés idején. 3,5 hónap munkája_
  
 
 A házunk lakórésze nagyjából elkészült, - a részletes felújítást olvashatod a blogon - csak néhány apróság hiányzott. A ház külseje viszont még szánalmas volt. Rengeteg munka várt még ránk, de mi rendületlenül hittünk magunkban. Tudtuk, hogy meg tudjuk csinálni.
 Kövesd a blogot, és te is meglátod a végeredményt.
 
-**+1 gondolat: Nem szabad megijedni a ránk váró, eddig ismeretelen kihívásoktól. A felújítás ideje alatt rengeteget tanultunk magunkról is, egymásról is. Leginkább azt, hogy együtt mindenre képesek vagyunk! ...és nem utolsósorban több szakmát is elsajátítottunk a munkák során...**
+**+1 gondolat: Nem szabad megijedni a ránk váró, eddig ismeretelen kihívásoktól. A felújítás ideje alatt rengeteget tanultunk magunkról is, és egymásról is. Leginkább azt, hogy együtt mindenre képesek vagyunk! ...és nem utolsósorban több szakmát is elsajátítottunk a munka során...**
 
 ## Kapcsolódó cikkek
 
