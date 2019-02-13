@@ -93,11 +93,8 @@ A szobákban kályhák voltak, ezek helyett központfűtést akartunk. A vizet �
 
 ![falbontása](/assets/talaljuk_ki/17jav.jpg)
 
-
- **A bontás eredménye:** 
- 
- 
- ![törmelék](/assets/talaljuk_ki/18jav.jpg)
+![törmelék](/assets/talaljuk_ki/18jav.jpg)
+_A bontás eredménye_
 
 Ezeknek a belső munkáknak az elvégzésére volt 3,5 hónapunk. Közben dolgoztunk, és mivel már az évvége felé jártunk, szabadsággal is igencsak gyengén álltunk. De végül a jó szervezésnek, a profi hozzáállásunknak, az elszántságunknak köszönhetően sikerült. 
 Jöttünk, láttunk, beköltöztünk. 
