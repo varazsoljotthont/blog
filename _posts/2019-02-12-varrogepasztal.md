@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Régi varrógép új élete!"
-cover: /assets/varrogepasztal/cover.jpg
+cover: /assets/varrogepasztal/cover.jpghttps://github.com/varazsoljotthont/blog
 image:
   path: /assets/varrogepasztal/cover.jpg
   height: 300
@@ -108,5 +108,7 @@ _Évek óta a kedvencünk egy jó kávéhoz_
 _Itt már teraszt is kapott az asztal_
 
 
-**+ 1 gondolat: Könnyebb lett volna a kivitelezés, ha a körbe az asztal széléhez teszünk egy keretet. A ragasztó, a fuga nem tudott volna lefolyni. Így is megoldottam, de kétségtelen, hogy egyszerűbb lett volna munka.**
+## + 1 gondolat: 
+
+Könnyebb lett volna a kivitelezés, ha a körbe az asztal széléhez teszünk egy keretet. A ragasztó, a fuga nem tudott volna lefolyni. Így is megoldottam, de kétségtelen, hogy egyszerűbb lett volna munka.**
 
