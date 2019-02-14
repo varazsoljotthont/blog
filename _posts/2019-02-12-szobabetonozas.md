@@ -24,7 +24,10 @@ A régi eljárásnak megfelelően, föld – homok ágyba rakták a párnafákat
 ## Kezdjük el felszedni a padlót!
 
 
-Feszítővassal, szöghúzóval kezdtük el felszedni a padlót, és igyekeztünk a lehető legtöbbet megmenteni belőle. Tudtuk, hogy ez padló újragondolva még meg fog jelenni a házban. Az ablakon kinyújtva tudtuk csak kihordani, mert az 5 méteres hossza miatt, sehogy sem tudtunk velük forgolódni.  
+Feszítővassal, szöghúzóval kezdtük el felszedni a padlót, és igyekeztünk a lehető legtöbbet megmenteni belőle. Tudtuk, hogy ez padló újragondolva még meg fog jelenni a házban. 
+
+
+Az ablakon kinyújtva tudtuk csak kihordani, mert az 5 méteres hossza miatt, sehogy sem tudtunk velük forgolódni.  
 
 
 A padló és a párnafák felszedésére elég volt kétszer fél nap. Az egész padló projektből, ez a rész volt a legkönnyebb.  
@@ -48,7 +51,12 @@ _Sírjak vagy nevessek?_
 A neheze most jött, hogy a padlókat, párnafákat kihordtuk ( és száraz helyre tettük ) és csak a homokosföld maradt. 
 
 Megkezdtük a föld kihordását, ami az idő folyamán kő kemény lett.  
-Először fel kellett lazítani, ( csákányozni ) aztán azt a réteget lelapátolni, és újra lazítani, lapátolni.  Az, hogy mennyi földet kell kilapátolni a szobákból a leendő szint magasságától függ. ( Ezt a kőművesekkel megbeszéltük. )
+
+
+Először fel kellett lazítani, ( csákányozni ) aztán azt a réteget lelapátolni, és újra lazítani, lapátolni.  
+
+
+Az, hogy mennyi földet kell kilapátolni a szobákból a leendő szint magasságától függ. ( Ezt a kőművesekkel megbeszéltük. )
 
 ![talicska](/assets/szobabetonozas/idézet.jpg)
 
