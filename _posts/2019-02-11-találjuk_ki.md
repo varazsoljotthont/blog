@@ -36,7 +36,7 @@ _Ilyen volt, ilyen lett_
 
 
 
-## Mit kell kibontani, szétszedni? 
+## A fürdőszoba egész jó!
 
 A fürdőszobához nem nagyon kellett nyúlni, az előző tulajdonos nagyjából megcsinálta. A villanyvezetékeket viszont muszáj volt cserélni, és pár konnektort, kapcsolót, és a ventillátort is fel kellett tenni.  
 A csempe, járólap nem igazán tetszett, de butaság lett volna szétverni. (Utólag már nem bántam, hogy egyszerű szürke volt, ehhez a színhez könnyebben tudtam alkalmazkodni. Na, és a ma divatos sötét színű burkoló anyagokkal szemben nem kényes )  
@@ -46,6 +46,10 @@ Már akkor tervbe vettük, hogy az istálló helyén mosókonyha lesz.
 ![fürdőszoba](/assets/talaljuk_ki/3jav.jpg)
 
 ![fürdőszoba](/assets/talaljuk_ki/4jav.jpg) 
+
+
+## Mit kell kibontani, szétszedni? 
+
 
 
 Egybe nyitott tereket szerettünk volna, és ez falbontással járt. Ehhez „feltérképeztük”, hogy hol vannak tartó falak.  
@@ -62,7 +66,7 @@ _Bontjuk a falat, a konyha - nappali között_
 
 
 Következő lépésként az ajtók, ablakok szemrevételezése jött. És a felismerés, hogy nem marad meg semmi a régi nyílászárókból.  
-Az utcai ablakok renoválás után ugyan tetszettek volna, de annyira szú ette volt mindkettő, hogy végül lemondtunk róluk. ( Persze az újak sokkal szebbek is lettek. )
+Az utcai ablakok renoválás után ugyan tetszettek volna, de annyira szú ette volt mindkettő, hogy végül lemondtunk róluk. ( Persze az újak sokkal szebbek is lettek. ) Így aztán a:
 
 
 * régi, alacsony ajtókat kiszedtük 
@@ -91,7 +95,7 @@ _Jómagam munka közben_
   
 
 
-  
+## Még mindig a bontás
 
 Mivel semmi sem maradt a helyén, a villanyszerelőnek is akadt dolga. A vezetékek, a rengeteg konnektor, a kapcsolók, az új villanyóra szekrény szerelése sok munkával, és jelentős kiadással járt.  
 
@@ -131,6 +135,13 @@ Szóval, oda is kellett valami megoldás.
 
 ![törmelék](/assets/talaljuk_ki/18jav.jpg)
 _A bontás eredménye_
+
+
+
+
+## Megcsináltuk!
+
+
 
 Ezeknek a belső munkáknak az elvégzésére volt 3,5 hónapunk. Közben dolgoztunk, és mivel már az évvége felé jártunk, szabadsággal is igencsak gyengén álltunk.  
 De végül a jó szervezésnek, a profi hozzáállásunknak, az elszántságunknak köszönhetően sikerült. 
