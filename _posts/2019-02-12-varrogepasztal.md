@@ -56,7 +56,7 @@ Az asztalt a majdani teraszra szántuk, ezért olyan felület kellett, amit kön
 
 Férjemmel konzultálva úgy határoztunk, hogy CK lap ( cementkötésű lap ) lesz az alap, arra pedig járólap darabokból mozaikot rakok ki. Ck lap, ragasztó volt itthon, maradék járólapot pedig találtunk a férjem szülői házában.  
 
-( **A régi falusi házak kincsesbányák az ilyen típusú embereknek, mint mi vagyunk. A mama házában sok régi tárgy volt, amit átalakítva újra felhasználtunk. Pl: régi, fém lámpa búrák, kilincsek, faanyagok** )  
+ **A régi falusi házak kincsesbányák az ilyen típusú embereknek, mint mi vagyunk. A mama házában sok régi tárgy volt, amit átalakítva újra felhasználtunk. Pl: régi, fém lámpa búrák, kilincsek, faanyagok** 
 
 ## Mozaikos aztalunk lesz!
 
