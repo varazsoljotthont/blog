@@ -108,7 +108,6 @@ _Évek óta a kedvencünk egy jó kávéhoz_
 _Itt már teraszt is kapott az asztal_
 
 
-## + 1 gondolat: 
-
+**+ 1 gondolat:**  
 Könnyebb lett volna a kivitelezés, ha a körbe az asztal széléhez teszünk egy keretet. A ragasztó, a fuga nem tudott volna lefolyni. Így is megoldottam, de kétségtelen, hogy egyszerűbb lett volna munka.**
 
