@@ -116,16 +116,6 @@ A mester dolgozott, mi pedig szurkoltunk, hogy ne dőljön ránk a ház.
 ![falbontás](/assets/talaljuk_ki/14jav.jpg)
 
 
-Talán ekkor volt az egész felújítás a legijesztőbb... Néha elbizonytalanodtam, hogy lesz ebből költözés 3 hónap múlva... De gyorsan lecsuktam a szemem és láttam, hogy milyen lesz majd, ha elkészül...  
-
-
-Biztos voltam benne, hogy az elképzeléseim szerint fog alakulni a ház!
-
-
-...de addig még rengeteg munka várt ránk. 
-
-![kitartás idézet](/assets/talaljuk_ki/kitartas.jpg)
-_Kitartás_
 
 
 
@@ -145,6 +135,21 @@ Szóval, oda is kellett valami megoldás.
 ![törmelék](/assets/talaljuk_ki/18jav.jpg)
 _A bontás eredménye_
 
+
+
+## Hogy lesz ebből ház?
+
+
+Talán ekkor volt az egész felújítás a legijesztőbb... Néha elbizonytalanodtam, hogy lesz ebből költözés 3 hónap múlva... De gyorsan lecsuktam a szemem és láttam, hogy milyen lesz majd, ha elkészül...  
+
+
+Biztos voltam benne, hogy az elképzeléseim szerint fog alakulni a ház!
+
+
+...de addig még rengeteg munka várt ránk. 
+
+![kitartás idézet](/assets/talaljuk_ki/kitartas.jpg)
+_Kitartás_
 
 
 
