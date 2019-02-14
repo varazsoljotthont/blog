@@ -128,7 +128,7 @@ A szobákban kályhák voltak, ezek helyett központfűtést akartunk.
 
 A vizet át kellett vinni az új konyhába. 
 
-A hajópadlók alatt, az aljzat nem volt lebetonozva. A régi időkben elterjedt volt, hogy földes – homokos alapra rakták a pallót. Ezt is meg kellett szüntetni. ([erről itt olvashatsz](/2019-02-12/szobabetonozas))  A már betonos helyiségekben járólap volt, de a fűtésszerelés miatt a betont ott is feltörték…  
+A hajópadlók alatt, az aljzat nem volt lebetonozva. A régi időkben elterjedt volt, hogy földes – homokos alapra rakták a padlót. Ezt is meg kellett szüntetni. ([erről itt olvashatsz](/2019-02-12/szobabetonozas))  A már betonos helyiségekben járólap volt, de a fűtésszerelés miatt a betont ott is feltörték…  
 Szóval, oda is kellett valami megoldás.
 
 ![kályha](/assets/talaljuk_ki/15jav.jpg)
