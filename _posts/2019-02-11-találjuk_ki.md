@@ -14,6 +14,11 @@ image:
 
 Mielőtt megvettük a házat, több alkalommal is megnéztük. Ismerkedtünk egymással. ([erről itt olvashatsz](/2019-02-09/hazvasarlas)) A ház felosztása alapvetően megfelelt számunkra, de más-más funkciókat szántunk helyiségeknek.  
 Sorra vettük az igényeinket mit szeretnénk, mi az, ami a kényelmünket szolgálja.  
+
+
+## Gondoljuk át, mit szeretnénk...
+
+
 Az utcafrontra néző nagyobbik szobából (5X4 m) terveztük kialakítani a konyha – étkezőt, a régi konyhából pedig a nappalit. Ez a helyiség kisebb volt, de átgondoltam, hogy majd a mindennapokban hogy funkcionálnak ezek helyiségek.
 
 
