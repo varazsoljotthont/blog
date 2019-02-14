@@ -63,7 +63,9 @@ Férjemmel konzultálva úgy határoztunk, hogy CK lap ( cementkötésű lap ) l
 Miután a lapot a férjem méretre vágta, rögzítette, elkezdtem megtervezni a mozaik színét, mintáját. Igyekeztem semleges felületű, és színben egymáshoz passzoló darabokat választani. 
 
 Az ajtók, ablakok mohazöld színűek, a falak fehérek, a teraszt csupa téglára terveztük. Ehhez a színvilághoz kerestem a megfelelő darabokat. 
-A válogatás eredménye: zöld, türkiz, és fehér járólap. Ezeket óvatosan, kartonpapír alatt kalapáccsal összetörtem, és megkezdtem a kirakóst. Először ragasztó nélkül, ide-oda tologattam a darabkákat. 
+A válogatás eredménye: zöld, türkiz, és fehér járólap. 
+
+Ezeket óvatosan, kartonpapír alatt kalapáccsal összetörtem, és megkezdtem a kirakóst. Először ragasztó nélkül, ide-oda tologattam a darabkákat. 
 
 
 A türkizből kettő, a fehérből egy darab volt mindössze, ezért nem volt mindegy hogy melyiket hova rakom.  
