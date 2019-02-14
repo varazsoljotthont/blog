@@ -47,7 +47,7 @@ _Hangulatos parasztház (Forrás: Pinterest)_
 Megnéztünk néhány ingatlant, és a helyzet elkeserítő volt. Elhanyagolt házak, festéssel elfedett repedések, gazos udvarok… Ami tetszett,  azt pedig a nem mi pénztárcánkhoz szabták.  
 A rossz tapasztalatok ellenére pozitívan álltunk a helyzethez. Tudtuk, hogy meg lesz a ház, ez nem volt kérdés...
 
-![idézet](/assets/hazvasarlas/letöltés2.jpg)
+![idézet](/assets/hazvasarlas/hazvasarlasidezet.jpg)
 
 A hetek teltek, közben kerestük a leendő otthonunkat, de nem voltunk igazán sikeresek. 
 A véletlenek játéka folytán egy jó barátunk hozta el nekünk a megoldást. Ő hívta fel a figyelmünket egy házra, ami akkor még nem volt jelen az ingatlan piacon. Elsőként tudtuk megnézni és felmérni, hogy milyen állapotban van, megfelel-e az elképzelésünknek. 
