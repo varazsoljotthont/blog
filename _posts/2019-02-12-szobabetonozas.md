@@ -106,20 +106,20 @@ Hogy a felújítás gördülékenyen menjen, a mesterekkel megbeszéltük a 2. r
 
 Mint írtam, a jó mesterembereket előre le kell foglalni, és ez csak tervezéssel megy.  
 A villany, víz és központi fűtés szerelőt, szinte a házvásárlással egy időben megkerestük, és elmondtuk a terveinket. Körvonalaztuk az időt, hogy mikor számíthatnak a munkára.  
-
-
-két betonozás között volt pár napunk, akkor ötleteltük ki a férjemmel, hogy pontosan hova-mit szeretnénk.  Ahhoz, hogy ne utólag kelljen alakítani, a kész falakat szétvésni, konkrét tervekre volt szükség.  
+Két betonozás között volt pár napunk, akkor ötleteltük ki a férjemmel, hogy pontosan hova-mit szeretnénk.  Ahhoz, hogy ne utólag kelljen alakítani, a kész falakat szétvésni, konkrét tervekre volt szükség.  
 Most kellett meghatározni, minden radiátor, konnektor, villanykapcsoló, de még a mosogató, mosogatógép, stb helyét is. Pl: előre tudni kell, hogy miként változnak a helyiségek funkciói.  
-
 
 Nálunk a szobából konyha lett, a konyhából nappali, a spájzból gardrób. ([erről itt olvashatsz](/2019-02-11/találjuk_ki))  
 
+**Tudni kell milyen lesz a konyhabútor, ott hova akarunk konnektorokat, és mennyi kell belőle.** 
 
-**Tudni kell milyen lesz a konyhabútor, ott hova akarunk konnektorokat, és mennyi kell belőle. 
-**Melyik konnektorba fogunk kisgépeket használni, és hol kell erősebb vezeték a nagyobb háztartási gépeknek.  
-**Hol lesz a páraelszívó, a mosogatógép, a gáztűzhely.  
-**A tűzhely villanyos lesz-e, mert akkor annak is konnektor kell.  
-**A villanykapcsolók helye legalább ilyen fontos.  Pl: milyen magasságban legyenek, váltó kapcsolók legyenek-e, hol legyenek mennyezeti lámpák, stb.
+**Melyik konnektorba fogunk kisgépeket használni, és hol kell erősebb vezeték a nagyobb háztartási gépeknek.**  
+
+**Hol lesz a páraelszívó, a mosogatógép, a gáztűzhely.**  
+
+**A tűzhely villanyos lesz-e, mert akkor annak is konnektor kell.**  
+
+**A villanykapcsolók helye legalább ilyen fontos.  Pl: milyen magasságban legyenek, váltó kapcsolók legyenek-e, hol legyenek mennyezeti lámpák, stb.**
 
 **Előre eldöntöttem, hogy hol fog állni majd a karácsonyfa, mert nagyon nem akartam hosszabítókat használni** 
 
@@ -142,12 +142,13 @@ _Csövek erre is, arra is_
 
 ![régi szoba](/assets/szobabetonozas/12.jpg)   
 
- 
 Itt kell megjegyeznem, hogy azzal, hogy ezek a munkák megkezdődtek a házban elzárták a vizet és kikapcsolták a villanyt.  
 A vizet a kútból húztuk és a kályhán melegítettük, áram pedig a villanyórától, hosszabítókon keresztül volt.  
 
 Nem volt egyszerű :D  
 
+
+**Szigetelésnek hungarocellt tettünk le.**
 
 A szerelők pár nap alatt becsöveztek mindent, és megbeszéltük velük a soron következő munkák idejét.  
 A frissen betonozott helyiségekre leraktuk a 3 cm-es hungarocell táblákat. A férjem a csövek helyét kivagdosta a szigetelésben, és összeillesztgettük szigetelést a csövekkel. A hungarocellre fóliát terítettünk, hogy arra kerüljön az újabb réteg beton.
