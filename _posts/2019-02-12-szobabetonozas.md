@@ -11,13 +11,13 @@ image:
 
 ## Ahhoz, hogy a régi házból új legyen, rendbe kell hozni azt, ami már nem korszerű. A legtöbb régi ház esetében a padlózatot föld ill. homok ágyra rakták. Így volt ez a mi esetünkben is. A mai otthonok alap követelménye, hogy a burkolatok alatt beton legyen. A szerelvényezési munkák megkezdése előtt, nekünk is le kellett betonozni a szobákat.
 
-## Búcsú a hajópadlótól
+### Búcsú a hajópadlótól
 
 Mikor még csak ismerkedtem a házzal, ([erről itt olvashatsz](/2019-02-09/hazvasarlas)) és figyelgettem a részleteket, a szobákban lévő hajópadlók azonnal megtetszettek.  
 Szerettük volna megtartani, de látszott, hogy néhány helyen korhadt, és járkálás közben hullámzott alattunk. Így hiába volt hangulatos, megszavaztuk, hogy mennie kell. Az egyik sarokban óvatosan megbontottuk a padlót, és hát nem volt szerencsénk… Kiderült, hogy, a szobák nem betonosak.  
 A régi eljárásnak megfelelően, föld – homok ágyba rakták a párnafákat. Két helyiségről volt szó amit betonozni kellett, és a munkával nem lehetett várni.  
 
-## Kezdjük el felszedni a padlót!
+### Kezdjük el felszedni a padlót!
 
 
 Feszítővassal, szöghúzóval kezdtük el felszedni a padlót, és igyekeztünk a lehető legtöbbet megmenteni belőle. Tudtuk, hogy ez padló újragondolva még meg fog jelenni a házban. Az ablakon kinyújtva tudtuk csak kihordani, mert az 5 méteres hossza miatt, sehogy sem tudtunk velük forgolódni.  
@@ -37,7 +37,7 @@ _Sírjak vagy nevessek?_
 
 
 
-## Elszántság, erő, talicska!
+### Elszántság, erő, talicska!
 
 A neheze most jött, hogy a padlókat, párnafákat kihordtuk ( és száraz helyre tettük ) és csak a homokosföld maradt. 
 
@@ -60,7 +60,7 @@ Időigényes, fárasztó, unalmas. Cserébe viszont nem volt gondunk az alvássa
 
 
 
-## Az aljzat magasságának meghatározása.
+### Az aljzat magasságának meghatározása.
 
 A betonozás megkezdése előtt a kőművesek, kiszintezték, kimérték leendő aljzatbeton magasságát. 
 
@@ -77,7 +77,7 @@ A betonozás megkezdése előtt a kőművesek, kiszintezték, kimérték leendő
 A szomszédos helyiségekhez mérték fel a szintet, mert a frissen betonozott helyiségek aljzat magassága nem lehet magasabb, mint a többi helyiségé.
 
 
-## A földes szoba már a múlté.
+### A földes szoba már a múlté.
 
 
 Mesterembert találni nem egyszerű.  
@@ -102,7 +102,7 @@ _alakul, alakul..._
 
 Hogy a felújítás gördülékenyen menjen, a mesterekkel megbeszéltük a 2. réteg betonozásának idejét.
 
-## Előre gondolkodni, mindent jól megtervezni.
+### Előre gondolkodni, mindent jól megtervezni.
 
 Mint írtam, a jó mesterembereket előre le kell foglalni, és ez csak tervezéssel megy.  
 A villany, víz és központi fűtés szerelőt, szinte a házvásárlással egy időben megkerestük, és elmondtuk a terveinket. Körvonalaztuk az időt, hogy mikor számíthatnak a munkára.  
@@ -149,14 +149,14 @@ A vizet a kútból húztuk és a kályhán melegítettük, áram pedig a villany
 Nem volt egyszerű :D  
 
 
-## Szigetelésnek hungarocellt tettünk le.
+### Szigetelésnek hungarocellt tettünk le.
 
 A szerelők pár nap alatt becsöveztek mindent, és megbeszéltük velük a soron következő munkák idejét.  
 A frissen betonozott helyiségekre leraktuk a 3 cm-es hungarocell táblákat. A férjem a csövek helyét kivagdosta a szigetelésben, és összeillesztgettük szigetelést a csövekkel. A hungarocellre fóliát terítettünk, hogy arra kerüljön az újabb réteg beton.
 
 ![régi szoba](/assets/szobabetonozas/13.jpg)
 
- ## A 2. betonozás
+ ### A 2. betonozás
 
 A kőművesek újra jöttek, hogy a második betonozást megcsinálják a szobákban, ill. már a szoba, konyhában.  
 Még a 2. fázis megkezdése előtt a fal aljához 10 cm magas dilatációs szalagot raktunk, a beton mozgása, hőtágulása miatt.  
