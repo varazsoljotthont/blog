@@ -58,7 +58,7 @@ Először fel kellett lazítani, ( csákányozni ) aztán azt a réteget lelapá
 
 Az, hogy mennyi földet kell kilapátolni a szobákból a leendő szint magasságától függ. ( Ezt a kőművesekkel megbeszéltük. )
 
-![talicska](/assets/szobabetonozas/idézet.jpg)
+![talicska](/assets/szobabetonozas/betonozasidezet1.jpg)
 
 Hogy könnyebben mozgassuk a talicskát, pallókat tettük le a szobák aljára, hogy azon toljuk ki földet. Nem tudom hányat fordultunk, de az udvaron hatalmas földkupacot hordtunk össze. 
 
@@ -217,6 +217,7 @@ Nagyon lényeges, hogy a mesterekkel időben egyeztessük le az elvégzendő mun
 Az, hogy mi 3,5 hónap alatt megcsináltuk, az ( is ) kellett, hogy mindenki akkor jött, amikor mi akartuk. Minden napot ki tudtunk használni a felújításra, nem voltak "üresjáratok".
 
 
-**+ 1 gondolat: Idő - pénz hiányában a padlófűtés ötletét elvetettük, ezért a szigetelésnek nem sok értelme lett. A lelkünket megnyugtattuk, de a járólap hideg maradt.**
+### + 1 gondolat: 
+Idő - pénz hiányában a padlófűtés ötletét elvetettük, ezért a szigetelésnek nem sok értelme lett. A lelkünket megnyugtattuk, de a járólap hideg maradt.**
 
 
