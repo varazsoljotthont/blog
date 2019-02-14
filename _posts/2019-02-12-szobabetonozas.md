@@ -217,7 +217,7 @@ Nagyon lényeges, hogy a mesterekkel időben egyeztessük le az elvégzendő mun
 Az, hogy mi 3,5 hónap alatt megcsináltuk, az ( is ) kellett, hogy mindenki akkor jött, amikor mi akartuk. Minden napot ki tudtunk használni a felújításra, nem voltak "üresjáratok".
 
 
-**+ 1 gondolat:** 
+**+ 1 gondolat:**  
 Idő - pénz hiányában a padlófűtés ötletét elvetettük, ezért a szigetelésnek nem sok értelme lett. A lelkünket megnyugtattuk, de a járólap hideg maradt.**
 
 
