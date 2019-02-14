@@ -77,7 +77,7 @@ A betonozás megkezdése előtt a kőművesek, kiszintezték, kimérték leendő
 A szomszédos helyiségekhez mérték fel a szintet, mert a frissen betonozott helyiségek aljzat magassága nem lehet magasabb, mint a többi helyiségé.
 
 
-## A földeszoba már a múlté.
+## A földes szoba már a múlté.
 
 
 Mesterembert találni nem egyszerű.  
