@@ -13,7 +13,7 @@ image:
 
 **Régi vágyam volt egy öntöttvas varrógép állvány, ami a képzeletemben asztalként szerepelt. Tökéletes kültérre, a mérete miatt kis helyre is alkalmas. Csak a fantázián múlik, hogy milyen formában születik újjá.**
 
-## A varrógépállvány története
+## A varrógépállvány története!
 
 
 Az udvaron a pusztaság egyhangúságát a bontással járó lomok színesítették, és a "Miházunk" külseje is rémes képet mutatott.  
@@ -36,11 +36,11 @@ Gyorsan végig futtattam a lehetőségeket, hogy mi történhet, ha a barátunkn
 "Veszteni valóm nincs.. A legrosszabb eshetőség, hogy nem kapom meg. De akkor még pont ott vagyok, ahol eddig… Nincs varrógépem…"  Szóval nagy levegő, kérdezés, és a válasz igen lett. Elvihetem, ha nekem ez a lim-lom ennyire tetszik.  
 
 
-Juhééééé!!! **Bátraké a szerencse.**
+Juhééééé!!! **Bátraké a szerencse!**
 
 ![idézet](/assets/varrogepasztal/idézet.png)
 
-## Legyen strapabíró, dizájnos asztalunk.
+## Legyen strapabíró, dizájnos asztalunk
 
 Az állványt hazavittük, és a boldogságom határtalan volt. Nézegettem, körbejártam milyen fazon illene hozzá a legjobban.  
 
@@ -58,7 +58,7 @@ Férjemmel konzultálva úgy határoztunk, hogy CK lap ( cementkötésű lap ) l
 
  **A régi falusi házak kincsesbányák az ilyen típusú embereknek, mint mi vagyunk. A mama házában sok régi tárgy volt, amit átalakítva újra felhasználtunk. Pl: régi, fém lámpa búrák, kilincsek, faanyagok** 
 
-## Mozaikos aztalunk lesz!
+## Mozaikos asztalunk lesz!
 
 Miután a lapot a férjem méretre vágta, rögzítette, elkezdtem megtervezni a mozaik színét, mintáját. Igyekeztem semleges felületű, és színben egymáshoz passzoló darabokat választani. 
 
@@ -87,7 +87,7 @@ A ragasztó száradása után, fehér fugázóval kentem ki a hézagokat. Nedves
 ![mozaik asztal](/assets/varrogepasztal/fugazott.JPG)
 _Elkészült_
 
-## Boldogságom határtalan
+## Boldogságom határtalan!
 
 Míg száradt, elégedetten nézegettem első DIY alkotásomat. 
 
