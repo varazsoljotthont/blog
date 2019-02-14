@@ -35,7 +35,7 @@ A szívemben már hosszú ideje őrizgettem a képet, hogy milyen lesz a házunk
 ![csoda szép parasztház](/assets/hazvasarlas/1jav2.png)
 _Hangulatos parasztház (Forrás: Pinterest)_
 
-## Megtaláltuk a "Miházunkat"
+## Keressük a nekünk való házat!
 
 Megnéztünk néhány ingatlant, és a helyzet elkeserítő volt. Elhanyagolt házak, festéssel elfedett repedések, gazos udvarok… Ami tetszett,  azt pedig a nem mi pénztárcánkhoz szabták.  
 A rossz tapasztalatok ellenére pozitívan álltunk a helyzethez. Tudtuk, hogy meg lesz a ház, ez nem volt kérdés...
@@ -45,8 +45,13 @@ A rossz tapasztalatok ellenére pozitívan álltunk a helyzethez. Tudtuk, hogy m
 A hetek teltek, közben kerestük a leendő otthonunkat, de nem voltunk igazán sikeresek. 
 A véletlenek játéka folytán egy jó barátunk hozta el nekünk a megoldást. Ő hívta fel a figyelmünket egy házra, ami akkor még nem volt jelen az ingatlan piacon. Elsőként tudtuk megnézni és felmérni, hogy milyen állapotban van, megfelel-e az elképzelésünknek. 
 
+## Megtaláltuk a "Miházunkat"
+
 
 A házzal, a telek méretével nagyjából elégedettek voltunk. A belső terek tiszták, rendezettek voltak, de külseje ijesztően hatott. Régi ablakok, leomló vakolat, a házzal egybe építve az istálló, azon egy nagyon rossz állapotú ajtó. A látvány nem volt túl szívderítő.  
+
+
+
 Az utcafrontra nézett a két szoba, ahol a padló földágyba volt rakva. Az elektromos hálózat elavult volt, és a helyiségekben kályhákkal fűtöttek. 
 
 ![romos ház felújítás előtt](/assets/hazvasarlas/blogjav.jpg)
@@ -61,11 +66,16 @@ Az udvar, a kert csupaszon állt. Nem volt semmi. Se egy fa, se egy bokor… Kon
 
 ## Vegyük ne vegyük?
 
+
+
 A tulajdonosok végül az eladás mellett döntöttek, ám mielőtt mi is rábólintottunk volna a vásárlásra, még többször “bejártuk” a házat. Tudni akartuk, hogy mit mutat meg magából, bele tudjuk-e látni a jövőnket. Agyalgattunk a férjemmel mit, hogyan lehetne átalakítani, és ez milyen munkákkal jár majd. Mennyi idő alatt tudjuk felújítani, beköltözhetővé tenni.  
+
+
 
 
 Volt a házban, a telekben fantázia (pedig jól eldugták)…, éreztük, hogy sok munkával, sok ötlettel egy nekünk tetsző, stílusos parasztházzá tudjuk majd alakítani…  A tervezgetések eredményeként végül az üzlet megköttetett, a házat MEGVETTÜK!!!  
 Szívünk szerint, azonnal nekikezdtünk volna a munkálatoknak, de a bürokrácia még az utunkat állta... 
+
 
 
 Ügyvéd, bank, közjegyző. Közüzemi számlák átíratása... 
@@ -95,7 +105,12 @@ _A bíztatás_
 A projekt 3,5 hónap kőkemény munkát jelentett, aminek jelentős részét férjemmel ketten végeztük. Közben mindketten dolgoztunk, csak a finisben vettünk ki egy-egy nap szabadságot. Munka után jöttünk a házhoz, és este kilenc - tíz óráig itt voltunk. Mindig, minden mesterrel jó előre megbeszéltük az időpontokat és az elvégzendő munkákat. 
 
 
-A szobák betonozásához ([erről itt olvashatsz](/2019-02-12/szobabetonozas)) hívtunk kőművest, és a villany - víz – fűtés szerelést bíztuk szakemberekre. A jó szervezéssel, a mindennapos munkákkal tartani tudtuk a kitűzött célt, és 2015. február 28-án beköltöztünk.  
+A szobák betonozásához ([erről itt olvashatsz](/2019-02-12/szobabetonozas)) hívtunk kőművest, és a villany - víz – fűtés szerelést bíztuk szakemberekre.  
+
+
+## Sikerült, beköltöztünk!
+
+A jó szervezéssel, a mindennapos munkákkal tartani tudtuk a kitűzött célt, és 2015. február 28-án beköltöztünk.  
 Kimerültünk fizikailag - anyagilag, de ott voltunk.  
 A „Miházunkban”.
 
