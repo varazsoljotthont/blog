@@ -48,18 +48,15 @@ A véletlenek játéka folytán egy jó barátunk hozta el nekünk a megoldást.
 ## Megtaláltuk a "Miházunkat"
 
 
-A házzal, a telek méretével nagyjából elégedettek voltunk. A belső terek tiszták, rendezettek voltak, de külseje ijesztően hatott. Régi ablakok, leomló vakolat, a házzal egybe építve az istálló, azon egy nagyon rossz állapotú ajtó. A látvány nem volt túl szívderítő.  
+A házzal, a telek méretével nagyjából elégedettek voltunk. A belső terek tiszták, rendezettek voltak, de külseje ijesztően hatott.  
+Régi ablakok, leomló vakolat, a házzal egybe építve az istálló, azon egy nagyon rossz állapotú ajtó. A látvány nem volt túl szívderítő.  
 
 
 
 
 
 
-Az utcafrontra nézett a két szoba, ahol a padló földágyba volt rakva. 
-
-
-
-
+Az utcafrontra nézett a két szoba, ahol a padló földágyba volt rakva.  
 Az elektromos hálózat elavult volt, és a helyiségekben kályhákkal fűtöttek. 
 
 ![romos ház felújítás előtt](/assets/hazvasarlas/blogjav.jpg)
@@ -90,12 +87,12 @@ Agyalgattunk a férjemmel mit, hogyan lehetne átalakítani, és ez milyen munk�
 Volt a házban, a telekben fantázia (pedig jól eldugták)…, éreztük, hogy sok munkával, sok ötlettel egy nekünk tetsző, stílusos parasztházzá tudjuk majd alakítani…  A tervezgetések eredményeként végül az üzlet megköttetett, a házat MEGVETTÜK!!!  
 
 
-Szívünk szerint, azonnal nekikezdtünk volna a munkálatoknak, de a bürokrácia még az utunkat állta... 
-
+Szívünk szerint, azonnal nekikezdtünk volna a munkálatoknak, de a bürokrácia még az utunkat állta...  
 
 
 Ügyvéd, bank, közjegyző. Közüzemi számlák átíratása... 
 Az ügyintézésre kb 2 hét kellett, végül 2014 november közepére lezajlott az adás-vétel és megkaptuk a kulcsokat.  
+
 
 ## Kezdjünk neki!
 
