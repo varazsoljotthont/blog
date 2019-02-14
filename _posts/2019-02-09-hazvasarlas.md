@@ -75,7 +75,7 @@ Az udvar, a kert csupaszon állt. Nem volt semmi. Se egy fa, se egy bokor… Kon
 Ez kopárság először nagyon zavart. Ridegnek, barátságtalannak tűnt az udvar. Tovább gondolva azonban rájöttünk, hogy ennél jobb nem is lehetne a hely. Úgy lehet alakítani, ahogy akarjuk, és nem kell az irtással foglalkozni.
 
 
-### Vegyük ne vegyük?
+### Vegyük, ne vegyük?
 
 
 
