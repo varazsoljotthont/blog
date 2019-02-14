@@ -29,6 +29,8 @@ Az utcafrontra néző nagyobbik szobából (5X4 m) terveztük kialakítani a kon
 Tudtam, hogy nálunk leginkább felnőtt társaság jön össze, így inkább a konyha-étkező legyen a központi hely, a kisebb nappali elég kettőnknek. 
 A mi esetünkben ez tűnt praktikusnak. A régi konyhából, a majdani nappaliból nyílt a spájz, azt kinéztem gardróbnak.
 
+
+
 ![falusi konyha kályhával](/assets/talaljuk_ki/1jav.jpg)
 _Ilyen volt, ilyen lett_
 ![modern nappali szives dísszel](/assets/talaljuk_ki/2jav.jpg)
