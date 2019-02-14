@@ -158,7 +158,7 @@ Biztos voltam benne, hogy az elképzeléseim szerint fog alakulni a ház!
 
 ...de addig még rengeteg munka várt ránk. 
 
-![kitartás idézet](/assets/talaljuk_ki/talaljukkiidezet.jpg)
+![kitartás idézet](/assets/talaljuk_ki/talaljukkiidezet1.jpg)
 _Kitartás_
 
 
