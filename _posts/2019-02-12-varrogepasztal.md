@@ -11,7 +11,7 @@ image:
 
 
 
-## Régi vágyam volt egy öntöttvas varrógép állvány, ami a képzeletemben asztalként szerepelt. Tökéletes kültérre, a mérete miatt kis helyre is alkalmas. Csak a fantázián múlik, hogy milyen formában születik újjá.**
+## Régi vágyam volt egy öntöttvas varrógép állvány, ami a képzeletemben asztalként szerepelt. Tökéletes kültérre, a mérete miatt kis helyre is alkalmas. Csak a fantázián múlik, hogy milyen formában születik újjá.
 
 ### A varrógépállvány története
 
