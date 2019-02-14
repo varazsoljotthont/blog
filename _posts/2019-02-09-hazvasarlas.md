@@ -94,7 +94,7 @@ Volt a házban, a telekben fantázia (pedig jól eldugták)…, éreztük, hogy 
 
 Szívünk szerint, azonnal nekikezdtünk volna a munkálatoknak, de a bürokrácia még az utunkat állta...  
 Ügyvéd, bank, közjegyző. Közüzemi számlák átíratása... 
-Az ügyintézésre kb 2 hét kellett, végül 2014 november közepére lezajlott az adás-vétel és megkaptuk a kulcsokat.  
+Az ügyintézésre kb.: 2 hét kellett, végül 2014 november közepére lezajlott az adás-vétel és megkaptuk a kulcsokat.  
 
 
 ## Kezdjünk neki!
