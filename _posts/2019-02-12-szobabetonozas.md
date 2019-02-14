@@ -149,7 +149,7 @@ A vizet a kútból húztuk és a kályhán melegítettük, áram pedig a villany
 Nem volt egyszerű :D  
 
 
-**Szigetelésnek hungarocellt tettünk le.**
+## Szigetelésnek hungarocellt tettünk le.
 
 A szerelők pár nap alatt becsöveztek mindent, és megbeszéltük velük a soron következő munkák idejét.  
 A frissen betonozott helyiségekre leraktuk a 3 cm-es hungarocell táblákat. A férjem a csövek helyét kivagdosta a szigetelésben, és összeillesztgettük szigetelést a csövekkel. A hungarocellre fóliát terítettünk, hogy arra kerüljön az újabb réteg beton.
