@@ -15,11 +15,12 @@ image:
 
 ### A varrógépállvány története
 
-Közeledett a tavasz, alig pár hete költöztünk a házba. Az udvaron a pusztaság egyhangúságát a bontással járó lomok színesítették, és a "Miházunk" külseje is rémes képet mutatott.  
-Ahogy jött a jó idő egyre több időt töltöttünk kint, és a lelkem nagyon vágyott valami szépre. Virágokra, kellemes kávézgatásra a nem létező teraszunkon...  
 
+Az udvaron a pusztaság egyhangúságát a bontással járó lomok színesítették, és a "Miházunk" külseje is rémes képet mutatott.  
+Ahogy közeledett a tavasz, egyre több időt töltöttünk kint, és a lelkem már szinte követelte a szépet.  Virágokra, kellemes kávézgatásra vágytam a nem létező teraszunkon...  
+  
 
-Volt egy kicsi beton placc a leendő terasz helyén, jobb nem lévén azt kineveztem  pihenő résznek.  
+Volt egy kicsi beton placc a bejárati ajtó előtt, jobb nem lévén azt kineveztem  pihenő résznek.  
 De ha már pihenés és kávé, akkor jó lenne egy stílusos asztal is...
 A szerencse, mint már oly a sokszor most is mellénk állt.  
 Egy barátunkat vittük el az apósához, ahol, míg ők a dolgukat intézték, én nézegettem az udvaron.  
@@ -27,6 +28,8 @@ Alig észrevehetően lapult meg a sufniban a két öntöttvas varrógép állvá
 Gyorsan végig futtattam a lehetőségeket, hogy mi történhet, ha a barátunknál, vagy a bácsinál rákérdezek. 
 
 "Veszteni valóm nincs.. A legrosszabb eshetőség, hogy nem kapom meg. De akkor még pont ott vagyok, ahol eddig… Nincs varrógépem…"  Szóval nagy levegő, kérdezés, és a válasz igen lett. Elvihetem, ha nekem ez a lim-lom ennyire tetszik.  
+
+
 Juhééééé!!! **Bátraké a szerencse.**
 
 ![idézet](/assets/varrogepasztal/idézet.png)
