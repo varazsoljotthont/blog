@@ -75,20 +75,20 @@ Következő lépésként az ajtók, ablakok szemrevételezése jött. És a feli
 Az utcai ablakok renoválás után ugyan tetszettek volna, de annyira szú ette volt mindkettő, hogy végül lemondtunk róluk.  
 ( Persze az újak sokkal szebbek is lettek. )  
 
-Így aztán:
+**Így aztán:
 
 
-* a régi, alacsony ajtókat kiszedtük 
+* **a régi, alacsony ajtókat kiszedtük 
 
-* az ablakokat cseréltük
+* **az ablakokat cseréltük
 
-* a belső folyosós ablakot megszüntettük
+* a **belső folyosós ablakot megszüntettük
 
-* a bejárati ajtót áthelyeztük
+* a **bejárati ajtót áthelyeztük
 
-* a régi helyét befalaztuk, az újnak kibontottuk a falat
+* a **régi helyét befalaztuk, az újnak kibontottuk a falat
 
-* összenyitottuk az előteret és a volt istállót, mert a mosókonyhát, kamrát, és a kazánházat ott szerettük volna kialakítani.
+* **összenyitottuk az előteret és a volt istállót, mert a mosókonyhát, kamrát, és a kazánházat ott szerettük volna kialakítani.
 
 
 
