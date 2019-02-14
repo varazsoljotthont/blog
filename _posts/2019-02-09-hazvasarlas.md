@@ -14,6 +14,9 @@ image:
 A mi helyzetünk egyszerű(bb)nek tűnt. A férjemmel kerestük magunknak a megfelelő otthont. Kettecskén élünk (a gyerekek már kirepültek), így viszonylag könnyű dolgunk volt. A tervezgetéskor sorra vettük elvárásainkat a leendő a házunkkal szemben, és lassan összeállt vágyaink listája. 
 
 
+### Álmaink, vágyaink otthona...
+
+
 Álmaink háza legyen:
 
 * megfizethető
