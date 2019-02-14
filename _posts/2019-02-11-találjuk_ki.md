@@ -166,7 +166,7 @@ Ezeknek a belső munkáknak az elvégzésére volt 3,5 hónapunk. Közben dolgoz
 De végül a jó szervezésnek, a profi hozzáállásunknak, az elszántságunknak köszönhetően sikerült. 
 
 
-Jöttünk, láttunk, beköltöztünk. 
+**Jöttünk, láttunk, beköltöztünk.** 
 
 ![folyosó](/assets/talaljuk_ki/19jav.jpg)
 _Költözés idején. 3,5 hónap munkája_
