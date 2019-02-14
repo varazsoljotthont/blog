@@ -77,8 +77,6 @@ Ez kopárság először nagyon zavart. Ridegnek, barátságtalannak tűnt az udv
 
 
 A tulajdonosok végül az eladás mellett döntöttek, ám mielőtt mi is rábólintottunk volna a vásárlásra, még többször “bejártuk” a házat. Tudni akartuk, hogy mit mutat meg magából, bele tudjuk-e látni a jövőnket.  
-
-
 Agyalgattunk a férjemmel mit, hogyan lehetne átalakítani, és ez milyen munkákkal jár majd. Mennyi idő alatt tudjuk felújítani, beköltözhetővé tenni.  
 
 
@@ -88,8 +86,6 @@ Volt a házban, a telekben fantázia (pedig jól eldugták)…, éreztük, hogy 
 
 
 Szívünk szerint, azonnal nekikezdtünk volna a munkálatoknak, de a bürokrácia még az utunkat állta...  
-
-
 Ügyvéd, bank, közjegyző. Közüzemi számlák átíratása... 
 Az ügyintézésre kb 2 hét kellett, végül 2014 november közepére lezajlott az adás-vétel és megkaptuk a kulcsokat.  
 
@@ -98,8 +94,6 @@ Az ügyintézésre kb 2 hét kellett, végül 2014 november közepére lezajlott
 
 
 Vettünk egy nagy levegőt, és megkezdtük az átalakítást, ezzel együtt kitűztük a befejezés időpontját is. 2015 március 01-ig kell eljutni addig, hogy költözni tudjunk.  
-
-
 Csak sejtettük mennyi munkával jár majd, hogy az elképzeléseinket "beletegyük" ebbe a 60 éves, szocreál, romos külsejű, idejét múlt házba. 
 
 De mi eldöntöttük, hogy megcsináljuk! Lelkesedésünk, tenni akarásunk határtalan volt.   
