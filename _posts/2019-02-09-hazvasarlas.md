@@ -50,7 +50,7 @@ A rossz tapasztalatok ellenére pozitívan álltunk a helyzethez. Tudtuk, hogy m
 ![idézet](/assets/hazvasarlas/hazvasarlasidezet1.jpg)
 
 A hetek teltek, közben kerestük a leendő otthonunkat, de nem voltunk igazán sikeresek. 
-A véletlenek játéka folytán egy jó barátunk hozta el nekünk a megoldást. Ő hívta fel a figyelmünket egy házra, ami akkor még nem volt jelen az ingatlan piacon. Elsőként tudtuk megnézni és felmérni, hogy milyen állapotban van, megfelel-e az elképzelésünknek. 
+A véletlenek játéka folytán egy jó barátunk hozta el nekünk a megoldást. Ő hívta fel a figyelmünket egy házra, ami akkor még nem volt jelen az ingatlanpiacon. Elsőként tudtuk megnézni és felmérni, hogy milyen állapotban van, megfelel-e az elképzelésünknek. 
 
 ## Megtaláltuk a "Miházunkat"!
 
