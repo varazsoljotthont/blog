@@ -115,7 +115,7 @@ _A bíztatás_
 
 
 
-## Indul a házalakító projekt
+## Indul a házalakító projekt...
 
 
 A felújítás 3,5 hónap kőkemény munkát jelentett, aminek jelentős részét férjemmel ketten végeztük. Közben mindketten dolgoztunk, csak a finisben vettünk ki egy-egy nap szabadságot. Munka után jöttünk a házhoz, és este kilenc - tíz óráig itt voltunk.  
