@@ -35,7 +35,7 @@ A szívemben már hosszú ideje őrizgettem a képet, hogy milyen lesz a házunk
 ![csoda szép parasztház](/assets/hazvasarlas/1jav2.png)
 _Hangulatos parasztház (Forrás: Pinterest)_
 
-## Keressük a nekünk való házat!
+### Keressük a nekünk való házat!
 
 Megnéztünk néhány ingatlant, és a helyzet elkeserítő volt. Elhanyagolt házak, festéssel elfedett repedések, gazos udvarok… Ami tetszett,  azt pedig a nem mi pénztárcánkhoz szabták.  
 A rossz tapasztalatok ellenére pozitívan álltunk a helyzethez. Tudtuk, hogy meg lesz a ház, ez nem volt kérdés...
@@ -45,7 +45,7 @@ A rossz tapasztalatok ellenére pozitívan álltunk a helyzethez. Tudtuk, hogy m
 A hetek teltek, közben kerestük a leendő otthonunkat, de nem voltunk igazán sikeresek. 
 A véletlenek játéka folytán egy jó barátunk hozta el nekünk a megoldást. Ő hívta fel a figyelmünket egy házra, ami akkor még nem volt jelen az ingatlan piacon. Elsőként tudtuk megnézni és felmérni, hogy milyen állapotban van, megfelel-e az elképzelésünknek. 
 
-## Megtaláltuk a "Miházunkat"
+### Megtaláltuk a "Miházunkat"
 
 
 A házzal, a telek méretével nagyjából elégedettek voltunk. A belső terek tiszták, rendezettek voltak, de külseje ijesztően hatott.  
@@ -72,7 +72,7 @@ Az udvar, a kert csupaszon állt. Nem volt semmi. Se egy fa, se egy bokor… Kon
 Ez kopárság először nagyon zavart. Ridegnek, barátságtalannak tűnt az udvar. Tovább gondolva azonban rájöttünk, hogy ennél jobb nem is lehetne a hely. Úgy lehet alakítani, ahogy akarjuk, és nem kell az irtással foglalkozni.
 
 
-## Vegyük ne vegyük?
+### Vegyük ne vegyük?
 
 
 
@@ -90,7 +90,7 @@ Szívünk szerint, azonnal nekikezdtünk volna a munkálatoknak, de a bürokrác
 Az ügyintézésre kb 2 hét kellett, végül 2014 november közepére lezajlott az adás-vétel és megkaptuk a kulcsokat.  
 
 
-## Kezdjünk neki!
+### Kezdjünk neki!
 
 
 Vettünk egy nagy levegőt, és megkezdtük az átalakítást, ezzel együtt kitűztük a befejezés időpontját is. 2015 március 01-ig kell eljutni addig, hogy költözni tudjunk.  
@@ -108,7 +108,7 @@ _A bíztatás_
 
 
 
-## Indul a házalakító projekt
+### Indul a házalakító projekt
 
 
 A projekt 3,5 hónap kőkemény munkát jelentett, aminek jelentős részét férjemmel ketten végeztük. Közben mindketten dolgoztunk, csak a finisben vettünk ki egy-egy nap szabadságot. Munka után jöttünk a házhoz, és este kilenc - tíz óráig itt voltunk.  
@@ -120,7 +120,7 @@ Mindig, minden mesterrel jó előre megbeszéltük az időpontokat és az elvég
 A szobák betonozásához ([erről itt olvashatsz](/2019-02-12/szobabetonozas)) hívtunk kőművest, és a villany - víz – fűtés szerelést bíztuk szakemberekre.  
 
 
-## Sikerült, beköltöztünk!
+### Sikerült, beköltöztünk!
 
 A jó szervezéssel, a mindennapos munkákkal tartani tudtuk a kitűzött célt, és 2015. február 28-án beköltöztünk.  
 Kimerültünk fizikailag - anyagilag, de ott voltunk.  
