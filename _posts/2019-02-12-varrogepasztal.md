@@ -38,7 +38,7 @@ Gyorsan végig futtattam a lehetőségeket, hogy mi történhet, ha a barátunkn
 
 Juhééééé!!! **Bátraké a szerencse!**
 
-![idézet](/assets/varrogepasztal/idézet.png)
+![idézet](/assets/varrogepasztal/varrogepidezet1.jpg)
 
 ## Legyen strapabíró, dizájnos asztalunk
 
@@ -46,10 +46,10 @@ Az állványt hazavittük, és a boldogságom határtalan volt. Nézegettem, kö
 
 **Több variáció is felmerült, hogy miből csináljuk meg az asztallap részét.**
 
-* **falap**
-* **üveg**
-* **falap + csempe**
-* **lambéria**
+* falap
+* üveg
+* falap + csempe
+* lambéria
 
 Az asztalt a majdani teraszra szántuk, ezért olyan felület kellett, amit könnyen tisztán lehet tartani, bírja a napsütést, és persze tetszik is.  
 
