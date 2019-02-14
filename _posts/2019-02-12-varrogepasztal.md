@@ -38,12 +38,12 @@ Juhééééé!!! **Bátraké a szerencse.**
 
 Az állványt hazavittük, és a boldogságom határtalan volt. Nézegettem, körbejártam milyen fazon illene hozzá a legjobban.  
 
-Több variáció is felmerült, hogy miből csináljuk meg az asztallap részét. 
+**Több variáció is felmerült, hogy miből csináljuk meg az asztallap részét.**
 
-* falap
-* üveg
-* falap + csempe
-* lambéria
+* **falap**
+* **üveg**
+* **falap + csempe**
+* **lambéria**
 
 Az asztalt a majdani teraszra szántuk, ezért olyan felület kellett, amit könnyen tisztán lehet tartani, bírja a napsütést, és persze tetszik is.  
 Férjemmel konzultálva úgy határoztunk, hogy CK lap ( cementkötésű lap ) lesz az alap, arra pedig járólap darabokból mozaikot rakok ki. Ck lap, ragasztó volt itthon, maradék járólapot pedig találtunk a férjem szülői házában.  
