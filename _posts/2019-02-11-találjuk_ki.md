@@ -8,18 +8,18 @@ image:
   width: 30hazvasarlas
 ---
 
-## Miután az újdonsült tulajdonosok átveszik a felújításra váró házuk kulcsait, következik az egyik legizgalmasabb feladat. Mindent ki kell találni, meg kell tervezni, és meg kell szervezni. Régi ház esetében ez még összetettebb feladat. Eljött az idő, hogy mi is elkezdjük a munkálatokat.
+**Miután az újdonsült tulajdonosok átveszik a felújításra váró házuk kulcsait, következik az egyik legizgalmasabb feladat. Mindent ki kell találni, meg kell tervezni, és meg kell szervezni. Régi ház esetében ez még összetettebb feladat. Eljött az idő, hogy mi is elkezdjük a munkálatokat.**
 
 
 
 
-### Csináljunk a régiből, újat! 
+## Csináljunk a régiből, újat! 
 
 Mielőtt megvettük a házat, több alkalommal is megnéztük. Ismerkedtünk egymással. ([erről itt olvashatsz](/2019-02-09/hazvasarlas)) A ház felosztása alapvetően megfelelt számunkra, de más-más funkciókat szántunk helyiségeknek.  
 Sorra vettük az igényeinket mit szeretnénk, mi az, ami a kényelmünket szolgálja.  
 
 
-### Gondoljuk át, mit szeretnénk...
+## Gondoljuk át, mit szeretnénk...
 
 
 Az utcafrontra néző nagyobbik szobából (5X4 m) terveztük kialakítani a konyha – étkezőt, a régi konyhából pedig a nappalit. Ez a helyiség kisebb volt, de átgondoltam, hogy majd a mindennapokban hogy funkcionálnak ezek helyiségek.
@@ -41,11 +41,15 @@ _Ilyen volt, ilyen lett_
 
 
 
-### A fürdőszoba egész jó!
+## A fürdőszoba egész jó!
 
 A fürdőszobához nem nagyon kellett nyúlni, az előző tulajdonos nagyjából megcsinálta. A villanyvezetékeket viszont muszáj volt cserélni, és pár konnektort, kapcsolót, és a ventillátort is fel kellett tenni.  
+
+
 A csempe, járólap nem igazán tetszett, de butaság lett volna szétverni.  
 (Utólag már nem bántam, hogy egyszerű szürke volt, ehhez a színhez könnyebben tudtam alkalmazkodni. Na, és a ma divatos sötét színű burkoló anyagokkal szemben nem kényes )  
+
+
 Abban biztos voltam, hogy a mosógépet csak átmenetileg rakjuk a fürdőszobába.  
 Már akkor tervbe vettük, hogy az istálló helyén mosókonyha lesz.
 
@@ -54,7 +58,7 @@ Már akkor tervbe vettük, hogy az istálló helyén mosókonyha lesz.
 ![fürdőszoba](/assets/talaljuk_ki/4jav.jpg) 
 
 
-### Mit kell kibontani, szétszedni? 
+## Mit kell kibontani, szétszedni? 
 
 
 
@@ -109,7 +113,7 @@ _Jómagam munka közben_
   
 
 
-### Még mindig a bontás...
+## Még mindig a bontás...
 
 Mivel semmi sem maradt a helyén, a villanyszerelőnek is akadt dolga. A vezetékek, a rengeteg konnektor, a kapcsolók, az új villanyóra szekrény szerelése sok munkával, és jelentős kiadással járt.  
 
@@ -129,6 +133,8 @@ A szobákban kályhák voltak, ezek helyett központfűtést akartunk.
 A vizet át kellett vinni az új konyhába. 
 
 A hajópadlók alatt, az aljzat nem volt lebetonozva. A régi időkben elterjedt volt, hogy földes – homokos alapra rakták a padlót. Ezt is meg kellett szüntetni. ([erről itt olvashatsz](/2019-02-12/szobabetonozas))  A már betonos helyiségekben járólap volt, de a fűtésszerelés miatt a betont ott is feltörték…  
+
+
 Szóval, oda is kellett valami megoldás.
 
 ![kályha](/assets/talaljuk_ki/15jav.jpg)
@@ -141,8 +147,7 @@ Szóval, oda is kellett valami megoldás.
 _A bontás eredménye_
 
 
-
-### Hogy lesz ebből ház?
+## Hogy lesz ebből ház?
 
 
 Talán ekkor volt az egész felújítás a legijesztőbb... Néha elbizonytalanodtam, hogy lesz ebből költözés 3 hónap múlva... De gyorsan lecsuktam a szemem és láttam, hogy milyen lesz majd, ha elkészül...  
@@ -158,7 +163,7 @@ _Kitartás_
 
 
 
-### Megcsináltuk!
+## Megcsináltuk!
 
 
 
