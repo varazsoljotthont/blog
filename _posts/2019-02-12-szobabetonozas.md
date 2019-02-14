@@ -137,11 +137,15 @@ A mesterekkel mindent átbeszéltünk, és az előre megbeszélt időpontban meg
 
 
 ![régi szoba](/assets/szobabetonozas/10.jpg)   
-_Csövek erre is, arra is_
+
 
 ![régi szoba](/assets/szobabetonozas/11.jpg)
 
 ![régi szoba](/assets/szobabetonozas/12.jpg)   
+_Csövek erre is, arra is_
+
+
+
 
 Itt kell megjegyeznem, hogy azzal, hogy ezek a munkák megkezdődtek a házban elzárták a vizet és kikapcsolták a villanyt.  
 A vizet a kútból húztuk és a kályhán melegítettük, áram pedig a villanyórától, hosszabítókon keresztül volt.  
@@ -156,7 +160,7 @@ A frissen betonozott helyiségekre leraktuk a 3 cm-es hungarocell táblákat. A 
 
 ![régi szoba](/assets/szobabetonozas/13.jpg)
 
- ### A 2. betonozás
+### A 2. betonozás
 
 A kőművesek újra jöttek, hogy a második betonozást megcsinálják a szobákban, ill. már a szoba, konyhában.  
 Még a 2. fázis megkezdése előtt a fal aljához 10 cm magas dilatációs szalagot raktunk, a beton mozgása, hőtágulása miatt.  
