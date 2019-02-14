@@ -107,7 +107,9 @@ Hogy a felújítás gördülékenyen menjen, a mesterekkel megbeszéltük a 2. r
 Mint írtam, a jó mesterembereket előre le kell foglalni, és ez csak tervezéssel megy.  
 A villany, víz és központi fűtés szerelőt, szinte a házvásárlással egy időben megkerestük, és elmondtuk a terveinket. Körvonalaztuk az időt, hogy mikor számíthatnak a munkára.  
 Két betonozás között volt pár napunk, akkor ötleteltük ki a férjemmel, hogy pontosan hova-mit szeretnénk.  Ahhoz, hogy ne utólag kelljen alakítani, a kész falakat szétvésni, konkrét tervekre volt szükség.  
-Most kellett meghatározni, minden radiátor, konnektor, villanykapcsoló, de még a mosogató, mosogatógép, stb helyét is. Pl: előre tudni kell, hogy miként változnak a helyiségek funkciói.  
+Most kellett meghatározni, minden radiátor, konnektor, villanykapcsoló, de még a mosogató, mosogatógép, stb helyét is.  
+
+Pl: előre tudni kell, hogy miként változnak a helyiségek funkciói.  
 
 Nálunk a szobából konyha lett, a konyhából nappali, a spájzból gardrób. ([erről itt olvashatsz](/2019-02-11/találjuk_ki))  
 
