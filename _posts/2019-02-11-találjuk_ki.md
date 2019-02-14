@@ -13,13 +13,13 @@ image:
 
 
 
-## Csináljunk a régiből, újat! 
+### Csináljunk a régiből, újat! 
 
 Mielőtt megvettük a házat, több alkalommal is megnéztük. Ismerkedtünk egymással. ([erről itt olvashatsz](/2019-02-09/hazvasarlas)) A ház felosztása alapvetően megfelelt számunkra, de más-más funkciókat szántunk helyiségeknek.  
 Sorra vettük az igényeinket mit szeretnénk, mi az, ami a kényelmünket szolgálja.  
 
 
-## Gondoljuk át, mit szeretnénk...
+### Gondoljuk át, mit szeretnénk...
 
 
 Az utcafrontra néző nagyobbik szobából (5X4 m) terveztük kialakítani a konyha – étkezőt, a régi konyhából pedig a nappalit. Ez a helyiség kisebb volt, de átgondoltam, hogy majd a mindennapokban hogy funkcionálnak ezek helyiségek.
@@ -41,7 +41,7 @@ _Ilyen volt, ilyen lett_
 
 
 
-## A fürdőszoba egész jó!
+### A fürdőszoba egész jó!
 
 A fürdőszobához nem nagyon kellett nyúlni, az előző tulajdonos nagyjából megcsinálta. A villanyvezetékeket viszont muszáj volt cserélni, és pár konnektort, kapcsolót, és a ventillátort is fel kellett tenni.  
 A csempe, járólap nem igazán tetszett, de butaság lett volna szétverni.  
@@ -54,7 +54,7 @@ Már akkor tervbe vettük, hogy az istálló helyén mosókonyha lesz.
 ![fürdőszoba](/assets/talaljuk_ki/4jav.jpg) 
 
 
-## Mit kell kibontani, szétszedni? 
+### Mit kell kibontani, szétszedni? 
 
 
 
@@ -109,7 +109,7 @@ _Jómagam munka közben_
   
 
 
-## Még mindig a bontás...
+### Még mindig a bontás...
 
 Mivel semmi sem maradt a helyén, a villanyszerelőnek is akadt dolga. A vezetékek, a rengeteg konnektor, a kapcsolók, az új villanyóra szekrény szerelése sok munkával, és jelentős kiadással járt.  
 
@@ -142,7 +142,7 @@ _A bontás eredménye_
 
 
 
-## Hogy lesz ebből ház?
+### Hogy lesz ebből ház?
 
 
 Talán ekkor volt az egész felújítás a legijesztőbb... Néha elbizonytalanodtam, hogy lesz ebből költözés 3 hónap múlva... De gyorsan lecsuktam a szemem és láttam, hogy milyen lesz majd, ha elkészül...  
@@ -158,7 +158,7 @@ _Kitartás_
 
 
 
-## Megcsináltuk!
+### Megcsináltuk!
 
 
 
