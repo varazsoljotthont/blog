@@ -95,7 +95,7 @@ _Jómagam munka közben_
   
 
 
-## Még mindig a bontás
+## Még mindig a bontás...
 
 Mivel semmi sem maradt a helyén, a villanyszerelőnek is akadt dolga. A vezetékek, a rengeteg konnektor, a kapcsolók, az új villanyóra szekrény szerelése sok munkával, és jelentős kiadással járt.  
 
