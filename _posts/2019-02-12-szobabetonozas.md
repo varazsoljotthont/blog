@@ -9,7 +9,7 @@ image:
 ---
 
 
-## Ahhoz, hogy a régi házból új legyen, rendbe kell hozni azt, ami már nem korszerű. A legtöbb régi ház esetében a padlózatot föld ill. homok ágyra rakták. Így volt ez a mi esetünkben is. A mai otthonok alap követelménye, hogy a burkolatok alatt beton legyen. A szerelvényezési munkák megkezdése előtt, nekünk is le kellett betonozni a szobákat.**
+## Ahhoz, hogy a régi házból új legyen, rendbe kell hozni azt, ami már nem korszerű. A legtöbb régi ház esetében a padlózatot föld ill. homok ágyra rakták. Így volt ez a mi esetünkben is. A mai otthonok alap követelménye, hogy a burkolatok alatt beton legyen. A szerelvényezési munkák megkezdése előtt, nekünk is le kellett betonozni a szobákat.
 
 ## Búcsú a hajópadlótól
 
