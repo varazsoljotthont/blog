@@ -39,7 +39,8 @@ _Ilyen volt, ilyen lett_
 ## A fürdőszoba egész jó!
 
 A fürdőszobához nem nagyon kellett nyúlni, az előző tulajdonos nagyjából megcsinálta. A villanyvezetékeket viszont muszáj volt cserélni, és pár konnektort, kapcsolót, és a ventillátort is fel kellett tenni.  
-A csempe, járólap nem igazán tetszett, de butaság lett volna szétverni. (Utólag már nem bántam, hogy egyszerű szürke volt, ehhez a színhez könnyebben tudtam alkalmazkodni. Na, és a ma divatos sötét színű burkoló anyagokkal szemben nem kényes )  
+A csempe, járólap nem igazán tetszett, de butaság lett volna szétverni.  
+(Utólag már nem bántam, hogy egyszerű szürke volt, ehhez a színhez könnyebben tudtam alkalmazkodni. Na, és a ma divatos sötét színű burkoló anyagokkal szemben nem kényes )  
 Abban biztos voltam, hogy a mosógépet csak átmenetileg rakjuk a fürdőszobába.  
 Már akkor tervbe vettük, hogy az istálló helyén mosókonyha lesz.
 
@@ -66,7 +67,8 @@ _Bontjuk a falat, a konyha - nappali között_
 
 
 Következő lépésként az ajtók, ablakok szemrevételezése jött. És a felismerés, hogy nem marad meg semmi a régi nyílászárókból.  
-Az utcai ablakok renoválás után ugyan tetszettek volna, de annyira szú ette volt mindkettő, hogy végül lemondtunk róluk. ( Persze az újak sokkal szebbek is lettek. )  
+Az utcai ablakok renoválás után ugyan tetszettek volna, de annyira szú ette volt mindkettő, hogy végül lemondtunk róluk.  
+( Persze az újak sokkal szebbek is lettek. )  
 
 Így aztán a:
 
