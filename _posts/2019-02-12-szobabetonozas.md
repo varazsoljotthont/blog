@@ -42,7 +42,7 @@ _Sírjak vagy nevessek?_
 A neheze most jött, hogy a padlókat, párnafákat kihordtuk ( és száraz helyre tettük ) és csak a homokosföld maradt. 
 
 Megkezdtük a föld kihordását, ami az idő folyamán kő kemény lett.  
-Először fel kellett lazítani, ( csákányozni ) aztán azt a réteget lelapátolni, és újra lazítani, lapátolni.  Az, hogy mennyi földet kell kilapátolni a szobákból a leendő szint magasságától függ. ( Ezt a kőművesekkel megbeszéltük )
+Először fel kellett lazítani, ( csákányozni ) aztán azt a réteget lelapátolni, és újra lazítani, lapátolni.  Az, hogy mennyi földet kell kilapátolni a szobákból a leendő szint magasságától függ. ( Ezt a kőművesekkel megbeszéltük. )
 
 ![talicska](/assets/szobabetonozas/idézet.jpg)
 
