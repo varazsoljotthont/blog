@@ -139,7 +139,7 @@ A „Miházunkban”.
 
 **+ 1 gondolat:**  
 Régi ház vásárlásakor szinte mindig marad egy kis ez-az az előző tulajdonostól.
-Érdemes ezeket félretenni, megőrizni. Sok minden akadhat a tárgyak között, amit újra gondolva fel lehet használni a ház körül.**
+Érdemes ezeket félretenni, megőrizni. Sok minden akadhat a tárgyak között, amit újra gondolva fel lehet használni a ház körül.
 
 ## Kapcsolódó cikkek
 * [A földes szobákkal kezdtük a házfelújítást!](2019-02-12/szobabetonozas)
