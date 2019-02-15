@@ -44,7 +44,7 @@ Juhééééé!!! **Bátraké a szerencse!**
 
 Az állványt hazavittük, és a boldogságom határtalan volt. Nézegettem, körbejártam milyen fazon illene hozzá a legjobban.  
 
-**Több variáció is felmerült, hogy miből csináljuk meg az asztallap részét.**
+**Több variáció is felmerült, hogy miből legyen az asztalka lap része:**
 
 * falap
 * üveg
