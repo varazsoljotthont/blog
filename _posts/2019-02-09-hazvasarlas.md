@@ -7,19 +7,12 @@ image:
   height: 300
   width: 300
 ---
-
  
 **Házat venni komoly feladat. A döntésünk hosszú évekre szól, és nem csak a mi, hanem a családunk életére is hatással van. Ezért rengeteg mindent figyelembe kell venni, mielőtt elhatározzuk magunkat.**
 
-
 ## Álmaink, vágyaink otthona...
 
-
-
-A mi helyzetünk egyszerű(bb)nek tűnt. A férjemmel kerestük magunknak a megfelelő otthont. Kettecskén élünk (a gyerekek már kirepültek), így viszonylag könnyű dolgunk volt. A tervezgetéskor sorra vettük elvárásainkat a leendő a házunkkal szemben, és lassan összeállt vágyaink listája. 
-
-
-
+A férjemmel kerestük magunknak a megfelelő otthont. Kettecskén élünk (a gyerekek már kirepültek), így viszonylag könnyű dolgunk volt. A tervezgetéskor sorra vettük elvárásainkat a leendő a házunkkal szemben, és lassan összeállt vágyaink listája. 
 
 Álmaink háza legyen:
 
