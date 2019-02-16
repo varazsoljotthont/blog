@@ -22,12 +22,12 @@ A férjemmel kerestük magunknak a megfelelő otthont. Kettecskén élünk (a gy
 * közel a munkahelyekhez
 * csendes
 
-Nem volt szempont az óvoda, iskola közelsége, és nem volt lényeges hogy városban éljünk. 
-Korunknál fogva ( közelítjük az ötvenet ) nyugodt környékre vágytunk. 
+Nem volt szempont az óvoda, iskola közelsége, és nem volt lényeges, hogy városban éljünk. 
+Korunknál fogva (közelítjük az ötvenet) nyugodt környékre vágytunk. 
 A szívemben már hosszú ideje őrizgettem a képet, hogy milyen lesz a házunk.  
 
 
-**...ha lehunytam a szemem, láttam magam előtt... Fehér falak, zöld ablakok, muskátli, napfény, méhecskék, illatok...**  
+> ...ha lehunytam a szemem, láttam magam előtt... Fehér falak, zöld ablakok, muskátli, napfény, méhecskék, illatok...
 
 
 Éreztem ha megtaláljuk, igazi otthonná tudjuk alakítani. Olyan lesz, ahova mindennap örömmel érkezünk haza.
