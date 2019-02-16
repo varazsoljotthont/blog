@@ -30,16 +30,16 @@ A szívemben már hosszú ideje őrizgettem a képet, hogy milyen lesz a házunk
 > ...ha lehunytam a szemem, láttam magam előtt... Fehér falak, zöld ablakok, muskátli, napfény, méhecskék, illatok...
 
 
-Éreztem ha megtaláljuk, igazi otthonná tudjuk alakítani. Olyan lesz, ahova mindennap örömmel érkezünk haza.
+Éreztem, ha megtaláljuk, igazi otthonná tudjuk alakítani és olyan lesz, ahova mindennap örömmel érkezünk haza.
 
 ![csoda szép parasztház](/assets/hazvasarlas/1jav2.png)
 _Hangulatos parasztház (Forrás: Pinterest)_
 
-## Keressük a nekünk való házat!
+## Keressük a nekünk való házat
 
 Megnéztünk néhány ingatlant, és a helyzet elkeserítő volt. Elhanyagolt házak, festéssel elfedett repedések, gazos udvarok… Ami tetszett,  azt pedig a nem mi pénztárcánkhoz szabták.  
-A rossz tapasztalatok ellenére pozitívan álltunk a helyzethez. Tudtuk, hogy meg lesz a ház, ez nem volt kérdés...
 
+A rossz tapasztalatok ellenére pozitívan álltunk a helyzethez. Tudtuk, hogy meg lesz a ház. Ez nem volt kérdés...
 ![idézet](/assets/hazvasarlas/hazvasarlasidezet1.jpg)
 
 A hetek teltek, közben kerestük a leendő otthonunkat, de nem voltunk igazán sikeresek. 
@@ -48,16 +48,10 @@ A véletlenek játéka folytán egy jó barátunk hozta el nekünk a megoldást.
 ## Megtaláltuk a "Miházunkat"!
 
 
-A házzal, a telek méretével nagyjából elégedettek voltunk. A belső terek tiszták, rendezettek voltak, de külseje ijesztően hatott.  
-Régi ablakok, leomló vakolat, a házzal egybe építve az istálló, azon egy nagyon rossz állapotú ajtó. A látvány nem volt túl szívderítő.  
+A házzal és a telek méretével nagyjából elégedettek voltunk. A belső terek tiszták, rendezettek voltak, de a külseje ijesztően hatott:  
+régi ablakok, leomló vakolat, a házzal egybe építve az istálló, azon egy nagyon rossz állapotú ajtó. A látvány nem volt túl szívderítő.
 
-
-
-
-
-
-Az utcafrontra nézett a két szoba, ahol a padló földágyba volt rakva.  
-Az elektromos hálózat elavult volt, és a helyiségekben kályhákkal fűtöttek. 
+Az utcafrontra nézett a két szoba, ahol a padló földágyba volt rakva. Az elektromos hálózat elavult volt, és a helyiségekben kályhákkal fűtöttek. 
 
 ![romos ház felújítás előtt](/assets/hazvasarlas/blogjav.jpg)
 _Ilyen volt a ház mikor megvettük_
@@ -65,16 +59,12 @@ _Ilyen volt a ház mikor megvettük_
 ![üres régi szoba](/assets/hazvasarlas/blogjav2.jpg)
 
 
+Az udvar és a kert csupaszon állt. Nem volt semmi: sem egy fa, sem egy bokor… Csupán egy kiszáradt körtefa és két szőlőtőke árválkodott az egész telken. A kertben pedig vadon nőtt a lucerna.  
 
-Az udvar, a kert csupaszon állt. Nem volt semmi. Se egy fa, se egy bokor… Konkrétan egy kiszáradt körtefa, és két szőlőtőke árválkodott az egész telken, a kertben pedig vadon nőtt a lucerna.  
-
-
-Ez kopárság először nagyon zavart. Ridegnek, barátságtalannak tűnt az udvar. Tovább gondolva azonban rájöttünk, hogy ennél jobb nem is lehetne a hely. Úgy lehet alakítani, ahogy akarjuk, és nem kell az irtással foglalkozni.
+Ez kopárság először nagyon zavart. Ridegnek, barátságtalannak tűnt az udvar. Azonban rájöttünk, hogy ennél jobb nem is lehetne a helyzet; úgy lehet alakítani, ahogy akarjuk, és nem kell az irtással foglalkozni.
 
 
 ## Vegyük, ne vegyük?
-
-
 
 A tulajdonosok végül az eladás mellett döntöttek, ám mielőtt mi is rábólintottunk volna a vásárlásra, még többször “bejártuk” a házat. Tudni akartuk, hogy mit mutat meg magából, bele tudjuk-e látni a jövőnket.  
 Agyalgattunk a férjemmel mit, hogyan lehetne átalakítani, és ez milyen munkákkal jár majd. Mennyi idő alatt tudjuk felújítani, beköltözhetővé tenni.  
