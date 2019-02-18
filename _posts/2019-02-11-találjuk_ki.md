@@ -62,7 +62,7 @@ Már akkor tervbe vettük, hogy az istálló helyén mosókonyha lesz.
 
 
 Egybe nyitott tereket szerettünk volna, és ez falbontással járt. A munka megkezdése előtt „feltérképeztük”, hogy hol vannak tartó falak.  
-A bontás során láttuk meg, hogy régen ún.: sármajtert használtak a falazásnál. Szinte ki lehetett kotorni a téglák közül.  
+A bontás során láttuk meg, hogy régen ún.: sármaltert használtak a falazásnál. Szinte ki lehetett kotorni a téglák közül.  
 
 
 Szigorúan, a statikai szempontok figyelembevételével kezdtük el szétszedni a házat.
