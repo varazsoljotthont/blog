@@ -180,7 +180,7 @@ A házunk lakórésze nagyjából elkészült, - a részletes felújítást olva
 Rengeteg munka várt még ránk, de mi rendületlenül hittünk magunkban. Tudtuk, hogy meg tudjuk csinálni.
 
 
-Kövesd a blogot, és te is meglátod a végeredményt.
+
 
 **+ 1 gondolat:**  
 Nem szabad megijedni a ránk váró, eddig ismeretelen kihívásoktól. A felújítás ideje alatt rengeteget tanultunk magunkról is, és egymásról is. Leginkább azt, hogy együtt mindenre képesek vagyunk!  
