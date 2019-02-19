@@ -183,7 +183,8 @@ Rengeteg munka várt még ránk, de mi rendületlenül hittünk magunkban. Tudtu
 Kövesd a blogot, és te is meglátod a végeredményt.
 
 **+ 1 gondolat:**  
-Nem szabad megijedni a ránk váró, eddig ismeretelen kihívásoktól. A felújítás ideje alatt rengeteget tanultunk magunkról is, és egymásról is. Leginkább azt, hogy együtt mindenre képesek vagyunk! ...és nem utolsósorban több szakmát is elsajátítottunk a munka során...
+Nem szabad megijedni a ránk váró, eddig ismeretelen kihívásoktól. A felújítás ideje alatt rengeteget tanultunk magunkról is, és egymásról is. Leginkább azt, hogy együtt mindenre képesek vagyunk!  
+...és nem utolsósorban több szakmát is elsajátítottunk a munka során...
 
 ## Kapcsolódó cikkek
 
