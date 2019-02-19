@@ -46,7 +46,7 @@ A fürdőszobához nem nagyon kellett nyúlni, az előző tulajdonos nagyjából
 
 
 A csempe, járólap nem igazán tetszett, de butaság lett volna szétverni.  
-(Utólag már nem bántam, hogy egyszerű, szürke színű. Ehhez a színhez könnyebben tudtam alkalmazkodni. Na és, a ma divatos sötét színű burkoló anyagokkal szemben nem kényes )  
+(Utólag már nem bántam, hogy egyszerű, szürke színű. Ehhez könnyebben tudtam alkalmazkodni, és a ma divatos, sötét színű burkoló anyagokkal szemben nem kényes )  
 
 
 Abban biztos voltam, hogy a mosógép csak átmenetileg kerül a fürdőszobába.  
