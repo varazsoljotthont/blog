@@ -25,7 +25,7 @@ Sorra vettük az igényeinket mit szeretnénk. Mi az, ami a kényelmünket szolg
 Az utcafrontra néző nagyobbik szobából (5X4 m) terveztük kialakítani a konyha – étkezőt, a régi konyhából pedig a nappalit.  Átgondoltam, hogy majd a mindennapokban miként funkcionálnak ezek helyiségek.
 
 
-Tudtam, hogy nálunk leginkább felnőtt társaság jön össze. Így inkább a konyha-étkező legyen a központi hely, a kisebb nappali elég kettőnknek. 
+Tudtam, hogy nálunk leginkább felnőtt társaság jön össze. A konyha-étkező legyen a központi hely, a kisebb nappali elég kettőnknek. 
 A mi esetünkben ez tűnt praktikusnak. A régi konyhából, a majdani nappaliból nyílt a spájz, azt kinéztem gardróbnak.
 
 
