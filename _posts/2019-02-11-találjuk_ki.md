@@ -42,11 +42,11 @@ _Ilyen volt, ilyen lett_
 
 ## A fürdőszoba egész jó!
 
-A fürdőszobához nem nagyon kellett nyúlni, az előző tulajdonos nagyjából megcsinálta. A villanyvezetékeket viszont muszáj volt cserélni, és pár konnektort, kapcsolót, és a ventillátort is fel kellett tenni.  
+A fürdőszobához nem nagyon kellett nyúlni, az előző tulajdonos nagyjából megcsinálta. A villanyvezetékeket viszont muszáj volt cserélni. Pár konnektort, kapcsolót, és a ventillátort is fel kellett tenni.  
 
 
 A csempe, járólap nem igazán tetszett, de butaság lett volna szétverni.  
-(Utólag már nem bántam, hogy egyszerű szürke volt. Ehhez a színhez könnyebben tudtam alkalmazkodni. Na és, a ma divatos sötét színű burkoló anyagokkal szemben nem kényes )  
+(Utólag már nem bántam, hogy egyszerű, szürke színű. Ehhez a színhez könnyebben tudtam alkalmazkodni. Na és, a ma divatos sötét színű burkoló anyagokkal szemben nem kényes )  
 
 
 Abban biztos voltam, hogy a mosógép csak átmenetileg kerül a fürdőszobába.  
