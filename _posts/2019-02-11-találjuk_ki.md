@@ -16,7 +16,7 @@ image:
 ## Csináljunk a régiből, újat! 
 
 Mielőtt megvettük a házat, több alkalommal is megnéztük. Ismerkedtünk egymással. ([erről itt olvashatsz](/2019-02-09/hazvasarlas)) A ház felosztása alapvetően megfelelt számunkra, de más-más funkciókat szántunk helyiségeknek.  
-Sorra vettük az igényeinket mit szeretnénk. Mi az, ami a kényelmünket szolgálja.  
+Sorra vettük az igényeinket mit szeretnénk, mi az, ami a kényelmünket szolgálja.  
 
 
 ## Gondoljuk át, mit szeretnénk...
@@ -25,7 +25,7 @@ Sorra vettük az igényeinket mit szeretnénk. Mi az, ami a kényelmünket szolg
 Az utcafrontra néző nagyobbik szobából (5X4 m) terveztük kialakítani a konyha – étkezőt, a régi konyhából pedig a nappalit.  Átgondoltam, hogy majd a mindennapokban miként funkcionálnak ezek helyiségek.
 
 
-Tudtam, hogy nálunk leginkább felnőtt társaság jön össze. A konyha-étkező legyen a központi hely, a kisebb nappali elég kettőnknek. 
+Tudtam, hogy nálunk leginkább felnőtt társaság jön össze. A konyha-étkezőt terveztem a központi helnek, a kisebb nappali kettőnknek elég. 
 A mi esetünkben ez tűnt praktikusnak. A régi konyhából, a majdani nappaliból nyílt a spájz, azt kinéztem gardróbnak.
 
 
@@ -127,11 +127,12 @@ A mester dolgozott, mi pedig szurkoltunk, hogy ne dőljön ránk a ház.
 
 
 
-A szobákban kályhák voltak, ezek helyett központfűtést akartunk. 
+A szobákban kályhák voltak, ezek helyett központifűtést akartunk. 
 
 A vizet át kellett vinni az új konyhába. 
 
-A hajópadlók alatt az aljzat nem volt lebetonozva. A régi időkben elterjedt volt, hogy földes – homokos alapra rakták a padlót. Ezt is meg kellett szüntetni. ([erről itt olvashatsz](/2019-02-12/szobabetonozas))  A már betonos helyiségekben járólap volt, de a fűtésszerelés miatt a betont ott is feltörték…  
+A hajópadlók alatt az aljzat nem volt lebetonozva. A régi időkben elterjedt volt, hogy földes – homokos alapra rakták a padlót. Ezt is meg kellett szüntetni. ([erről itt olvashatsz](/2019-02-12/szobabetonozas))   
+A már betonos helyiségekben járólap volt, de a fűtésszerelés miatt a betont ott is feltörték…  
 
 
 Szóval, oda is kellett valami megoldás.
@@ -177,7 +178,8 @@ _Költözés idején. 3,5 hónap munkája_
  
 
 A házunk lakórésze nagyjából elkészült, - a részletes felújítást olvashatod a blogon - csak néhány apróság hiányzott. A ház külseje viszont még szánalmas volt. 
-Rengeteg munka várt még ránk, de mi rendületlenül hittünk magunkban. Tudtuk, hogy meg tudjuk csinálni.
+Rengeteg munka várt még ránk, de mi rendületlenül hittünk magunkban.  
+Tudtuk, hogy meg tudjuk csinálni.
 
 
 
