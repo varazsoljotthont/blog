@@ -30,7 +30,7 @@ Feszítővassal, szöghúzóval kezdtük el felszedni a padlót, és igyekeztün
 Az ablakon kinyújtva tudtuk csak kihordani, mert az 5 méteres hossza miatt, sehogy sem tudtunk velük forgolódni.  
 
 
-A padló és a párnafák felszedésére elég volt kétszer fél nap. Az egész padló projektből, ez a rész volt a legkönnyebb.  
+A padló és a párnafák felszedésére elég volt kétszer fél nap. Az egész padló projektből ez a rész volt a legkönnyebb.  
 A felbontás után ott álltunk a földes szobában, és én nem tudtam, hogy sírjak, vagy nevessek. 
 
 ![régi szoba](/assets/szobabetonozas/1.jpg) 
@@ -128,7 +128,7 @@ Hogy a felújítás gördülékenyen menjen, a mesterekkel megbeszéltük a 2. r
 Mint írtam, a jó mesterembereket előre le kell foglalni, és ez csak tervezéssel megy.  
 
 
-A villany, víz és központi fűtés szerelőt, szinte a házvásárlással egy időben megkerestük, és elmondtuk a terveinket. Körvonalaztuk az időt, hogy mikor számíthatnak a munkára.  
+A villany, víz és központi fűtés szerelőt szinte a házvásárlással egy időben megkerestük, és elmondtuk a terveinket. Körvonalaztuk az időt, hogy mikor számíthatnak a munkára.  
 
 
 Két betonozás között volt pár napunk, akkor ötleteltük ki a férjemmel, hogy pontosan hova-mit szeretnénk.  Ahhoz, hogy ne utólag kelljen alakítani, a kész falakat szétvésni, konkrét tervekre volt szükség.  
@@ -173,7 +173,7 @@ _Csövek erre is, arra is..._
 
 
 
-Itt kell megjegyeznem, hogy azzal, hogy ezek a munkák megkezdődtek a házban elzárták a vizet és kikapcsolták a villanyt.  
+Itt kell megjegyeznem, azzal, hogy ezek a munkák megkezdődtek a házban elzárták a vizet és kikapcsolták a villanyt.  
 A vizet a kútból húztuk és a kályhán melegítettük, áram pedig a villanyórától, hosszabítókon keresztül volt.  
 
 Nem volt egyszerű :D  
