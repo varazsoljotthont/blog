@@ -111,3 +111,9 @@ _Itt már teraszt is kapott az asztal_
 **+ 1 gondolat:**  
 Könnyebb lett volna a kivitelezés, ha a körbe az asztal széléhez teszünk egy keretet. A ragasztó, a fuga nem tudott volna lefolyni. Így is megoldottam, de kétségtelen, hogy egyszerűbb lett volna munka.
 
+## Kapcsolódó cikkek
+
+* [Kell egy ház... De hol, milyen, mennyiért?](/2019-02-09/hazvasarlas)
+* [Találjuk ki a házunkat](/2019-02-18/afalak)
+* [A földes szobákkal kezdtük a házfelújítást!!](/2019-02-12/szobabetonozas.md)
+* [Faljavítás itt, falazás ott!](/2019-02-18/afalak)
