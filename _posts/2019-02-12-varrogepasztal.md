@@ -25,6 +25,8 @@ De ha már pihenés és kávé, akkor jó lenne egy stílusos asztal is...
 
 
 > A szerencse, mint már oly sokszor, most is mellénk állt.  
+
+
 Egy barátunkat vittük el az apósához, és míg ők a dolgukat intézték, én nézegettem az udvaron.  
 
 
