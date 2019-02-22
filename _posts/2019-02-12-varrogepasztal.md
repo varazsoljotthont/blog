@@ -76,7 +76,7 @@ Ezeket óvatosan, kartonpapír alatt kalapáccsal összetörtem, és megkezdtem 
 A türkizből kettő, a fehérből csak egy darab volt, ezért nem volt mindegy hogy melyiket hova rakom.  
 
 
-A száraz kirakósdi után lefényképeztem, majd visszaszedtem az egészet. A CK lapra a férjem néhány mm vastagon felkente csempe ragasztót, én pedig visszarakosgattam a mozaikot. Minden darab között meghagytam a fugának helyet. 
+A száraz kirakósdi után lefényképeztem, majd visszaszedtem az egészet. A CK lapra a férjem néhány mm vastagon felkente csempe ragasztót, én pedig visszarakosgattam a mozaikot. A darabkák között hagytam fuga hézagot. 
 
 ![varrógép asztal](/assets/varrogepasztal/1.JPG)
 _Csemperagasztó és a mozaikok._
