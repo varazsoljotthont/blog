@@ -15,14 +15,14 @@ image:
 
 ## Csináljunk a régiből, újat! 
 
-Mielőtt megvettük a házat, több alkalommal is megnéztük. Ismerkedtünk egymással. ([erről itt olvashatsz](/2019-02-09/hazvasarlas)) A ház felosztása alapvetően megfelelt számunkra, de más-más funkciókat szántunk helyiségeknek.  
+Mielőtt megvettük a házat, több alkalommal is megnéztük. Ismerkedtünk egymással. ([erről itt olvashatsz](/2019-02-09/hazvasarlas)) A ház felosztása alapvetően megfelelt számunkra, de más-más funkciókat szántunk a helyiségeknek.  
 Sorra vettük az igényeinket mit szeretnénk, mi az, ami a kényelmünket szolgálja.  
 
 
 ## Gondoljuk át, mit szeretnénk...
 
 
-Az utcafrontra néző nagyobbik szobából (5X4 m) terveztük kialakítani a konyha – étkezőt, a régi konyhából pedig a nappalit.  Átgondoltam, hogy majd a mindennapokban miként funkcionálnak ezek helyiségek.
+Az utcafrontra néző nagyobbik szobából (5X4 m) terveztük kialakítani a konyha – étkezőt, a régi konyhából pedig a nappalit.  Átgondoltam, hogy majd a mindennapokban miként funkcionálnak ezek a helyiségek.
 
 
 Tudtam, hogy nálunk leginkább felnőtt társaság jön össze. A konyha-étkezőt terveztem a központi helynek, a kisebb nappali kettőnknek elég. 
@@ -32,6 +32,7 @@ A mi esetünkben ez tűnt praktikusnak. A régi konyhából, a majdani nappalib�
 
 ![falusi konyha kályhával](/assets/talaljuk_ki/1jav.jpg)
 _Ilyen volt, ilyen lett_
+
 ![modern nappali szives dísszel](/assets/talaljuk_ki/2jav.jpg)
 
 
@@ -61,8 +62,8 @@ Már akkor tervbe vettük, hogy az istálló helyén mosókonyha lesz.
 
 
 
-Egybe nyitott tereket szerettünk volna, és ez falbontással járt. A munka megkezdése előtt „feltérképeztük”, hogy hol vannak tartó falak.  
-A bontás során láttuk meg, hogy régen ún. sármaltert használtak a falazásnál. Szinte ki lehetett kotorni a téglák közül.  
+Egybe nyitott tereket szerettünk volna, és ez falbontással járt. A munka megkezdése előtt „feltérképeztük”, hol vannak a tartó falak.  
+A bontás során láttuk meg, hogy régen ún. sármaltert használtak a falazásnál.  A felújítás során ennek a "hibának" a javításásra nagy hangsúlyt fektettünk.
 
 
 Szigorúan, a statikai szempontok figyelembevételével kezdtük el szétszedni a házat.
