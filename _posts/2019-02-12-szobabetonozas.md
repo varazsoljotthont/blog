@@ -163,7 +163,7 @@ A mesterekkel mindent átbeszéltünk, és az előre megbeszélt időpontban meg
 
 
 ![régi szoba](/assets/szobabetonozas/10.jpg)   
-_Csövek erre is, arra is..._
+_Csövek erre is, arra is_
 
 
 ![régi szoba](/assets/szobabetonozas/11.jpg)
