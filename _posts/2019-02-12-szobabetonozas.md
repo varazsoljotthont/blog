@@ -126,14 +126,14 @@ Hogy a felújítás gördülékenyen menjen, a mesterekkel megbeszéltük a 2. r
 Mint írtam, a jó mesterembereket előre le kell foglalni, és ez csak tervezéssel megy.  
 
 
-A villany, víz és központi fűtés szerelőt szinte a házvásárlással egy időben megkerestük, és elmondtuk a terveinket. Körvonalaztuk az időt, hogy mikor számíthatnak a munkára.  
+A villany, víz és központi fűtés szerelőt szinte a házvásárlással egy időben megkerestük, és elmondtuk a terveinket. Körvonalaztuk, hogy mikor számíthatnak a munkára.  
 
 
-Két betonozás között volt pár napunk, akkor ötleteltük ki a férjemmel, hogy pontosan hova-mit szeretnénk.  Ahhoz, hogy ne utólag kelljen alakítani, a kész falakat szétvésni, konkrét tervekre volt szükség.  
+Két betonozás között volt pár napunk, akkor ötleteltük ki a férjemmel, hogy pontosan mit-hova szeretnénk.  Ahhoz, hogy ne utólag kelljen alakítani, a kész falakat szétvésni, konkrét tervekre volt szükség.  
 
 
 
-Most kellett meghatározni, minden radiátor, konnektor, villanykapcsoló, de még a mosogató, mosogatógép, stb helyét is.  
+Most kellett meghatározni minden radiátor, konnektor, villanykapcsoló, de még a mosogató, mosogatógép, stb helyét is.  
 Pl: előre tudni kell, hogy miként változnak a helyiségek funkciói.  
 
 Nálunk a szobából konyha lett, a konyhából nappali, a spájzból gardrób. ([erről itt olvashatsz](/2019-02-11/találjuk_ki))  
@@ -152,7 +152,7 @@ Nálunk a szobából konyha lett, a konyhából nappali, a spájzból gardrób. 
 
 Sok-sok kicsinek tűnő dolog, de ha nincs alaposan megtervezve komoly gondot okoz.  
 
-A fűtés és a víz esetében ugyanígy jártunk el. Nem akartunk a falon kívül csöveket, ezért úgy döntöttünk, hogy minden szerelvényt az szerelőbetonban „viszünk el”.  
+A fűtés és a víz esetében ugyanígy jártunk el. Nem akartunk a falon kívül csöveket, ezért úgy döntöttünk, hogy minden szerelvényt a szerelőbetonban „viszünk el”.  
 
 
 A mesterekkel mindent átbeszéltünk, és az előre megbeszélt időpontban meg is kezdték a munkát… …a munkát, ami első ránézésre elég ijesztő volt. A fűtés - víz miatt, a már eleve betonos helyiségek alját felvésték. A villanyszerelő a falakat bombázta szét…
@@ -171,10 +171,10 @@ _Csövek erre is, arra is..._
 
 
 
-Itt kell megjegyeznem, azzal, hogy ezek a munkák megkezdődtek a házban elzárták a vizet és kikapcsolták a villanyt.  
+Azzal, hogy ezek a munkák megkezdődtek a házban elzárták a vizet és kikapcsolták a villanyt.  
 A vizet a kútból húztuk és a kályhán melegítettük, áram pedig a villanyórától, hosszabítókon keresztül volt.  
 
-Nem volt egyszerű :D  
+Nem volt egyszerű! 
 
 
 ## Szigetelésnek hungarocellt tettünk le.
@@ -182,7 +182,8 @@ Nem volt egyszerű :D
 A szerelők pár nap alatt becsöveztek mindent, és megbeszéltük velük a soron következő munkák idejét.  
 
 
-A frissen betonozott helyiségekre leraktuk a 3 cm-es hungarocell táblákat. A férjem a csövek helyét kivagdosta a szigetelésben, és összeillesztgettük szigetelést a csövekkel. A hungarocellre fóliát terítettünk, hogy arra kerüljön az újabb réteg beton.
+A frissen betonozott helyiségekre leraktuk a 3 cm-es hungarocell táblákat. A férjem a csövek helyét kivagdosta a szigetelésben.  
+A hungarocellre fóliát terítettünk, hogy arra kerüljön az újabb réteg beton.
 
 ![régi szoba](/assets/szobabetonozas/13.jpg)
 
@@ -216,7 +217,7 @@ Az, hogy mi 3,5 hónap alatt megcsináltuk, az ( is ) kellett, hogy mindenki akk
 
 
 **+ 1 gondolat:**  
-Idő - pénz hiányában a padlófűtés ötletét elvetettük, ezért a szigetelésnek nem sok értelme lett. A lelkünket megnyugtattuk, de a járólap hideg maradt.
+Idő - pénz hiányában a padlófűtés ötletét elvetettük, ezért a szigetelésnek nem sok értelme lett. A lelkünket megnyugtattuk, de a konyhában a járólap hideg maradt.
 
 ## Kapcsolódó cikkek
 
