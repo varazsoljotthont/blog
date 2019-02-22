@@ -220,4 +220,12 @@ Az, hogy mi 3,5 hónap alatt megcsináltuk, az ( is ) kellett, hogy mindenki akk
 **+ 1 gondolat:**  
 Idő - pénz hiányában a padlófűtés ötletét elvetettük, ezért a szigetelésnek nem sok értelme lett. A lelkünket megnyugtattuk, de a járólap hideg maradt.
 
+## Kapcsolódó cikkek
+
+* [Kell egy ház... De hol, milyen, mennyiért?](/2019-02-09/hazvasarlas)
+* [Találjuk ki a házunkat](/2019-02-18/afalak)
+* [Régi varrógép új élete!](/2019-02-12/varrogepasztal)
+* [Faljavítás itt, falazás ott!](/2019-02-18/afalak)
+
+
 
