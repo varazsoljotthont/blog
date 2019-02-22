@@ -76,7 +76,7 @@ Időigényes, fárasztó, unalmas. Cserébe viszont nem volt gondunk az alvássa
 
 ## Az aljzat magasságának meghatározása.
 
-A betonozás megkezdése előtt a kőművesek, kiszintezték, kimérték leendő aljzatbeton magasságát. 
+A betonozás megkezdése előtt a kőművesek kiszintezték, kimérték a leendő aljzatbeton magasságát. 
 
 **A mi esetünkben ez:**
 
@@ -88,7 +88,7 @@ A betonozás megkezdése előtt a kőművesek, kiszintezték, kimérték leendő
 *	**egy újabb beton rétegből adódott össze** 
 
 
-A szomszédos helyiségekhez mérték fel a szintet, mert a frissen betonozott helyiségek aljzat magassága nem lehet magasabb, mint a többi helyiségé.
+A frissen betonozott helyiségek aljzat magassága nem lehet magasabb, mint a többi helyiségé.
 
 
 ## A földes szoba már a múlté.
