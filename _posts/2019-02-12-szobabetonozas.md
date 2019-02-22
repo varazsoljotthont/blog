@@ -104,8 +104,8 @@ Ajánlottak egy falubeli kőművest, aki eljött és megnézte, hogy milyen munk
 Földnedves betont hozattunk, így kevesebb ember kellett hozzá, mintha magunk kevertük volna. Árban pedig nem volt sokkal több.  
 
 
-Nagy fóliát terítettünk le az udvaron, arra borította az autó a betont. Onnan visszalapátoltuk a betonkeverőbe, hogy kis vízzel átkeverve a kőművesek dolgozni tudjanak.  
-Kevertük a betont, toltuk be a talicskában, kevertük, toltuk, a mesterek meg csak húzták a betont…  
+Nagy fóliát terítettünk le az udvaron, arra borította az autó a betont. Onnan visszalapátoltuk a betonkeverőbe, egy kis vízzel átkevertük, hogy jobban eldolgozható legyen.  
+Kevertük a betont, toltuk be a talicskában, kevertük, toltuk, a mesterek meg csak húzták... húzták...  
 
 
 A betonkeverő, a talicska, és én ez idő tájt lettünk nagyon jó barátok.  
