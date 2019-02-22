@@ -100,10 +100,11 @@ Míg száradt, elégedetten nézegettem első DIY alkotásomat.
 Aztán főztem egy jó kávét, és nagy mosollyal az arcomon szervíroztam a még nem létező teraszunk, valóságos asztalán.  
 
 
-A készítése óta eltelt pár év, de azóta is ez van a teraszunkon. ( ...mert már teraszunk is van... ) Szeretem a stílusát, a színeit, azt hogy, az idő nem hagyott rajt nyomot.  
+A készítése óta eltelt pár év, de azóta is ez van a teraszunkon. ( ...mert már teraszunk is van... ) Szeretem a stílusát, a színeit, azt, hogy az idő nem hagyott rajta nyomot.  
 
 
-Jó döntés volt, a varrógépállvány is, és a mozaikos asztallap is. 
+Jó döntés volt.  
+A varrógép állvány is, és a mozaikos asztallap is. 
 
 
 ![mozaik asztal](/assets/varrogepasztal/8.jpg)
