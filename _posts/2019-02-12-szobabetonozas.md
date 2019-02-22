@@ -27,7 +27,7 @@ A régi eljárásnak megfelelően, föld – homok ágyba rakták a párnafákat
 Feszítővassal, szöghúzóval kezdtük el felszedni a padlót, és igyekeztünk a lehető legtöbbet megmenteni belőle. Tudtuk, hogy ez padló újragondolva még meg fog jelenni a házban. 
 
 
-Az ablakon kinyújtva tudtuk csak kihordani, mert az 5 méteres hossza miatt, sehogy sem tudtunk velük forgolódni.  
+Az ablakon kinyújtva tudtuk csak kihordani, mert az 5 méteres hossz miatt, sehogy sem tudtunk velük forgolódni.  
 
 
 A padló és a párnafák felszedésére elég volt kétszer fél nap. Az egész padló projektből ez a rész volt a legkönnyebb.  
@@ -48,9 +48,9 @@ _Sírjak vagy nevessek?_
 
 ## Elszántság, erő, talicska!
 
-A neheze most jött, hogy a padlókat, párnafákat kihordtuk ( és száraz helyre tettük ) és csak a homokosföld maradt. 
+A neheze most jött, hogy a padlókat, párnafákat kihordtuk ( és száraz helyre tettük ) és csak a homokos föld maradt. 
 
-Megkezdtük a föld kihordását, ami az idő folyamán kő kemény lett.  
+Megkezdtük a föld kihordását, ami az idő folyamán kőkemény lett.  
 
 
 Először fel kellett lazítani, ( csákányozni ) aztán azt a réteget lelapátolni, és újra lazítani, lapátolni.  
@@ -60,15 +60,13 @@ Az, hogy mennyi földet kell kilapátolni a szobákból a leendő szint magassá
 
 ![talicska](/assets/szobabetonozas/betonozasidezet1.jpg)
 
-Hogy könnyebben mozgassuk a talicskát, pallókat tettük le a szobák aljára, hogy azon toljuk ki földet. Nem tudom hányat fordultunk, de az udvaron hatalmas földkupacot hordtunk össze. 
+Hogy könnyebben mozgassuk a talicskát, pallókat tettük le a szobák aljára, hogy azon toljuk ki földet. Nem tudom hányszor fordultunk, de az udvaron hatalmas földkupacot hordtunk össze. 
 
 A kihordott földben sok szög maradt, ezért olyan helyre talicskáztuk, ahol az autókra nem jelentett veszélyt. 
 
 ![talicska](/assets/szobabetonozas/4.jpg)
 _Egy barátság kezdete_
 
-![földes szoba](/assets/szobabetonozas/3jav.jpg)
-_...talán látszik, mennyi földet szedtünk ki..._
 
 
 Őszinte leszek, ez az egyik legrosszabb munka volt.  
