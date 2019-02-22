@@ -47,33 +47,33 @@ Juhééééé!!! **Bátraké a szerencse!**
 
 ## Legyen strapabíró, dizájnos asztalunk
 
-Az állványt hazavittük, és a boldogságom határtalan volt. Nézegettem, körbejártam milyen fazon illene hozzá a legjobban.  
+Az állványt hazavittük, és a boldogságom határtalan volt. Nézegettem, körbejártam, milyen fazon illene hozzá a legjobban.  
 
-**Több variáció is felmerült, hogy miből legyen az asztalka lap része:**
+**Több variáció is felmerült, hogy miből legyen az asztalka lapja:**
 
 * falap
 * üveg
 * falap + csempe
 * lambéria
 
-Az asztalt a majdani teraszra szántuk, ezért olyan felület kellett, amit könnyen tisztán lehet tartani, bírja a napsütést, és persze tetszik is.  
+Az asztalt a majdani teraszra szántuk, ezért olyan felület kellett, amit könnyen tisztán lehet tartani. Bírja a napsütést, és persze tetszik is.  
 
 
 Férjemmel konzultálva úgy határoztunk, hogy CK lap ( cementkötésű lap ) lesz az alap, arra pedig járólap darabokból mozaikot rakok ki. Ck lap, ragasztó volt itthon, maradék járólapot pedig találtunk a férjem szülői házában.  
 
- **A régi falusi házak kincsesbányák az ilyen típusú embereknek, mint mi vagyunk. A mama házában sok régi tárgy volt, amit átalakítva újra felhasználtunk. Pl: régi, fém lámpa búrák, kilincsek, faanyagok** 
+ **A régi falusi házak kincsesbányák az ilyen típusú embereknek, mint mi vagyunk. A mama házában sok régi tárgy volt, amit átalakítva újra felhasználtunk. Pl: régi, fém lámpa búrák, kilincsek, faanyagok, stb.** 
 
 ## Mozaikos asztalunk lesz!
 
 Miután a lapot a férjem méretre vágta, rögzítette, elkezdtem megtervezni a mozaik színét, mintáját. Igyekeztem semleges felületű, és színben egymáshoz passzoló darabokat választani. 
 
-Az ajtók, ablakok mohazöld színűek, a falak fehérek, a teraszt csupa téglára terveztük. Ehhez a színvilághoz kerestem a megfelelő darabokat. 
+Az ajtók, ablakok mohazöld színűek, a falak fehérek, a teraszt látszó téglásra terveztük. Ehhez a színvilághoz kerestem a megfelelő darabokat. 
 A válogatás eredménye: zöld, türkiz, és fehér járólap. 
 
 Ezeket óvatosan, kartonpapír alatt kalapáccsal összetörtem, és megkezdtem a kirakóst. Először ragasztó nélkül, ide-oda tologattam a darabkákat. 
 
 
-A türkizből kettő, a fehérből egy darab volt mindössze, ezért nem volt mindegy hogy melyiket hova rakom.  
+A türkizből kettő, a fehérből csak egy darab volt, ezért nem volt mindegy hogy melyiket hova rakom.  
 
 
 A száraz kirakósdi után lefényképeztem, majd visszaszedtem az egészet. A CK lapra a férjem néhány mm vastagon felkente csempe ragasztót, én pedig visszarakosgattam a mozaikot. Minden darab között meghagytam a fugának helyet. 
