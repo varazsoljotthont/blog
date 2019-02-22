@@ -125,9 +125,9 @@ Régi ház vásárlásakor szinte mindig marad egy kis ez-az az előző tulajdon
 Érdemes ezeket félretenni, megőrizni. Sok minden akadhat a tárgyak között, amit újra gondolva fel lehet használni a ház körül.
 
 ## Kapcsolódó cikkek
-* [A földes szobákkal kezdtük a házfelújítást!](2019-02-12/szobabetonozas)
-* [Régi varrógép új élete!](2019-02-12/varrogepasztal)
-* [Kell egy ház... De hol, milyen, mennyiért?](2019-02-09/hazvasarlas)
-* [Faljavítás itt, falazás ott!](2019-02-18/afalak)
+* [A földes szobákkal kezdtük a házfelújítást!](/2019-02-12/szobabetonozas)
+* [Régi varrógép új élete!](/2019-02-12/varrogepasztal)
+* [Kell egy ház... De hol, milyen, mennyiért?](/2019-02-09/hazvasarlas)
+* [Faljavítás itt, falazás ott!](/2019-02-18/afalak)
 
 

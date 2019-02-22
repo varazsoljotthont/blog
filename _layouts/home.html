@@ -39,7 +39,7 @@ $("#subscribe_form").submit(function(event){
 </script>
 -->
 
-<p align="right" style="color:#880015">Téglából ház, lélekből otthon!</p>
+<p align="right" style="color:#880015"><strong>Téglából ház, lélekből otthon!</strong></p>
 <div class="catalogue">
   {% for post in paginator.posts %}
    <a href="{{ post.url | prepend: site.baseurl }}" class="catalogue-item">
@@ -54,7 +54,7 @@ $("#subscribe_form").submit(function(event){
            <h1 class="catalogue-title">{{ post.title }}</h1>
            <div class="catalogue-line"></div>
            <p> {{ post.content | strip_html | truncatewords: 30 }} </p>
-           <time datetime="{{ post.date }}" class="catalogue-time">{{ post.date | date: "%Y. %B %d." }}</time>
+           <time datetime="{{ post.date }}" class="catalogue-time">{{ post.date | date: "%Y-%m-%d" }}</time>
          </div>
      </div>
    </a>   
