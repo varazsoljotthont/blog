@@ -25,7 +25,7 @@ De ha már pihenés és kávé, akkor jó lenne egy stílusos asztal is...
 
 
 A szerencse, mint már oly a sokszor most is mellénk állt.  
-Egy barátunkat vittük el az apósához, ahol, míg ők a dolgukat intézték, én nézegettem az udvaron.  
+Egy barátunkat vittük el az apósához, és míg ők a dolgukat intézték, én nézegettem az udvaron.  
 
 
 Alig észrevehetően lapult meg a sufniban a két öntöttvas varrógép állvány. Nem túlzok, mikor azt mondom, hogy hevesebben kezdett verni a szívem. Nagyon szerettem volna az egyiket…  
