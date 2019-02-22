@@ -13,7 +13,7 @@ image:
 
 **Régi vágyam volt egy öntöttvas varrógép állvány, ami a képzeletemben asztalként szerepelt. Tökéletes kültérre, a mérete miatt kis helyre is alkalmas. Csak a fantázián múlik, hogy milyen formában születik újjá.**
 
-## A varrógépállvány története
+## A varrógép állvány története
 
 
 Az udvaron a pusztaság egyhangúságát a bontással járó lomok színesítették, és a "Miházunk" külseje is rémes képet mutatott.  
@@ -24,7 +24,7 @@ Volt egy kicsi beton placc a bejárati ajtó előtt, jobb nem lévén azt kineve
 De ha már pihenés és kávé, akkor jó lenne egy stílusos asztal is...
 
 
-A szerencse, mint már oly a sokszor most is mellénk állt.  
+> A szerencse, mint már oly sokszor, most is mellénk állt.  
 Egy barátunkat vittük el az apósához, és míg ők a dolgukat intézték, én nézegettem az udvaron.  
 
 
