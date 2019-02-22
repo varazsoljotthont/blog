@@ -223,7 +223,7 @@ Idő - pénz hiányában a padlófűtés ötletét elvetettük, ezért a szigete
 ## Kapcsolódó cikkek
 
 * [Kell egy ház... De hol, milyen, mennyiért?](/2019-02-09/hazvasarlas)
-* [Találjuk ki a házunkat](/2019-02-11-találjuk_ki)
+* [Találjuk ki a házunkat](/2019-02-11/találjuk_ki)
 * [Régi varrógép új élete!](/2019-02-12/varrogepasztal)
 * [Faljavítás itt, falazás ott!](/2019-02-18/afalak)
 
