@@ -33,9 +33,12 @@ Egy barátunkat vittük el az apósához, és míg ők a dolgukat intézték, é
 Alig észrevehetően lapult meg a sufniban a két öntöttvas varrógép állvány. Nem túlzok, mikor azt mondom, hogy hevesebben kezdett verni a szívem. Nagyon szerettem volna az egyiket…  
 
 
-Gyorsan végig futtattam a lehetőségeket, hogy mi történhet, ha a barátunknál, vagy a bácsinál rákérdezek. 
+Gyorsan végig futtattam a lehetőségeket, hogy mi történhet ha a barátunknál, vagy a bácsinál rákérdezek. 
 
-"Veszteni valóm nincs.. A legrosszabb eshetőség, hogy nem kapom meg. De akkor még pont ott vagyok, ahol eddig… Nincs varrógépem…"  Szóval nagy levegő, kérdezés, és a válasz igen lett. Elvihetem, ha nekem ez a lim-lom ennyire tetszik.  
+"Nincs veszteni valóm... A legrosszabb ami történhet, hogy nem kapom meg. De akkor még pont ott vagyok, ahol eddig… Nincs varrógépem…"  
+
+
+Szóval nagy levegő, kérdezés, és a válasz igen lett. Elvihetem, ha nekem ez a lim-lom ennyire tetszik.  
 
 
 Juhééééé!!! **Bátraké a szerencse!**
