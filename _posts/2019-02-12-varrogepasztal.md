@@ -115,5 +115,5 @@ Könnyebb lett volna a kivitelezés, ha a körbe az asztal széléhez teszünk e
 
 * [Kell egy ház... De hol, milyen, mennyiért?](/2019-02-09/hazvasarlas)
 * [Találjuk ki a házunkat](/2019-02-11/találjuk_ki)
-* [A földes szobákkal kezdtük a házfelújítást!!](/2019-02-12/szobabetonozas)
+* [A földes szobákkal kezdtük a házfelújítást!](/2019-02-12/szobabetonozas)
 * [Faljavítás itt, falazás ott!](/2019-02-18/afalak)
