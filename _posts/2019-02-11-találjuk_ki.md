@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Találjuk ki a házunkat"
+title: "Találjuk ki a házunkat!"
 cover: /assets/talaljuk_ki/coverjav.jpg
 image:
   path: /assets/talaljuk_ki/coverjav.jpg
