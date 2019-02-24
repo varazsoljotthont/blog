@@ -1,3 +1,3 @@
 # Varázsolj Otthont Blog
 
-http://blog.varazsoljotthont.hu/
+https://blog.varazsoljotthont.hu/
