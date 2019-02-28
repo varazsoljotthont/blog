@@ -22,7 +22,11 @@ image:
 
 
 
-Mikor a falak javításával végeztünk, hatalmas örömmel nyugtáztuk, hogy egy sok időt igénylő, nehéz munkán jutottunk túl ([erről itt olvashatsz](/2019-02-18-afalak))
+Mikor a falak javításával végeztünk, hatalmas örömmel nyugtáztuk, hogy egy sok időt igénylő, nehéz munkán jutottunk túl. 
+
+([erről itt olvashatsz](/2019-02-18-afalak))
+
+
 
 Továbbra is azt az elvet akartuk követni, hogy magunk csináljuk meg amit lehet, és nem fizetünk szakembernek azért, amit magunk is el tudunk végezni
 
@@ -40,7 +44,7 @@ Több mindennel próbálkoztam:
 -	ecset
 -	korongecset
 
-![festett falak](/assets/afalak/355175_1.jpg)
+![festett falak](/assets/színesednekafalak/355175_1.jpg)
 
 Kicsit olyan voltam, mint Gombóc Artúr a csokival. 
 Volt ilyen is, olyan is, de végül a korongecset lett a befutó. 
