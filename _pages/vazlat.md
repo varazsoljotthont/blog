@@ -65,7 +65,7 @@ Festő overállba öltöztem, és csak húztam a korongecsetet, az pedig fröcsk
 De nem panaszkodtam, volt ennél sokkal rosszabb része is a felújításnak!
 
 
-Mindig csak egy helyiséget készítettem elő a festésre, hogy minél hamarabb siker élményem legyen.  
+Mindig csak egy helyiséget készítettem elő a festésre, hogy minél hamarabb sikerélményem legyen.  
 Nagyon látni akartam, hogy milyenek lesznek a falak színesben.
 
 
@@ -126,7 +126,8 @@ Volt még belőle, felkészültem rendesen!
 
 
 Aztán azon is azonnal tönkrement… De ilyen kis malőrök nem foghattak ki rajtam, festeni akartam mindenáron!
-A maszkoló szalag tökéletesen megfelelt arra, hogy körbe ragasszam magamon az overállt. Nem lett nagyon dizájnos, de akkor ez a legkevésbé sem izgatott!
+A maszkoló szalag tökéletesen megfelelt arra, hogy körbe ragasszam magamon az overállt.  
+Nem lett nagyon dizájnos, de akkor ez a legkevésbé sem izgatott!
 
 
 ![festett falak](/assets/színesfalak/DSCF0203.JPG)
@@ -138,7 +139,7 @@ Volt a nappaliban egy jó kis kályha.
 Azzal fűtöttünk, és a januári hideg ellenére jól száradtak a falak.  
 
 
-Háromszor kentem le mindent helyiséget. Ennyi kellett, hogy eltűnjön a friss vakolás nyoma.
+Háromszor festettem le minden helyiséget. Ennyi kellett, hogy eltűnjön a friss vakolás nyoma.
 Gyorsan haladtam, és látványos is volt a munkám. Repesett a lelkem a boldogságtól, hogy kezdett otthon formája lenni a házunknak.
 
 
@@ -148,8 +149,7 @@ A nagy falakon a kis henger nem volt túl hatékony, de jobb ötlet híján, ezz
 
 
 ![festett falak](/assets/színesfalak/DSCF0205.JPG)
-_
-
+_A mennyezet és a fal találkozása_
 
 
 Bordűr csíkot akartunk ragasztani a két festék találkozásához, mert csíkot húzni – mint a régi időkben volt divat - nem tudtam, és nem is igazán akartam.
@@ -159,14 +159,24 @@ Bordűr csíkot akartunk ragasztani a két festék találkozásához, mert csík
 
 A nappaliban, a kályha mögötti fal nagyon rossz állapotban volt. 
 
-A felülete olyan volt, mint a domborzati térkép,és hiába csiszoltam meg, nem lett az igazi.
-Tapétával gondoltuk megoldani a problémát. Strukturált  tapétát választottam, hogy elfedje a hibákat.
+A felülete olyan volt, mint a domborzati térkép, és hiába csiszoltam meg, nem lett az igazi.
+Tapétával gondoltuk megoldani a problémát. Strukturált hatású tapétát választottam, hogy elfedje a hibákat.
 
-
+![festett falak](/assets/színesfalak/tapéta1.jpg)
 
 Azt szoktuk mondani, hogy a „Miházunkban” minden olyan szerethetően girbe-gurba. 
 Semmi sem egyenes, merőleges, vagy párhuzamos.
 Épp ezért nagyon nehéz a precíz munkát végezni.
+
+A tapétás és festett fal találkozását nem tudtuk szépen összehozni. Olyan egyenetlen volt a fal, hogy a tapéta sem "feküdt ki" a sarkoknál. 
+
+Törni kellett a fejünket, hogy lehet ebből szépet csinálni...  
+De aztán csak kitaláltuk!
+
+Hungarocell holker díszléc lett a megoldás. Felragasztottuk, és lefestettem a fal színére.
+
+
+
 
 * [A földes szobákkal kezdtük a házfelújítást!](/2019-02-12/szobabetonozas)
 * [Régi varrógép új élete!](/2019-02-12/varrogepasztal)
