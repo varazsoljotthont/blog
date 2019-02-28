@@ -43,14 +43,15 @@ Több mindennel próbálkoztam:
 -	ecset
 -	korongecset
 
-![száraz virág](/assets/színesfalak/355175_1.jpg)
+![teddy henger](/assets/színesfalak/355175_1.jpg)
+_Teddy henger_
 
 
 Eszköz volt ilyen is, olyan is, de végül a korongecset lett a befutó. 
 Könnyedén tudtam vele dolgozni, szépen fel is hordtam vele az anyagot, de nem voltam túl ügyes. Biztos vagyok benne, hogy van valami trükk, hogy tisztán dolgozzunk a korongecsettel, de nekem nem sikerült rájönnöm. 
 
  > Muszáj alaposan lealapozni a falakat, mert ahol véletlenül kimarad, ott a festés során a henger felszedi a vakolatot.
- Nagyon fontos, hogy mindent takarjunk, amit védeni szeretnénk, mert nagyon nehéz takarítani ha megszárad.
+ Nagyon fontos, hogy mindent takarjunk amit védeni szeretnénk, mert nagyon nehéz takarítani ha megszárad.
 
 
 
@@ -67,15 +68,29 @@ De nem panaszkodtam, volt ennél sokkal rosszabb része is a felújításnak!
 Mindig csak egy helyiséget készítettem elő a festésre, hogy minél hamarabb siker élményem legyen. Nagyon látni akartam, hogy milyenek lesznek a falak színesben.
 
 
-Milyen színű legyen a fal?
+## Milyen színű legyen a fal?
 
 A házunk parasztház jellege meghatározta a falak színét is.
 
-Az erős színeket egyikünk sem szereti, a mediterrán stílushoz passzoló színek is kiestek a listámról. Csak fehérre sem akartam, így maradtak a natúr, föld színek.  Az előtérbe szerettem volna zöldes színt. Én csak penész zöldnek neveztem el ezt az árnyalatot. Évek óta nagy kedvencem, és szerettem volna „behozni” a házba.
+Az erős színeket egyikünk sem szereti, a mediterrán stílushoz passzoló színek is kiestek a listámról. Fehérre sem akartam, így maradtak a natúr, föld színek. Egyedül az előtérbe szerettem volna zöldes színt. (Én csak penész zöldnek neveztem el ezt az árnyalatot.)  
 
-Diszperzit vagy mész?
+Évek óta nagy kedvencem, és szerettem volna „behozni” a házba.
 
-A „Miházunk” egy régi ház, ami nélkülözött mindent, ami védte volna az esőtől, és a felszivárgó talajvíztől. Mikor megvettük, néhány helyen vizesek voltak a falak. Épp ezért olyan falfestéket akartunk, ami alatt jól szellőznek a falak.
+
+![festett falak](/assets/színesfalak/DSCF0193.JPG)
+_Natúr színű falak_
+
+
+## Diszperzit vagy mész?
+
+A „Miházunk” egy régi ház, ami nélkülözött mindent, ami megvédte volna az esőtől, és a felszivárgó talajvíztől. Mikor megvettük, néhány helyen vizesek voltak a falak. Épp ezért olyan falfestéket akartunk, ami jó szellőzést biztosít a háznak.
+
+
+![festett falak](/assets/színesfalak/DSCF0192.JPG)
+_Voltak vizes falszakaszok is_
+
+
+
 Vödrös, mészalapú festékre esett a választás, a mennyezetre pedig fűrészporos diszperzitet vásároltunk.
 A házunk mennyezete elég „hepe-hupás”, és úgy gondoltuk, hogy a fűrészporos festékkel lehet egy kicsit csalni. 
 Nem lehet…
