@@ -25,7 +25,7 @@ image:
 Mikor a falak javításával végeztünk, hatalmas örömmel nyugtáztuk, hogy egy sok időt igénylő, nehéz munkán jutottunk túl. 
 ([erről itt olvashatsz](/2019-02-18-afalak))
 
-A cél továbbra is az volt, hogy ne fizessünk szakembernek olyan munkáért, amit magunk is el tudunk végezni. A ház kifestése az én feladatom lett, a férjem addig a konyhát csempézte, és befejezte ami még elmaradt a kőműves munkákból.
+A cél továbbra is az volt, hogy ne fizessünk szakembernek olyan munkáért, amit magunk is el tudunk végezni. A ház kifestése az én feladatom lett, a férjem addig a konyhát csempézte, és befejezte a még elmaradt a kőműves munkákat.
 
 **Alapozás nélkül nem megy!**
 
