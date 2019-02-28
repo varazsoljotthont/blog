@@ -65,7 +65,8 @@ Festő overállba öltöztem, és csak húztam a korongecsetet, az pedig fröcsk
 De nem panaszkodtam, volt ennél sokkal rosszabb része is a felújításnak!
 
 
-Mindig csak egy helyiséget készítettem elő a festésre, hogy minél hamarabb siker élményem legyen. Nagyon látni akartam, hogy milyenek lesznek a falak színesben.
+Mindig csak egy helyiséget készítettem elő a festésre, hogy minél hamarabb siker élményem legyen.  
+Nagyon látni akartam, hogy milyenek lesznek a falak színesben.
 
 
 ## Milyen színű legyen a fal?
@@ -76,14 +77,21 @@ Az erős színeket egyikünk sem szereti, a mediterrán stílushoz passzoló sz�
 
 Évek óta nagy kedvencem, és szerettem volna „behozni” a házba.
 
+![festett falak](/assets/színesfalak/DSCF0237.JPG)
+
+![festett falak](/assets/színesfalak/DSCF0236.JPG)
+_Földszínű falak_
+
 
 ![festett falak](/assets/színesfalak/DSCF0193.JPG)
-_Natúr színű falak_
+_Alakul a "penész" zöld előtér__
 
 
 ## Diszperzit vagy mész?
 
-A „Miházunk” egy régi ház, ami nélkülözött mindent, ami megvédte volna az esőtől, és a felszivárgó talajvíztől. Mikor megvettük, néhány helyen vizesek voltak a falak. Épp ezért olyan falfestéket akartunk, ami jó szellőzést biztosít a háznak.
+A „Miházunk” egy régi ház, ami nélkülözött mindent, ami megvédte volna az esőtől, és a felszivárgó talajvíztől.  
+Mikor megvettük, néhány helyen vizesek voltak a falak.  
+Épp ezért olyan falfestéket akartunk, ami jó szellőzést biztosít a háznak.
 
 
 ![festett falak](/assets/színesfalak/DSCF0192.JPG)
