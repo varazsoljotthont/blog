@@ -77,14 +77,19 @@ Az erős színeket egyikünk sem szereti, a mediterrán stílushoz passzoló sz�
 
 Évek óta nagy kedvencem, és szerettem volna „behozni” a házba.
 
+
+
+![festett falak](/assets/színesfalak/DSCF0193.JPG)
+_Alakul a "penész" zöld előtér_
+
+
 ![festett falak](/assets/színesfalak/DSCF0237.JPG)
 
 ![festett falak](/assets/színesfalak/DSCF0236.JPG)
 _Földszínű falak_
 
 
-![festett falak](/assets/színesfalak/DSCF0193.JPG)
-_Alakul a "penész" zöld előtér__
+
 
 
 ## Diszperzit vagy mész?
@@ -99,36 +104,66 @@ _Voltak vizes falszakaszok is_
 
 
 
-Vödrös, mészalapú festékre esett a választás, a mennyezetre pedig fűrészporos diszperzitet vásároltunk.
+Vödrös, mészalapú festékre esett a választás, a mennyezetre pedig fűrészporos diszperzitet vásároltunk.  
 A házunk mennyezete elég „hepe-hupás”, és úgy gondoltuk, hogy a fűrészporos festékkel lehet egy kicsit csalni. 
+
+
 Nem lehet…
+
+
 A mennyezeten sajnos ilyen szempontból nem segített, de cserébe mutatósabb lett így a fehér plafon.
 
-A festés!
+## A festés!
 
 A mennyezettel kezdtem a festést, és hamar abba is hagytam… 
+
+
 Azt sejtettem, hogy nem lesz ”tiszta” munka, de hogy a fűrészpor ennyire visszahullik arra nem gondoltam. Újra beöltöztem a festő overállba, aminek az első cipzározáskor tönkre is ment a cipzárja. 
+
+
 Sebaj, csere! 
 Volt még belőle, felkészültem rendesen!
+
+
 Aztán azon is azonnal tönkrement… De ilyen kis malőrök nem foghattak ki rajtam, festeni akartam mindenáron!
 A maszkoló szalag tökéletesen megfelelt arra, hogy körbe ragasszam magamon az overállt. Nem lett nagyon dizájnos, de akkor ez a legkevésbé sem izgatott!
 
 
-Volt a nappaliban egy jó kis kályha. Azzal fűtöttünk, és a januári hideg ellenére jól száradtak a falak.
+![festett falak](/assets/színesfalak/DSCF0203.JPG)
+_Amikor nem számít a divat_
+
+
+
+Volt a nappaliban egy jó kis kályha.  
+Azzal fűtöttünk, és a januári hideg ellenére jól száradtak a falak.  
+
+
 Háromszor kentem le mindent helyiséget. Ennyi kellett, hogy eltűnjön a friss vakolás nyoma.
 Gyorsan haladtam, és látványos is volt a munkám. Repesett a lelkem a boldogságtól, hogy kezdett otthon formája lenni a házunknak.
 
 
 
-A mennyezet és falak összedolgozása viszont lassabban ment. Csak a kicsi teddy hengerrel tudtam dolgozni, hogy a két felületet ne kenjem állandóan össze. A nagy falakon a kis henger nem volt túl hatékony, de jobb ötlet híján, ezzel csináltam meg ezt részt.
+A mennyezet és falak összedolgozása viszont lassabban ment. Csak a kicsi teddy hengerrel tudtam dolgozni, hogy a két felületet ne kenjem állandóan össze.  
+A nagy falakon a kis henger nem volt túl hatékony, de jobb ötlet híján, ezzel csináltam meg ezt részt.
+
+
+![festett falak](/assets/színesfalak/DSCF0205.JPG)
+_
+
+
 
 Bordűr csíkot akartunk ragasztani a két festék találkozásához, mert csíkot húzni – mint a régi időkben volt divat - nem tudtam, és nem is igazán akartam.
 
 
-Tapéta
+## Tapéta
 
-A nappaliban, a kályha mögötti fal nagyon rossz állapotban volt. A felülete olyan volt, mint a domborzati térkép. Hiába csiszoltam meg, nem lett az igazi.
-Tapétával gondoltuk megoldani a problémát. Buborékos tapétát választottam, hogy elfedje a hibákat.
+A nappaliban, a kályha mögötti fal nagyon rossz állapotban volt. 
+
+A felülete olyan volt, mint a domborzati térkép,és hiába csiszoltam meg, nem lett az igazi.
+Tapétával gondoltuk megoldani a problémát. Strukturált  tapétát választottam, hogy elfedje a hibákat.
+
+
+
 Azt szoktuk mondani, hogy a „Miházunkban” minden olyan szerethetően girbe-gurba. 
 Semmi sem egyenes, merőleges, vagy párhuzamos.
 Épp ezért nagyon nehéz a precíz munkát végezni.
