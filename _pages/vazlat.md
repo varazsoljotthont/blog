@@ -85,7 +85,7 @@ _Alakul a "penész" zöld előtér_
 
 ![festett falak](/assets/színesfalak/DSCF0237.JPG)
 
-![festett falak](/assets/színesfalak/DSCF0236.JPG)
+![festett falak](/assets/színesfalak/jav1.JPG)
 _Földszínű falak_
 
 
