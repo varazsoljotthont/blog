@@ -2,9 +2,9 @@
 layout: post
 title: "Színesednek a falak!"
 permalink: /vazlat/
-cover: /assets/színesfalak/cover.jpg
+cover: /assets/színesfalak/cover.JPG
 image:
-  path: /assets/színesfalak/cover.jpg
+  path: /assets/színesfalak/cover.JPG
   height: 300
   width: 300
 ---
@@ -34,6 +34,8 @@ Az első lépés a falak alapozása volt.
 Nem nagyon tudtam, hogy mivel hatékonyabb felvinni a falakra az alapozó folyadékot.
 
 Több mindennel próbálkoztam:
+
+
 -	szőrös teddy henger
 -	szivacsos teddy henger
 -	kicsi teddy henger 
@@ -43,12 +45,12 @@ Több mindennel próbálkoztam:
 
 ![száraz virág](/assets/színesfalak/355175_1.jpg)
 
-Kicsit olyan voltam, mint Gombóc Artúr a csokival. 
-Volt ilyen is, olyan is, de végül a korongecset lett a befutó. 
+
+Eszköz volt ilyen is, olyan is, de végül a korongecset lett a befutó. 
 Könnyedén tudtam vele dolgozni, szépen fel is hordtam vele az anyagot, de nem voltam túl ügyes. Biztos vagyok benne, hogy van valami trükk, hogy tisztán dolgozzunk a korongecsettel, de nekem nem sikerült rájönnöm. 
 
-< Muszáj alaposan lealapozni a falakat, mert ahol véletlenül kimarad, ott a festés során problémák lehetnek.
-< Nagyon fontos, hogy mindent takarjunk, amit védeni szeretnénk, mert nagyon nehéz takarítani, ha megszárad.
+ > Muszáj alaposan lealapozni a falakat, mert ahol véletlenül kimarad, ott a festés során problémák lehetnek.
+ Nagyon fontos, hogy mindent takarjunk, amit védeni szeretnénk, mert nagyon nehéz takarítani, ha megszárad.
 
 
 
