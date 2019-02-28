@@ -219,7 +219,7 @@ Az, hogy mi 3,5 hónap alatt megcsináltuk, az ( is ) kellett, hogy mindenki akk
 
 
 **+ 1 gondolat:**  
-Idő - pénz hiányában a padlófűtés ötletét elvetettük, ezért a szigetelésnek nem sok értelme lett. A lelkünket megnyugtattuk, de a konyhában a járólap hideg maradt.
+Idő - pénz hiányában a padlófűtés ötletét elvetettük, ezért a szigetelésnek nem sok értelme lett. A lelkünket megnyugtattuk, de a konyhában a járófelület hideg maradt.
 
 ## Kapcsolódó cikkek
 
