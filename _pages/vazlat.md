@@ -23,10 +23,7 @@ image:
 
 
 Mikor a falak javításával végeztünk, hatalmas örömmel nyugtáztuk, hogy egy sok időt igénylő, nehéz munkán jutottunk túl. 
-
 ([erről itt olvashatsz](/2019-02-18-afalak))
-
-
 
 Továbbra is azt az elvet akartuk követni, hogy magunk csináljuk meg amit lehet, és nem fizetünk szakembernek azért, amit magunk is el tudunk végezni
 
@@ -55,7 +52,7 @@ Könnyedén tudtam vele dolgozni, szépen fel is hordtam vele az anyagot, de nem
 
 
 
-![festett falak](/assets/színesfalak/IMG_20190226_193431)
+![festett falak](/assets/színesfalak/IMG_20190226_193431.jpg)
 
 
 
