@@ -11,7 +11,7 @@ image:
 
 
 
-**Minden háziasszony álma, hogy az épülő vagy felújított ház végre elkezdjen egy „igazi” házra hasonlítani. Ez a pillanat akkor érkezik el, mikor a falak végre előkészültek a festésre és eltűnnek a vakolatlan részek a házból. A „Miházunkban” én lettem kinevezve festőnek. Én, aki eddig csak festegettem ezt-azt, de nem volt igazán tapasztalatom ebben a munkában.**
+**Minden háziasszony álma, hogy az épülő vagy felújított ház végre elkezdjen egy „igazi” otthonra hasonlítani. Ez a pillanat akkor érkezik el, mikor eltűnnek a vakolatlan részek a házból, és a falak végre előkészültek a festésre. A „Miházunkban” én lettem kinevezve festőnek. Én, aki eddig csak festegettem ezt-azt, de nem volt igazán tapasztalatom ebben a munkában.**
 
 
 
@@ -25,7 +25,7 @@ image:
 Mikor a falak javításával végeztünk, hatalmas örömmel nyugtáztuk, hogy egy sok időt igénylő, nehéz munkán jutottunk túl. 
 ([erről itt olvashatsz](/2019-02-18-afalak))
 
-Továbbra is azt az elvet akartuk követni, hogy magunk csináljuk meg amit lehet, és nem fizetünk szakembernek azért, amit magunk is el tudunk végezni
+A cél továbbra is az volt, hogy ne fizessünk szakembernek olyan munkáért, amit magunk is el tudunk végezni. A ház kifestése az én feladatom lett, a férjem addig a konyhát csempézte, és befejezte ami még elmaradt a kőműves munkákból.
 
 **Alapozás nélkül nem megy!**
 
@@ -118,14 +118,15 @@ A mennyezeten sajnos ilyen szempontból nem segített, de cserébe mutatósabb l
 A mennyezettel kezdtem a festést, és hamar abba is hagytam… 
 
 
-Azt sejtettem, hogy nem lesz ”tiszta” munka, de hogy a fűrészpor ennyire visszahullik arra nem gondoltam. Újra beöltöztem a festő overállba, aminek az első cipzározáskor tönkre is ment a cipzárja. 
+Azt sejtettem, hogy nem lesz ”tiszta” munka, de hogy a fűrészpor ennyire visszahullik arra nem gondoltam. Újra beöltöztem a festő overállba, aminek az első használatkor tönkre is ment a cipzárja. 
 
 
 Sebaj, csere! 
 Volt még belőle, felkészültem rendesen!
 
 
-Aztán azon is azonnal tönkrement… De ilyen kis malőrök nem foghattak ki rajtam, festeni akartam mindenáron!
+Aztán azon is azonnal tönkrement…  
+De ilyen kis malőrök nem foghattak ki rajtam, festeni akartam mindenáron!
 A maszkoló szalag tökéletesen megfelelt arra, hogy körbe ragasszam magamon az overállt.  
 Nem lett nagyon dizájnos, de akkor ez a legkevésbé sem izgatott!
 
@@ -140,7 +141,8 @@ Azzal fűtöttünk, és a januári hideg ellenére jól száradtak a falak.
 
 
 Háromszor festettem le minden helyiséget. Ennyi kellett, hogy eltűnjön a friss vakolás nyoma.
-Gyorsan haladtam, és látványos is volt a munkám. Repesett a lelkem a boldogságtól, hogy kezdett otthon formája lenni a házunknak.
+Gyorsan haladtam, és látványos is volt a munkám.  
+Repesett a lelkem a boldogságtól, hogy kezdett otthon formája lenni a házunknak.
 
 
 
@@ -160,7 +162,7 @@ Bordűr csíkot akartunk ragasztani a két festék találkozásához, mert csík
 A nappaliban, a kályha mögötti fal nagyon rossz állapotban volt. 
 
 A felülete olyan volt, mint a domborzati térkép, és hiába csiszoltam meg, nem lett az igazi.
-Tapétával gondoltuk megoldani a problémát. Strukturált hatású tapétát választottam, hogy elfedje a hibákat.
+Tapétával akartuk megoldani a problémát. Strukturált hatásút választottam, hogy elfedje a hibákat.
 
 ![festett falak](/assets/színesfalak/tapéta1.jpg)
 
@@ -168,12 +170,41 @@ Azt szoktuk mondani, hogy a „Miházunkban” minden olyan szerethetően girbe-
 Semmi sem egyenes, merőleges, vagy párhuzamos.
 Épp ezért nagyon nehéz a precíz munkát végezni.
 
-A tapétás és festett fal találkozását nem tudtuk szépen összehozni. Olyan egyenetlen volt a fal, hogy a tapéta sem "feküdt ki" a sarkoknál. 
+A tapétatás falon egy régi furnér ajtó volt, ami a gardróbba nyílik.
 
-Törni kellett a fejünket, hogy lehet ebből szépet csinálni...  
-De aztán csak kitaláltuk!
+A cseréjére már nem volt idő, és a pénzt is sajnáltam volna rá...
 
-Hungarocell holker díszléc lett a megoldás. Felragasztottuk, és lefestettem a fal színére.
+Fehér zománc festékkel nem akartam lefesteni, mert az nagyon nem illett a megálmodott nappaliba...
+
+
+> Végig, a ház felújítása során (és a későbbi munkák alatt is) az volt a cél, hogy minél alacsonyabb szinten tatsuk a kiadásokat, de ez nem látszódjon meg a házunkon.  
+Szóval! Olcsó legyen, de jó!
+
+
+Így jött az ötlet, hogy tapétázzuk be az ajtót is.
+
+
+
+Időt, pénzt spóroltunk ezzel a megoldással, a végeredmény pedig tökéletes lett.
+
+![festett falak](/assets/színesfalak/ajtó.jpg)
+_Nappali a tapétás ajtóval_
+
+
+A festés közel két hétig tartott. 
+
+Egy helyiséget csináltam, egy másikban a férjem dolgozott valamit. Mindennap itt voltunk. Munka előtt - után, hétvégeken és ünnepeken. 
+
+De a festés már a munkák végét jelezte. 
+
+Január vége volt, és nekünk már csak egy hónapunk maradt a költözésig. 
+
+
+**+ 1 gondolat:**  
+Ma (2019.02.28) van négy éve, hogy beköltöztünk a "Miházunkba", és a költözés után négy évvel elindult a blog is. Az elmúlt négy évben nagyon sok mindent átalakítottunk, felújítottunk, és még mindig van tervünk (most épp egy romkertet készítünk).
+A cél kitűzésünk azóta is az olcsón -jót... és mindig megállapítjuk, hogy nem lenne a házunk ennyire ötletes és egyedi, ha lett volna pénzünk megvenni a kész dolgokat. 
+
+
 
 
 
