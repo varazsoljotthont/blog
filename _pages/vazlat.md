@@ -44,7 +44,7 @@ Több mindennel próbálkoztam:
 -	ecset
 -	korongecset
 
-![festett falak](/assets/színesednekafalak/355175_1.jpg)
+![száraz virág](/assets/színesfalak/355175_1.jpg)
 
 Kicsit olyan voltam, mint Gombóc Artúr a csokival. 
 Volt ilyen is, olyan is, de végül a korongecset lett a befutó. 
@@ -55,7 +55,7 @@ Könnyedén tudtam vele dolgozni, szépen fel is hordtam vele az anyagot, de nem
 
 
 
-![festett falak](/assets/afalak/IMG_20190226_193431)
+![festett falak](/assets/színesfalak/IMG_20190226_193431)
 
 
 
