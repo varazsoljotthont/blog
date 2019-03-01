@@ -40,7 +40,7 @@ Nem igazán tudtam, hogy mivel hatékonyabb felvinni a falakra az alapozó folya
 -	korongecset
 
 ![teddy henger](/assets/afalak/DSCF0191.JPG)
-_Készül az alapozása falaknak_
+_Alapozásra fel..._
 
 
 Eszköz volt ilyen is, olyan is, és végül a korongecset lett a befutó. 
