@@ -126,7 +126,7 @@ Volt még belőle, felkészültem rendesen!
 
 
 Aztán azon is azonnal tönkrement…  
-De ilyen kis malőrök nem foghattak ki rajtam, festeni akartam mindenáron!
+De az ilyen kis malőrök nem foghattak ki rajtam, festeni akartam mindenáron!
 A maszkoló szalag tökéletesen megfelelt arra, hogy körbe ragasszam magamon az overállt.  
 Nem lett nagyon dizájnos, de akkor ez a legkevésbé sem izgatott!
 
