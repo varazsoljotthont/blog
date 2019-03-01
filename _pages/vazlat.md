@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Színesednek a falak!"
+title: "Életre kelnek a falak!"
 permalink: /vazlat/
 cover: /assets/színesfalak/cover.JPG
 image:
