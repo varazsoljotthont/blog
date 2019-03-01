@@ -31,9 +31,7 @@ A cél továbbra is az volt, hogy ne fizessünk szakembernek olyan munkáért, a
 
 Az első lépés a falak alapozása volt.
 
-Nem nagyon tudtam, hogy mivel hatékonyabb felvinni a falakra az alapozó folyadékot.
-
-Több mindennel próbálkoztam:
+Nem nagyon tudtam, hogy mivel hatékonyabb felvinni a falakra az alapozó folyadékot, így több mindennel próbálkoztam:
 
 
 -	szőrös teddy henger
