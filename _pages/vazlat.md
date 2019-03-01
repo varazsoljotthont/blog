@@ -15,9 +15,7 @@ image:
 
 
 
-## Színesedenek a falak!
-
-
+## Fessük ki a házat!
 
 
 
