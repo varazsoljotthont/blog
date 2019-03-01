@@ -11,7 +11,7 @@ image:
 
 
 
-**Minden háziasszony álma, hogy az épülő vagy felújított ház végre elkezdjen egy „igazi” otthonra hasonlítani. Ez a pillanat akkor érkezik el, mikor eltűnnek a vakolatlan részek a házból, és a falak végre előkészültek a festésre. A „Miházunkban” én lettem kinevezve festőnek. Én, aki eddig csak festegettem ezt-azt, de nem volt igazán tapasztalatom ebben a munkában.**
+**Minden háziasszony álma, hogy az épülő vagy felújított ház végre elkezdjen egy „igazi” otthonra hasonlítani. Ez a pillanat akkor érkezik el, mikor eltűnnek a vakolatlan részek a házból, és a falak végre előkészülnek a festésre. A „Miházunkban” én lettem kinevezve festőnek. Én, aki eddig csak festegettem ezt-azt, de nem volt igazán tapasztalatom ebben a munkában.**
 
 
 
