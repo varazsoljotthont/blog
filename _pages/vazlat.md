@@ -23,13 +23,13 @@ image:
 Mikor a falak javításával végeztünk, hatalmas örömmel nyugtáztuk, hogy egy sok időt igénylő, nehéz munkán jutottunk túl. 
 ([erről itt olvashatsz](/2019-02-18/afalak))
 
-A cél továbbra is az volt, hogy ne fizessünk szakembernek olyan munkáért, amit magunk is el tudunk végezni. A ház kifestése az én feladatom lett, a férjem addig a konyhát csempézte, és befejezte a még elmaradt a kőműves munkákat.
+A cél továbbra is az volt, hogy ne fizessünk szakembernek olyan munkáért, amit magunk is el tudunk végezni. A ház kifestése az én feladatom lett. A férjem addig a konyhát csempézte, és befejezte a még elmaradt a kőműves munkákat.
 
 **Alapozás nélkül nem megy!**
 
 Az első lépés a falak alapozása volt.
 
-Nem nagyon tudtam, hogy mivel hatékonyabb felvinni a falakra az alapozó folyadékot, így több mindennel próbálkoztam:
+Nem igazán tudtam, hogy mivel hatékonyabb felvinni a falakra az alapozó folyadékot, így több mindennel próbálkoztam:
 
 
 -	szőrös teddy henger
@@ -61,8 +61,11 @@ Festő overállba öltöztem, és csak húztam a korongecsetet, az pedig fröcsk
 De nem panaszkodtam, volt ennél sokkal rosszabb része is a felújításnak!
 
 
-Mindig csak egy helyiséget készítettem elő a festésre, hogy minél hamarabb sikerélményem legyen.  
-Nagyon látni akartam, hogy milyenek lesznek a falak színesben.
+Délutánonként csináltam, így mindig csak egy helyiségen dolgoztam.  
+Amit lekentem, másnapra megszáradt, és újra tudtam festeni.
+
+
+Már nagyon látni akartam, hogy milyenek lesznek a falak színesben.
 
 
 ## Milyen színű legyen a fal?
