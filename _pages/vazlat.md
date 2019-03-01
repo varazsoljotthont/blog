@@ -94,7 +94,7 @@ _Földszínű falak_
 ## Diszperzit vagy mész?
 
 A „Miházunk” egy régi ház, ami nélkülözött mindent, ami megvédte volna az esőtől, és a felszivárgó talajvíztől.  
-Mikor megvettük, néhány helyen vizesek voltak a falak.  
+Mikor megvettük, néhány helyen vizes volt a fal.  
 Épp ezért olyan falfestéket akartunk, ami jó szellőzést biztosít a háznak.
 
 
