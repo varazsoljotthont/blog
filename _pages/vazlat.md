@@ -59,7 +59,7 @@ Biztos vagyok benne, hogy van valami trükk, hogy tisztán dolgozzunk a korongec
 
 
 
-Festő overállba öltöztem, és csak húztam a korongecsetet, az pedig fröcskölt mindenfelé…  
+Festő overállba öltöztem, és húztam - húztam a korongecsetet, az pedig fröcskölt mindenfelé…  
 De én csak csináltam,  hisz volt már ennél sokkal rosszabb része is a felújításnak!
 
 
