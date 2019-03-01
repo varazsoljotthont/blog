@@ -102,15 +102,14 @@ _Voltak vizes falszakaszok is_
 
 
 
-Vödrös, mészalapú festékre esett a választás.  
-A színeket a zöld kivételével én kevertem ki.  
+Vödrös, mészalapú festékre esett a választás, és a színeket a zöld kivételével én kevertem ki.  
 Utána olvastam, hogy milyen színekből áll össze az az árnyalat amire én gondoltam, és kikevertem a megfelelőt.
 
-A plafonra fűrészporos diszperzitet vásároltunk.
+A plafonra pedig fűrészporos diszperzitet vettünk.
 A házunk mennyezete elég „hepe-hupás”, és úgy gondoltuk, hogy a fűrészporos festékkel lehet egy kicsit csalni. 
 
 
-Nem lehet…
+De nem lehet…
 
 
 A mennyezeten sajnos ilyen szempontból nem segített, de cserébe mutatósabb lett így a fehér plafon.
