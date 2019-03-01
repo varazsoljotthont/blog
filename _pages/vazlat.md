@@ -203,6 +203,8 @@ A cél kitűzésünk azóta is az olcsón -jót... és mindig megállapítjuk, h
 
 ## Kapcsolódó cikkek
 
+
+
 * [Faljavítás itt, falazás ott!](/2019-02-18/afalak)
 * [A földes szobákkal kezdtük a házfelújítást!](/2019-02-12/szobabetonozas)
 * [Találjuk ki a házunkat](/2019-02-11/találjuk_ki)
