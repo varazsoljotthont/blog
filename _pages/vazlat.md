@@ -62,10 +62,10 @@ Biztos vagyok benne, hogy van valami trükk, hogy tisztán dolgozzunk a korongec
 Festő overállba öltöztem, és csak húztam a korongecsetet, az pedig fröcskölt mindenfelé…
 
 
-De én csak csináltam, volt ennél sokkal rosszabb része is a felújításnak!
+De én csak csináltam, volt már ennél sokkal rosszabb része is a felújításnak!
 
 Délutánonként munka után festettem, így mindig csak egy helyiségen dolgoztam.  
-Amit lekentem, másnapra megszáradt és újra tudtam festeni.
+
 
 
 Már nagyon látni akartam, hogy milyenek lesznek a falak színesben.
