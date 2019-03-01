@@ -62,7 +62,7 @@ De nem panaszkodtam, volt ennél sokkal rosszabb része is a felújításnak!
 
 
 Délutánonként csináltam, így mindig csak egy helyiségen dolgoztam.  
-Amit lekentem, másnapra megszáradt, és újra tudtam festeni.
+Amit lekentem, másnapra megszáradt és újra tudtam festeni.
 
 
 Már nagyon látni akartam, hogy milyenek lesznek a falak színesben.
