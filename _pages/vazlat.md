@@ -62,7 +62,7 @@ Biztos vagyok benne, hogy van valami trükk, hogy tisztán dolgozzunk a korongec
 Festő overállba öltöztem, és csak húztam a korongecsetet, az pedig fröcskölt mindenfelé…
 
 
-De nem panaszkodtam, volt ennél sokkal rosszabb része is a felújításnak!
+De én csak csináltam, volt ennél sokkal rosszabb része is a felújításnak!
 
 
 Délutánonként csináltam, így mindig csak egy helyiségen dolgoztam.  
