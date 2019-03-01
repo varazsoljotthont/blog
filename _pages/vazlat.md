@@ -39,8 +39,8 @@ Nem igazán tudtam, hogy mivel hatékonyabb felvinni a falakra az alapozó folya
 -	ecset
 -	korongecset
 
-![teddy henger](/assets/színesfalak/355175_1.jpg)
-_Teddy henger_
+![teddy henger](/assets/afalak/DSCF0191.JPG)
+_Készül az alapozása falaknak_
 
 
 Eszköz volt ilyen is, olyan is, és végül a korongecset lett a befutó. 
