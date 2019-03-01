@@ -111,7 +111,7 @@ Nem lehet…
 
 A mennyezeten sajnos ilyen szempontból nem segített, de cserébe mutatósabb lett így a fehér plafon.
 
-## A festés!
+## A festés
 
 A mennyezettel kezdtem a festést, és hamar abba is hagytam… 
 
@@ -201,11 +201,9 @@ A cél kitűzésünk azóta is az olcsón -jót... és mindig megállapítjuk, h
 
 
 
+## Kapcsolódó cikkek
 
-
-
-* [A földes szobákkal kezdtük a házfelújítást!](/2019-02-12/szobabetonozas)
-* [Régi varrógép új élete!](/2019-02-12/varrogepasztal)
-* [Találjuk ki a házunkat](/2019-02-11/találjuk_ki)
 * [Faljavítás itt, falazás ott!](/2019-02-18/afalak)
+* [A földes szobákkal kezdtük a házfelújítást!](/2019-02-12/szobabetonozas)
+* [Találjuk ki a házunkat](/2019-02-11/találjuk_ki)
 * [Kell egy ház... De hol, milyen, mennyiért?](/2019-02-09/hazvasarlas)
