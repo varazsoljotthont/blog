@@ -59,15 +59,11 @@ Biztos vagyok benne, hogy van valami trükk, hogy tisztán dolgozzunk a korongec
 
 
 
-Festő overállba öltöztem, és csak húztam a korongecsetet, az pedig fröcskölt mindenfelé…
-
-
+Festő overállba öltöztem, és csak húztam a korongecsetet, az pedig fröcskölt mindenfelé…  
 De én csak csináltam, volt már ennél sokkal rosszabb része is a felújításnak!
 
+
 Délutánonként munka után festettem, így mindig csak egy helyiségen dolgoztam.  
-
-
-
 Már nagyon látni akartam, hogy milyenek lesznek a falak színesben.
 
 
@@ -144,7 +140,7 @@ Azzal fűtöttünk, és a januári hideg ellenére jól száradtak a falak.
 
 Háromszor festettem le minden helyiséget. Ennyi kellett, hogy eltűnjön a friss vakolás nyoma.
 Gyorsan haladtam, és látványos is volt a munkám.  
-Repesett a lelkem a boldogságtól, hogy kezdett otthon formája lenni a házunknak.
+Repesett a lelkem a boldogságtól, ahogy kezdett otthon formája lenni a házunknak.
 
 
 
