@@ -13,7 +13,7 @@ image:
 
 ## Búcsú a hajópadlótól
 
-Mikor még csak ismerkedtem a házzal, ([erről itt olvashatsz](/2019-02-11/találjuk_ki)) és figyelgettem a részleteket, a szobákban lévő hajópadlók azonnal megtetszettek.  
+Mikor még csak ismerkedtem a házzal, ([erről itt olvashatsz](/2019-02-09/hazvasarlas)) és figyelgettem a részleteket, a szobákban lévő hajópadlók azonnal megtetszettek.  
 
 
 Szerettük volna megtartani, de látszott, hogy néhány helyen korhadt, és járkálás közben hullámzott alattunk. Így hiába volt hangulatos, megszavaztuk, hogy mennie kell. Az egyik sarokban óvatosan megbontottuk a padlót, és hát nem volt szerencsénk… Kiderült, hogy, a szobák nem betonosak.  
