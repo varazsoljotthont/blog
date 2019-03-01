@@ -46,7 +46,7 @@ _Alapozásra fel..._
 Eszköz volt ilyen is, olyan is, és végül a korongecset lett a befutó. 
 
 
-Nem egy könnyű munka.  
+Nem volt könnyű munka.  
 Van súlya a nedves ecsetnek, de azért tudtam vele dolgozni. Szépen fel is hordtam vele az anyagot, de nem voltam túl ügyes.  
 Biztos vagyok benne, hogy van valami trükk, hogy tisztán dolgozzunk a korongecsettel, de nekem nem sikerült rájönnöm. 
 
