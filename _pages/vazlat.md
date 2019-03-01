@@ -116,7 +116,7 @@ A mennyezeten sajnos ilyen szempontból nem segített, de cserébe mutatósabb l
 
 ## A festés
 
-A mennyezettel kezdtem a festést, és hamar abba is hagytam… 
+A fűrészporos festékkel kezdtem a festést, és hamar abba is hagytam… 
 
 
 Azt sejtettem, hogy nem lesz ”tiszta” munka, de hogy a fűrészpor ennyire visszahullik arra nem gondoltam. Újra beöltöztem a festő overállba, aminek az első használatkor tönkre is ment a cipzárja. 
