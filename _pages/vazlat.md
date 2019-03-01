@@ -196,7 +196,7 @@ Január vége volt, és nekünk már csak egy hónapunk maradt a költözésig.
 
 
 **+ 1 gondolat:**  
-Ma (2019.02.28) van négy éve, hogy beköltöztünk a "Miházunkba", és a költözés után négy évvel elindult a blog is. Az elmúlt években nagyon sok mindent átalakítottunk, felújítottunk, és még mindig van tervünk (most épp egy romkertet készítünk).
+Ma (2019.02.28) van négy éve, hogy beköltöztünk a "Miházunkba", és a költözés után négy évvel elindult a blog is. Az eltelt időben nagyon sok mindent átalakítottunk, felújítottunk, és még mindig van tervünk (most épp egy romkertet készítünk).
 A cél kitűzésünk azóta is az olcsón -jót... és mindig megállapítjuk, hogy nem lenne a házunk ennyire ötletes és egyedi, ha lett volna pénzünk megvenni a kész dolgokat. 
 
 
