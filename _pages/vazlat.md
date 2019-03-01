@@ -106,7 +106,7 @@ Vödrös, mészalapú festékre esett a választás, a mennyezetre pedig fűrés
 A házunk mennyezete elég „hepe-hupás”, és úgy gondoltuk, hogy a fűrészporos festékkel lehet egy kicsit csalni. 
 
 
-A színeket én kevertem ki (kivéve a zöldet).  
+A színeket, a zöld kivételével én kevertem ki.  
 Utána olvastam, hogy milyen színekből áll össze az az árnyalat amire én gondoltam, és kikevertem a megfelelőt.
 
 Nem lehet…
