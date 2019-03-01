@@ -64,8 +64,7 @@ Festő overállba öltöztem, és csak húztam a korongecsetet, az pedig fröcsk
 
 De én csak csináltam, volt ennél sokkal rosszabb része is a felújításnak!
 
-
-Délutánonként csináltam, így mindig csak egy helyiségen dolgoztam.  
+Csak délutánonként, munka után festettem, így mindig csak egy helyiségen dolgoztam.  
 Amit lekentem, másnapra megszáradt és újra tudtam festeni.
 
 
