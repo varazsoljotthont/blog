@@ -43,7 +43,7 @@ Nem igazán tudtam, hogy mivel hatékonyabb felvinni a falakra az alapozó folya
 _Teddy henger_
 
 
-Eszköz volt ilyen is, olyan is, de végül a korongecset lett a befutó. 
+Eszköz volt ilyen is, olyan is, és végül a korongecset lett a befutó. 
 Nem állítom, hogy könnyedén, de azért tudtam vele dolgozni. Szépen fel is hordtam vele az anyagot, de nem voltam túl ügyes. Biztos vagyok benne, hogy van valami trükk, hogy tisztán dolgozzunk a korongecsettel, de nekem nem sikerült rájönnöm. 
 
  > Muszáj alaposan lealapozni a falakat, mert ahol véletlenül kimarad, ott a festés során a henger felszedi a vakolatot.
