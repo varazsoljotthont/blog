@@ -23,7 +23,7 @@ image:
 
 
 Mikor a falak javításával végeztünk, hatalmas örömmel nyugtáztuk, hogy egy sok időt igénylő, nehéz munkán jutottunk túl. 
-([erről itt olvashatsz](/2019-02-18-afalak))
+([erről itt olvashatsz](/2019-02-18/afalak))
 
 A cél továbbra is az volt, hogy ne fizessünk szakembernek olyan munkáért, amit magunk is el tudunk végezni. A ház kifestése az én feladatom lett, a férjem addig a konyhát csempézte, és befejezte a még elmaradt a kőműves munkákat.
 
@@ -166,18 +166,15 @@ Tapétával akartuk megoldani a problémát. Strukturált hatásút választotta
 
 ![festett falak](/assets/színesfalak/tapéta1.jpg)
 
-Azt szoktuk mondani, hogy a „Miházunkban” minden olyan szerethetően girbe-gurba. 
-Semmi sem egyenes, merőleges, vagy párhuzamos.
-Épp ezért nagyon nehéz a precíz munkát végezni.
 
-A tapétatás falon egy régi furnér ajtó volt, ami a gardróbba nyílik.
+A tapétás falon egy régi furnér ajtó volt, ami a gardróbba nyílik.
 
-A cseréjére már nem volt idő, és a pénzt is sajnáltam volna rá...
+A cseréjére már nem volt idő, és a pénzt is sajnáltuk volna rá...
 
-Fehér zománc festékkel nem akartam lefesteni, mert az nagyon nem illett a megálmodott nappaliba...
+Fehér zománc festékkel nem akartam lefesteni, mert az nagyon nem illett volna a megálmodott nappaliba...
 
 
-> Végig, a ház felújítása során (és a későbbi munkák alatt is) az volt a cél, hogy minél alacsonyabb szinten tatsuk a kiadásokat, de ez nem látszódjon meg a házunkon.  
+> Végig, a ház felújítása során (és a későbbi munkák alatt is) az volt a cél, hogy minél alacsonyabb szinten tartsuk a kiadásokat, de ez ne látszódjon meg a házunkon.  
 Szóval! Olcsó legyen, de jó!
 
 
@@ -201,7 +198,7 @@ Január vége volt, és nekünk már csak egy hónapunk maradt a költözésig.
 
 
 **+ 1 gondolat:**  
-Ma (2019.02.28) van négy éve, hogy beköltöztünk a "Miházunkba", és a költözés után négy évvel elindult a blog is. Az elmúlt négy évben nagyon sok mindent átalakítottunk, felújítottunk, és még mindig van tervünk (most épp egy romkertet készítünk).
+Ma (2019.02.28) van négy éve, hogy beköltöztünk a "Miházunkba", és a költözés után négy évvel elindult a blog is. Az elmúlt években nagyon sok mindent átalakítottunk, felújítottunk, és még mindig van tervünk (most épp egy romkertet készítünk).
 A cél kitűzésünk azóta is az olcsón -jót... és mindig megállapítjuk, hogy nem lenne a házunk ennyire ötletes és egyedi, ha lett volna pénzünk megvenni a kész dolgokat. 
 
 
