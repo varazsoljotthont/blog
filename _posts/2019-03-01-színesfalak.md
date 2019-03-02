@@ -143,7 +143,7 @@ Volt a nappaliban egy jó kis kályha.
 Azzal fűtöttünk, és a januári hideg ellenére jól száradtak a falak.  
 
 
-Háromszor festettem le minden helyiséget, hogy eltűnjön a friss vakolás nyoma.
+Háromszor festettem le minden helyiséget, hogy eltűnjön a friss vakolás.
 Gyorsan haladtam, és látványos is volt a munkám.  
 Repesett a lelkem a boldogságtól, ahogy kezdett otthon formája lenni a házunknak.
 
