@@ -43,7 +43,7 @@ Nem igazán tudtam, hogy mivel hatékonyabb felvinni a falakra az alapozó folya
 _Alapozásra fel..._
 
 
-Eszköz volt ilyen is, olyan is, és végül a korongecset lett a befutó. 
+Eszköz volt ilyen is, olyan is, végül a korongecset lett a befutó. 
 
 
 Nem volt könnyű munka.  
