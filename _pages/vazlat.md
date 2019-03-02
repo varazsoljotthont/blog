@@ -48,6 +48,8 @@ Eszköz volt ilyen is, olyan is, végül a korongecset lett a befutó.
 
 Nem volt könnyű munka.  
 Van súlya a nedves ecsetnek, de azért tudtam vele dolgozni. Szépen fel is hordtam az anyagot, de nem voltam túl ügyes.  
+
+
 Biztos vagyok benne, hogy van valami trükk, hogy tisztán dolgozzunk a korongecsettel, de nekem nem sikerült rájönnöm. 
 
  > Muszáj alaposan lealapozni a falakat, mert ahol véletlenül kimarad, ott a festés során a henger felszedi a vakolatot.
