@@ -107,10 +107,11 @@ _Voltak vizes falszakaszok is_
 Vödrös, mészalapú festékre esett a választás, és a színeket a zöld kivételével én kevertem ki.  
 Utána olvastam, hogy milyen színekből áll össze az az árnyalat amire én gondoltam, és kikevertem a megfelelőt.
 
-A plafonra pedig fűrészporos diszperzitet vettünk.  
-A házunk mennyezete elég „hepe-hupás”, és úgy gondoltuk, hogy ezzel a festékkel lehet "csalni" egy keveset.
+ 
+A házunk mennyezete eléggé „hepe-hupás”...   
+Úgy gondoltuk ha fűrészporos festéket használunk, akkor lehet "csalni" egy keveset.
 
-De nem lehet…
+De nem lehetett…
 
 
 A mennyezeten sajnos ilyen szempontból nem segített, de cserébe mutatósabb lett így a fehér plafon.
