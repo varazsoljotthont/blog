@@ -11,7 +11,7 @@ image:
 
 
 
-**Ahogy haladunk előre a ház felújításban, úgy lesznek egyre nagyobbak az elvárásaim. Napról-napra szépül az otthonunk, és mostanra a beton látványa szinte zavarja a szemem.  Az, hogy a csempe, járólap, laminált parketta végre lerakásra kerül, a mi esetünkben az utolsó fázis a beköltözés előtt**
+**Ahogy halad előre a ház felújítás, az elvárások úgy lesznek egyre nagyobbak a ház otthonná válásával kapcsolatban. Minden egyes munka befejeztével szépül a ház. A csempe, járólap, laminált parketta lerakása, az utolsó fázisok egyike a beköltözés előtt. **
 
 
 
