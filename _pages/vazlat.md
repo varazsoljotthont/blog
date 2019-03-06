@@ -1,27 +1,33 @@
 ---
 layout: post
-title: "Életre kelnek a falak!"
+title: "Eltűnt a beton, avagy burkolatok a házban!"
 permalink: /vazlat/
-cover: /assets/színesfalak/cover.JPG
+cover: /assets/burkolatok/cover.JPG
 image:
-  path: /assets/színesfalak/cover.JPG
+  path: /assets/burkolatok/cover.JPG
   height: 300
   width: 300
 ---
 
 
 
-**Minden háziasszony álma, hogy az épülő vagy felújított ház végre elkezdjen egy „igazi” otthonra hasonlítani. Ez a pillanat akkor érkezik el, mikor eltűnnek a vakolatlan részek a házból, és a falak végre előkészülnek a festésre. A „Miházunkban” én lettem kinevezve festőnek. Én, aki eddig csak festegettem ezt-azt, de nem volt igazán tapasztalatom ebben a munkában.**
+**Ahogy haladunk előre a ház felújításban, úgy lesznek egyre nagyobbak az elvárásaim. Napról-napra szépül az otthonunk, és mostanra a beton látványa szinte zavarja a szemem.  Az, hogy a csempe, járólap, laminált parketta végre lerakásra kerül, a mi esetünkben az utolsó fázis a beköltözés előtt**
 
 
 
-## Fessük ki a házat!
+## Nem könnyű a választás!
 
 
 
 
-Mikor a falak javításával végeztünk, hatalmas örömmel nyugtáztuk, hogy egy sok időt igénylő, nehéz munkán jutottunk túl. 
-([erről itt olvashatsz](/2019-02-18/afalak))
+A festés után, a szép falak látványa boldogsággal töltött el, és már sehogy sem találtam szépnek a betonos szobákat, a nappalit, és a konyhát. ([erről itt olvashatsz](/2019-03-01/színesfalak))
+
+Már foglalkoztatott egy ideje a gondolat, hogy milyen legyen a ház burkolata.  
+Egy dologban voltam teljesen biztos.  
+Semmiképpen nem akartam az éppen divatos járólapot, lamináltot választani. 
+
+Nem kedvelem, mikor ránézve valamire meg lehet állapítani, hogy mikor készült, mert a ház jegyei annyira árulkodnak az éppen aktuális divatról. Sokkal inkább nekem való az időtálló stílus, amiről nem lehet eldönteni, hogy mostani trend, vagy éppen 10 éves.
+
 
 A cél továbbra is az volt, hogy ne fizessünk szakembernek olyan munkáért, amit magunk is el tudunk végezni. A ház kifestése az én feladatom lett. A férjem addig a konyhát csempézte, és befejezte a még elmaradt a kőműves munkákat.
 
