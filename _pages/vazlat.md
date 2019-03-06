@@ -20,7 +20,7 @@ image:
 
 
 
-A festés után, a szép falak látványa boldogsággal töltött el, és már sehogy sem találtam szépnek a betonos szobákat, a nappalit, és a konyhát. ([erről itt olvashatsz](/2019-03-01/színesfalak))
+A festés után, a szép falak látványa boldogsággal töltött el, és már sehogy sem találtam szépnek a betonos szobákat, a nappalit, és a konyhát. ([erről itt olvashatsz](/2019-03-01/színesfalak/))
 
 Már foglalkoztatott egy ideje a gondolat, hogy milyen legyen a ház burkolata.  
 Egy dologban voltam teljesen biztos.  
