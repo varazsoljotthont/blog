@@ -11,7 +11,7 @@ image:
 
 
 
-**Ahogy halad előre a ház felújítás, az elvárások úgy lesznek egyre nagyobbak a ház otthonná válásával kapcsolatban. Minden egyes munka befejeztével szépül a ház. A csempe, járólap, laminált parketta lerakása, az utolsó fázisok egyike a beköltözés előtt. **
+**Ahogy halad előre a ház felújítás, az elvárások úgy lesznek egyre nagyobbak a ház otthonná válásával kapcsolatban. Minden egyes munka befejeztével szépül a ház. A csempe, járólap, parketta lerakása az utolsó feladatok egyike a beköltözés előtt.**
 
 
 
@@ -22,15 +22,16 @@ image:
 
 A festés után, a szép falak látványa boldogsággal töltött el, és már sehogy sem találtam szépnek a betonos szobákat, a nappalit, és a konyhát. ([erről itt olvashatsz](/2019-02-12/szobabetonozas))
 
-Már foglalkoztatott egy ideje a gondolat, hogy milyen legyen a ház burkolata.  
-Egy dologban voltam teljesen biztos.  
-Semmiképpen nem akartam az éppen divatos járólapot, lamináltot választani. 
+Már foglalkoztatott egy ideje a gondolat, hogy milyen legyen a ház burkolata, de egy dologban teljesen biztos voltam.
+  
+Semmiképpen nem akartam az éppen divatos járólapot, lamináltot parkettát választani. 
 
-Nem kedvelem, mikor ránézve valamire meg lehet állapítani, hogy mikor készült, mert a ház jegyei annyira árulkodnak az éppen aktuális divatról. Sokkal inkább nekem való az időtálló stílus, amiről nem lehet eldönteni, hogy mostani trend, vagy éppen 10 éves.
+Nem kedvelem, mikor valamire ránézve meg lehet állapítani, hogy mikor készült, mert a ház jegyei annyira árulkodnak az éppen aktuális divatról. Sokkal inkább nekem való az időtálló stílus, amiről nem lehet eldönteni, hogy mostani trend, vagy éppen 10 éves.
 
-
-A cél továbbra is az volt, hogy ne fizessünk szakembernek olyan munkáért, amit magunk is el tudunk végezni. A ház kifestése az én feladatom lett. A férjem addig a konyhát csempézte, és befejezte a még elmaradt a kőműves munkákat.
-
+A házunk parasztházas stílusa a burkolat választásra is hatással volt.
+Szerettünk volna "igazi" fából készült hajópadlót, de az ára miatt elvetettük a gondolatot. 
+De ettől még továbbra is nagyon tetszett, így olyan lamináltot parkettát vásároltunk, ami hangulátában hasonlít a padlóra.
+Ághelyes, göbös mintáztúra esett a választás. Úgy gondoltam, hogy épp annyira divatos, amennyire nekem kell, de nem a legújabb irányzatot követi. 
 **Alapozás nélkül nem megy!**
 
 Az első lépés a falak alapozása volt.
