@@ -20,13 +20,17 @@ image:
 
 
 
-A festés után, a szép falak látványa boldogsággal töltött el, és már sehogy sem találtam szépnek a betonos szobákat, a nappalit, és a konyhát. ([erről itt olvashatsz](/2019-02-12/szobabetonozas))
+A festés után a kész falak látványa dupla örömmel töltött el.  
+Nagy megkönnyebülés volt, hogy végre végeztem a festésekkel, hisz ez sem volt kis feladat. És másodszor, olyan jó volt ránézni a falakra, szép, tiszta lett mindenhol.   
+De így még jobban kiütközött kontraszt a betonos helyiségekkel.  ([erről itt olvashatsz](/2019-02-12/szobabetonozas))
 
 Már foglalkoztatott egy ideje a gondolat, hogy milyen legyen a ház burkolata, de egy dologban teljesen biztos voltam.
   
 Semmiképpen nem akartam az éppen divatos járólapot, lamináltot parkettát választani. 
 
 Nem kedvelem, mikor valamire ránézve meg lehet állapítani, hogy mikor készült, mert a ház jegyei annyira árulkodnak az éppen aktuális divatról. Sokkal inkább nekem való az időtálló stílus, amiről nem lehet eldönteni, hogy mostani trend, vagy éppen 10 éves.
+
+![idézet](/assets/burkolatok/IMG_20190306_122829.jpg)
 
 A házunk parasztházas stílusa a burkolat választásra is hatással volt.
 Szerettünk volna "igazi" fából készült hajópadlót, de az ára miatt elvetettük a gondolatot. 
