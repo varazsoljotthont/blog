@@ -45,8 +45,10 @@ window.onload = function () {
         h = document.getElementsByTagName(tags[i]);
             
         for(j = 0; j < h.length; j++) {
-            var x = "<a href='#" + h[j].id + "' style='color:#353535'>" + h[j].innerHTML + "</a>";
-            h[j].innerHTML = x; 
+            if(h[j].id) {
+                var x = "<a href='#" + h[j].id + "' style='color:#353535'>" + h[j].innerHTML + "</a>";
+                h[j].innerHTML = x;
+            } 
         }
     }
 }
