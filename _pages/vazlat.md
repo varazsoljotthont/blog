@@ -28,7 +28,8 @@ Egy ideje már foglalkoztatott a gondolat, hogy milyen legyen a ház burkolata. 
   
 Semmiképpen nem akartam az éppen divatos járólapot, laminált parkettát választani. 
 
-Nem kedvelem, mikor valamiről ránézésre meg lehet állapítani, hogy mikor készült, mert a stílus jegyek annyira árulkodnak az éppen aktuális divatról. Sokkal inkább nekem való az időtálló stílus, amiről nem lehet eldönteni, hogy mostani trend, vagy éppen 10 éves.
+Nem kedvelem, mikor valamiről ránézésre meg lehet állapítani, hogy mikor készült, mert a stílus jegyek annyira árulkodóak.  
+Sokkal inkább nekem való az időtálló stílus, amiről nem lehet eldönteni, hogy mostani trend, vagy éppen 10 éves.
 
 ![idézet](/assets/burkolatok/IMG_20190306_122829.jpg)
 
@@ -67,7 +68,7 @@ Az eltelt idő azt mutatja, hogy jól választottunk. A színe nem kényes, mind
 A konyhában, az alsó - felső szekrény között akartuk csak kicsempézni. 
 
 Mivel a járólap eléggé domináns lett, egyszerű csempét szerettünk volna.  
-Semleges legyen a szín, semleges a felület, ez volt a cél.
+Semleges szín, semleges felület, ez volt a cél.
 
 
 
@@ -82,12 +83,11 @@ Mint minden kőműves munkát, ezt is a férjem végezte el. Kimérte a magassá
 ![csempe](/assets/burkolatok/DSCF0207.JPG)
 _Kész_
 
-Nem csempézett ki a fal végéig, mert a fennmaradó részre a hűtőt és még egy polcos részt terveztünk. 
+Nem csempézett ki a fal végéig, mert a fennmaradó részre hűtőt és még egy polcot terveztünk. 
 A fuga egyértelműen fehér lett, mert a csempében is fehér csíkok vannak. 
 
-A csempét a járólapot és a laminált padlót együtt vásároltuk meg, így könnyebben össze tudtuk nézni, hogy passzolnak-e egymáshoz a kiválasztott darabok.
-
-Volt pár "körünk", míg megtaláltuk a számunkra megfelelő burkolatokat, de így, hogy egyben láttunk mindent, kisebb volt a tévedésre az esély.
+> A csempét a járólapot és a laminált padlót együtt vásároltuk meg, így könnyebben össze tudtuk nézni, hogy passzolnak-e egymáshoz a kiválasztott darabok.  
+Volt pár "körünk", míg megtaláltuk a számunkra megfelelő burkolatokat, de így, hogy egyben láttunk mindent, kisebb volt a tévedés esélye.
 
 
 ## Járólap
@@ -110,7 +110,7 @@ _A régies hatású járólap_
 
 Hangsúlyos darab, talán sokaknak nem is tetszik, de a megfelelő környezetben, a megfelelő bútorokkal nagyon jól tud kinézni. 
 
-(Az étkező asztalunk is túl szépnek bizonyult hozzá, ezért koptatam, csiszoltam, és tavaly át is festettem. Így kerültek harmóniába egymással.)
+ >Az étkező asztalunk is túl szépnek bizonyult hozzá, ezért koptatam, csiszoltam, és tavaly át is festettem. Így kerültek harmóniába egymással.
 
 
 
@@ -118,7 +118,7 @@ A dobozokban különböző mintájúak voltak a járólapok.
 
 Az eladó szerint burkoláskor össze-vissza rakják le, mert az ilyen típusúból nem lehet mást kihozni.
 
-De nem én lennék, ha feladtam volna a vágyamat!
+**De nem én lennék, ha feladtam volna a vágyamat!**
 
 Két esténk ment rá, mire kiválogattuk, "kilegóztuk" úgy a darabokat, hogy a hajópadló minta kijöjjön. 
 
@@ -129,7 +129,7 @@ _A lapozás elkezdődött_
 
 A férjem lett a burkoló mester.
 A férjem, aki a konyha csempézése kivételével, még soha nem csinált ilyen jellegű munkát.  
-Nézett pár Youtube-os videót, hogy mi a titka a burkolásnak, és neki kezdett.   
+Megnézett pár Youtube-os videót, hogy mi a titka a burkolásnak, és neki kezdett.   
 
 
 
@@ -141,6 +141,24 @@ Sehol nem "kong" a járólap alatt, és egyetlenegy helyen van egy ici-pici szin
 
 A nappaliból nézve gyönyörűen látszanak a folyamatos hajópadló csíkok.
 
+A fuga kiválasztása alapos átgondolást igényelt. 
+
+Mivel több színből áll a járólap, nem volt mindegy melyikhez válasszuk ki a fuga színét.
+Első körben világosat vásároltunk, de összepróbálva kiderült, hogy nem mutat együtt.  
+A befutó a sötét barna lett, ez a szín már nagyon szépen kiemelte a járólapot. 
+
+Diszkréten beleolvad a járólap színébe, és épp ettől lett tökéletes.
+
+>Több színű burkolat esetén, a fuga színét próbálgassuk hozzá az összes színhez. Egy rossz döntéssel kár lenne elrontani a munkánkat.
+
+![járólap](/assets/burkolatok/IMG_20190311_113801.jpg)
+_A konyha. Az átfestett, antikolt asztallal, székekkel_
+
+
+Február vége lett, mire ezekkel a munkákal végeztünk.  Épp annyi időnk maradt, hogy a tervezett időpontban beköltözzünk. Elmaradt ugyan néhány apróság, de azok hiányában még birtokba vehettük házat.
+Nagyon kemény 3,5 hónap volt mögöttünk. Fizikailag, anyagilag egyaránt.
+De akkor is, és még most is úgy gondoljuk, hogy megérte minden erőfeszítés. Az, hogy együtt képesek voltunk erre a hatalmas munkára, és megbírkóztunk a feladatokkal, erőt adott a folytatáshoz. 
+Tervünk volt bőven. 
 
 
 
