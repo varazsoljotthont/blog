@@ -37,18 +37,20 @@ A házunk parasztházas jellege a burkolat választásra is hatással volt.
 ## Laminált parketta
 
 Szerettünk volna "igazi" fából készült hajópadlót, de az ára miatt ezt elvetettük. 
-Ettől még továbbra is nagyon tetszett, így olyan stílusú lamináltot parkettára gondoltunk, ami hangulátában hasonlít a padlóra.
-Ághelyes, göbös mintáztúra esett a választás. Ez épp annyira divatos, amennyire nekem kell, de nem a legújabb irányzatot követi. 
+Ettől még továbbra is nagyon tetszett, így olyan stílusú laminált parkettát választottunk, ami hangulátában hasonlít a padlóra.
+Ághelyes, göbös mintáztúra gondoltunk. Ez épp annyira divatos, amennyire nekem kell, de nem a legújabb irányzatot követi. 
 
 
 ![parketta](/assets/burkolatok/IMG_20190311_160229.jpg)
 _A kiválasztott darab_
 
 
-A konyha kivételével minden helyiségbe ezt raktuk le. A nappali, hálószoba, folyosó, és előtér burkolata is ez lett.
-Abszolút jó választásnak bizonyult. A színe nem kényes, és mindenhez passzol. A vidéki háza dizájnjába tökéltesen bele illik.
+A konyha kivételével minden helyiségben ez lett a burkolat. Így a nappali, hálószoba, folyosó, és előtér egységes felületet kapott.
 
-A parketta lerakásáról sajnos nincs fotó, cserében mutatok a kész folyósóról!
+
+Az eltelt idő azt mutatja, hogy jól választottunk. A színe nem kényes, mindenhez passzol, és a vidéki ház designjébe is tökéltesen bele illik.
+
+A parketta lerakásáról sajnos nincs fotó, cserébe mutatok egy képet a kész folyósóról!
 
 ![folyosó](/assets/burkolatok/IMG_20190311_092455.jpg)
 _A folyosó napjainkban_
@@ -61,25 +63,41 @@ A konyhába egyértelműen járólapban gondolkodtunk.
 
 
 A választás itt sem ment egyszerűen. A konyha és a nappali egybe nyílik, és nem szerettem volna nagy kontrasztot a két helyiség burkolata között. 
-A hajópadló, mint stílus itt is előjött, de egy konyhában, járólappal nem könnyű ezt megvalósítani.
+A hajópadló, mint stílus itt is előjött, de egy konyhába, járólappal nem könnyű ezt megvalósítani.
 
 
 
-Az egyik barkácsáruházban rátaláltunk a megfelelőre. ( Igaz, drágábban mint ahogy terveztük, de van, amin nem szabad spórolni. )
+Az egyik barkácsáruházban találtunk rá a megfelelőre. ( Igaz, drágábban mint ahogy terveztük, de van, amin nem szabad spórolni. )
+
+A nagyon régi deszka darabokat idézi meg. Szeghelyes, ághelyes, foltos, kopott mintázatú, de én épp ebbe szerettem bele.
+
+Hangsúlyos darab, talán sokaknak nem is tetszik, de a megfelelő környezetben, a megfelelő bútorokkal nagyon jól tud kinézni. 
+
+(Az étkező asztalunk is túl szépnek bizonyult hozzá, ezért koptatam, csiszoltam, és tavaly át is festettem. Így kerültek harmóniába egymással.)
 
 ![járólap](/assets/burkolatok/IMG_20190311_164146.jpg)
 
-A dobozokban különböző mintájú járólapok voltak.
+A dobozokban, a járólapok különböző mintájúak voltak.
 
-Az eladó szerint burkoláskor össze-vissza rakják le, mert az ilyen mintájú járólapból nem lehet mást kihozni.
+Az eladó szerint burkoláskor össze-vissza rakják le, mert az ilyen típusú járólapból nem lehet mást kihozni.
 
 De nem én lennék, ha feladtam volna!
 
-Két esténk ment rá, mire "kilegóztuk", kiválogattuk úgy a darabokat, hogy a hajópadló minta kijöjjön. 
+Két esténk ment rá, mire kiválogattuk, "kilegóztuk" úgy a darabokat, hogy a hajópadló minta kijöjjön. 
 
 ![járólap](/assets/burkolatok/DSCF0208.JPG)
 
+![járólap](/assets/burkolatok/DSCF0217.JPG)
 
+A férjem rakta le a járólapot, aki még soha nem csinált ilyen jellegű munkát.  
+Nézett pár Youtube-os videót, hogy mi a titka a burkolásnak, és neki kezdett.   
+
+
+
+Nagyon klasszul megcsinálta. 
+
+
+Sehol nem "kong" a járólap alatt, és egyetlenegy helyen van egy ici-pici szintkülönbség.
 
 
 A nappaliból nézve gyönyörűen látszanak a folyamatos hajópadló csíkok.
