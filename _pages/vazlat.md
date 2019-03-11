@@ -22,13 +22,13 @@ image:
 
 A festés után a falak, és a még betonos helyiségek kontrasztja hatalmasnak tűnt.
 
-([erről itt olvashatsz](/2019-02-12/szobabetonozas))
+([a szoba betonozásáról itt olvashatsz](/2019-02-12/szobabetonozas))
 
 Egy ideje már foglalkoztatott a gondolat, hogy milyen legyen a ház burkolata. Sok ötletem volt, de egy dologban teljesen biztos voltam.
   
-Semmiképpen nem akartam az éppen divatos járólapot, lamináltot parkettát választani. 
+Semmiképpen nem akartam az éppen divatos járólapot, laminált parkettát választani. 
 
-Nem kedvelem, mikor valamire ránézve meg lehet állapítani hogy mikor készült, mert a ház jegyei annyira árulkodnak az éppen aktuális divatról. Sokkal inkább nekem való az időtálló stílus, amiről nem lehet eldönteni, hogy mostani trend, vagy éppen 10 éves.
+Nem kedvelem, mikor valamiről ránézésre meg lehet állapítani, hogy mikor készült, mert a stílus jegyek annyira árulkodnak az éppen aktuális divatról. Sokkal inkább nekem való az időtálló stílus, amiről nem lehet eldönteni, hogy mostani trend, vagy éppen 10 éves.
 
 ![idézet](/assets/burkolatok/IMG_20190306_122829.jpg)
 
@@ -49,6 +49,10 @@ A konyha kivételével minden helyiségbe ezt raktuk le. A nappali, hálószoba,
 Abszolút jó választásnak bizonyult. A színe nem kényes, és mindenhez passzol. A vidéki háza dizájnjába tökéltesen bele illik.
 
 A parketta lerakásáról sajnos nincs fotó, cserében mutatok a kész folyósóról!
+
+![folyosó](/assets/burkolatok/IMG_20190311_092455.jpg)
+_A folyosó napjainkban_
+
 
 
 ## Járólap
