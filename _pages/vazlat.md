@@ -63,7 +63,7 @@ Az eltelt idő azt mutatja, hogy jól választottunk. A színe nem kényes, mind
 ## Csempe
 
 
-A konyhában, az alsó - felső szekrény között akartuk csak kicsempézni. 
+A konyhában, az alsó - felső szekrény közötti részt akartuk csak kicsempézni. 
 
 Mivel a járólap eléggé domináns lett, egyszerű csempét szerettünk volna.  
 Semleges szín, semleges felület, ez volt a cél.
@@ -86,7 +86,7 @@ Nem csempézett ki a fal végéig, mert a fennmaradó részre hűtőt és még e
 A fuga egyértelműen fehér lett, mert a csempében is fehér csíkok vannak. 
 
 > A csempét a járólapot és a laminált padlót együtt vásároltuk meg, így könnyebben össze tudtuk nézni, hogy passzolnak-e egymáshoz a kiválasztott darabok.  
-Volt pár "körünk" az átuházban, míg megtaláltuk a számunkra megfelelő burkolatokat, de így, hogy egyben láttunk mindent, kisebb volt a tévedés esélye.
+Volt pár "körünk" az áruházban, míg megtaláltuk a számunkra megfelelő burkolatokat, de így, hogy egyben láttunk mindent, kisebb volt a tévedés esélye.
 
 
 ## Járólap
@@ -109,11 +109,11 @@ _A régies hatású járólap_
 
 Hangsúlyos darab, talán sokaknak nem is tetszik, de a megfelelő környezetben, a megfelelő bútorokkal nagyon jól tud kinézni. 
 
- >Az étkező asztalunk is túl szépnek bizonyult hozzá, ezért koptatam, csiszoltam, és tavaly át is festettem. Így kerültek harmóniába egymással.
+ >Az étkező asztalunk is túl szépnek bizonyult hozzá, ezért koptattam, csiszoltam, és festettem. Így kerültek harmóniába egymással.
 
 
 
-A dobozokban különböző mintájúak voltak a járólapok.
+A dobozokban a járólapok különböző mintájúak voltak.
 
 Az eladó akkor azt mondta, hogy a burkoló majd össze-vissza fogja rakni a lapokat, mert ezt a fajtát nem is lehet másképp.
 (Persze, azt nem tudta, hogy nekünk nem akármilyen mesterünk van!)
@@ -142,6 +142,10 @@ Sehol nem "kong" a járólap alatt, és egyetlenegy helyen van egy ici-pici szin
 
 
 A nappaliból nézve gyönyörűen látszanak a folyamatos hajópadló csíkok.
+
+
+**A fuga**
+
 
 A fuga kiválasztása alapos átgondolást igényelt. 
 
