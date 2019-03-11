@@ -24,7 +24,7 @@ A festés után a falak, és a még betonos helyiségek kontrasztja hatalmasnak 
 
 ([erről itt olvashatsz](/2019-02-12/szobabetonozas))
 
-Foglalkoztatott egy ideje a gondolat, hogy milyen legyen a ház burkolata, sok ötletem volt, de egy dologban teljesen biztos voltam.
+Egy ideje már foglalkoztatott a gondolat, hogy milyen legyen a ház burkolata. Sok ötletem volt, de egy dologban teljesen biztos voltam.
   
 Semmiképpen nem akartam az éppen divatos járólapot, lamináltot parkettát választani. 
 
@@ -34,12 +34,51 @@ Nem kedvelem, mikor valamire ránézve meg lehet állapítani hogy mikor készü
 
 A házunk parasztházas jellege a burkolat választásra is hatással volt.
 
+## Laminált parketta
 
-Szerettünk volna "igazi" fából készült hajópadlót, de az ára miatt elvetettük a gondolatot. 
-Ettől még továbbra is nagyon tetszett, így olyan lamináltot parkettát vásároltunk, ami hangulátában hasonlít a padlóra.
-Ághelyes, göbös mintáztúra esett a választás. Úgy gondoltam, hogy épp annyira divatos, amennyire nekem kell, de nem a legújabb irányzatot követi. 
+Szerettünk volna "igazi" fából készült hajópadlót, de az ára miatt ezt elvetettük. 
+Ettől még továbbra is nagyon tetszett, így olyan stílusú lamináltot parkettára gondoltunk, ami hangulátában hasonlít a padlóra.
+Ághelyes, göbös mintáztúra esett a választás. Ez épp annyira divatos, amennyire nekem kell, de nem a legújabb irányzatot követi. 
 
 
+![parketta](/assets/burkolatok/IMG_20190311_160229.jpg)
+_A kiválasztott darab_
+
+
+A konyha kivételével minden helyiségbe ezt raktuk le. A nappali, hálószoba, folyosó, és előtér burkolata is ez lett.
+Abszolút jó választásnak bizonyult. A színe nem kényes, és mindenhez passzol. A vidéki háza dizájnjába tökéltesen bele illik.
+
+A parketta lerakásáról sajnos nincs fotó, cserében mutatok a kész folyósóról!
+
+
+## Járólap
+
+A konyhába egyértelműen járólapban gondolkodtunk.
+
+
+A választás itt sem ment egyszerűen. A konyha és a nappali egybe nyílik, és nem szerettem volna nagy kontrasztot a két helyiség burkolata között. 
+A hajópadló, mint stílus itt is előjött, de egy konyhában, járólappal nem könnyű ezt megvalósítani.
+
+
+
+Az egyik barkácsáruházban rátaláltunk a megfelelőre. ( Igaz, drágábban mint ahogy terveztük, de van, amin nem szabad spórolni. )
+
+![járólap](/assets/burkolatok/IMG_20190311_164146.jpg)
+
+A dobozokban különböző mintájú járólapok voltak.
+
+Az eladó szerint burkoláskor össze-vissza rakják le, mert az ilyen mintájú járólapból nem lehet mást kihozni.
+
+De nem én lennék, ha feladtam volna!
+
+Két esténk ment rá, mire "kilegóztuk", kiválogattuk úgy a darabokat, hogy a hajópadló minta kijöjjön. 
+
+![járólap](/assets/burkolatok/DSCF0208.JPG)
+
+
+
+
+A nappaliból nézve gyönyörűen látszanak a folyamatos hajópadló csíkok.
 **+ 1 gondolat:**  
 
 A laminált parketta praktikus, megfizethető megoldás. Ha a ház átalakítására több időnk van, és ezáltal nagyobb az anyagi keretünk, biztos, hogy nem ezt választjuk, hanem a fapadlót. A lamináltnak sajnos hideg a felülete. Padlófűtéssel biztosan kellemes, de betonra, és az alátét habszivacsra rakva hideg.
