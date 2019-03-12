@@ -11,7 +11,7 @@ image:
 
 
 
-**Ahogy halad előre a felújítás, az elvárások úgy lesznek egyre nagyobbak a ház otthonná válásával kapcsolatban. Minden egyes munka befejeztével szépül a ház. A padló, csempe, és a járólap lerakása az utolsó feladatok egyike a beköltözés előtt.**
+**Ahogy halad előre a felújítás, az elvárások úgy lesznek egyre nagyobbak a ház otthonná válásával kapcsolatban. Minden egyes munka befejeztével szépül a ház. A padló, csempe, és a járólap lerakása az utolsó munkálatok egyike a beköltözés előtt.**
 
 
 
@@ -156,7 +156,9 @@ Első körben világosat vásároltunk, de összepróbálva kiderült, hogy nem 
 
 A befutó a sötét barna lett, ez a szín már nagyon szépen kiemelte a burkolatot. Diszkréten beleolvad a járólap színébe, és épp ettől lett tökéletes.
 
->Több színű burkolat esetén, a fuga színét próbálgassuk hozzá az összes színhez. Egy rossz döntéssel kár lenne elrontani a munkánkat.
+> Több színű burkolat esetén, a fuga színét próbálgassuk hozzá az összes színhez. Egy rossz döntéssel kár lenne elrontani a munkánkat.
+A fugát addig kell feltakarítani a burkolatról, míg meg nem szárad teljesen. Utána már az ujjaink bánják a dolgot...  
+
 
 ![járólap](/assets/burkolatok/IMG_20190311_113801.jpg)
 _A konyha. Az átfestett, antikolt asztallal, székekkel_
