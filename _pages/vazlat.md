@@ -89,7 +89,7 @@ _Kész_
 Nem csempézett ki a fal végéig, mert a fennmaradó részre hűtőt és még egy polcot terveztünk. 
 A fuga egyértelműen fehér lett, mert a csempében is fehér csíkok vannak. 
 
-> A csempét a járólapot és a laminált padlót együtt vásároltuk meg, így könnyebben össze tudtuk nézni, hogy passzolnak-e egymáshoz a kiválasztott darabok.  
+> A csempét, a járólapot és a laminált padlót együtt vásároltuk meg, így könnyebben össze tudtuk nézni, hogy passzolnak-e egymáshoz a kiválasztott darabok.  
 Volt pár "körünk" az áruházban, míg megtaláltuk a számunkra megfelelő burkolatokat, de így, hogy egyben láttunk mindent, kisebb volt a tévedés esélye.
 
 
