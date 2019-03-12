@@ -159,12 +159,21 @@ Első körben világosat vásároltunk, de összepróbálva kiderült, hogy nem 
 
 A befutó a sötét barna lett, ez a szín már nagyon szépen kiemelte a burkolatot. Diszkréten beleolvad a járólap színébe, és épp ettől lett tökéletes.
 
-> Több színű burkolat esetén, a fuga színét próbálgassuk hozzá az összes színhez. Egy rossz döntéssel kár lenne elrontani a munkánkat.
-A fugát addig kell feltakarítani a burkolatról, míg meg nem szárad teljesen. Utána már az ujjaink bánják a dolgot...  
+> Több színű burkolat esetén, a fuga színét próbálgassuk hozzá az összes színhez. Egy rossz döntéssel kár lenne elrontani a munkánkat.  A fugát addig kell feltakarítani a burkolatról, míg meg nem szárad teljesen. Utána már az ujjaink bánják a dolgot...  
+
+## Szegélyek
+
+A laminált padlónál nem volt gond, hogy milyen legyen a szegély. Különböző színű, fazonú, magasságú közül lehet válogatni. 
+Az ízlésünkön múlik, hogy milyet választunk. 
+A konyha viszont nagyobb falat volt. A járólapból csak 2 db maradt, és nem is akartam, hogy abból legyen a falszegély.  
+Végül találtunk egy olyan fazonú, laminált padlóhoz való szegélyt, ami tökéletes lett a járólaphoz is.
+
+
 
 
 ![járólap](/assets/burkolatok/IMG_20190311_113801.jpg)
 _A konyha. Az átfestett, antikolt asztallal, székekkel_
+
 
 
 Február vége lett, mire ezekkel a munkákal végeztünk.  Épp annyi időnk maradt, hogy a tervezett időpontban beköltözzünk. 
