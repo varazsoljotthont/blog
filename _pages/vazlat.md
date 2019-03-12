@@ -21,6 +21,7 @@ image:
 
 
 A festés után a falak, és a még betonos helyiségek kontrasztja hatalmasnak tűnt. ([a szoba betonozásáról itt olvashatsz](/2019-02-12/szobabetonozas))
+
 A belső átalakítás utolsó nagy feladata várt ránk.  
 
 A ház felújításától kezdve foglalkoztatott, hogy milyen legyen a ház burkolata. Sok ötletem volt, de egy dologban teljesen biztos voltam.
