@@ -20,7 +20,9 @@ image:
 
 
 
-A festés után a falak, és a még betonos helyiségek kontrasztja hatalmasnak tűnt. ([a szoba betonozásáról itt olvashatsz](/2019-02-12/szobabetonozas))
+A festés után a falak, és a még betonos helyiségek kontrasztja hatalmasnak tűnt. 
+
+([a szoba betonozásáról itt olvashatsz](/2019-02-12/szobabetonozas))
 
 A belső átalakítás utolsó nagy feladata várt ránk.  
 
