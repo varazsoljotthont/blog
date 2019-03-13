@@ -11,7 +11,8 @@ image:
 
 
 
-**Az otthonunk arculata, hangulata tükrözi a személyiségünket. A bontott tégla napjainkban valódi reneszánszát éli, de a mi esetünkben nem a divat miatt került be a házba. A szlogenem: "Téglából ház, lélekből otthon". És ha a téglát megtöltjük lélekkel, akkor szépséges dolgokat tudunk létrehozni.**
+**A bontott tégla napjainkban valódi reneszánszát éli, de a mi esetünkben nem a divat miatt került be a házba.  A szlogenem: "Téglából ház, lélekből otthon". És ha a téglát megtöltjük lélekkel, akkor szépséges dolgokat tudunk létrehozni.**
+Az otthonunk arculata tükrözi a személyiségünket. 
 
 
 
