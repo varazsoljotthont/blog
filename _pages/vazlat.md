@@ -33,7 +33,7 @@ Kéznél van, ingyért van, helyben van, és még szép is.
 Mi kell még?
 
 
-## Mindenhol a tégla 
+## Mindenhol tégla 
 
 A lakrészben, és az udvaron is több helyre építettünk be bontott téglákat. 
 
@@ -56,7 +56,7 @@ Ebből készült a(z):
 * fatároló oldala
 * ...még egy virágláda is 
 
-én még nincs vége...
+...és még nincs vége...
 
 
 Nagyon szeretem, hogy nem szabályosak, hogy kissé csorbák lettek az eltelt idő folyamán. Rusztikus hangulatot adnak a háznak, ezzel pedig megteremtik azt légkört, amire vágytunk.
