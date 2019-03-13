@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "A földes szobákkal kezdtük a házfelújítást!"
+title: "A földes szobákkal kezdtük a házfelújítást"
 cover: /assets/szobabetonozas/cover.jpg
 image:
   path: /assets/szobabetonozas/cover.jpg
