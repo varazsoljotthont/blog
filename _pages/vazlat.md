@@ -61,7 +61,7 @@ Ebből készült a(z):
 
 Nagyon szeretem, hogy nem szabályosak, hogy kissé csorbák lettek előző életükben. Rusztikus hangulatot adnak a háznak, ezzel pedig megteremtik azt légkört, amire vágytunk.
 
-## A feladatok, hog sokáig örülhessünk a téglás házunknak!
+## A feladatok, hogy sokáig örülhessünk a téglás házunknak!
 
 Azt nem állítom, hogy könnyű vele dolgozni. 
 
