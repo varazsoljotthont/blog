@@ -59,7 +59,7 @@ Ebből készült a(z):
 ...és még nincs vége...
 
 
-Nagyon szeretem, hogy nem szabályosak, hogy kissé csorbák lettek az eltelt idő folyamán. Rusztikus hangulatot adnak a háznak, ezzel pedig megteremtik azt légkört, amire vágytunk.
+Nagyon szeretem, hogy nem szabályosak, hogy kissé csorbák lettek előző életükben. Rusztikus hangulatot adnak a háznak, ezzel pedig megteremtik azt légkört, amire vágytunk.
 
 ## A feladatok, hog sokáig örülhessünk a téglás házunknak!
 
