@@ -1,37 +1,78 @@
 ---
 layout: post
-title: "Eltűnt a beton, avagy burkolatok a házban!"
+title: "A tégla nem csak építőanyag!"
 permalink: /vazlat/
-cover: /assets/burkolatok/cover.JPG
+cover: /assets/tégla/cover.JPG
 image:
-  path: /assets/burkolatok/cover.JPG
+  path: /assets/tégla/cover.JPG
   height: 300
   width: 300
 ---
 
 
 
-**Ahogy halad előre a felújítás, az elvárások úgy lesznek egyre nagyobbak a ház otthonná válásával kapcsolatban. Minden egyes munka befejeztével szépül a ház. A padló, csempe, és a járólap lerakása az utolsó munkálatok egyike a beköltözés előtt.**
+**Az otthonunk arculata, hangulata tükrözi a személyiségünket. A bontott tégla napjainkban valódi reneszánszát éli, de a mi esetünkben nem a divat miatt került be a házba. A szlogenem: "Téglából ház, lélekből otthon". És ha a téglát megtöltjük lélekkel, akkor szépséges dolgokat tudunk létrehozni.**
 
 
 
-## Nem könnyű a választás!
+## Miért pont a tégla?
 
 
 
 
-A festés után a falak, és a még betonos helyiségek kontrasztja hatalmasnak tűnt. 
+Még évekkel ezelőtt, mikor csak ábrándoztunk a "Miházunkról", tervezgettük, hogy milyen lesz majd az otthonunk hangulata. Azt már akkor is tudtuk, hogy nekünk nagy valószínűséggel nem lesz trendi, az épp divatos irányelveket követő házunk.
 
-([a szoba betonozásáról itt olvashatsz](/2019-02-12/szobabetonozas))
+([erről itt olvashatsz](/2019-02-09/hazvasarlas))
 
-A belső átalakítás utolsó nagy feladata várt ránk.  
+A modern, minimál stílusú házak, a csupa króm és üveg berendezéssel egyikünknek sem tetszettek. 
 
-A ház felújításától kezdve foglalkoztatott, hogy milyen legyen a ház burkolata. Sok ötletem volt, de egy dologban teljesen biztos voltam.
-  
-Semmiképpen nem akartam az éppen divatos járólapot, laminált padlót választani. 
 
-Nem kedvelem, mikor valamiről ránézésre meg lehet állapítani, hogy mikor készült, mert a stílus jegyek annyira árulkodóak.  
-Sokkal inkább nekem való az időtálló divat, amiről nem lehet eldönteni, hogy mostani trend, vagy éppen 10 éves.
+Mindketten vonzódunk a régi, újra hasznosított tárgyakhoz, szeretjük a természetes dolgokat magunk körül. 
+Mikor elkezdődött a ház átalakítása, adta magát az ötlet, hogy használjuk fel birtokunkban lévő téglákat. 
+Kéznél van, ingyért van, helyben van, és még szép is.  
+Mi kell még?
+
+
+## Mindenhol a tégla 
+
+A lakrészben, és az udvaron is több helyre építettünk be bontott téglákat. 
+
+Ebből készült a(z):
+
+* konyhapult
+* pillérek
+* régi ajtó helyén a dekor fal 
+* nappali polc rendszere
+* kamra burkolata
+* terasz
+* terasz burkolata
+* lábazat
+* udvari pihenő rész
+* kerti rom
+* kerti rom alja
+* sufni külső burkolata
+* járdák
+* ágyás szegélyek
+* fatároló oldala
+* ...még egy virágláda is 
+
+én még nincs vége...
+
+
+Nagyon szeretem, hogy nem szabályosak, hogy kissé csorbák lettek az eltelt idő folyamán. Rusztikus hangulatot adnak a háznak, ezzel pedig megteremtik azt légkört, amire vágytunk.
+
+## A feladatok, hog sokáig örülhessünk a téglás házunknak!
+
+Azt nem állítom, hogy könnyű vele dolgozni. 
+
+Különböző méretűek, ütött - kopott darabok a bontott téglák. 
+
+Az első lépés a tégla válogatása, attól függően, hogy mit szeretnénk készíteni. 
+< Ja, igen! Ha friss bontásból származik a tégla, akkor azt még pucolni is kell... Nálunk ez a feladat mindig az enyém volt. A férjem épített, én pedig segédmunkáskodtam...
+És ha már válogatás, akkor a ritka pecsétes téglákat érdemes félretenni
+
+
+
 
 ![idézet](/assets/burkolatok/IMG_20190306_122829.jpg)
 
