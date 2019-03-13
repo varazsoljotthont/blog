@@ -69,7 +69,7 @@ Különböző méretűek, ütött - kopott darabok a bontott téglák.
 
 Az első lépés a tégla válogatása, attól függően, hogy mit szeretnénk készíteni. 
 
-< Ja, igen! Ha friss bontásból származik a tégla, akkor azt még pucolni is kell... Nálunk ez a feladat mindig az enyém volt. A férjem épített, én pedig segédmunkáskodtam...
+> Ja, igen! Ha friss bontásból származik a tégla, akkor azt még pucolni is kell... Nálunk ez a feladat mindig az enyém volt. A férjem épített, én pedig segédmunkáskodtam...
 
 
 És ha már válogatás, akkor a ritka pecsétes téglákat érdemes félretenni
