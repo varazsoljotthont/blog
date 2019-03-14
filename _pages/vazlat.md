@@ -55,7 +55,9 @@ Ebből készült a(z):
 * járdák
 * ágyás szegélyek
 * fatároló oldala
-* ...még egy virágláda is 
+* kút burkolata
+* ablak párkányok
+* ...még egy virágtartó is 
 
 ...és még nincs vége...
 
@@ -64,16 +66,42 @@ Nagyon szeretem, hogy nem szabályosak, hogy kissé csorbák lettek előző éle
 
 ## A feladatok, hogy sokáig örülhessünk a téglás házunknak!
 
-Azt nem állítom, hogy könnyű vele dolgozni. 
 
-Különböző méretűek, ütött - kopott darabok a bontott téglák. 
+Különböző méretűek, ütött - kopott darabok a bontott téglák.  
+Nem állítom, hogy nincs velül tennivaló, de a szépségük kárpótol a mindenért.
 
-Az első lépés a tégla válogatása, attól függően, hogy mit szeretnénk készíteni. 
+A válogatással kezdődik a munka, attól függően, hogy mit szeretnénk készíteni. 
+
+Nem is gondolnánk, hogy milyen sok méreteben léteznek a téglák...
 
 > Ja, igen! Ha friss bontásból származik a tégla, akkor azt még pucolni is kell... Nálunk ez a feladat mindig az enyém volt. A férjem épített, én pedig segédmunkáskodtam...
 
+**A címeres, pecsétes téglákat külön gyűjtögettük, hisz azokkal különleges tervünk volt...**
 
-És ha már válogatás, akkor a ritka pecsétes téglákat érdemes félretenni
+Amikor a férjem elkészítette az éppen aktuális téglás művünket, megint én következtem. 
+
+Sósavval átkentem a felületeket, hogy a rajt maradt maltert, és egyéb szennyeződéseket lemarja. Ahol szükségesnek láttam, egy kicsit spaklival is rásegítettem. 
+
+
+A következő fázis a fugázás. 
+
+
+Különböző módon fugáztunk kint és bent.
+
+
+A lakásban eleve úgy raktuk  a téglát, hogy a téglák közötti sorokat "csak" finomítani kelljen. A cementeszsák egy darabja tökéletes erre a célra. Átdörzsöltem vele a maltert, hogy egyenletes legyen, és ezzel elő is készítettem szépészeti fugázásra.
+
+Cement tejet készítettem, és óvatosan átfestegettem a téglák fugákat.
+
+> A cementtej cement és víz elegye, olyan állagúra keverve, hogy ecsettel kenhető legyen. Ízlés dolga, hogy mennyire sötét színt szeretnénk fugának. Én a szürke cemethez mindig tettem egy kevés fehéret is, hogy ne legyen annyira komor a felület.)
+
+Száradás után ahol kellett még plasztikáztam egy kicsit, és az utolsó lépésként a felületét balzsammal kezeltem. 
+Sok féléből lehet választani, nekem is meg van a bevált márkám, amiben még nem csalódtam.
+
+**A Téglárium oldalán minden információ olvasható ami a bontott tégláról fontos lehet.  
+([itt találod](/https://www.facebook.com/Teglarium/))
+Ma már nem jelent gondot, hogy a fürdőszobába vagy a konyhába építsük be a bontott téglát. Az impregnáló anyagokkal mosható, szennyeződés taszító lesz a tégla felülete.**
+
 
 
 
