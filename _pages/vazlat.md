@@ -96,7 +96,7 @@ Cement tejet készítettem, és óvatosan átfestegettem a téglák fugákat.
 > A cementtej cement és víz elegye, olyan állagúra keverve, hogy ecsettel kenhető legyen. Ízlés dolga, hogy mennyire sötét színt szeretnénk fugának. Én a szürke cemethez mindig tettem egy kevés fehéret is, hogy ne legyen annyira komor a felület.)
 
 
-**Vigyázzunk rá!
+**Vigyázzunk rá!**
 
 
 Száradás után ahol kellett még plasztikáztam egy kicsit, és az utolsó lépésként a felületét balzsammal kezeltem. 
