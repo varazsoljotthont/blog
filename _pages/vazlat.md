@@ -105,7 +105,7 @@ A balzsam lezárja a tégla felületét, nem lesz porózus, könnyen lehet takar
 
 
 **A Téglárium oldalán minden információ olvasható ami a bontott tégláról fontos lehet.  
-([itt találod](/www.facebook.com/Teglarium/))
+([itt találod](https://www.facebook.com/Teglarium/?epa=SEARCH_BOX))
 Ma már nem jelent gondot, hogy a fürdőszobába vagy a konyhába építsük be a bontott téglát. Az impregnáló anyagokkal mosható, szennyeződés taszító lesz a tégla felülete.**
 
 
