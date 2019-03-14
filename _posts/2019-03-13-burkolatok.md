@@ -112,7 +112,7 @@ _A régies hatású járólap_
 
 Hangsúlyos darab, talán sokaknak nem is tetszik, de a megfelelő környezetben, a megfelelő bútorokkal nagyon jól tud kinézni. 
 
- > Az étkező asztalunk is túl szépnek bizonyult hozzá, ezért koptattam, csiszoltam, és festettem. Így harmóniába kerültek egymással.
+ > Az étkező asztalunk is túl szépnek bizonyult hozzá, ezért koptattam, csiszoltam, és festettem. Így kerültek harmóniába egymással.
 
 
 
