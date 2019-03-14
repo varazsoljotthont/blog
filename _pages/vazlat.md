@@ -99,7 +99,7 @@ Száradás után ahol kellett még plasztikáztam egy kicsit, és az utolsó lé
 Sok féléből lehet választani, nekem is meg van a bevált márkám, amiben még nem csalódtam.
 
 **A Téglárium oldalán minden információ olvasható ami a bontott tégláról fontos lehet.  
-([itt találod](/https://www.facebook.com/Teglarium/))
+([itt találod](/www.facebook.com/Teglarium/))
 Ma már nem jelent gondot, hogy a fürdőszobába vagy a konyhába építsük be a bontott téglát. Az impregnáló anyagokkal mosható, szennyeződés taszító lesz a tégla felülete.**
 
 
