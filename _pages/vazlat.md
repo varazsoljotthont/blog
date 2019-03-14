@@ -104,9 +104,10 @@ Sok féléből lehet választani, nekem is meg van a bevált márkám, amiben m�
 A balzsam lezárja a tégla felületét, nem lesz porózus, könnyen lehet takarítani, és még szép fényt is kap a tégla.
 
 
-**A Téglárium oldalán minden információ olvasható ami a bontott tégláról fontos lehet.  
+**A Téglárium oldalán minden információ olvasható ami a bontott tégláról fontos lehet.** 
 ([itt találod](https://www.facebook.com/Teglarium/?epa=SEARCH_BOX))
-Ma már nem jelent gondot, hogy a fürdőszobába vagy a konyhába építsük be a bontott téglát. Az impregnáló anyagokkal mosható, szennyeződés taszító lesz a tégla felülete.**
+
+**Ma már nem jelent gondot, hogy a fürdőszobába vagy a konyhába építsük be a bontott téglát. Az impregnáló anyagokkal mosható, szennyeződés taszító lesz a tégla felülete.**
 
 
 
