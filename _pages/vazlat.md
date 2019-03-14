@@ -11,8 +11,8 @@ image:
 
 
 
-**A bontott tégla napjainkban valódi reneszánszát éli, de a mi esetünkben nem a divat miatt került be a házba.  A szlogenem: "Téglából ház, lélekből otthon". És ha a téglát megtöltjük lélekkel, akkor szépséges dolgokat tudunk létrehozni.**
-Az otthonunk arculata tükrözi a személyiségünket. 
+**A bontott tégla napjainkban valódi reneszánszát éli, de a mi esetünkben nem a divat miatt került be a házba.  A szlogenem: "Téglából ház, lélekből otthon". És ha a téglába beletesszük a lelkünket, akkor szépséges dolgokat tudunk létrehozni.**
+
 
 
 
@@ -95,8 +95,14 @@ Cement tejet készítettem, és óvatosan átfestegettem a téglák fugákat.
 
 > A cementtej cement és víz elegye, olyan állagúra keverve, hogy ecsettel kenhető legyen. Ízlés dolga, hogy mennyire sötét színt szeretnénk fugának. Én a szürke cemethez mindig tettem egy kevés fehéret is, hogy ne legyen annyira komor a felület.)
 
+
+**Vigyázzunk rá!
+
+
 Száradás után ahol kellett még plasztikáztam egy kicsit, és az utolsó lépésként a felületét balzsammal kezeltem. 
 Sok féléből lehet választani, nekem is meg van a bevált márkám, amiben még nem csalódtam.
+A balzsam lezárja a tégla felületét, nem lesz porózus, könnyen lehet takarítani, és még szép fényt is kap a tégla.
+
 
 **A Téglárium oldalán minden információ olvasható ami a bontott tégláról fontos lehet.  
 ([itt találod](/www.facebook.com/Teglarium/))
