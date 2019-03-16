@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Kell egy ház... De hol, milyen, mennyiért?"
+title: "Kell egy ház... de hol, milyen, mennyiért?"
 cover: /assets/hazvasarlas/cover.jpg
 image:
   path: /assets/hazvasarlas/cover.jpg

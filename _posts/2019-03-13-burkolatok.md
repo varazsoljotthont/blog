@@ -1,117 +1,36 @@
 ---
 layout: post
-title: "A tégla nem csak építőanyag!"
-permalink: /vazlat/
-cover: /assets/tégla/cover.JPG
+title: "Eltűnt a beton, avagy burkolatok a házban"
+cover: /assets/burkolatok/cover.JPG
 image:
-  path: /assets/tégla/cover.JPG
+  path: /assets/burkolatok/cover.JPG
   height: 300
   width: 300
 ---
 
 
 
-**A bontott tégla napjainkban valódi reneszánszát éli, de a mi esetünkben nem a divat miatt került be a házba.  A szlogenem: "Téglából ház, lélekből otthon". És ha a téglába beletesszük a lelkünket, akkor szépséges dolgokat tudunk létrehozni.**
+**Ahogy halad előre a felújítás, az elvárások úgy lesznek egyre nagyobbak a ház otthonná válásával kapcsolatban. Minden egyes munka befejeztével szépül a ház. A padló, csempe, és a járólap lerakása az utolsó munkálatok egyike a beköltözés előtt.**
+
+
+
+## Nem könnyű a választás!
 
 
 
 
-## Miért pont a tégla?
+A festés után a falak, és a még betonos helyiségek kontrasztja hatalmasnak tűnt. 
 
+([a szoba betonozásáról itt olvashatsz](/2019-02-12/szobabetonozas))
 
+A belső átalakítás utolsó nagy feladata várt ránk.  
 
+A ház felújításától kezdve foglalkoztatott, hogy milyen legyen a ház burkolata. Sok ötletem volt, de egy dologban teljesen biztos voltam.
+  
+Semmiképpen nem akartam az éppen divatos járólapot, laminált padlót választani. 
 
-Még évekkel ezelőtt, mikor csak ábrándoztunk a "Miházunkról", tervezgettük, hogy milyen lesz majd az otthonunk hangulata. Azt már akkor is tudtuk, hogy nekünk nagy valószínűséggel nem lesz trendi, az épp divatos irányelveket követő házunk.
-
-([erről itt olvashatsz](/2019-02-09/hazvasarlas))
-
-A modern, minimál stílusú házak, a csupa króm és üveg berendezéssel egyikünknek sem tetszettek. 
-
-
-Mindketten vonzódunk a régi, újra hasznosított tárgyakhoz, szeretjük a természetes dolgokat magunk körül. 
-Mikor elkezdődött a ház átalakítása, adta magát az ötlet, hogy használjuk fel birtokunkban lévő téglákat. 
-Kéznél van, ingyért van, helyben van, és még szép is.  
-Mi kell még?
-
-
-## Mindenhol tégla 
-
-A lakrészben, és az udvaron is több helyre építettünk be bontott téglákat. 
-
-Ebből készült a(z):
-
-* konyhapult
-* pillérek
-* régi ajtó helyén a dekor fal 
-* nappali polc rendszere
-* kamra burkolata
-* terasz
-* terasz burkolata
-* lábazat
-* udvari pihenő rész
-* kerti rom
-* kerti rom alja
-* sufni külső burkolata
-* járdák
-* ágyás szegélyek
-* fatároló oldala
-* kút burkolata
-* ablak párkányok
-* ...még egy virágtartó is 
-
-...és még nincs vége...
-
-
-Nagyon szeretem, hogy nem szabályosak, hogy kissé csorbák lettek előző életükben. Rusztikus hangulatot adnak a háznak, ezzel pedig megteremtik azt légkört, amire vágytunk.
-
-## A feladatok, hogy sokáig örülhessünk a téglás házunknak!
-
-
-Különböző méretűek, ütött - kopott darabok a bontott téglák.  
-Nem állítom, hogy nincs velül tennivaló, de a szépségük kárpótol a mindenért.
-
-A válogatással kezdődik a munka, attól függően, hogy mit szeretnénk készíteni. 
-
-Nem is gondolnánk, hogy milyen sok méreteben léteznek a téglák...
-
-> Ja, igen! Ha friss bontásból származik a tégla, akkor azt még pucolni is kell... Nálunk ez a feladat mindig az enyém volt. A férjem épített, én pedig segédmunkáskodtam...
-
-**A címeres, pecsétes téglákat külön gyűjtögettük, hisz azokkal különleges tervünk volt...**
-
-Amikor a férjem elkészítette az éppen aktuális téglás művünket, megint én következtem. 
-
-Sósavval átkentem a felületeket, hogy a rajt maradt maltert, és egyéb szennyeződéseket lemarja. Ahol szükségesnek láttam, egy kicsit spaklival is rásegítettem. 
-
-
-A következő fázis a fugázás. 
-
-
-Különböző módon fugáztunk kint és bent.
-
-
-A lakásban eleve úgy raktuk  a téglát, hogy a téglák közötti sorokat "csak" finomítani kelljen. A cementeszsák egy darabja tökéletes erre a célra. Átdörzsöltem vele a maltert, hogy egyenletes legyen, és ezzel elő is készítettem szépészeti fugázásra.
-
-Cement tejet készítettem, és óvatosan átfestegettem a téglák fugákat.
-
-> A cementtej cement és víz elegye, olyan állagúra keverve, hogy ecsettel kenhető legyen. Ízlés dolga, hogy mennyire sötét színt szeretnénk fugának. Én a szürke cemethez mindig tettem egy kevés fehéret is, hogy ne legyen annyira komor a felület.)
-
-
-**Vigyázzunk rá!**
-
-
-Száradás után ahol kellett még plasztikáztam egy kicsit, és az utolsó lépésként a felületét balzsammal kezeltem. 
-Sok féléből lehet választani, nekem is meg van a bevált márkám, amiben még nem csalódtam.
-A balzsam lezárja a tégla felületét, nem lesz porózus, könnyen lehet takarítani, és még szép fényt is kap a tégla.
-
-
-**A Téglárium oldalán minden információ olvasható ami a bontott tégláról fontos lehet.** 
-([itt találod](https://www.facebook.com/Teglarium/?epa=SEARCH_BOX))
-
-**Ma már nem jelent gondot, hogy a fürdőszobába vagy a konyhába építsük be a bontott téglát. Az impregnáló anyagokkal mosható, szennyeződés taszító lesz a tégla felülete.**
-
-
-
-
+Nem kedvelem, mikor valamiről ránézésre meg lehet állapítani, hogy mikor készült, mert a stílus jegyek annyira árulkodóak.  
+Sokkal inkább nekem való az időtálló divat, amiről nem lehet eldönteni, hogy mostani trend, vagy éppen 10 éves.
 
 ![idézet](/assets/burkolatok/IMG_20190306_122829.jpg)
 
@@ -193,7 +112,7 @@ _A régies hatású járólap_
 
 Hangsúlyos darab, talán sokaknak nem is tetszik, de a megfelelő környezetben, a megfelelő bútorokkal nagyon jól tud kinézni. 
 
- > Az étkező asztalunk is túl szépnek bizonyult hozzá, ezért koptattam, csiszoltam, és festettem. Így harmóniába kerültek egymással.
+ > Az étkező asztalunk is túl szépnek bizonyult hozzá, ezért koptattam, csiszoltam, és festettem. Így kerültek harmóniába egymással.
 
 
 
@@ -278,4 +197,5 @@ A laminált padló praktikus, megfizethető megoldás. Ha a ház átalakításá
 * [Faljavítás itt, falazás ott!](/2019-02-18/afalak)
 * [A földes szobákkal kezdtük a házfelújítást!](/2019-02-12/szobabetonozas)
 * [Találjuk ki a házunkat](/2019-02-11/találjuk_ki)
+
 

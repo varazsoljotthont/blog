@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Életre kelnek a falak!"
+title: "Életre kelnek a falak"
 cover: /assets/színesfalak/cover.JPG
 image:
   path: /assets/színesfalak/cover.JPG
