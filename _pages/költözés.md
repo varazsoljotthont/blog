@@ -18,8 +18,9 @@ image:
 
 
 
-A lakótér felújítását olvashattátok a blogon.  
-Ezekenek a munkáknak az elvégzése volt a legfontosabb. Igaz, a ház lakható lett volna a felújítás nélkül is , de a mai követelményeknek nem felelt meg. És nem utolsósorban sokkal jobb volt úgy megcsinálni az átalakítást, hogy nem laktunk "kint". 15 évvel ezelőtt (egy másik háznál), ott laktunk az emelet ráépítés során, és azt a felfordulást, ami egy ilyen munkával jár nem akartam magunk körül.
+A lakótér felújítását már olvashattátok a blogon. 
+
+Az ott leírt munkáknak az elvégzése volt a legfontosabb. Igaz, a ház lakható lett volna felújítás nélkül is, de a mai követelményeknek nem felelt meg. És nem utolsósorban sokkal jobb volt úgy megcsinálni az átalakítást, hogy nem laktunk "kint". 15 évvel ezelőtt (egy másik háznál), ott laktunk az emelet ráépítés során, és azt a felfordulást, ami egy ilyen munkával jár nem akartam magunk körül.
 
 **A legfontosabb munkák voltak:**
 
@@ -32,6 +33,10 @@ Ezekenek a munkáknak az elvégzése volt a legfontosabb. Igaz, a ház lakható 
 * újra vakolás
 * festés 
 * burkolás
+
+Sok munka volt,  és ha több időnk lett volna, azt hiszem pár dolgot másként is csinálunk.
+De a ház tökéletesen funkcionál, mi szeretjük, és egyelőre ennyi épp elég!
+
 
 > Nagyon fontos, hogy a mesteremberekkel alapos legyen a kommunkáció. Időben kell szólni nekik, és a munka megkezdése előtt újra rákérdezni, hogy rendben van-e az időpont. Ez nem kukacoskodás. Ez elengedhetetlen, ahhoz gördülékenyen menjen minden munka.
 
