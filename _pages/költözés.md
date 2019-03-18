@@ -43,7 +43,7 @@ De a ház tökéletesen funkcionál, mi szeretjük, és egyelőre ennyi épp el�
 Néhány kép a felújítás után: 
 
 
-![konyha](/assets/előtte-utána/IMG_20190311_113801előtte-utána.jpg)
+![konyha](/assets/előtte-utána/konyha.jpg)
 _Konyha_
 
 ![nappali](/assets/előtte-utána/IMG_20190311_085045előtte-utána.jpg)
