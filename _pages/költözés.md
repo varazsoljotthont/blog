@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Lássuk, mit csináltunk 3,5 hónap alatt... és mit fogunk még ezután..."
-permalink: /vazlat/
+permalink: /költözünk/
 cover: /assets/tégla/cover.JPG
 image:
   path: /assets/tégla/cover.JPG
