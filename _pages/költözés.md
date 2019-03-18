@@ -11,7 +11,7 @@ image:
 
 **Amikor a házat megvásároltuk csak sejtettük, hogy mennyi feladat vár megoldásra, és a végeredményt sem láthattuk előre. A kitartó munka persze meghozta gyümölcsét, és időben elkészültünk. Teljesen biztos vagyok abban, hogy a sikerhez nagy mértékben az is hozzájárult, hogy örömmel csináltuk a házunk felújítását. A lelkesedésünk azóta sem hagyott cserben bennünket. Folyamatosan valósítjuk meg a terveinket, továbbra is ketten, és továbbra tartjuk a célkitűzésünket, miszerint: Olcsó legyen, de jó!**
 
-![idézet](/assets/előtte-utána/IMG_20190318_111544.JPG)
+![idézet](/assets/előtte-utána/IMG_20190318_111544.jpg)
 
 
 ## Mit is csináltunk 3,5 hónap alatt
