@@ -9,7 +9,7 @@ image:
   width: 300
 ---
 
-**Amikor a házat megvásároltuk csak sejtettük, hogy mennyi feladat vár megoldásra, és a végeredményt sem láthattuk előre. A kitartó munka persze meghozta gyümölcsét, és időben elkészültünk. Teljesen biztos vagyok abban, hogy a sikerhez nagy mértékben az is hozzájárult, hogy örömmel csináltuk a házunk felújítását. A lelkesedésünk azóta sem hagyott cserben bennünket. Folyamatosan valósítjuk meg a terveinket, továbbra is ketten, és továbbra tartjuk a célkitűzésünket, miszerint: Olcsó legyen, de jó!**
+**Amikor a házat megvásároltuk csak sejtettük, hogy mennyi feladat vár majd megoldásra, és a végeredményt sem láthattuk előre. A kitartó munka persze meghozta gyümölcsét, és időben elkészültünk mindennel. Teljesen biztos vagyok abban, hogy a sikerhez nagy mértékben az is hozzájárult, hogy örömmel csináltuk a házunk felújítását. A lelkesedésünk azóta sem hagyott cserben bennünket. Folyamatosan valósítjuk meg a terveinket, továbbra is ketten, és továbbra tartjuk a célkitűzésünket, miszerint: Olcsó legyen, de jó!**
 
 ![idézet](/assets/előtte-utána/IMG_20190318_111544jav.jpg)
 
@@ -20,16 +20,16 @@ image:
 
 A lakótér felújítását már olvashattátok a blogon. 
 
-Az ott leírt munkáknak az elvégzése volt a legfontosabb. Igaz, a ház lakható lett volna felújítás nélkül is, de a mai követelményeknek nem felelt meg. És nem utolsósorban sokkal jobb volt úgy megcsinálni az átalakítást, hogy nem laktunk "kint". 15 évvel ezelőtt (egy másik háznál), ott laktunk az emelet ráépítés során, és azt a felfordulást, ami egy ilyen munkával jár nem akartam magunk körül.
+Az ott, eddig leírt munkáknak az elvégzése volt a legfontosabb. Igaz, a ház lakható lett volna felújítás nélkül is, de a mai követelményeknek nem felelt meg. És nem utolsósorban sokkal jobb volt úgy megcsinálni az átalakítást, hogy nem laktunk "kint". 15 évvel ezelőtt (egy másik háznál), ott laktam az emelet ráépítés során, és azt a felfordulást nem szerettem volna magunk körül.
 
 **A legfontosabb munkák voltak:**
 
-* nyílászárok cseréje
-* központi fűtés kialakítása
+* a nyílászárok cseréje
+* a központi fűtés kialakítása
 * teljeskörű villanyászati felújítás
-* helyiségek áthelyezése
-* szobák betonázása
-* falak bontása, ill befalazása
+* a helyiségek áthelyezése
+* a szobák betonázása
+* a falak bontása, ill befalazása
 * újra vakolás
 * festés 
 * burkolás
