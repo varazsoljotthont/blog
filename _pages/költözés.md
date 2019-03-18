@@ -51,7 +51,7 @@ _Előtér 1_
 _Előtér 2_
 
 
-![előtér](/assets/előtte-utána/IMG_20190311_085754előtte-utána)
+![előtér](/assets/előtte-utána/IMG_20190311_085754előtte-utánajav.jpg)
 _Fürdőszoba_
 ## Összefoglaló a elmúlt 4 évről
 
