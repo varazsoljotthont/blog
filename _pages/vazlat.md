@@ -11,19 +11,6 @@ image:
 
 
 
----
-layout: post
-title: "A tégla nem csak építőanyag!"
-permalink: /vazlat/
-cover: /assets/tégla/cover.JPG
-image:
-  path: /assets/tégla/cover.JPG
-  height: 300
-  width: 300
----
-
-
-
 
 ![idézet](/assets/burkolatok/IMG_20190306_122829.jpg)
 
