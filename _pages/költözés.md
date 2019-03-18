@@ -14,7 +14,7 @@ image:
 ![idézet](/assets/előtte-utána/IMG_20190318_111544jav.jpg)
 
 
-## Mit is csináltunk 3,5 hónap alatt
+## Mit is csináltunk 3,5 hónap alatt?
 
 
 
