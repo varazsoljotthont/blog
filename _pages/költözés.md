@@ -35,8 +35,24 @@ Ezekenek a munkáknak az elvégzése volt a legfontosabb. Igaz, a ház lakható 
 
 > Nagyon fontos, hogy a mesteremberekkel alapos legyen a kommunkáció. Időben kell szólni nekik, és a munka megkezdése előtt újra rákérdezni, hogy rendben van-e az időpont. Ez nem kukacoskodás. Ez elengedhetetlen, ahhoz gördülékenyen menjen minden munka.
 
+Néhány kép a felújítás után: 
 
 
+![konyha](/assets/előtte-utána/IMG_20190311_113801előtte-utána.jpg)
+_Konyha_
+
+![nappali](/assets/előtte-utána/IMG_20190311_085045előtte-utána.jpg)
+_Nappali_
+
+![előtér](/assets/előtte-utána/IMG_20190311_085433előtte-utána.jpg)
+_Előtér 1_
+
+![előtér](/assets/előtte-utána/53382599_362051337720674_7760969830441680896_n.jpg)
+_Előtér 2_
+
+
+![előtér](/assets/előtte-utána/IMG_20190311_085754előtte-utána)
+_Fürdőszoba_
 ## Összefoglaló a elmúlt 4 évről
 
 A fenti munkákon kívül  már szinte mindent átalakítottunk, felújítottunk, újra gondoltunk...
