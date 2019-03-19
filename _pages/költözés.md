@@ -105,7 +105,7 @@ _Az udvar felől is nagy a változás_
  * kút felújítása
  * berendezési tárgyak készítése
  * dekorációk készítése
- 
+ * bútorok festése
  
  
  **és még mindig van feladat**
