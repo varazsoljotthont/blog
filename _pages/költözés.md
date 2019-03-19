@@ -104,7 +104,7 @@ _Az udvar felől is nagy a változás_
  * kút felújítása
  * berendezési tárgyak készítése
  * dekorációk készítése
- * 
+ 
  
  
  **és még mindig van feladat**
@@ -113,6 +113,7 @@ _Az udvar felől is nagy a változás_
  * utcai kerítéslábak rendbetétele
  * a hátsó kert elkerítése
  * fenyőfák ültetése
+ * újra füvesítés
  
  
  Azt gondolom, még egy ideig ad feladatokat a "Miházunk".
@@ -138,7 +139,7 @@ A szavak erejét nem lehet vitatni, igaz? Az odafigyelés, a dícséret, a bízt
 * [Találjuk ki a házunkat](/2019-02-11/találjuk_ki)
 * [Régi varrógép új élete!](/2019-02-12/varrogepasztal)
 * [Faljavítás itt, falazás ott!](/2019-02-18/afalak)
-* [Életre kelnek a falak](/22019-03-016/színesfalak.md)
+* [Életre kelnek a falak](/2019-03-16/színesfalak)
 
  
 
