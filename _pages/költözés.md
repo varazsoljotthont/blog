@@ -2,7 +2,7 @@
 layout: post
 title: "Lássuk, mit csináltunk 3,5 hónap alatt... és mit fogunk még ezután..."
 permalink: /költözés/
-cover: /assets/tégla/cover.JPG
+cover: /assets/előtte-utána/cover.JPG
 image:
   path: /assets/tégla/cover.JPG
   height: 300
@@ -62,7 +62,7 @@ _Fürdőszoba_
 
 
 
-## Összefoglaló a elmúlt 4 évről
+## Összefoglaló az elmúlt 4 évről
 
 A fenti munkákon kívül  már szinte mindent átalakítottunk, felújítottunk, újra gondoltunk...
 
@@ -108,10 +108,10 @@ _Az udvar felől is nagy a változás_
  * bútorok festése
  
  
- **...és még mindig van feladat:**
+ **...és még ránk várat magára...**
  
- * tető felújítása
- * utcai kerítéslábak rendbetétele
+ * a tető felújítása
+ * az utcai kerítéslábak rendbetétele
  * a hátsó kert elkerítése
  * fenyőfák ültetése
  * újra füvesítés
