@@ -66,7 +66,6 @@ _Fürdőszoba_
 
 A fenti munkákon kívül  már szinte mindent átalakítottunk, felújítottunk, újra gondoltunk...
 
-Megpróbálom időrendben összeszedni az elvégzett munkákat.
 
 A leglátványosabb változás a ház külsejét érintette.
 
