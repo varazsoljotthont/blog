@@ -71,11 +71,11 @@ A leglátványosabb változás a ház külsejét érintette.
 
 Újra vakoltuk, szigeteltük, majd festettük a falakat, megszüntettük az istállót. 
 
-!homlokzat(/assets/előtte-utána/IMG_20190318_125117.jpg)
+!ház(/assets/előtte-utána/utca.jpg)
 _Előtte-utána_
 
 
-!homlokzat(/assets/előtte-utána/IMG_20190318_124114.jpg)
+!ház(/assets/előtte-utána/udvar.jpg)
 _Az udvar felől is nagy a változás_
 
 
