@@ -107,7 +107,7 @@ _Az udvar felől is nagy a változás_
 
 
 ![udvar](/assets/előtte-utána/20180709_183001.jpg) 
-_Az egyik újjászületett melléképület__
+_Az egyik újjászületett melléképület_
  
  
 
