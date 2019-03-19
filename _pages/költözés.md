@@ -104,10 +104,14 @@ _Az udvar felől is nagy a változás_
 * folyamatban van a kocsibeálló építése
 
 
+
+
 ![udvar](/assets/előtte-utána/20180709_183001.jpg) 
 _Az egyik újjászületett melléképület__
  
  
+
+
 ![udvar](/assets/előtte-utána/DSCF3424.JPG) 
 _Az évelő ágyással egy álom teljesült_
 
