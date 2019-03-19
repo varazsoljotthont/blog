@@ -9,7 +9,7 @@ image:
   width: 300
 ---
 
-**Amikor a házat megvásároltuk csak sejtettük, hogy mennyi feladat vár majd megoldásra, és a végeredményt sem láthattuk előre. A kitartó munka persze meghozta gyümölcsét, és időben elkészültünk mindennel. Teljesen biztos vagyok abban, hogy a sikerhez nagy mértékben az is hozzájárult, hogy örömmel csináltuk a házunk felújítását. A lelkesedésünk azóta sem hagyott cserben bennünket. Folyamatosan valósítjuk meg a terveinket, továbbra is ketten, és továbbra tartjuk a célkitűzésünket, miszerint: Olcsó legyen, de jó!**
+**Amikor a házat megvásároltuk csak sejtettük, hogy mennyi feladat vár majd megoldásra, és a végeredményt sem láthattuk előre. Teljesen biztos vagyok abban, hogy a sikerhez nagy mértékben az is hozzájárult, hogy örömmel csináltuk a házunk felújítását. Lelkesedésünk azóta sem hagyott alább,és folyamatosan valósítjuk meg a terveinket. Továbbra is ketten, és továbbra tartjuk a célkitűzésünket, miszerint: Olcsó legyen, de jó!**
 
 ![idézet](/assets/előtte-utána/IMG_20190318_111544jav.jpg)
 
@@ -20,7 +20,8 @@ image:
 
 A lakótér felújítását már olvashattátok a blogon. 
 
-Az ott leírt munkáknak az elvégzése volt a legfontosabb. Igaz, a ház lakható lett volna felújítás nélkül is, de a mai követelményeknek nem felelt meg. És nem utolsósorban sokkal jobb volt úgy megcsinálni az átalakítást, hogy nem laktunk "kint". 15 évvel ezelőtt (egy másik háznál), ott laktam az emelet ráépítés során, és azt a felfordulást nem szerettem volna magunk körül.
+Az ott leírt munkáknak az elvégzése volt a legfontosabb. Igaz, a ház lakható lett volna felújítás nélkül is, de a mai követelményeknek nem felelt meg. És nem utolsósorban sokkal jobb volt úgy megcsinálni az átalakítást, hogy nem laktunk "kint". 
+
 
 **A legfontosabb munkák voltak:**
 
@@ -116,22 +117,19 @@ _Az udvar felől is nagy a változás_
  * újra füvesítés
  
  
- Azt gondolom, még egy ideig ad feladatokat a "Miházunk".
+Azt gondolom, egy ideig még ad feladatokat a "Miházunk".
  
- Talán egy éve mondta a nagyobbik fiam: Anyám, valljátok be, nektek a ház lett a hobbitok...
+Talán egy éve mondta a nagyobbik fiam: Anyám! Valljátok be, nektek a ház lett a hobbitok...
  
- Azt kell mondjam, igaza volt.
+Azt kell mondjam, igaza volt.  
+Örömmel csináljuk, és azt hiszem ez (is) a titkunk. Kitalálunk valamit, tervezgetjük, és ami a lényeg, hogy saját magunk meg is valósítjuk. 
  
- Örömmel csináljuk, és azt hiszem ez (is) a titkunk. 
- 
- Kitalálunk valamit, tervezgetjük, és ami a lényeg, hogy saját magunk meg is csináljuk. 
- 
- Tudjátok: Olcsó legyen, de jó!
+Tudjátok: Olcsó legyen, de jó!
  
  
  **+ 1 gondolat:**  
 Ez a sok munka nem sikerült volna egymás nélkül. Mindketten kivettük a részünket a feladatokból, ez csak így megy... 
-A szavak erejét nem lehet vitatni, igaz? Az odafigyelés, a dícséret, a bíztatás szárnyakat ad a mindenapokban!
+A szavak erejét nem lehet vitatni, igaz? Az odafigyelés, a dícséret, a biztatás szárnyakat ad a mindenapokban!
 
 ## Kapcsolódó cikkek
 
