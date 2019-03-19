@@ -105,7 +105,7 @@ _Az udvar felől is nagy a változás_
  * a kút felújítása
 
 
-Készültek még berendezési tárgyak, dekorációk, és festettünk bútorokat.
+Készültek még berendezési tárgyak, dekorációk, még bútorokat is festettünk .
 
  
  
