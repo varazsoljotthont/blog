@@ -105,7 +105,7 @@ _Az udvar felől is nagy a változás_
 
 
 ![udvar](/assets/előtte-utána/20180709_183001.jpg) 
-_Az átalakult melléképület_
+_Az egyik újjászületett melléképület__
  
  
 ![udvar](/assets/előtte-utána/DSCF3424.JPG) 
