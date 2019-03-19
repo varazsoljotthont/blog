@@ -10,7 +10,7 @@ image:
 
 
 
-**Ahogy halad előre a felújítás, az elvárások úgy lesznek egyre nagyobbak a ház otthonná válásával kapcsolatban. Minden egyes munka befejeztével szépül a ház. A padló, csempe, és a járólap lerakása az utolsó munkálatok egyike a beköltözés előtt.**
+**Ahogy halad előre a felújítás, az elvárások úgy lesznek egyre nagyobbak a ház otthonná válásával kapcsolatban. Minden egyes munka befejeztével szépül a ház. A padló, csempe, a járólap lerakása az utolsó munkálatok egyike a beköltözés előtt.**
 
 
 
