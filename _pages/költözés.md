@@ -93,9 +93,10 @@ _Az udvar felől is nagy a változás_
 * a két melléképület teljesen átalakult
 * hamarosan kész a tetőterasz 
 * készült egy kerti rom (pihenő rész)
-* kerítés az "Uradalomban"
-* az udvar megszépült, és nagyjából gazmentes is lett
+* a kerítés az "Uradalomban"
+* az udvar megszépült, és nagyjából gyom mentes is lett
 * kialakítottunk egy nagy virágos kertet
+* folyamatban van a kocsibeálló építése
  
  
  **Az imént felsoroltak voltak a nagy munkák. De ezeken kívül még nagyon sok mindent megcsináltunk:**
