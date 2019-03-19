@@ -149,6 +149,7 @@ Azt kell mondjam, igaza volt.
 Örömmel csináljuk, és azt hiszem ez (is) a titkunk. Kitalálunk valamit, tervezgetjük, és ami a lényeg, hogy saját magunk meg is valósítjuk. Lehetőség szerint a a ház körül található alapanyagokból.
 
 
+
 Tudjátok: Olcsó legyen, de jó!
  
  
