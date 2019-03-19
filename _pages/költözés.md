@@ -71,13 +71,75 @@ A leglátványosabb változás a ház külsejét érintette.
 
 Újra vakoltuk, szigeteltük, majd festettük a falakat, megszüntettük az istállót. 
 
-!ház(/assets/előtte-utána/utca.jpg)
+![ház](/assets/előtte-utána/utca.jpg)
 _Előtte-utána_
 
 
-!ház(/assets/előtte-utána/udvar.jpg)
+![ház](/assets/előtte-utána/udvar.jpg)
 _Az udvar felől is nagy a változás_
 
+**Ezen a két képen is látszik, hogy milyen sok minden változott.**
+
+* eltűnt az istálló, a helyén mosókonyha, kamra és kazánház lett
+* épült egy terasz 
+* udvar felől is elkészült a szigetelés és a lábazat 
+* a járdák tégla burkolatot kaptak 
+* a "hátsó" ajtónál lett egy kis előtető
+
+
+**...és ami nem látszik a képeken...**
+
+* a két melléképület teljesen átalakult
+* hamarosan kész a tetőterasz 
+* készült egy kerti rom (pihenő rész)
+* kerítés az "Uradalomban"
+* az udvar megszépült, és nagyjából gazmentes is lett
+* kialakítottunk egy nagy virágos kertet
+ 
+ 
+ **Az imént felsoroltak voltak a nagy munkák. De ezeken kívül még nagyon sok mindent megcsináltunk:**
+ 
+ * hintaágy
+ * kerti kiülő
+ * kút felújítása
+ * berendezési tárgyak készítése
+ * dekorációk készítése
+ * 
+ 
+ 
+ **és még mindig van feladat**
+ 
+ * tető felújítása
+ * utcai kerítéslábak rendbetétele
+ * a hátsó kert elkerítése
+ * fenyőfák ültetése
+ 
+ 
+ Azt gondolom, még egy ideig ad feladatokat a "Miházunk".
+ 
+ Talán egy éve mondta a nagyobbik fiam: Anyám, valljátok be, nektek a ház lett a hobbitok...
+ 
+ Azt kell mondjam, igaza volt.
+ 
+ Örömmel csináljuk, és azt hiszem ez (is) a titkunk. 
+ 
+ Kitalálunk valamit, tervezgetjük, és a ami a lényeg, hogy saját magunk meg is csináljuk. 
+ 
+ Tudjátok: Olcsó legyen, de jó!
+ 
+ 
+ **+ 1 gondolat:**  
+Idő - pénz hiányában a padlófűtés ötletét elvetettük, ezért a szigetelésnek nem sok értelme lett. A lelkünket megnyugtattuk, de a konyhában a járófelület hideg maradt.
+
+## Kapcsolódó cikkek
+
+* [Kell egy ház... De hol, milyen, mennyiért?](/2019-02-09/hazvasarlas)
+* [Találjuk ki a házunkat](/2019-02-11/találjuk_ki)
+* [Régi varrógép új élete!](/2019-02-12/varrogepasztal)
+* [Faljavítás itt, falazás ott!](/2019-02-18/afalak)
+* [Életre kelnek a falak](/22019-03-016/színesfalak.md)
+
+ 
 
 
 
