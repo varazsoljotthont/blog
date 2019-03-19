@@ -86,7 +86,7 @@ Az utcai ablakok renoválás után ugyan tetszettek volna, de annyira szú ette 
 
 * **az ablakokat cseréltük**
 
-* **a belső folyosós ablakot megszüntettük**
+* **a közlekedőn a  belső ablakot megszüntettük**
 
 * **a bejárati ajtót áthelyeztük**
 
