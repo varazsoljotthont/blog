@@ -122,14 +122,15 @@ Azt gondolom, egy ideig még ad feladatokat a "Miházunk".
 Talán egy éve mondta a nagyobbik fiam: Anyám! Valljátok be, nektek a ház lett a hobbitok...
  
 Azt kell mondjam, igaza volt.  
-Örömmel csináljuk, és azt hiszem ez (is) a titkunk. Kitalálunk valamit, tervezgetjük, és ami a lényeg, hogy saját magunk meg is valósítjuk. 
- 
+Örömmel csináljuk, és azt hiszem ez (is) a titkunk. Kitalálunk valamit, tervezgetjük, és ami a lényeg, hogy saját magunk meg is valósítjuk. Lehetőség szerint a a ház körül található alapanyagokból.
+
+
 Tudjátok: Olcsó legyen, de jó!
  
  
  **+ 1 gondolat:**  
 Ez a sok munka nem sikerült volna egymás nélkül. Mindketten kivettük a részünket a feladatokból, ez csak így megy... 
-A szavak erejét nem lehet vitatni, igaz? Az odafigyelés, a dícséret, a biztatás szárnyakat ad a mindenapokban!
+A szavak erejét nem lehet vitatni, igaz? Az odafigyelés, a dícséret, a biztatás szárnyakat ad a mindennapokban!
 
 ## Kapcsolódó cikkek
 
