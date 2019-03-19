@@ -82,7 +82,7 @@ _Az udvar felől is nagy a változás_
 
 * eltűnt az istálló, a helyén mosókonyha, kamra és kazánház lett
 * épült egy terasz 
-* udvar felől is elkészült a szigetelés és a lábazat 
+* udvar felől is elkészült a vakolás és a lábazat 
 * a járdák tégla burkolatot kaptak 
 * a "hátsó" ajtónál lett egy kis előtető
 
