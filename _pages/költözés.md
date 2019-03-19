@@ -39,7 +39,7 @@ Sok munka volt,  és ha több időnk lett volna, azt hiszem pár dolgot máskén
 De a ház tökéletesen funkcionál, mi szeretjük, és egyelőre ennyi épp elég!
 
 
-> Nagyon fontos, hogy a mesteremberekkel alapos legyen a kommunkáció. Időben kell szólni nekik, és a munka megkezdése előtt újra rákérdezni, hogy rendben van-e az időpont. Ez nem kukacoskodás. Ez elengedhetetlen, ahhoz gördülékenyen menjen minden munka.
+> Nagyon fontos, hogy a mesteremberekkel alapos legyen a kommunkáció. Időben kell szólni nekik, és a munka megkezdése előtt újra rákérdezni, hogy rendben van-e az időpont. Ez nem kukacoskodás. Ez elengedhetetlen ahhoz, hogy gördülékenyen menjen minden munka.
 
 Néhány kép a felújítás után: 
 
