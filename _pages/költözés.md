@@ -9,7 +9,7 @@ image:
   width: 300
 ---
 
-**Amikor a házat megvásároltuk csak sejtettük, hogy mennyi feladat vár majd megoldásra, és a végeredményt sem láthattuk előre. Teljesen biztos vagyok abban, hogy a sikerhez nagy mértékben az is hozzájárult, hogy örömmel csináltuk a házunk felújítását. Lelkesedésünk azóta sem hagyott alább,és folyamatosan valósítjuk meg a terveinket. Továbbra is ketten, és továbbra tartjuk a célkitűzésünket, miszerint: Olcsó legyen, de jó!**
+**Amikor a házat megvásároltuk csak sejtettük, hogy mennyi feladat vár majd megoldásra, és a végeredményt sem láthattuk előre. Teljesen biztos vagyok abban, hogy a sikerhez nagy mértékben az is hozzájárult, hogy örömmel csináltuk a házunk felújítását. Lelkesedésünk azóta sem hagyott alább, és folyamatosan valósítjuk meg a terveinket. Továbbra is ketten, továbbra is tartva a célkitűzésünket, miszerint: Olcsó legyen, de jó!**
 
 ![idézet](/assets/előtte-utána/IMG_20190318_111544jav.jpg)
 
