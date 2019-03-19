@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Lássuk, mit csináltunk 3,5 hónap alatt... és mi történt utána..."
+title: "Lássuk, mit csináltunk 3 és fél hónap alatt... és mi történt utána..."
 permalink: /költözés/
 cover: /assets/előtte-utána/cover.JPG
 image:
@@ -96,13 +96,12 @@ _Az udvar felől is nagy a változás_
 **...és ami nem látszik a képeken...**
 
 * a két melléképület teljesen átalakult
-* hamarosan kész a tetőterasz 
 * készült egy kerti rom (pihenő rész)
 * a kerítés az "Uradalomban"
 * az udvar megszépült, és nagyjából gyommentes is lett
 * kialakítottunk egy nagy virágos kertet
 * folyamatban van a kocsibeálló építése
-
+* hamarosan kész a tetőterasz 
 
 
 
@@ -128,7 +127,7 @@ _Az udvar_
 
 
 
-Készültek berendezési tárgyak, dekorációk, még bútorokat is festettünk .
+Készültek berendezési tárgyak, dekorációk, és még bútorokat is festettünk .
 
  
  
@@ -142,7 +141,7 @@ Készültek berendezési tárgyak, dekorációk, még bútorokat is festettünk 
  * az újra füvesítés még ránk váró feladat.
  
  
-Azt gondolom, egy ideig még ad elfoglaltságot a "Miházunk".
+Azt gondolom, még jó ideig lesz tennivaló a ház körül.
  
 Talán egy éve mondta a nagyobbik fiam: Anyám! Valljátok be, nektek a ház lett a hobbitok...
  
