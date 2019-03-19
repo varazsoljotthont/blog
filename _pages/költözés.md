@@ -85,6 +85,7 @@ _Az udvar felől is nagy a változás_
 * udvar felől is elkészült a vakolás és a lábazat 
 * a járdák tégla burkolatot kaptak 
 * a "hátsó" ajtónál lett egy kis előtető
+* az egész ház ereszcsatornát kapott
 
 
 **...és ami nem látszik a képeken...**
