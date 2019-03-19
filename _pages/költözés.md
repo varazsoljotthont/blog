@@ -122,7 +122,7 @@ _Az évelő ágyással egy álom teljesült_
  * a kerti kiülő
  * a kút felújítása
 
-![udvar](/assets/előtte-utána/20180709_184225.jpg)
+![udvar](/assets/előtte-utána/DSCF3332.JPG)
 _Az udvar_
 
 
