@@ -20,7 +20,7 @@ image:
 
 A lakótér felújítását már olvashattátok a blogon. 
 
-Az ott leírt munkáknak az elvégzése volt a legfontosabb. Igaz, a ház lakható lett volna felújítás nélkül is, de a mai követelményeknek nem felelt meg. A munkálatokat addig szerettük volna elvégezni, amíg nem ott élünk.
+Az ott leírt munkáknak az elvégzése volt a legfontosabb. Igaz, a ház lakható lett volna felújítás nélkül is, de a mai követelményeknek nem felelt meg. A munkálatokat addig szerettük volna elvégezni, amíg nem ott éltünk.
 
 
 **A legfontosabb munkák voltak:**
