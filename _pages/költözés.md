@@ -108,7 +108,7 @@ _Az udvar felől is nagy a változás_
  * bútorok festése
  
  
- **és még mindig van feladat**
+ **...és még mindig van feladat:**
  
  * tető felújítása
  * utcai kerítéslábak rendbetétele
