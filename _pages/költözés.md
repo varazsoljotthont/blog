@@ -98,7 +98,7 @@ _Az udvar felől is nagy a változás_
 * folyamatban van a kocsibeálló építése
  
  
- **Az imént felsoroltak voltak a nagy munkák. De ezeken kívül még nagyon sok mindent megcsináltunk:**
+ **Ezeken kívül még nagyon sok mindent megcsináltunk:**
  
  * hintaágy
  * kerti kiülő
