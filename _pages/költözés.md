@@ -20,7 +20,7 @@ image:
 
 A lakótér felújítását már olvashattátok a blogon. 
 
-Az ott, eddig leírt munkáknak az elvégzése volt a legfontosabb. Igaz, a ház lakható lett volna felújítás nélkül is, de a mai követelményeknek nem felelt meg. És nem utolsósorban sokkal jobb volt úgy megcsinálni az átalakítást, hogy nem laktunk "kint". 15 évvel ezelőtt (egy másik háznál), ott laktam az emelet ráépítés során, és azt a felfordulást nem szerettem volna magunk körül.
+Az ott leírt munkáknak az elvégzése volt a legfontosabb. Igaz, a ház lakható lett volna felújítás nélkül is, de a mai követelményeknek nem felelt meg. És nem utolsósorban sokkal jobb volt úgy megcsinálni az átalakítást, hogy nem laktunk "kint". 15 évvel ezelőtt (egy másik háznál), ott laktam az emelet ráépítés során, és azt a felfordulást nem szerettem volna magunk körül.
 
 **A legfontosabb munkák voltak:**
 
@@ -135,13 +135,12 @@ A szavak erejét nem lehet vitatni, igaz? Az odafigyelés, a dícséret, a bízt
 
 ## Kapcsolódó cikkek
 
-* [Kell egy ház... De hol, milyen, mennyiért?](/2019-02-09/hazvasarlas)
+
 * [Találjuk ki a házunkat](/2019-02-11/találjuk_ki)
 * [Régi varrógép új élete!](/2019-02-12/varrogepasztal)
 * [Faljavítás itt, falazás ott!](/2019-02-18/afalak)
-* [Életre kelnek a falak](/2019-03-01/színesfalak)
+* [Életre kelnek a falak](/2019-03-16/színesfalak)
 * [Eltűnt a beton, avagy burkolatok a házban](/2019-03-13/burkolatok)
-
  
 
 
