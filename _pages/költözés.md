@@ -4,7 +4,7 @@ title: "Lássuk, mit csináltunk 3,5 hónap alatt... és mit fogunk még ezután
 permalink: /költözés/
 cover: /assets/előtte-utána/cover.JPG
 image:
-  path: /assets/tégla/cover.JPG
+  path: /assets/előtte-utána/cover.JPG
   height: 300
   width: 300
 ---
@@ -93,7 +93,7 @@ _Az udvar felől is nagy a változás_
 * hamarosan kész a tetőterasz 
 * készült egy kerti rom (pihenő rész)
 * a kerítés az "Uradalomban"
-* az udvar megszépült, és nagyjából gyom mentes is lett
+* az udvar megszépült, és nagyjából gyommentes is lett
 * kialakítottunk egy nagy virágos kertet
 * folyamatban van a kocsibeálló építése
  
