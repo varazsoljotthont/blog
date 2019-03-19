@@ -135,7 +135,7 @@ A szavak erejét nem lehet vitatni, igaz? Az odafigyelés, a dícséret, a bizta
 ## Kapcsolódó cikkek
 
 
-* [Találjuk ki a házunkat](/2019-02-11/találjuk_ki)
+
 * [Régi varrógép új élete!](/2019-02-12/varrogepasztal)
 * [Faljavítás itt, falazás ott!](/2019-02-18/afalak)
 * [Életre kelnek a falak](/2019-03-01/színesfalak)
