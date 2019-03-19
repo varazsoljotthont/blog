@@ -100,12 +100,14 @@ _Az udvar felől is nagy a változás_
  
  **Ezeken kívül még nagyon sok mindent megcsináltunk:**
  
- * hintaágy
- * kerti kiülő
- * kút felújítása
- * berendezési tárgyak készítése
- * dekorációk készítése
- * bútorok festése
+ * elkészült a hintaágy
+ * a kerti kiülő
+ * a kút felújítása
+
+
+Készültek még berendezési tárgyak, dekorációk, és festettünk bútorokat.
+
+ 
  
  
  **...és még nincs vége...**
