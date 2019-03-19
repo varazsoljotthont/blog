@@ -102,13 +102,26 @@ _Az udvar felől is nagy a változás_
 * az udvar megszépült, és nagyjából gyommentes is lett
 * kialakítottunk egy nagy virágos kertet
 * folyamatban van a kocsibeálló építése
+
+
+![udvar](/assets/előtte-utána/20180709_183001.jpg) 
+_Az átalakult melléképület_
  
  
+![udvar](/assets/előtte-utána/DSCF3424.JPG) 
+_Az évelő ágyással egy álom teljesült_
+
+
  **Ezeken kívül még nagyon sok mindent megcsináltunk:**
  
  * elkészült a hintaágy
  * a kerti kiülő
  * a kút felújítása
+
+![udvar](/assets/előtte-utána/20180709_184225.jpg)
+_Az udvar_
+
+
 
 
 Készültek berendezési tárgyak, dekorációk, még bútorokat is festettünk .
