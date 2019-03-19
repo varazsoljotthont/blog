@@ -108,16 +108,16 @@ _Az udvar felől is nagy a változás_
  * bútorok festése
  
  
- **...és még ránk várat magára...**
+ **...és még nincs vége...**
  
  * a tető felújítása
  * az utcai kerítéslábak rendbetétele
  * a hátsó kert elkerítése
  * fenyőfák ültetése
- * újra füvesítés
+ * az újra füvesítés még ránk váró feladat.
  
  
-Azt gondolom, egy ideig még ad feladatokat a "Miházunk".
+Azt gondolom, egy ideig még ad elfoglaltságot a "Miházunk".
  
 Talán egy éve mondta a nagyobbik fiam: Anyám! Valljátok be, nektek a ház lett a hobbitok...
  
