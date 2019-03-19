@@ -58,6 +58,9 @@ _Előtér 2_
 
 ![előtér](/assets/előtte-utána/IMG_20190311_085754előtte-utánajav.jpg)
 _Fürdőszoba_
+
+
+
 ## Összefoglaló a elmúlt 4 évről
 
 A fenti munkákon kívül  már szinte mindent átalakítottunk, felújítottunk, újra gondoltunk...
@@ -67,5 +70,16 @@ Megpróbálom időrendben összeszedni az elvégzett munkákat.
 A leglátványosabb változás a ház külsejét érintette.
 
 Újra vakoltuk, szigeteltük, majd festettük a falakat, megszüntettük az istállót. 
+
+!homlokzat(/assets/előtte-utána/IMG_20190318_125117.jpg)
+_Előtte-utána_
+
+
+!homlokzat(/assets/előtte-utána/IMG_20190318_124114.jpg)
+_Az udvar felől is nagy a változás_
+
+
+
+
 
 
