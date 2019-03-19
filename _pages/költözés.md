@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Lássuk, mit csináltunk 3 és fél hónap alatt... és mi történt utána..."
+title: "Lássuk, hogy változott meg a "Miházunk""
 permalink: /költözés/
 cover: /assets/előtte-utána/cover.JPG
 image:
