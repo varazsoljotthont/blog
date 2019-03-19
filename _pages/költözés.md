@@ -123,13 +123,14 @@ _Az udvar felől is nagy a változás_
  
  Örömmel csináljuk, és azt hiszem ez (is) a titkunk. 
  
- Kitalálunk valamit, tervezgetjük, és a ami a lényeg, hogy saját magunk meg is csináljuk. 
+ Kitalálunk valamit, tervezgetjük, és ami a lényeg, hogy saját magunk meg is csináljuk. 
  
  Tudjátok: Olcsó legyen, de jó!
  
  
  **+ 1 gondolat:**  
-Idő - pénz hiányában a padlófűtés ötletét elvetettük, ezért a szigetelésnek nem sok értelme lett. A lelkünket megnyugtattuk, de a konyhában a járófelület hideg maradt.
+Ez a sok munka nem sikerült volna egymás nélkül. Mindketten kivettük a részünket a feladatokból, ez csak így megy... 
+A szavak erejét nem lehet vitatni, igaz? Az odafigyelés, a dícséret, a bíztatás szárnyakat ad a mindenapokban!
 
 ## Kapcsolódó cikkek
 
