@@ -123,9 +123,11 @@ _Az évelő ágyással egy álom teljesült_
 
  **Ezeken kívül még nagyon sok mindent megcsináltunk:**
  
- * elkészült a hintaágy
- * a kerti kiülő
- * a kút felújítása
+* elkészült a hintaágy
+* a kút felújítása
+* a kerti kiülő
+* a kerti házikó
+
 
 ![udvar](/assets/előtte-utána/DSCF3332.JPG)
 _Az udvar_
