@@ -92,7 +92,9 @@ A kanapé "koszos szürke" zsákszövetből van, (elég semmilyen szín) és a s
 
 **Dekorációk**
 
-A dekorok,kiegészítők beszerzése hosszú idő volt. 
+A dekorok, kiegészítők beszerzése folyamatosan történt. 
+Kivártam. 
+Előbb-utóbb megéreztem, hogy mi illik az adott helyre. 
 
 Főleg ezeknél használtam a saját szabályomat... Ha kell valahová valami (ez lehet akár függöny is) már a vásárlás előtt "odalátom".
 
