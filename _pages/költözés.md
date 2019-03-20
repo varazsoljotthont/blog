@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Átalakult a Miházunk" 
+title: "A "Miházunk" átalakulása" 
 permalink: /költözés/
 cover: /assets/előtte-utána/cover.JPG
 image:
