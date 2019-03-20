@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "A Miházunk átváltozása" 
-permalink: /költözés/
+title: "Az otthon hangulata" 
+permalink: /dekoráció/
 cover: /assets/előtte-utána/cover.JPG
 image:
   path: /assets/előtte-utána/cover.JPG
