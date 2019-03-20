@@ -9,17 +9,89 @@ image:
   width: 300
 ---
 
-**Amikor a házat megvásároltuk csak sejtettük, hogy mennyi feladat vár majd megoldásra, és a végeredményt sem láthattuk előre. A  kitartó munka végül meghozta gyümölcsét, és az otthonunk olyan lett, amilyennek megálmodtuk. Teljesen biztos vagyok abban, hogy a sikerhez nagy mértékben az is hozzájárult, hogy örömmel dolgoztunk a házunk felújításán. Lelkesedésünk azóta sem hagyott alább, és folyamatosan valósítjuk meg a terveinket. Továbbra is ketten, továbbra is tartva a célkitűzésünket, miszerint: Olcsó legyen, de jó!**
+**Az otthonunk hangulata a berendezésen, és a dekoráción múlik. Jól megcsinálni nem ördögtől való feladat. Nem kell lakberendezőnek lenni ahhoz, hogy a környezetünk olyan hellyé váljon ahová jó hazaérkezni.   **
 
 
 
-## Mit is csináltunk 3,5 hónap alatt?
+## Nem vagyok lakberendező
+
+Szeretem-szeretjük a házunkat!
+
+Épp ezért nem volt mindegy, hogy milyen tárgyakat választok dekorációnak.
+
+A ház hangulatáról volt egy kép a szemem előtt... 
+
+* Legyen vidékies, de ne nagyon
+* Legyen "ütős" de mégse legyen hivalkodó
+* Legyen természetes 
+* Legyen benne az egyéniségünk
+* Legyen összhangban minden-mindennel
+* Ne legyen zsúfolt
+* ... és semmiképpen ne legyen benne műanyag!
+
+Nem vagyok lakberendező, mégcsak hasonlót sem tanultam. Valami féle "ráérzés" van bennem, hogy miként lehet harmóniát teremteni magunk körül. Az életem úgy alakult, hogy az elmúlt pár évben be kellett rendeznem egy-két házat otthonomnak. Volt köztük 100 m2-es, volt lakótelepi lakás, és volt egy nagyon pici kis garzonszerűség is. 
+
+Mindegyik más stílusú volt, és a visszajelzések minden esetben azt mutatták, hogy jól sikerültek. 
+
+Ezek után jött a "Miházunk", és ez lett az a ház, ahol teljes egészében meg tudtam valósítani a vágyaimat.
+
+## Utána nézni, utána olvasni
+
+
+Nem sajnáltam az időt arra, hogy olvassak a hozzáértőktől. Kiítűnő blogerrek vannak akik megírják, hogy mire kell figyelni, hogy elkerüljük a káoszt.
+
+Volt amiben megerősítést kaptam, hogy jó úton vagyok, volt amikor a ráérzésemet alapszabályként láttam viszont. És volt, mikor a mások által mániának mondott dolgaimat is láttam leírva. És persze rengeteg hasznos információhoz jutottam hozzá, amiket aztán én is alkalmaztam, mikor el jött az ideje.
+
+Sokat tanultam a különböző stílusokról, többet nagyon érdekesnek is találtam. És volt olyan is ami nagyon-nagyon tetszett.
+Képeket nézegettem, inspirálódtam, öteleteket gyűjtöttem. 
+
+(Ez a szokásom a mai napig meg van. Jobbnál-jobb dolgokat látni, érdemes nyitott szemmel nézni a bennünket körülvevő világot.)
+
+
+## Választás
+
+A parasztházas stílus mellett döntöttünk.
+
+Mindig szerettem a skanzenek hangulatát, a régi világ romantikáját. 
+
+De semmiképpen nem akartam túlzásokba esni. 
+Nem akartam giccsessé tenni a házunkat. 
+
+Épp ezért szigorúan betartottam a hármas szabályt. Ez érvenyesült a lakásban és az udvaron is.
+
+## Hogy csináltam
+
+Az alapanyagoknál, a színeknél, a mintáknál mindenhol figyelembe vettem, hogy háromnál többet nem alkalmazok. Árnyalatbéli különbségek persze lehetnek, de tartottam magam a tervhez.
+
+Nem csak arra figyeltem oda, hogy egy-egy helyiség "rendben legyen", hanem arra is, hogy a különböző helyiségek is passzoljanak 
+egymáshoz.
+
+**Alapanyagok**
+
+Ehhez az első lépés az volt, hogy az egész házban azonos laminált padlót választottunk. Már ez összeköti a teret. 
+
+A másik jellegzetes dolog nálunk a tégla, végig vonul a házon, az udvaron, a kertben. Mindehol ott van, és mi imádjuk a hangulatát.
+
+> A sok bontott téglát beépítettünk a házba és a ház körül, erről tervben van egy külön poszt! 
+
+A harmadik a tétel a deszka.  Deszka polc van a nappaliban, a folyosón, az előtérben.
+
+
+**Színek**
+
+A falak árnyalatnyi különbségekkel ugyan, de azonos színűek. A konyha nagyon világos vanília, a többi helyiség a fürdő kivételével halvány dohány színű. A tégla és a deszka, mint berendezési elemek eléggé karakteres darabok, ezért igyekeztem semleges hátteret adni nekik.
+
+A nappali és a konyha egy légtér, ezér az ottani bútorok színei is passzolnak egymással. 
+
+A kanapé "koszos szürke" zsákszövetből van, (elég semmilyen szín) és a szövet sruktúrája remekül passzol a durvább téglához, és deszkákhoz. A világos párnák visszaköszönnek a tapétán és a konyha fal színén, az étkező asztal szürkéje viszont rímel a nappalira.
+És így az egész még a konyhai járólappal is összhangba került.
+
+
+**Dekorációk**
 
 
 
-A lakótér felújítását már olvashattátok a blogon. 
 
-Az ott leírt munkáknak az elvégzése volt a legfontosabb. Igaz, a ház lakható lett volna felújítás nélkül is, de a mai követelményeknek nem felelt meg. A munkálatokat addig szerettük volna elvégezni, amíg nem ott éltünk.
 
 
 ![idézet](/assets/előtte-utána/IMG_20190318_111544jav.jpg)
