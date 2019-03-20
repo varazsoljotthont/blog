@@ -69,7 +69,7 @@ _Fürdőszoba_
 A képeken látszik, hogy a berendezések is a mi kezünk munkáját dicsérik:
 
 * a nappali polc rendszere, az asztal, a dekorációk. 
-* a hűtő melletti polc a tárolókkal, a konyhában az étkezőasztal és a székek színét a konyhához "igazítottuk"
+* a hűtő melletti polc a tárolókkal, a konyhában az étkezőasztal és a székek színe
 * a fürdőszobában a pad és a dekorok
 * az előtérben a pad, a faliszőnyeg a párnákkal, a fogas, a tároló, a dekoráció
 
