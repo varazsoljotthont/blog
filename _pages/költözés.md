@@ -17,7 +17,10 @@ image:
 
 Szeretem-szeretjük a házunkat!
 
-Épp ezért nem volt mindegy, hogy milyen tárgyakat választok dekorációnak.
+Épp ezért nem volt mindegy, hogy milyen anyagokat, színeket, formákat választunk.
+
+
+Férjem rám bízta a teljes lakberendezést, de egy dologban megegyeztünk: Nem költünk sokat!
 
 A ház hangulatáról volt egy kép a szemem előtt... 
 
@@ -38,12 +41,13 @@ Ezek után jött a "Miházunk", és ez lett az a ház, ahol teljes egészében m
 ## Utána nézni, utána olvasni
 
 
-Nem sajnáltam az időt arra, hogy olvassak a hozzáértőktől. Kiítűnő blogerrek vannak akik megírják, hogy mire kell figyelni, hogy elkerüljük a káoszt.
+Nem sajnáltam az időt arra, hogy olvassak a hozzáértőktől. Kitűnő blogerrek vannak akik megírják, hogy mire kell figyelni, hogy elkerüljük a káoszt.
 
-Volt amiben megerősítést kaptam, hogy jó úton vagyok, volt amikor a ráérzésemet alapszabályként láttam viszont. És volt, mikor a mások által mániának mondott dolgaimat is láttam leírva. És persze rengeteg hasznos információhoz jutottam hozzá, amiket aztán én is alkalmaztam, mikor el jött az ideje.
 
-Sokat tanultam a különböző stílusokról, többet nagyon érdekesnek is találtam. És volt olyan is ami nagyon-nagyon tetszett.
-Képeket nézegettem, inspirálódtam, öteleteket gyűjtöttem. 
+Rengeteg hasznos információhoz jutottam hozzá, amiket aztán én is alkalmaztam, mikor el jött az ideje.
+Volt amiben megerősítést kaptam, hogy jó úton vagyok, volt amikor a ráérzésemet alapszabályként láttam viszont. És volt, mikor a mások által mániának mondott dolgaimat is láttam leírva. 
+
+Sokat tanultam a különböző stílusokról. Képeket nézegettem, inspirálódtam, öteleteket gyűjtöttem. 
 
 (Ez a szokásom a mai napig meg van. Jobbnál-jobb dolgokat látni, érdemes nyitott szemmel nézni a bennünket körülvevő világot.)
 
@@ -52,12 +56,11 @@ Képeket nézegettem, inspirálódtam, öteleteket gyűjtöttem.
 
 A parasztházas stílus mellett döntöttünk.
 
-Mindig szerettem a skanzenek hangulatát, a régi világ romantikáját. 
+De úgy akartuk ezt megvalósítani, hogy legyen benne valami plusz, valami izgalmas.
 
-De semmiképpen nem akartam túlzásokba esni. 
-Nem akartam giccsessé tenni a házunkat. 
+Semmiképpen nem akartam túlzásokba esni. Nem akartam giccsessé tenni a házunkat. 
 
-Épp ezért szigorúan betartottam a hármas szabályt. Ez érvenyesült a lakásban és az udvaron is.
+Épp ezért szigorúan betartottam a hármas szabályt. Ez érvenyesült a lakásban is, és az udvaron is.
 
 ## Hogy csináltam
 
@@ -74,7 +77,7 @@ A másik jellegzetes dolog nálunk a tégla, végig vonul a házon, az udvaron, 
 
 > A sok bontott téglát beépítettünk a házba és a ház körül, erről tervben van egy külön poszt! 
 
-A harmadik a tétel a deszka.  Deszka polc van a nappaliban, a folyosón, az előtérben.
+A harmadik a tétel a deszka.  Deszka van a nappaliban, a folyosón, az előtérben.
 
 
 **Színek**
@@ -89,153 +92,44 @@ A kanapé "koszos szürke" zsákszövetből van, (elég semmilyen szín) és a s
 
 **Dekorációk**
 
+A dekorok,kiegészítők beszerzése hosszú idő volt. 
 
+Főleg ezeknél használtam a saját szabályomat... Ha kell valahová valami (ez lehet akár függöny is) már a vásárlás előtt "odalátom".
 
+Maradva a függönynél: A méretek adottak, a színt, a mintát, a struktúrát, mindent "elgondolok" hogy milyet szeretnék. Az üzletben elmondom a kívánságomat, így eleve leszűkítem a kört, és a pár fajtából kiválasztom a nekem megfelelőt. Hiába tetszik valami, ha nem illik be hozzánk, akkor azt nem veszem meg. 
+Ez mindenre igaz. 
+ 
+Függönyre, állandó és szezonális dekorációkra, még az ágyneműre is. 
+
+Még régebben történt, hogy egy nagymama az unokájának szeretett volna ágynemű garnitúrát vásárolni. Mikor javasoltam, hogy kérdezze meg, milyen szín illik a szobájába, kikérte magának. Van ízlése, tud szépet választani. Persze, ez rendben is van... De képzeljünk el egy barna-krém-narancs szobát lila virágos ágyneművel... 
+
+Nálunk nem csak az ágynemű, hanem a törölköző, és a konyharuha is passzol színben...
+Nem tudom, hogy ez mánia, vagy igényesség. Ha mánia, azt is vállalom. 
+Apró dolgok, de hatalmas jelentőséggel bírnak.
+
+A nappaliban van a "legtöbb" dekoráció. De ez a legtöbb is csak pár darab. Az anyaguk fém és fa. A fémek színe pedig barna, hasonlóan a fához.
+Az azonos dekorokat is hármasával helyeztem el. 
+A szívek, a képkeretek, a gyertyatartók.
+A legtöbb kiegészítőt úgy csináltuk. Így biztos, hogy tökéletesen beillenek a designbe, és persze olcsók is.
+
+## Átláthatóság
+
+Nem szeretjük a zsúfolt tereket. Szerettem volna megőrizni a lakás tágasságát. 
+Ezt csak úgy sikerült megtartani, hogy folyamatosan "szanálunk". Nem új komódot veszünk, hanem átnézzük a dolgainkat, és amire már nincs szükségünk, attól könyörtelenül megválunk. 
+Ez tökéletesen működik...
+A ruhásszekrényen kívül érdemes a konyhában is válogatni. Ott aztán össze tud gyűlni mindenféle felesleges holmi...
 
 
 
 ![idézet](/assets/előtte-utána/IMG_20190318_111544jav.jpg)
 
 
-**A legfontosabb munkák voltak:**
-
-* a nyílászárok cseréje
-* a központi fűtés kialakítása
-* teljeskörű villanyászati felújítás
-* a helyiségek áthelyezése
-* a szobák betonázása
-* a falak bontása, ill befalazása
-* újra vakolás
-* festés 
-* burkolás
-
-Sok munka volt,  és ha több időnk lett volna, azt hiszem pár dolgot másként is csinálunk.
-De a ház tökéletesen funkcionál, mi szeretjük, és ennyi épp elég!
 
 
-
-
-
-
-> Nagyon fontos, hogy a mesteremberekkel alapos legyen a kommunkáció. Időben kell szólni nekik, és a munka megkezdése előtt újra rákérdezni, hogy rendben van-e az időpont. Ez nem kukacoskodás. Ez elengedhetetlen ahhoz, hogy gördülékenyen menjen minden munka.
-
-Néhány kép a felújítás után: 
-
-
-![konyha](/assets/előtte-utána/konyha.jpg)
-_Konyha_
-
-![nappali](/assets/előtte-utána/IMG_20190311_085045előtte-utána.jpg)
-_Nappali_
-
-![előtér](/assets/előtte-utána/IMG_20190311_085433előtte-utána.jpg)
-_Előtér 1_
-
-![előtér](/assets/előtte-utána/53382599_362051337720674_7760969830441680896_n.jpg)
-_Előtér 2_
-
-
-![előtér](/assets/előtte-utána/IMG_20190311_085754előtte-utánajav.jpg)
-_Fürdőszoba_
-
-A képeken látszik, hogy a berendezések is a mi kezünk munkáját dicsérik:
-
-* a nappali polc rendszere, az asztal, a dekorációk. 
-* a hűtő melletti polc a tárolókkal, a konyhában az étkezőasztal és a székek színe
-* a fürdőszobában a pad és a dekorok
-* az előtérben a pad, a faliszőnyeg a párnákkal, a fogas, a tároló, a dekoráció
-
-## Összefoglaló az elmúlt 4 évről
-
-A fenti munkákon kívül  már szinte mindent átalakítottunk, felújítottunk, újra gondoltunk...
-
-
-A leglátványosabb változás a ház külsejét érintette.
-
-Újra vakoltuk, szigeteltük, majd festettük a falakat, megszüntettük az istállót. 
-
-![ház](/assets/előtte-utána/utca.jpg)
-_Előtte-utána_
-
-
-![ház](/assets/előtte-utána/udvar.jpg)
-_Az udvar felől is nagy a változás_
-
-**Ezen a két képen is látszik, hogy milyen sok minden változott.**
-
-* eltűnt az istálló, a helyén mosókonyha, kamra és kazánház lett
-* épült egy terasz 
-* udvar felől is elkészült a vakolás és a lábazat 
-* a járdák tégla burkolatot kaptak 
-* a "hátsó" ajtónál lett egy kis előtető
-* az egész ház ereszcsatornát kapott
-
-
-**...és ami nem látszik a képeken...**
-
-* a két melléképület teljesen átalakult
-* készült egy kerti rom (pihenő rész)
-* a kerítés az "Uradalomban"
-* az udvar megszépült, és nagyjából gyommentes is lett
-* kialakítottunk egy nagy virágos kertet
-* folyamatban van a kocsibeálló építése
-* hamarosan kész a tetőterasz 
-
-
-
-![udvar](/assets/előtte-utána/20180709_183001.jpg) 
-_Az egyik újjászületett melléképület_
- 
- 
-
-
-![udvar](/assets/előtte-utána/DSCF3424.JPG) 
-_Az évelő ágyással egy álom teljesült_
-
-
- **Ezeken kívül még nagyon sok mindent megcsináltunk:**
- 
-* elkészült a hintaágy
-* a kút felújítása
-* a kerti kiülő
-* a kerti házikó
-
-
-![udvar](/assets/előtte-utána/DSCF3332.JPG)
-_Az udvar_
-
-
-
-
-Készültek berendezési tárgyak, dekorációk, és még bútorokat is festettünk .
-
- 
- 
- 
- **...és még nincs vége...**
- 
- * a tető felújítása
- * az utcai kerítéslábak rendbetétele
- * a hátsó kert elkerítése
- * fenyőfák ültetése
- * az újra füvesítés még ránk váró feladat.
- 
- 
-Azt gondolom, még jó ideig lesz tennivaló a ház körül.
- 
-Talán egy éve mondta a nagyobbik fiam: Anyám! Valljátok be, nektek a ház lett a hobbitok...
- 
-Azt kell mondjam, igaza volt.  
-Örömmel csináljuk, és azt hiszem ez (is) a titkunk. Kitalálunk valamit, tervezgetjük, és ami a lényeg, hogy saját magunk meg is valósítjuk. Lehetőség szerint a a ház körül található alapanyagokból.
-
-
-
-Tudjátok: Olcsó legyen, de jó!
- 
  
  **+ 1 gondolat:**  
-Ez a sok munka nem sikerült volna egymás nélkül. Mindketten kivettük a részünket a feladatokból, ez csak így megy... 
-A szavak erejét nem lehet vitatni, igaz? Az odafigyelés, a dícséret, a biztatás szárnyakat ad a mindennapokban!
+A kevesebb néha több. Egyszerű, de nagyszerű gondolat!
+
 
 ## Kapcsolódó cikkek
 
