@@ -11,7 +11,6 @@ image:
 
 **Amikor a házat megvásároltuk csak sejtettük, hogy mennyi feladat vár majd megoldásra, és a végeredményt sem láthattuk előre. A  kitartó munka végül meghozta gyümölcsét, és az otthonunk olyan lett, amilyennek megálmodtuk. Teljesen biztos vagyok abban, hogy a sikerhez nagy mértékben az is hozzájárult, hogy örömmel dolgoztunk a házunk felújításán. Lelkesedésünk azóta sem hagyott alább, és folyamatosan valósítjuk meg a terveinket. Továbbra is ketten, továbbra is tartva a célkitűzésünket, miszerint: Olcsó legyen, de jó!**
 
-![idézet](/assets/előtte-utána/IMG_20190318_111544jav.jpg)
 
 
 ## Mit is csináltunk 3,5 hónap alatt?
@@ -21,6 +20,9 @@ image:
 A lakótér felújítását már olvashattátok a blogon. 
 
 Az ott leírt munkáknak az elvégzése volt a legfontosabb. Igaz, a ház lakható lett volna felújítás nélkül is, de a mai követelményeknek nem felelt meg. A munkálatokat addig szerettük volna elvégezni, amíg nem ott éltünk.
+
+
+![idézet](/assets/előtte-utána/IMG_20190318_111544jav.jpg)
 
 
 **A legfontosabb munkák voltak:**
@@ -37,6 +39,10 @@ Az ott leírt munkáknak az elvégzése volt a legfontosabb. Igaz, a ház lakhat
 
 Sok munka volt,  és ha több időnk lett volna, azt hiszem pár dolgot másként is csinálunk.
 De a ház tökéletesen funkcionál, mi szeretjük, és ennyi épp elég!
+
+
+
+
 
 
 > Nagyon fontos, hogy a mesteremberekkel alapos legyen a kommunkáció. Időben kell szólni nekik, és a munka megkezdése előtt újra rákérdezni, hogy rendben van-e az időpont. Ez nem kukacoskodás. Ez elengedhetetlen ahhoz, hogy gördülékenyen menjen minden munka.
