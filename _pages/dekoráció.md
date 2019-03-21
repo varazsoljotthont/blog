@@ -15,7 +15,7 @@ image:
 
 ## Nem vagyok belsőépítész, lakberendező
 
-Szeretem-szeretjük a házunkat!
+... csak szeretem-szeretjük a házunkat!
 
 Épp ezért nem volt mindegy, hogy milyen anyagokat, színeket, formákat választunk magunk köré.
 
