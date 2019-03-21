@@ -49,14 +49,14 @@ Volt amiben megerősítést kaptam, hogy jó úton vagyok, volt amikor a ráérz
 
 Sokat tanultam a különböző stílusokról. Képeket nézegettem, inspirálódtam, öteleteket gyűjtöttem. 
 
-(Ez a szokásom a mai napig meg van. Jobbnál-jobb dolgokat látni, érdemes nyitott szemmel nézni a bennünket körülvevő világot.)
+(Ez a szokásom a mai napig meg van. Jobbnál-jobb dolgokat látni a környezetünkben, érdemes nyitott szemmel nézni a bennünket körülvevő világot.)
 
 
 ## Választás
 
 A parasztházas stílus mellett döntöttünk.
 
-De úgy akartuk ezt megvalósítani, hogy legyen benne valami plusz, valami izgalmas.
+De ezt úgy akartuk megvalósítani, hogy legyen benne valami plusz, valami izgalmas.
 
 Semmiképpen nem akartam túlzásokba esni. Nem akartam giccsessé tenni a házunkat. 
 
@@ -113,6 +113,12 @@ A nappaliban van a "legtöbb" dekoráció. De ez a legtöbb is csak pár darab. 
 Az azonos dekorokat is hármasával helyeztem el. 
 A szívek, a képkeretek, a gyertyatartók.
 A legtöbb kiegészítőt úgy csináltuk. Így biztos, hogy tökéletesen beillenek a designbe, és persze olcsók is.
+
+**A kiegészítő szín**
+
+A barnás-szürkés-drappos lakásba szerettem volna valami egy erősebb színt. Az alapot a sok tégla, és egy gyönyörű patchwork faliszőnyeg adta. A bordópirosra esett a választásom. Remekül élénkíti a földszíneket, viszont nem hivalkodó. Ez a szín végig vonul a házban. 
+
+A mosókonyhában 
 
 ## Átláthatóság
 
