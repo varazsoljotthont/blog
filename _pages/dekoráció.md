@@ -9,7 +9,7 @@ image:
   width: 300
 ---
 
-**Az otthonunk hangulata a berendezésen, és a dekoráción múlik. Jól megcsinálni nem ördögtől való feladat. Nem kell lakberendezőnek lenni ahhoz, hogy a környezetünk olyan hellyé váljon ahová jó hazaérkezni.**
+**Az otthonunk hangulata a berendezésen, a dekoráción is múlik. Jól megcsinálni nem ördögtől való feladat. Nem kell szakembernek lenni ahhoz, hogy a környezetünk olyan hellyé váljon ahová jó hazaérkezni.**
 
 
 
@@ -60,11 +60,11 @@ De ezt úgy akartuk megvalósítani, hogy legyen benne valami plusz, valami izga
 
 Semmiképpen nem akartam túlzásokba esni. Nem akartam giccsessé tenni a házunkat. 
 
-Épp ezért szigorúan betartottam amegtanult hármas szabályt. Ez érvenyesült a lakásban is, és az udvaron is.
+Épp ezért szigorúan betartottam a megtanult hármas szabályt. Ez érvenyesült a lakásban, és az udvaron is.
 
 ## Hogy csináltam
 
-Az alapanyagoknál, a színeknél, a mintáknál mindenhol figyelembe vettem, hogy háromnál többet nem alkalmazok. Árnyalatbéli különbségek persze lehetnek, de tartottam magam a szabályhoz.
+A főbb alapanyagoknál, színeknél, mintáknál figyelembe vettem, hogy háromnál többet nem használok. Árnyalatbéli különbségek persze lehetnek, de tartottam magam a szabályhoz.
 
 Nem csak arra figyeltem oda, hogy egy-egy helyiség "rendben legyen", hanem arra is, hogy a különböző helyiségek is passzoljanak 
 egymáshoz.
