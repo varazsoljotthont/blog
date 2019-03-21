@@ -71,13 +71,16 @@ egymáshoz.
 
 **Alapanyagok**
 
-Ehhez az első lépés az volt, hogy az egész házban azonos laminált padlót választottunk. Már ez összeköti a teret. 
+A harmónia megteremtéséhez az első lépés az volt, hogy az egész házba azonos laminált padlót választottunk. 
 
-A másik jellegzetes dolog nálunk a tégla, végig vonul a házon, az udvaron, a kertben. Mindehol ott van, és mi imádjuk a hangulatát.
+Az első, de nagyon jellegzetes dolog nálunk a tégla. Végig vonul a házon, az udvaron, a kertben. Mindehol ott van, és mi imádjuk a hangulatát.
 
 > Sok bontott téglát beépítettünk a házba és a ház körül, erről tervben van egy külön poszt! 
 
-A harmadik a tétel a deszka.  Deszka van a nappaliban, a folyosón, az előtérben, az udvaron, a kertben.
+A második felhasznált anyag a fa, csak úgy természetes mivoltában. 
+A harmadik a fém. Dekorációk, apró kiegészítők formájában  mindenhol megjelenik.
+
+Mindhárom alapanyag nagyon karakteres, "erős" anyag. Kerámiákkal, textilekkel lágyítottam a durvaságukat.
 
 
 **Színek**
