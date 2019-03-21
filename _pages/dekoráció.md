@@ -60,7 +60,7 @@ De ezt úgy akartuk megvalósítani, hogy legyen benne valami plusz, valami izga
 
 Semmiképpen nem akartam túlzásokba esni. Nem akartam giccsessé tenni a házunkat. 
 
-Épp ezért szigorúan betartottam a hármas szabályt. Ez érvenyesült a lakásban is, és az udvaron is.
+Épp ezért szigorúan betartottam amegtanult hármas szabályt. Ez érvenyesült a lakásban is, és az udvaron is.
 
 ## Hogy csináltam
 
