@@ -118,6 +118,16 @@ A legtöbb kiegészítőt úgy csináltuk. Így biztos, hogy tökéletesen beill
 
 A barnás-szürkés-drappos lakásba szerettem volna valami egy erősebb színt. Az alapot a sok tégla, és egy gyönyörű patchwork faliszőnyeg adta. A bordópirosra esett a választásom. Remekül élénkíti a földszíneket, viszont nem hivalkodó. Ez a szín végig vonul a házban. 
 
+**Tiltólistán a műanyag**
+
+Nem kedvelem a műanyag a tárgyakat, dekorációkat... Mostanra csak a konyhai keverő tálak maradtak a házban. 
+
+
+A kerámia kiegészítők összehasonlíthatatlanul szebbek, hangulatosabbak. És nem megfizethetetlenek. Ebben az esteben is érvényes a szín "mániám". Csak olyat választok, ami nem csak önmagában szép, hanem a összeségéban is.
+
+
+
+
 
 ## Átláthatóság
 
