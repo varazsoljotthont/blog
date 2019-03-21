@@ -9,15 +9,15 @@ image:
   width: 300
 ---
 
-**Az otthonunk hangulata a berendezésen, és a dekoráción múlik. Jól megcsinálni nem ördögtől való feladat. Nem kell lakberendezőnek lenni ahhoz, hogy a környezetünk olyan hellyé váljon ahová jó hazaérkezni.   **
+**Az otthonunk hangulata a berendezésen, és a dekoráción múlik. Jól megcsinálni nem ördögtől való feladat. Nem kell lakberendezőnek lenni ahhoz, hogy a környezetünk olyan hellyé váljon ahová jó hazaérkezni.**
 
 
 
-## Nem vagyok lakberendező
+## Nem vagyok belsőépítész, lakberendező
 
 Szeretem-szeretjük a házunkat!
 
-Épp ezért nem volt mindegy, hogy milyen anyagokat, színeket, formákat választunk.
+Épp ezért nem volt mindegy, hogy milyen anyagokat, színeket, formákat választunk magunk köré.
 
 
 Férjem rám bízta a teljes lakberendezést, de egy dologban megegyeztünk: Nem költünk sokat!
@@ -45,7 +45,7 @@ Nem sajnáltam az időt arra, hogy olvassak a hozzáértőktől. Kitűnő bloger
 
 
 Rengeteg hasznos információhoz jutottam hozzá, amiket aztán én is alkalmaztam, mikor el jött az ideje.
-Volt amiben megerősítést kaptam, hogy jó úton vagyok, volt amikor a ráérzésemet alapszabályként láttam viszont. És volt, mikor a mások által mániának mondott dolgaimat is láttam leírva. 
+Volt amiben megerősítést kaptam, hogy jó úton vagyok, volt amikor a ráérzésemet alapszabályként láttam viszont. És volt, mikor a mások által mániának mondott dolgaimat is láttam jóként leírva. 
 
 Sokat tanultam a különböző stílusokról. Képeket nézegettem, inspirálódtam, öteleteket gyűjtöttem. 
 
@@ -64,7 +64,7 @@ Semmiképpen nem akartam túlzásokba esni. Nem akartam giccsessé tenni a házu
 
 ## Hogy csináltam
 
-Az alapanyagoknál, a színeknél, a mintáknál mindenhol figyelembe vettem, hogy háromnál többet nem alkalmazok. Árnyalatbéli különbségek persze lehetnek, de tartottam magam a tervhez.
+Az alapanyagoknál, a színeknél, a mintáknál mindenhol figyelembe vettem, hogy háromnál többet nem alkalmazok. Árnyalatbéli különbségek persze lehetnek, de tartottam magam a szabályhoz.
 
 Nem csak arra figyeltem oda, hogy egy-egy helyiség "rendben legyen", hanem arra is, hogy a különböző helyiségek is passzoljanak 
 egymáshoz.
@@ -75,9 +75,9 @@ Ehhez az első lépés az volt, hogy az egész házban azonos laminált padlót 
 
 A másik jellegzetes dolog nálunk a tégla, végig vonul a házon, az udvaron, a kertben. Mindehol ott van, és mi imádjuk a hangulatát.
 
-> A sok bontott téglát beépítettünk a házba és a ház körül, erről tervben van egy külön poszt! 
+> Sok bontott téglát beépítettünk a házba és a ház körül, erről tervben van egy külön poszt! 
 
-A harmadik a tétel a deszka.  Deszka van a nappaliban, a folyosón, az előtérben.
+A harmadik a tétel a deszka.  Deszka van a nappaliban, a folyosón, az előtérben, az udvaron, a kertben.
 
 
 **Színek**
@@ -90,44 +90,48 @@ A kanapé "koszos szürke" zsákszövetből van, (elég semmilyen szín) és a s
 És így az egész még a konyhai járólappal is összhangba került.
 
 
-**Dekorációk**
+## Kiegészítők, dekorációk
 
 A dekorok, kiegészítők beszerzése folyamatosan történt. 
 Kivártam. 
 Előbb-utóbb megéreztem, hogy mi illik az adott helyre. 
 
-Főleg ezeknél használtam a saját szabályomat... Ha kell valahová valami (ez lehet akár függöny is) már a vásárlás előtt "odalátom".
+Főleg ezeknél használtam a saját szabályomat... 
 
-Maradva a függönynél: A méretek adottak, a színt, a mintát, a struktúrát, mindent "elgondolok" hogy milyet szeretnék. Az üzletben elmondom a kívánságomat, így eleve leszűkítem a kört, és a pár fajtából kiválasztom a nekem megfelelőt. Hiába tetszik valami, ha nem illik be hozzánk, akkor azt nem veszem meg. 
-Ez mindenre igaz. 
- 
-Függönyre, állandó és szezonális dekorációkra, még az ágyneműre is. 
+Sosem veszek meg valamit csak azért, mert tetszik. Eleve azok között nézegetek, válogatok, amik beillenek a házba.
+
+Ez mindenre igaz...
+Ha csak egy törölközőről van szó akkor is. Lehet bármilyen szép, ha nem való a "Miházunkba" marad az üzletben...
 
 Még régebben történt, hogy egy nagymama az unokájának szeretett volna ágynemű garnitúrát vásárolni. Mikor javasoltam, hogy kérdezze meg, milyen szín illik a szobájába, kikérte magának. Van ízlése, tud szépet választani. Persze, ez rendben is van... De képzeljünk el egy barna-krém-narancs szobát lila virágos ágyneművel... 
 
-Nálunk nem csak az ágynemű, hanem a törölköző, és a konyharuha is passzol színben...
+Nálunk nem csak az ágynemű, és a törölköző, még a konyharuha is passzol színben... Ha már vásárolni kell, akkor miért ne válasszunk olyat ami még inkább tökéletesíti az otthonunkat.
 Nem tudom, hogy ez mánia, vagy igényesség. Ha mánia, azt is vállalom. 
 Apró dolgok, de hatalmas jelentőséggel bírnak.
 
-A nappaliban van a "legtöbb" dekoráció. De ez a legtöbb is csak pár darab. Az anyaguk fém és fa. A fémek színe pedig barna, hasonlóan a fához.
+A nappaliban van a "legtöbb" dekoráció. De ez a legtöbb is csak néhány darab. Az anyaguk fém és fa. A fémek színe pedig barna, hasonlóan a fához.
 Az azonos dekorokat is hármasával helyeztem el. 
-A szívek, a képkeretek, a gyertyatartók.
+A szíveket, a képkereteket a falon, és a gyertyatartókból is három van.
 A legtöbb kiegészítőt úgy csináltuk. Így biztos, hogy tökéletesen beillenek a designbe, és persze olcsók is.
 
 **A kiegészítő szín**
 
 A barnás-szürkés-drappos lakásba szerettem volna valami egy erősebb színt. Az alapot a sok tégla, és egy gyönyörű patchwork faliszőnyeg adta. A bordópirosra esett a választásom. Remekül élénkíti a földszíneket, viszont nem hivalkodó. Ez a szín végig vonul a házban. 
 
-A mosókonyhában 
 
 ## Átláthatóság
 
 Nem szeretjük a zsúfolt tereket. Szerettem volna megőrizni a lakás tágasságát. 
 Ezt csak úgy sikerült megtartani, hogy folyamatosan "szanálunk". Nem új komódot veszünk, hanem átnézzük a dolgainkat, és amire már nincs szükségünk, attól könyörtelenül megválunk. 
 Ez tökéletesen működik...
-A ruhásszekrényen kívül érdemes a konyhában is válogatni. Ott aztán össze tud gyűlni mindenféle felesleges holmi...
+A ruhásszekrényen kívül érdemes még a konyhában is válogatni. Ott aztán össze tud gyűlni mindenféle felesleges holmi...
 
 
+
+##  Az udvar és a kert
+
+Természetesen itt a hármasság elve volt az irányadó.  
+A bontott tégla az udvaron és a kertben is megjelenik. Fát és kavicsot választottunk mellé, hogy kialakítsuk a hangulatos kinti tereket. Mindegyik természetes anyag. Tökéletesen kiegészítik egymást, és gyönyörű alapot adnak a növényeknek.
 
 ![idézet](/assets/előtte-utána/IMG_20190318_111544jav.jpg)
 
@@ -136,8 +140,7 @@ A ruhásszekrényen kívül érdemes a konyhában is válogatni. Ott aztán öss
 
  
  **+ 1 gondolat:**  
-A kevesebb néha több. Egyszerű, de nagyszerű gondolat!
-
+A kevesebb néha több. Mindenre igaz, érdemes szem előtt tartani...
 
 ## Kapcsolódó cikkek
 
