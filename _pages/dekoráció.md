@@ -41,11 +41,11 @@ Ezek után jött a "Miházunk", és ez lett az a ház, ahol teljes egészében m
 ## Utána nézni, utána olvasni
 
 
-Nem sajnáltam az időt arra, hogy olvassak a hozzáértőktől. Kitűnő blogerrek vannak akik megírják, hogy mire kell figyelni, hogy elkerüljük a káoszt.
+Nem sajnáltam az időt arra, hogy olvassak a hozzáértőktől. Kitűnő blogok vannak ahol leírják mire kell figyelni, hogy elkerüljük a káoszt.
 
 
-Rengeteg hasznos információhoz jutottam hozzá, amiket aztán én is alkalmaztam, mikor el jött az ideje.
-Volt amiben megerősítést kaptam, hogy jó úton vagyok, volt amikor a ráérzésemet alapszabályként láttam viszont. És volt, mikor a mások által mániának mondott dolgaimat is láttam jóként leírva. 
+Rengeteg hasznos információhoz jutottam hozzá, amiket később alkalmaztam is.
+Volt, hogy megerősítést kaptam, hogy jó úton vagyok, volt amikor a ráérzésemet alapszabályként láttam viszont. És volt, mikor a mások által mániának mondott dolgaimat is láttam jóként leírva. 
 
 Sokat tanultam a különböző stílusokról. Képeket nézegettem, inspirálódtam, öteleteket gyűjtöttem. 
 
@@ -62,6 +62,9 @@ Semmiképpen nem akartam túlzásokba esni. Nem akartam giccsessé tenni a házu
 
 Épp ezért szigorúan betartottam a megtanult hármas szabályt. Ez érvenyesült a lakásban, és az udvaron is.
 
+> A hármas szabály alapja a páratlanság. Lehet egy is, de az a legtöbb esetben kevés. És lehet öt is, de az már soknak tűnhet. A három ideális.
+Ugyanúgy mint a vágott virágoknál...
+
 ## Hogy csináltam
 
 A főbb alapanyagoknál, színeknél, mintáknál figyelembe vettem, hogy háromnál többet nem használok. Árnyalatbéli különbségek persze lehetnek, de tartottam magam a szabályhoz.
@@ -73,11 +76,11 @@ egymáshoz.
 
 A harmónia megteremtéséhez az első lépés az volt, hogy az egész házba azonos laminált padlót választottunk. 
 
-Az első, de nagyon jellegzetes dolog nálunk a tégla. Végig vonul a házon, az udvaron, a kertben. Mindehol ott van, és mi imádjuk a hangulatát.
+Az első, de nagyon jellegzetes dolog nálunk a tégla. Végig vonul a házon, az udvaron, a kertben. Mindenhol ott van, és mi imádjuk a hangulatát.
 
 > Sok bontott téglát beépítettünk a házba és a ház körül, erről tervben van egy külön poszt! 
 
-A második felhasznált anyag a fa, csak úgy természetes mivoltában. 
+A második felhasznált anyag a fa. Csak úgy, a természetes mivoltában. 
 A harmadik a fém. Dekorációk, apró kiegészítők formájában  mindenhol megjelenik.
 
 Mindhárom alapanyag nagyon karakteres, "erős" anyag. Kerámiákkal, textilekkel lágyítottam a durvaságukat.
@@ -85,9 +88,9 @@ Mindhárom alapanyag nagyon karakteres, "erős" anyag. Kerámiákkal, textilekke
 
 **Színek**
 
-A falak árnyalatnyi különbségekkel ugyan, de azonos színűek. A konyha nagyon világos vanília, a többi helyiség a fürdő kivételével halvány dohány színű. A tégla és a deszka, mint berendezési elemek eléggé karakteres darabok, ezért igyekeztem semleges hátteret adni nekik.
+A falak árnyalatnyi különbségekkel ugyan, de azonos színűek. A konyha nagyon világos vanília, a többi helyiség a fürdő kivételével halvány dohány színű. A tégla, a deszka, a fém külön-külön is domináns darabok, ezért igyekeztem semleges hátteret adni nekik.
 
-A nappali és a konyha egy légtér, ezér az ottani bútorok színei is passzolnak egymással. 
+A nappali és a konyha egy légtér, ezért az ottani bútorok színei is passzolnak egymással. 
 
 A kanapé "koszos szürke" zsákszövetből van, (elég semmilyen szín) és a szövet sruktúrája remekül passzol a durvább téglához, és deszkákhoz. A világos párnák visszaköszönnek a tapétán és a konyha fal színén, az étkező asztal szürkéje viszont rímel a nappalira.
 És így az egész még a konyhai járólappal is összhangba került.
@@ -109,12 +112,12 @@ Ha csak egy törölközőről van szó akkor is. Lehet bármilyen szép, ha nem 
 Még régebben történt, hogy egy nagymama az unokájának szeretett volna ágynemű garnitúrát vásárolni. Mikor javasoltam, hogy kérdezze meg, milyen szín illik a szobájába, kikérte magának. Van ízlése, tud szépet választani. Persze, ez rendben is van... De képzeljünk el egy barna-krém-narancs szobát lila virágos ágyneművel... 
 
 Nálunk nem csak az ágynemű, és a törölköző, még a konyharuha is passzol színben... Ha már vásárolni kell, akkor miért ne válasszunk olyat ami még inkább tökéletesíti az otthonunkat.
-Nem tudom, hogy ez mánia, vagy igényesség. Ha mánia, azt is vállalom. 
+Nem tudom, hogy ez mánia, vagy igényesség... Ha mánia, azt is vállalom. 
 Apró dolgok, de hatalmas jelentőséggel bírnak.
 
 A nappaliban van a "legtöbb" dekoráció. De ez a legtöbb is csak néhány darab. Az anyaguk fém és fa. A fémek színe pedig barna, hasonlóan a fához.
 Az azonos dekorokat is hármasával helyeztem el. 
-A szíveket, a képkereteket a falon, és a gyertyatartókból is három van.
+A szíveket, a csillagokat, a képkereteket a falon, és a gyertyatartókból is három van.
 A legtöbb kiegészítőt úgy csináltuk. Így biztos, hogy tökéletesen beillenek a designbe, és persze olcsók is.
 
 **A kiegészítő szín**
@@ -123,10 +126,12 @@ A barnás-szürkés-drappos lakásba szerettem volna valami egy erősebb színt.
 
 **Tiltólistán a műanyag**
 
-Nem kedvelem a műanyag a tárgyakat, dekorációkat... Mostanra csak a konyhai keverő tálak maradtak a házban. 
+Személy szerint nem kedvelem a műanyag a tárgyakat, dekorációkat... Mostanra csak a konyhai keverő tálak maradtak a házban. 
 
+Láttam már szépen kidolgozott plasztik dolgokat, és tudom, hogy azokból is lehet hangulatos enteriőrt létrehozni, de a mi házunkba egész egyszerűen nem illik.
+A mi esetünkben a kerámia kiegészítők azok, amikkel a játékosságot behoztam a házba. Szépek, és nem megfizethetetlenek. 
 
-A kerámia kiegészítők összehasonlíthatatlanul szebbek, hangulatosabbak. És nem megfizethetetlenek. Ebben az esteben is érvényes a szín "mániám". Csak olyat választok, ami nem csak önmagában szép, hanem a összeségéban is.
+Ebben az esteben is érvényes a szín "mániám". Csak olyat választok, ami nem csak önmagában szép, hanem a összeségében is.
 
 
 
@@ -135,7 +140,7 @@ A kerámia kiegészítők összehasonlíthatatlanul szebbek, hangulatosabbak. É
 ## Átláthatóság
 
 Nem szeretjük a zsúfolt tereket. Szerettem volna megőrizni a lakás tágasságát. 
-Ezt csak úgy sikerült megtartani, hogy folyamatosan "szanálunk". Nem új komódot veszünk, hanem átnézzük a dolgainkat, és amire már nincs szükségünk, attól könyörtelenül megválunk. 
+Ezt csak úgy sikerült megtartani, hogy folyamatosan "selejtezünk". Nem új komódot veszünk, hanem átnézzük a dolgainkat, és amire már nincs szükségünk, attól könyörtelenül megválunk. 
 Ez tökéletesen működik...
 A ruhásszekrényen kívül érdemes még a konyhában is válogatni. Ott aztán össze tud gyűlni mindenféle felesleges holmi...
 
