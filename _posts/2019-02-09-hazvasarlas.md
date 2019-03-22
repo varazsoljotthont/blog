@@ -30,7 +30,7 @@ A szívemben már hosszú ideje őrizgettem a képet, hogy milyen lesz a házunk
 > ...ha lehunytam a szemem, láttam magam előtt... Fehér falak, zöld ablakok, muskátli, napfény, méhecskék, illatok...
 
 
-Éreztem, ha megtaláljuk, igazi otthonná tudjuk alakítani és olyan lesz, ahova mindennap örömmel érkezünk haza.
+Éreztem, ha megtaláljuk igazi otthonná tudjuk alakítani, és olyan lesz ahova mindennap örömmel érkezünk haza.
 
 ![csoda szép parasztház](/assets/hazvasarlas/1jav2.png)
 _Hangulatos parasztház (Forrás: Pinterest)_
