@@ -205,7 +205,7 @@ A ruhásszekrényen kívül érdemes még a konyhában is válogatni. Ott tud az
 
 ##  Az udvar és a kert
 
-Természetesen itt a hármasság elve volt az irányadó.  
+Természetesen itt is a hármasság elve volt az irányadó.  
 A bontott tégla az udvaron és a kertben is megjelenik. Fát és kavicsot választottunk mellé, hogy kialakítsuk a hangulatos kinti tereket. Mindegyik természetes anyag. Tökéletesen kiegészítik egymást, és gyönyörű alapot adnak a növényeknek.
 
 
