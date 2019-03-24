@@ -25,9 +25,7 @@ A festés után a falak, és a még betonos helyiségek kontrasztja hatalmasnak 
 
 A belső átalakítás utolsó nagy feladata várt ránk.  
 
-A ház felújításától kezdve foglalkoztatott, hogy milyen legyen a ház burkolata. Sok ötletem volt, de egy dologban teljesen biztos voltam.
-  
-Semmiképpen nem akartam az éppen divatos járólapot, laminált padlót választani. 
+A ház felújításától kezdve foglalkoztatott, hogy milyen legyen a ház burkolata. Sok ötletem volt, de egy dologban teljesen biztos voltam: semmiképpen nem akartam az éppen divatos járólapot, laminált padlót választani. 
 
 Nem kedvelem, mikor valamiről ránézésre meg lehet állapítani, hogy mikor készült, mert a stílus jegyek annyira árulkodóak.  
 Sokkal inkább nekem való az időtálló divat, amiről nem lehet eldönteni, hogy mostani trend, vagy éppen 10 éves.
