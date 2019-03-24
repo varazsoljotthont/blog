@@ -105,6 +105,8 @@ Az első, de nagyon jellegzetes dolog nálunk a tégla. Végig vonul a házon, a
 > Sok bontott téglát beépítettünk a házba és a ház körül, erről tervben van egy külön poszt! 
 
 A második felhasznált anyag a fa. Csak úgy, a természetes mivoltában. 
+
+
 A harmadik a fém. Dekorációk, apró kiegészítők formájában  mindenhol megjelenik.
 
 ![nappali](/assets/dekoráció/IMG_20190324_114520.jpg)
@@ -152,12 +154,16 @@ Apró dolgok, de hatalmas jelentőséggel bírnak.
 
 A nappaliban van a "legtöbb" dekoráció. De ez a legtöbb is csak néhány darab. Az anyaguk fém és fa. A fémek színe pedig barna, hasonlóan a fához.
 
-![nappali](/assets/dekoráció/IMG_20190321_121003.jpg)
+
+![nappali](/assets/dekoráció/IMG_20190321_120601.jpg)
 _Természetes hatású, saját készítésű dekorációk_
 
 
+![nappali](/assets/dekoráció/IMG_20190321_121003.jpg)
 
-![nappali](/assets/dekoráció/IMG_20190321_120601.jpg)
+
+
+
 
 Az azonos dekorokat is hármasával helyeztem el. 
 A szíveket, a csillagokat, a képkereteket a falon, és a gyertyatartókból is három van.
@@ -219,12 +225,15 @@ A kevesebb néha több. Mindenre igaz, érdemes szem előtt tartani...
 
 
 
-* [Régi varrógép új élete!](/2019-02-12/varrogepasztal)
-* [Faljavítás itt, falazás ott!](/2019-02-18/afalak)
-* [Életre kelnek a falak](/2019-03-01/színesfalak)
+* [A Miházunk átváltozása](/2019-03-20/költözés)
 * [Eltűnt a beton, avagy burkolatok a házban](/2019-03-13/burkolatok)
- 
+* [Életre kelnek a falak](/2019-03-01/színesfalak)
+* [Faljavítás itt, falazás ott!](/2019-02-18/afalak)
 
+
+
+
+ 
 
 
 
