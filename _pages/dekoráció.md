@@ -105,7 +105,7 @@ Az első, de nagyon jellegzetes dolog nálunk a tégla. Végig vonul a házon, a
 A második felhasznált anyag a fa. Csak úgy, a természetes mivoltában. 
 A harmadik a fém. Dekorációk, apró kiegészítők formájában  mindenhol megjelenik.
 
-![nappali](/assets/dekoráció/IMG_20190321_122555.jpg)
+![nappali](/assets/dekoráció/IMG_20190324_114520.jpg)
 _Fa, tégla, és a fémdekorok a nappaliban_
 
 Mindhárom alapanyag nagyon karakteres, "erős" anyag. Kerámiákkal, textilekkel lágyítottam a durvaságukat.
@@ -134,13 +134,18 @@ Sosem veszek meg valamit csak azért, mert tetszik. Eleve azok között nézeget
 Ez mindenre igaz...
 Ha csak egy törölközőről van szó akkor is. Lehet bármilyen szép, ha nem való a "Miházunkba" marad az üzletben...
 
-Még régebben történt, hogy egy nagymama az unokájának szeretett volna ágynemű garnitúrát vásárolni. Mikor javasoltam, hogy kérdezze meg, milyen szín illik a szobájába, kikérte magának. Van ízlése, tud szépet választani. Persze, ez rendben is van... De képzeljünk el egy barna-krém-narancs szobát lila virágos ágyneművel... 
+> Még régebben történt, hogy egy nagymama az unokájának szeretett volna ágynemű garnitúrát vásárolni. Mikor javasoltam, hogy kérdezze meg, milyen szín illik a szobájába, kikérte magának. Van ízlése, tud szépet választani. Persze, ez rendben is van... De képzeljünk el egy barna-krém-zöld szobát lila virágos ágyneművel... 
 
 Nálunk nem csak az ágynemű, és a törölköző, még a konyharuha is passzol színben... Ha már vásárolni kell, akkor miért ne válasszunk olyat ami még inkább tökéletesíti az otthonunkat.
 Nem tudom, hogy ez mánia, vagy igényesség... Ha mánia, azt is vállalom. 
 Apró dolgok, de hatalmas jelentőséggel bírnak.
 
 A nappaliban van a "legtöbb" dekoráció. De ez a legtöbb is csak néhány darab. Az anyaguk fém és fa. A fémek színe pedig barna, hasonlóan a fához.
+
+![nappali](/assets/dekoráció/IMG_20190321_121003.jpg)
+
+![nappali](/assets/dekoráció/IMG_20190321_120601.jpg)
+
 Az azonos dekorokat is hármasával helyeztem el. 
 A szíveket, a csillagokat, a képkereteket a falon, és a gyertyatartókból is három van.
 A legtöbb kiegészítőt úgy csináltuk. Így biztos, hogy tökéletesen beillenek a designbe, és persze olcsók is.
