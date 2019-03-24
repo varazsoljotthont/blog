@@ -85,7 +85,7 @@ Semmiképpen nem akartam túlzásokba esni. Nem akartam giccsessé tenni a házu
 Ugyanúgy mint a vágott virágoknál...
 
 
-![nappali](/assets/dekoráció/IMG_20190324_114520.jpg)
+![nappali](/assets/dekoráció/IMG_20190321_122555.jpg)
 
 ## Hogy csináltam
 
@@ -105,7 +105,7 @@ Az első, de nagyon jellegzetes dolog nálunk a tégla. Végig vonul a házon, a
 A második felhasznált anyag a fa. Csak úgy, a természetes mivoltában. 
 A harmadik a fém. Dekorációk, apró kiegészítők formájában  mindenhol megjelenik.
 
-![nappali](/assets/dekoráció/IMG_20190324_114520.jpg)
+![nappali](/assets/dekoráció/IMG_20190321_122555.jpg)
 _Fa, tégla, és a fémdekorok a nappaliban_
 
 Mindhárom alapanyag nagyon karakteres, "erős" anyag. Kerámiákkal, textilekkel lágyítottam a durvaságukat.
@@ -176,7 +176,7 @@ A ruhásszekrényen kívül érdemes még a konyhában is válogatni. Ott aztán
 Természetesen itt a hármasság elve volt az irányadó.  
 A bontott tégla az udvaron és a kertben is megjelenik. Fát és kavicsot választottunk mellé, hogy kialakítsuk a hangulatos kinti tereket. Mindegyik természetes anyag. Tökéletesen kiegészítik egymást, és gyönyörű alapot adnak a növényeknek.
 
-![idézet](/assets/előtte-utána/IMG_20190318_111544jav.jpg)
+![udvar](/assets/dekoráció/IMG_20190324_161813.jpg)
 
 
 
