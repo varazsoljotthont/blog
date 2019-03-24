@@ -197,7 +197,7 @@ A bontott tégla az udvaron és a kertben is megjelenik. Fát és kavicsot vála
 
 
 ![udvar](/assets/dekoráció/javudvar.jpg)
-_Az udvar. Idei feladat lesz az újra füvesítés_
+_Az udvar. A tégla, a fa és a kavics remekül összeillik. A füvesítés idei feladat lesz_
 
 
 
