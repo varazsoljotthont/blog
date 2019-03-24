@@ -191,7 +191,7 @@ A bontott tégla az udvaron és a kertben is megjelenik. Fát és kavicsot vála
 
 
 
-![udvar](/assets/dekoráció/IMG_20190324_161813.jpg)
+![udvar](/assets/dekoráció/javudvar.jpg)
 
 
 
