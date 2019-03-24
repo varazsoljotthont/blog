@@ -144,6 +144,8 @@ A nappaliban van a "legtöbb" dekoráció. De ez a legtöbb is csak néhány dar
 
 ![nappali](/assets/dekoráció/IMG_20190321_121003.jpg)
 
+
+
 ![nappali](/assets/dekoráció/IMG_20190321_120601.jpg)
 
 Az azonos dekorokat is hármasával helyeztem el. 
@@ -160,6 +162,11 @@ Személy szerint nem kedvelem a műanyag a tárgyakat, dekorációkat... Mostanr
 
 Láttam már szépen kidolgozott plasztik dolgokat, és tudom, hogy azokból is lehet hangulatos enteriőrt létrehozni, de a mi házunkba egész egyszerűen nem illik.
 A mi esetünkben a kerámia kiegészítők azok, amikkel a játékosságot behoztam a házba. Szépek, és nem megfizethetetlenek. 
+
+![nappali](/assets/dekoráció/IMG_20190324_162203.jpg)
+
+![nappali](/assets/dekoráció/IMG_20190321_115642.jpg)
+
 
 Ebben az esteben is érvényes a szín "mániám". Csak olyat választok, ami nem csak önmagában szép, hanem a összeségében is.
 
@@ -180,6 +187,9 @@ A ruhásszekrényen kívül érdemes még a konyhában is válogatni. Ott aztán
 
 Természetesen itt a hármasság elve volt az irányadó.  
 A bontott tégla az udvaron és a kertben is megjelenik. Fát és kavicsot választottunk mellé, hogy kialakítsuk a hangulatos kinti tereket. Mindegyik természetes anyag. Tökéletesen kiegészítik egymást, és gyönyörű alapot adnak a növényeknek.
+
+
+
 
 ![udvar](/assets/dekoráció/IMG_20190324_161813.jpg)
 
