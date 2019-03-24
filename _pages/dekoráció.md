@@ -9,7 +9,7 @@ image:
   width: 300
 ---
 
-**Az otthonunk hangulata a berendezésen, a dekoráción is múlik. Jól megcsinálni nem ördögtől való feladat. Nem kell szakembernek lenni ahhoz, hogy a környezetünk olyan hellyé váljon ahová jó hazaérkezni.**
+**Az otthonunk hangulata a berendezésen, a dekoráción is múlik. Jól megcsinálni nem ördögtől való feladat. Nem kell szakembernek lenni ahhoz, hogy a környezetünk olyan hellyé váljon, ahová jó hazaérkezni.**
 
 
 
@@ -20,7 +20,7 @@ image:
 Épp ezért nem volt mindegy, hogy milyen anyagokat, színeket, formákat választunk magunk köré.
 
 
-Férjem rám bízta a teljes lakberendezést, de egy dologban megegyeztünk: Nem költünk sokat!
+Férjem rám bízta a teljes lakberendezést, de egy dologban megegyeztünk: nem költünk sokat!
 
 A ház hangulatáról volt egy kép a szemem előtt... 
 
