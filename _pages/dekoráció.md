@@ -45,7 +45,7 @@ Ezek után jött a "Miházunk", és ez lett az a ház, ahol teljes egészében m
 
 
 ![udvar](/assets/dekoráció/IMG_20190322_172336.jpg)
-_Udvarunk a köcsögfával_
+_Udvarunk a köcsögfával, és még a felújításra váró tetővel_
 
 
 
@@ -86,6 +86,7 @@ Ugyanúgy mint a vágott virágoknál...
 
 
 ![nappali](/assets/dekoráció/IMG_20190321_122555.jpg)
+_Három gyertya, három kép a falon_
 
 ## Hogy csináltam
 
@@ -143,6 +144,7 @@ Apró dolgok, de hatalmas jelentőséggel bírnak.
 A nappaliban van a "legtöbb" dekoráció. De ez a legtöbb is csak néhány darab. Az anyaguk fém és fa. A fémek színe pedig barna, hasonlóan a fához.
 
 ![nappali](/assets/dekoráció/IMG_20190321_121003.jpg)
+_Természetes hatású, saját készítésű dekorációk_
 
 
 
@@ -164,8 +166,11 @@ Láttam már szépen kidolgozott plasztik dolgokat, és tudom, hogy azokból is 
 A mi esetünkben a kerámia kiegészítők azok, amikkel a játékosságot behoztam a házba. Szépek, és nem megfizethetetlenek. 
 
 ![nappali](/assets/dekoráció/IMG_20190324_162203.jpg)
+_Nagy kedvencek a kerámia virágok_
+
 
 ![nappali](/assets/dekoráció/IMG_20190321_115642.jpg)
+_A hétköznapokon is ebből isszuk a kávénkat_
 
 
 Ebben az esteben is érvényes a szín "mániám". Csak olyat választok, ami nem csak önmagában szép, hanem a összeségében is.
@@ -192,6 +197,7 @@ A bontott tégla az udvaron és a kertben is megjelenik. Fát és kavicsot vála
 
 
 ![udvar](/assets/dekoráció/javudvar.jpg)
+_Az udvar. Idei feladat lesz az újra füvesítés_
 
 
 
