@@ -2,9 +2,9 @@
 layout: post
 title: "Az otthon hangulata" 
 permalink: /dekoráció/
-cover: /assets/előtte-utána/cover.JPG
+cover: /assets/dekoráció/cover.jpg
 image:
-  path: /assets/előtte-utána/cover.JPG
+  path: /assets/előtte-utána/cover.jpg
   height: 300
   width: 300
 ---
@@ -32,7 +32,12 @@ A ház hangulatáról volt egy kép a szemem előtt...
 * Ne legyen zsúfolt
 * ... és semmiképpen ne legyen benne műanyag!
 
-Nem vagyok lakberendező, mégcsak hasonlót sem tanultam. Valami féle "ráérzés" van bennem, hogy miként lehet harmóniát teremteni magunk körül. Az életem úgy alakult, hogy az elmúlt pár évben be kellett rendeznem egy-két házat otthonomnak. Volt köztük 100 m2-es, volt lakótelepi lakás, és volt egy nagyon pici kis garzonszerűség is. 
+![tulipán](/assets/dekoráció/IMG_20190324_190410.jpg)
+
+
+
+
+Nem vagyok lakberendező, mégcsak hasonlót sem tanultam. Valami féle "ráérzés" van bennem, hogy miként lehet harmóniát teremteni magunk körül. Az életem úgy alakult, hogy az elmúlt években be kellett rendeznem egy-két házat otthonomnak. Volt köztük 100 m2-es, volt lakótelepi lakás, és volt egy nagyon pici kis garzonszerűség is. 
 
 Mindegyik más stílusú volt, és a visszajelzések minden esetben azt mutatták, hogy jól sikerültek. 
 
@@ -64,6 +69,9 @@ Semmiképpen nem akartam túlzásokba esni. Nem akartam giccsessé tenni a házu
 
 > A hármas szabály alapja a páratlanság. Lehet egy is, de az a legtöbb esetben kevés. És lehet öt is, de az már soknak tűnhet. A három ideális.
 Ugyanúgy mint a vágott virágoknál...
+
+
+![tányérok](/assets/dekoráció/IMG_20190324_114520.jpg)
 
 ## Hogy csináltam
 
