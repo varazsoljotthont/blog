@@ -37,7 +37,7 @@ A ház hangulatáról volt egy kép a szemem előtt...
 
 
 
-Nem vagyok lakberendező, mégcsak hasonlót sem tanultam. Valami féle "ráérzés" van bennem, hogy miként lehet harmóniát teremteni magunk körül. Az életem úgy alakult, hogy az elmúlt években be kellett rendeznem egy-két házat otthonomnak. Volt köztük 100 m2-es, volt lakótelepi lakás, és volt egy nagyon pici kis garzonszerűség is. 
+Nem vagyok lakberendező, mégcsak hasonlót sem tanultam. Valamiféle "ráérzés" van bennem, hogy miként lehet harmóniát teremteni magunk körül. Az életem úgy alakult, hogy az elmúlt években be kellett rendeznem egy-két házat otthonomnak. Volt köztük 100 m2-es, volt lakótelepi lakás, és volt egy nagyon pici kis garzonszerűség is. 
 
 Mindegyik más stílusú volt, és a visszajelzések minden esetben azt mutatták, hogy jól sikerültek. 
 
@@ -45,7 +45,7 @@ Ezek után jött a "Miházunk", és ez lett az a ház, ahol teljes egészében m
 
 
 ![udvar](/assets/dekoráció/IMG_20190322_172336.jpg)
-_Udvarunk a köcsögfával, és még a felújításra váró tetővel_
+_Udvarunk a köcsögfával, és még a felújításra váró háztetővel_
 
 
 
@@ -74,7 +74,8 @@ De ezt úgy akartuk megvalósítani, hogy legyen benne valami plusz, valami izga
 Semmiképpen nem akartam túlzásokba esni. Nem akartam giccsessé tenni a házunkat. 
 
 
-
+![lámpa](/assets/dekoráció/IMG_20190323_065636_797.jpg)
+_Fém lámpa, vasalat, tégla, deszkaajtó, és egy kis natur húsvéti dekoráció_
 
 
 
@@ -118,15 +119,23 @@ A falak árnyalatnyi különbségekkel ugyan, de azonos színűek. A konyha nagy
 
 A nappali és a konyha egy légtér, ezért az ottani bútorok színei is passzolnak egymással. 
 
-A kanapé "koszos szürke" zsákszövetből van, (elég semmilyen szín) és a szövet sruktúrája remekül passzol a durvább téglához, és deszkákhoz. A világos párnák visszaköszönnek a tapétán és a konyha fal színén, az étkező asztal szürkéje viszont rímel a nappalira.
+A kanapé "koszos szürke" zsákszövetből van, (elég semmilyen szín) és a szövet sruktúrája remekül passzol a durvább téglához, és deszkához. A világos párnák visszaköszönnek a tapétán és a konyha fal színén, az étkező asztal szürkéje viszont rímel a nappalira.
 És így az egész még a konyhai járólappal is összhangba került.
 
 
 ## Kiegészítők, dekorációk
 
 A dekorok, kiegészítők beszerzése folyamatosan történt. 
-Kivártam. 
+
+
+Kivártam...
+
+![nappali](/assets/dekoráció/IMG_20190321_122348.jpg)
+
 Előbb-utóbb megéreztem, hogy mi illik az adott helyre. 
+
+
+
 
 Főleg ezeknél használtam a saját szabályomat... 
 
@@ -156,13 +165,13 @@ A legtöbb kiegészítőt úgy csináltuk. Így biztos, hogy tökéletesen beill
 
 **A kiegészítő szín**
 
-A barnás-szürkés-drappos lakásba szerettem volna valami egy erősebb színt. Az alapot a sok tégla, és egy gyönyörű patchwork faliszőnyeg adta. A bordópirosra esett a választásom. Remekül élénkíti a földszíneket, viszont nem hivalkodó. Ez a szín végig vonul a házban. 
+A barnás-szürkés-drappos lakásba szerettem volna egy erősebb színt. Az alapot a sok tégla, és egy gyönyörű patchwork faliszőnyeg adta. A bordópirosra esett a választásom. Remekül élénkíti a földszíneket, viszont nem hivalkodó. Ez a szín végig vonul a házban. 
 
 **Tiltólistán a műanyag**
 
 Személy szerint nem kedvelem a műanyag a tárgyakat, dekorációkat... Mostanra csak a konyhai keverő tálak maradtak a házban. 
 
-Láttam már szépen kidolgozott plasztik dolgokat, és tudom, hogy azokból is lehet hangulatos enteriőrt létrehozni, de a mi házunkba egész egyszerűen nem illik.
+Láttam már szépen kidolgozott plasztik dolgokat, és tudom, hogy azokból is lehet hangulatos enteriőrt létrehozni. De a mi házunkba egész egyszerűen nem illik.
 A mi esetünkben a kerámia kiegészítők azok, amikkel a játékosságot behoztam a házba. Szépek, és nem megfizethetetlenek. 
 
 ![nappali](/assets/dekoráció/IMG_20190324_162203.jpg)
@@ -184,7 +193,7 @@ Ebben az esteben is érvényes a szín "mániám". Csak olyat választok, ami ne
 Nem szeretjük a zsúfolt tereket. Szerettem volna megőrizni a lakás tágasságát. 
 Ezt csak úgy sikerült megtartani, hogy folyamatosan "selejtezünk". Nem új komódot veszünk, hanem átnézzük a dolgainkat, és amire már nincs szükségünk, attól könyörtelenül megválunk. 
 Ez tökéletesen működik...
-A ruhásszekrényen kívül érdemes még a konyhában is válogatni. Ott aztán össze tud gyűlni mindenféle felesleges holmi...
+A ruhásszekrényen kívül érdemes még a konyhában is válogatni. Ott tud aztán összegyűlni mindenféle felesleges holmi...
 
 
 
