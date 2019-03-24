@@ -72,7 +72,7 @@ Semleges szín, semleges felület, ez volt a cél.
 
 
 
-Mint minden kőműves munkát, a burkolásokat is a férjem csinálta meg.  
+Mint minden kőműves munkát, a csempézést is a férjem csinálta meg.  
 Kimérte a magasságot, majd bekarcolta a falat, hogy a ragasztó jobban tapadjon. Alulra felcsavarozott egy lécet, hogy a frissen felragasztott csempe le ne csússzon és elkezdte a munkát. 
 
 
