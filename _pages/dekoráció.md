@@ -43,6 +43,13 @@ Mindegyik más stílusú volt, és a visszajelzések minden esetben azt mutattá
 
 Ezek után jött a "Miházunk", és ez lett az a ház, ahol teljes egészében meg tudtam valósítani a vágyaimat.
 
+
+![udvar](/assets/dekoráció/IMG_20190322_172336.jpg)
+_Udvarunk a köcsögfával_
+
+
+
+
 ## Utána nézni, utána olvasni
 
 
@@ -59,11 +66,18 @@ Sokat tanultam a különböző stílusokról. Képeket nézegettem, inspirálód
 
 ## Választás
 
+
 A parasztházas stílus mellett döntöttünk.
 
 De ezt úgy akartuk megvalósítani, hogy legyen benne valami plusz, valami izgalmas.
 
 Semmiképpen nem akartam túlzásokba esni. Nem akartam giccsessé tenni a házunkat. 
+
+
+
+
+
+
 
 Épp ezért szigorúan betartottam a megtanult hármas szabályt. Ez érvenyesült a lakásban, és az udvaron is.
 
@@ -71,8 +85,7 @@ Semmiképpen nem akartam túlzásokba esni. Nem akartam giccsessé tenni a házu
 Ugyanúgy mint a vágott virágoknál...
 
 
-![gyertya](/assets/dekoráció/IMG_20190321_122555.jpg)
-_ Három a gyertya, a kép..._
+![nappali](/assets/dekoráció/IMG_20190324_114520.jpg)
 
 ## Hogy csináltam
 
@@ -93,6 +106,7 @@ A második felhasznált anyag a fa. Csak úgy, a természetes mivoltában.
 A harmadik a fém. Dekorációk, apró kiegészítők formájában  mindenhol megjelenik.
 
 ![nappali](/assets/dekoráció/IMG_20190324_114520.jpg)
+_Fa, tégla, és a fémdekorok a nappaliban_
 
 Mindhárom alapanyag nagyon karakteres, "erős" anyag. Kerámiákkal, textilekkel lágyítottam a durvaságukat.
 
