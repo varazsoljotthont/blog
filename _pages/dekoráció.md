@@ -71,7 +71,8 @@ Semmiképpen nem akartam túlzásokba esni. Nem akartam giccsessé tenni a házu
 Ugyanúgy mint a vágott virágoknál...
 
 
-![tányérok](/assets/dekoráció/IMG_20190324_114520.jpg)
+![gyertya](/assets/dekoráció/IMG_20190321_122555.jpg)
+_ Három a gyertya, a kép..._
 
 ## Hogy csináltam
 
@@ -90,6 +91,8 @@ Az első, de nagyon jellegzetes dolog nálunk a tégla. Végig vonul a házon, a
 
 A második felhasznált anyag a fa. Csak úgy, a természetes mivoltában. 
 A harmadik a fém. Dekorációk, apró kiegészítők formájában  mindenhol megjelenik.
+
+![nappali](/assets/dekoráció/IMG_20190324_114520.jpg)
 
 Mindhárom alapanyag nagyon karakteres, "erős" anyag. Kerámiákkal, textilekkel lágyítottam a durvaságukat.
 
