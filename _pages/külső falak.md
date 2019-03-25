@@ -23,7 +23,7 @@ Hangulatos lett, és mi örömmel érkeztünk haza mindennap.
 Sivárság, hatalmas törmelék "hegy", hiányzó vakolatok, rozsdás kapu...
 
 
-![dekor](/assets/külső falak/IMG_20190325_174253.jpg)
+![lámpás](/assets/külső falak/IMG_20190325_174253.jpg)
 
 
 
