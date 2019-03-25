@@ -75,7 +75,7 @@ Semmiképpen nem akartam túlzásokba esni. Nem akartam giccsessé tenni a házu
 
 
 ![lámpa](/assets/dekoráció/IMG_20190323_065636_797.jpg)
-_Fém lámpa, vasalat,korlát, tégla, deszkaajtó, és egy kis natur húsvéti dekoráció_
+_Fém lámpa, vasalat, korlát, tégla, deszkaajtó, és egy kis natur húsvéti dekoráció_
 
 
 
