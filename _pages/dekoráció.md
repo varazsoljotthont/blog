@@ -110,7 +110,7 @@ A második felhasznált anyag a fa. Csak úgy, a természetes mivoltában.
 A harmadik a fém. Dekorációk, apró kiegészítők formájában  mindenhol megjelenik.
 
 ![nappali](/assets/dekoráció/IMG_20190325_175636.jpg)
-_Fa, tégla, és a fémdekorok a nappaliban_
+_Fa, tégla, és a fém kiegészítők a nappaliban_
 
 Mindhárom alapanyag nagyon karakteres, "erős" anyag. Kerámiákkal, textilekkel lágyítottam a durvaságukat.
 
