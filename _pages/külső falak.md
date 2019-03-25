@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Itt az ideje a  csinosításnak" 
+title: "Itt az ideje a csinosításnak" 
 permalink: /külső falak/
 cover: /assets/külső falak/cover.jpg
 image:
@@ -9,28 +9,19 @@ image:
   width: 300
 ---
 
-**A házfelújítás során csak a lakótérre fókuszáltunk, hogy ott mindennel elkészüljünk. Nem volt kapacitásunk sem az udvarra, sem a ház külsejére... De nem lehetett nem észrevenni, hogy milyen "lepusztult" körülöttünk minden. A feladatok adottak voltak, a keretek továbbra is szűkösek, így megint csak ketten kezdtük el a munkálatokat.**
+**A házfelújítás során csak a lakótérre fókuszáltunk. Nem volt kapacitásunk sem az udvarra, sem a ház külsejére... De nem lehetett nem észrevenni, hogy milyen "lepusztult" körülöttünk minden. A feladatok adottak voltak, a keretek továbbra is szűkösek, így megint csak ketten kezdtük el a munkálatokat.**
 
 
 
 ## Bárhová nézünk, munkát látunk
 
-A ház lakótere elkészült, és mi 2014.02.28-án beköltöztünk. 
-
-Nagyon tetszett, ahogy felújítottuk.  
+A ház lakótere elkészült, és nagyon tetszett ahogy felújítottuk.  
 Hangulatos lett, és mi örömmel érkeztünk haza mindennap.
 
-...de ahogy megérkeztünk a ház elé és az udvarra beléptünk, szánalmas volt a látvány...
+...de ahogy megérkeztünk a ház elé és beléptünk az udvarra, szánalmas volt a látvány...
 
-Sivár udvar, hatalmas törmelék "hegy", hiányzó vakolatok...
+Sivárság, hatalmas törmelék "hegy", hiányzó vakolatok, rozsdás kapu...
 
-* Legyen vidékies, de ne nagyon
-* Legyen "ütős" de mégse legyen hivalkodó
-* Legyen természetes 
-* Legyen benne az egyéniségünk
-* Legyen összhangban minden-mindennel
-* Ne legyen zsúfolt
-* ... és semmiképpen ne legyen benne műanyag!
 
 ![tulipán](/assets/dekoráció/IMG_20190324_190410.jpg)
 
