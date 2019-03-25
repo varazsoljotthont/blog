@@ -44,8 +44,8 @@ Mindegyik más stílusú volt, és a visszajelzések minden esetben azt mutattá
 Ezek után jött a "Miházunk", és ez lett az a ház, ahol teljes egészében meg tudtam valósítani a vágyaimat.
 
 
-![udvar](/assets/dekoráció/IMG_20190322_172336.jpg)
-_Udvarunk a köcsögfával, és még a felújításra váró háztetővel_
+![udvar](/assets/dekoráció/IMG_20190325_170640.jpg)
+_Sok apró részlet, és a felújításra váró tető_
 
 
 
