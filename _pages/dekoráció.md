@@ -109,7 +109,7 @@ A második felhasznált anyag a fa. Csak úgy, a természetes mivoltában.
 
 A harmadik a fém. Dekorációk, apró kiegészítők formájában  mindenhol megjelenik.
 
-![nappali](/assets/dekoráció/IMG_20190324_114520.jpg)
+![nappali](/assets/dekoráció/IMG_20190325_175636.jpg)
 _Fa, tégla, és a fémdekorok a nappaliban_
 
 Mindhárom alapanyag nagyon karakteres, "erős" anyag. Kerámiákkal, textilekkel lágyítottam a durvaságukat.
@@ -184,8 +184,8 @@ A mi esetünkben a kerámia kiegészítők azok, amikkel a játékosságot behoz
 _Nagy kedvencek a kerámia virágok_
 
 
-![nappali](/assets/dekoráció/IMG_20190321_115642.jpg)
-_A hétköznapokon is ebből isszuk a kávénkat_
+![nappali](/assets/dekoráció/IMG_20190325_181056.jpg)
+_A hétköznapokon is ilyen szépből isszuk a kávénkat _
 
 
 Ebben az esteben is érvényes a szín "mániám". Csak olyat választok, ami nem csak önmagában szép, hanem a összeségében is.
