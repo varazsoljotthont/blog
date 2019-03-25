@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Itt az idejea  csinosításnak" 
+title: "Itt az ideje a  csinosításnak" 
 permalink: /külső falak/
 cover: /assets/külső falak/cover.jpg
 image:
@@ -9,20 +9,20 @@ image:
   width: 300
 ---
 
-**Az otthonunk hangulata a berendezésen, a dekoráción is múlik. Jól megcsinálni nem ördögtől való feladat. Nem kell szakembernek lenni ahhoz, hogy a környezetünk olyan hellyé váljon, ahová jó hazaérkezni.**
+**A házfelújítás során csak a lakótérre fókuszáltunk, hogy ott mindennel elkészüljünk. Nem volt kapacitásunk sem az udvarra, sem a ház külsejére... De nem lehetett nem észrevenni, hogy milyen "lepusztult" körülöttünk minden. A feladatok adottak voltak, a keretek továbbra is szűkösek, így megint csak ketten kezdtük el a munkálatokat.**
 
 
 
-## Nem vagyok belsőépítész, lakberendező
+## Bárhová nézünk, munkát látunk
 
-... csak szeretem-szeretjük a házunkat!
+A ház lakótere elkészült, és mi 2014.02.28-án beköltöztünk. 
 
-Épp ezért nem volt mindegy, hogy milyen anyagokat, színeket, formákat választunk magunk köré.
+Nagyon tetszett, ahogy felújítottuk.  
+Hangulatos lett, és mi örömmel érkeztünk haza mindennap.
 
+...de ahogy megérkeztünk a ház elé és az udvarra beléptünk, szánalmas volt a látvány...
 
-Férjem rám bízta a teljes lakberendezést, de egy dologban megegyeztünk: nem költünk sokat!
-
-A ház hangulatáról volt egy kép a szemem előtt... 
+Sivár udvar, hatalmas törmelék "hegy", hiányzó vakolatok...
 
 * Legyen vidékies, de ne nagyon
 * Legyen "ütős" de mégse legyen hivalkodó
