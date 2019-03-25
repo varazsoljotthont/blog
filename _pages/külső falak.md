@@ -9,18 +9,20 @@ image:
   width: 300
 ---
 
-**A házfelújítás során csak a lakótérre fókuszáltunk. Nem volt kapacitásunk sem az udvarra, sem a ház külsejére... De nem lehetett nem észrevenni, hogy milyen "lepusztult" körülöttünk minden. A feladatok adottak voltak, a keretek továbbra is szűkösek, így megint csak ketten kezdtük el a munkálatokat.**
+**A házfelújítás során, az idő rövidsége miatt csak a lakótérre fókuszáltunk. Nem volt kapacitásunk sem az udvarra, sem a ház külsejére... De nem lehetett nem észrevenni, hogy milyen "lepusztult" körülöttünk minden. Kisebb-nagyobb munkák vártak ránk, hisz továbbra is tartottuk magunkat ahhoz, hogy nem fizetünk azért, amit mi is el tudunk végezni. 
 
 
 
 ## Bárhová nézünk, munkát látunk
 
 A ház lakótere elkészült, és nagyon tetszett ahogy felújítottuk.  
-Hangulatos lett, és mi örömmel érkeztünk haza mindennap.
+Olyan lett, ahova munka után örömmel érkeztünk haza.
 
 ...de ahogy megérkeztünk a ház elé és beléptünk az udvarra, szánalmas volt a látvány...
 
-Sivárság, hatalmas törmelék "hegy", hiányzó vakolatok, rozsdás kapu...
+Sivárság, hatalmas törmelék "hegy", hiányzó vakolatok, rozsdás kapu... Bármerre néztünk, minden segítségért kiáltott.
+
+Az időjárás nekünk kedvezett, (benne jártunk a tavaszban) 
 
 
 ![lámpás](/assets/külső-falak/IMG_20190325_174253.jpg)
