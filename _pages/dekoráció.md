@@ -4,7 +4,7 @@ title: "Az otthon hangulata"
 permalink: /dekoráció/
 cover: /assets/dekoráció/cover.jpg
 image:
-  path: /assets/előtte-utána/cover.jpg
+  path: /assets/dekoráció/cover.jpg
   height: 300
   width: 300
 ---
