@@ -185,7 +185,7 @@ _Nagy kedvencek a kerámia virágok_
 
 
 ![nappali](/assets/dekoráció/IMG_20190325_181056.jpg)
-_A hétköznapokon is ilyen szépből isszuk a kávénkat _
+_A hétköznapokon is ilyen szépből isszuk a kávénkat_
 
 
 Ebben az esteben is érvényes a szín "mániám". Csak olyat választok, ami nem csak önmagában szép, hanem a összeségében is.
