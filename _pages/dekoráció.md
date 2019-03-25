@@ -94,7 +94,8 @@ _Három gyertya, három kép a falon_
 A főbb alapanyagoknál, színeknél, mintáknál figyelembe vettem, hogy háromnál többet nem használok. Árnyalatbéli különbségek persze lehetnek, de tartottam magam a szabályhoz.
 
 Nem csak arra figyeltem oda, hogy egy-egy helyiség "rendben legyen", hanem arra is, hogy a különböző helyiségek is passzoljanak 
-egymáshoz.
+egymáshoz. 
+
 
 **Alapanyagok**
 
