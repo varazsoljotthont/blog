@@ -101,7 +101,7 @@ egymáshoz.
 
 A harmónia megteremtéséhez az első lépés az volt, hogy az egész házba azonos laminált padlót választottunk. 
 
-Az első, de nagyon jellegzetes dolog nálunk a tégla. Végig vonul a házon, az udvaron, a kertben. Mindenhol ott van, és mi imádjuk a hangulatát.
+A felhasznált anyagok közül, nagyon jellegzetes dolog nálunk a tégla. Végig vonul a házon, az udvaron, a kertben. Mindenhol ott van, és mi imádjuk a hangulatát.
 
 > Sok bontott téglát beépítettünk a házba és a ház körül, erről tervben van egy külön poszt! 
 
