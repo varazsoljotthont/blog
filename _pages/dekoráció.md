@@ -83,7 +83,7 @@ _Fém lámpa, vasalat, korlát, tégla, deszkaajtó, és egy kis natur húsvéti
 Épp ezért szigorúan betartottam a megtanult hármas szabályt. Ez érvenyesült a lakásban, és az udvaron is.
 
 > A hármas szabály alapja a páratlanság. Lehet egy is, de az a legtöbb esetben kevés. És lehet öt is, de az már soknak tűnhet. A három ideális.
-Ugyanúgy mint a vágott virágoknál...
+Ugyanúgy, mint a vágott virágoknál...
 
 
 ![nappali](/assets/dekoráció/IMG_20190321_122555.jpg)
