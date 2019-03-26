@@ -38,18 +38,29 @@ A feladatok voltak:
 * tyúkházat és az udvarát "újragondolni"
 * a háztetőt renoválni
 
-... és persze továbbra szakemberek nélkül, csak ketten akartuk elvégezni a feladatokat.
+... és persze továbbra szakemberek nélkül, ketten akartuk elvégezni a feladatokat.
 
 ![lámpás](/assets/külső-falak/IMG_20190325_174253.jpg)
 
 
 
+## Mivel kezdjük
 
-Nem vagyok lakberendező, mégcsak hasonlót sem tanultam. Valamiféle "ráérzés" van bennem, hogy miként lehet harmóniát teremteni magunk körül. Az életem úgy alakult, hogy az elmúlt években be kellett rendeznem egy-két házat otthonomnak. Volt köztük 100 m2-es, volt lakótelepi lakás, és volt egy nagyon pici kis garzonszerűség is. 
+Iygekeztünk fontossági sorrendet felállítani, de nem tudtunk. 
 
-Mindegyik más stílusú volt, és a visszajelzések minden esetben azt mutatták, hogy jól sikerültek. 
+Varázspálcára lett volna szükségünk ahhoz, hogy rövid idő alatt látványos változást érjünk el.
 
-Ezek után jött a "Miházunk", és ez lett az a ház, ahol teljes egészében meg tudtam valósítani a vágyaimat.
+Úgy döntöttünk, hogy szimultán csinálunk több dolgot, így mire újra beköszönt az ősz, több mindennel is elkészülünk.
+
+
+**Színt, virágokat az udvarra***
+
+
+Virágokat akartam, hogy legyen végre valami szín körülöttünk, ha az udvaron vagyunk. Mivel a kert és az udvar még nem volt kész a parkosításra, csak büdöske magot ültettem, és a járda szegélyhez azokat ültettem.
+
+Szerettem volna egy kinti asztalt, hogy a kávénkat a szabadban tudjuk meginni. 
+
+
 
 
 ![udvar](/assets/dekoráció/IMG_20190322_172336.jpg)
