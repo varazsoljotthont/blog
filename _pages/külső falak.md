@@ -26,7 +26,7 @@ Sivárság, hatalmas törmelék "hegy", hiányzó vakolat, rozsdás kapu, istál
 
 Az időjárás nekünk kedvezett, (benne jártunk a tavaszban) így elsőkörben felmértük az elvégzendő munkákat.
 
-A feladatok voltak:
+A feladatok:
 
 * összepakolni a sok lomot
 * leverni a régi vakolatot
@@ -39,8 +39,10 @@ A feladatok voltak:
 * kaput, kerítést festeni
 * tyúkházat és az udvarát "újragondolni"
 * a háztetőt renoválni
+* dörken lemez leásása
+* ereszcsatorna felrakása
 
-... és persze továbbra szakemberek nélkül, ketten akartuk elvégezni a feladatokat.
+... és persze továbbra is szakemberek nélkül, ketten akartuk elvégezni a feladatokat.
 
 ![lámpás](/assets/külső-falak/IMG_20190325_174253.jpg)
 
@@ -48,7 +50,7 @@ A feladatok voltak:
 
 ## Mivel kezdjük
 
-Igyekeztünk felállítani a fontossági sorrendet felállítani, de igazán sikerült. 
+Igyekeztünk felállítani a fontossági sorrendet, de nem igazán sikerült. 
 
 Varázspálcára lett volna szükségünk ahhoz, hogy rövid idő alatt látványos változást érjünk el.
 
@@ -58,7 +60,7 @@ Varázspálcára lett volna szükségünk ahhoz, hogy rövid idő alatt látván
 **Színt, virágokat az udvarra**
 
 
-Virágokat akartam, hogy legyen végre valami szín körülöttünk, ha az udvaron vagyunk. Mivel a kert és az udvar még nem volt kész a parkosításra, csak büdöske magot vetettem, és a járda szegélyhez azokat ültettem.
+Virágokat akartam, hogy legyen végre valami élet körülöttünk, ha az udvaron vagyunk. Mivel a kert és az udvar még nem volt kész a parkosításra, csak büdöske magot vetettem, és a járda szegélyhez azokat ültettem.
 
 Szerettem volna egy kinti asztalt, hogy a kávénkat a szabadban tudjuk meginni. 
 
@@ -75,7 +77,7 @@ _Ráfér a renoválás_
 
 ## Uccu neki, kezdjük el
 
-A régi vakolat leverésésével kezdődött a szépítkezés.
+A régi vakolat leverésésével kezdődött a kozmetikázás.
 
 Már az is sokat dobott a látványon, hogy egységes felületet kapott a ház. Igaz, hogy nem volt szép, de mégsem volt már annyira ütött-kopott. 
 
