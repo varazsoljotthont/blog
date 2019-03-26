@@ -48,25 +48,27 @@ A feladatok voltak:
 
 ## Mivel kezdjük
 
-Iygekeztünk fontossági sorrendet felállítani, de nem tudtunk. 
+Igyekeztünk felállítani a fontossági sorrendet felállítani, de igazán sikerült. 
 
 Varázspálcára lett volna szükségünk ahhoz, hogy rövid idő alatt látványos változást érjünk el.
 
 Úgy döntöttünk, hogy szimultán csinálunk több dolgot, így mire újra beköszönt az ősz, több mindennel is elkészülünk.
 
 
-**Színt, virágokat az udvarra***
+**Színt, virágokat az udvarra**
 
 
-Virágokat akartam, hogy legyen végre valami szín körülöttünk, ha az udvaron vagyunk. Mivel a kert és az udvar még nem volt kész a parkosításra, csak büdöske magot ültettem, és a járda szegélyhez azokat ültettem.
+Virágokat akartam, hogy legyen végre valami szín körülöttünk, ha az udvaron vagyunk. Mivel a kert és az udvar még nem volt kész a parkosításra, csak büdöske magot vetettem, és a járda szegélyhez azokat ültettem.
 
 Szerettem volna egy kinti asztalt, hogy a kávénkat a szabadban tudjuk meginni. 
 
+([erről itt olvashatsz](/2019-02-12/varrogepasztal)) 
 
 
 
-![udvar](/assets/dekoráció/IMG_20190322_172336.jpg)
-_Udvarunk a köcsögfával, és még a felújításra váró háztetővel_
+
+![udvar](/assets/külső-falak/DSCF0048.JPG)
+_Ráfér a renoválás_
 
 
 
