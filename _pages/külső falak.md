@@ -85,6 +85,10 @@ Közben pakoltuk a sok-sok mindent, ami a felújítás során keletkezett.
 
 Szoktuk mondani, hogy mi mindig mindent legalább háromszor megfogunk, mire a a helyére kerül. 
 
+![udvar](/assets/külső-falak/IMG_20190326_184017.jpg)
+_Udvaron káosz, a kertben pedig lucerna_
+
+
 > Először elpakoltunk mindent az útból. Aztán ahogy került rá idő, szétválogattuk. Így több rakatunk lett mint addig, de legalább azonos kupacok. Fás, vasas, törmelékes. Komolyan azt hittem, hogy soha nem lesz rendezett az udvarunk.  
 (Aztán persze az lett, de kellett neki 2 év)
 
@@ -95,8 +99,8 @@ A kerítés és a kapu is rossz állapotban volt. Drótos csiszolókoronggal az 
 Kis nyomozás után meg lett a tuti eszköz.  
 10 cm-es, szivacsos kis teddy hengert használtam, és maga volt a mennyország... Tisztán és nagyon gyoran lehet vele dolgozni, öröm volt vele a munka. 
 
-![udvar](/assets/külső-falak/IMG_20190326_184017.jpg)
 
+![kapu](/assets/külső-falak/DSCF0572.JPG)
 
 
 
