@@ -18,9 +18,11 @@ image:
 A ház lakótere elkészült, és nagyon tetszett ahogy felújítottuk.  
 Olyan lett az otthonunk, ahova munka után örömmel jöttünk haza.
 
-...de ahogy megérkeztünk a ház elé és beléptünk az udvarra, szánalmas volt a látvány...
+...de ahogy megérkeztünk a ház elé és beléptünk az udvarra, szánalmas látvány fogadott bennünket...
 
-Sivárság, hatalmas törmelék "hegy", hiányzó vakolatok, rozsdás kapu, istálló... Bármerre néztünk, minden segítségért kiáltott.
+Sivárság, hatalmas törmelék "hegy", hiányzó vakolat, rozsdás kapu, istálló... Bármerre néztünk, minden segítségért kiáltott. 
+
+És mi, mint aki elfelejtette a felújítással járó küzdelmeket, újra tettre készek voltunk.
 
 Az időjárás nekünk kedvezett, (benne jártunk a tavaszban) így elsőkörben felmértük az elvégzendő munkákat.
 
