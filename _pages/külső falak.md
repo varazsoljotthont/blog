@@ -22,7 +22,7 @@ Olyan lett az otthonunk, ahova munka után örömmel jöttünk haza.
 
 Sivárság, hatalmas törmelék "hegy", hiányzó vakolat, rozsdás kapu, istálló... Bármerre néztünk, minden segítségért kiáltott. 
 
-És mi, mint aki elfelejtette a felújítással járó küzdelmeket, újra tettre készek voltunk.
+És mi, mint akik elfelejtették a felújítással járó küzdelmeket, újra tettre készek voltunk.
 
 Az időjárás nekünk kedvezett, (benne jártunk a tavaszban) így elsőkörben felmértük az elvégzendő munkákat.
 
