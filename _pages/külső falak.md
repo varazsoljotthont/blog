@@ -30,8 +30,8 @@ Az időjárás nekünk kedvezett, (benne jártunk a tavaszban) így elsőkörben
 
 * összepakolni a sok lomot
 * leverni a régi vakolatot
-* ereszcsatorna felrakása
-* dörken lemez leásása
+* felrakni az ereszcsatornát
+* dörken lemezt leásni
 * újra vakolni a házat
 * az istálló falát rendbehozni
 * az udvart megrendezni
