@@ -59,7 +59,7 @@ Nem sajnáltam az időt arra, hogy olvassak a hozzáértőktől. Kitűnő blogok
 Rengeteg hasznos információhoz jutottam hozzá, amiket később alkalmaztam is.
 Volt, hogy megerősítést kaptam, hogy jó úton vagyok, volt amikor a ráérzésemet alapszabályként láttam viszont. És volt, mikor a mások által mániának mondott dolgaimat is láttam jóként leírva. 
 
-Sokat tanultam a különböző stílusokról. Képeket nézegettem, inspirálódtam, öteleteket gyűjtöttem. 
+Képeket nézegettem, inspirálódtam, öteleteket gyűjtöttem. És közben sokat tanultam a különböző stílusokról.  
 
 (Ez a szokásom a mai napig meg van. Jobbnál-jobb dolgokat látni a környezetünkben, érdemes nyitott szemmel nézni a bennünket körülvevő világot.)
 
