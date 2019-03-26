@@ -16,7 +16,7 @@ image:
 ## Bárhová nézünk, munkát látunk
 
 A ház lakótere elkészült, és nagyon tetszett ahogy felújítottuk.  
-Olyan lett az otthonunk, ahova munka után örömmel jöttünk haza.
+Olyan lett az otthonunk, ahova munka után örömmel tértünk haza.
 
 ...de ahogy megérkeztünk a ház elé és beléptünk az udvarra, szánalmas látvány fogadott bennünket...
 
@@ -95,7 +95,7 @@ A kerítés és a kapu is rossz állapotban volt. Drótos csiszolókoronggal az 
 Kis nyomozás után meg lett a tuti eszköz.  
 10 cm-es, szivacsos kis teddy hengert használtam, és maga volt a mennyország... Tisztán és nagyon gyoran lehet vele dolgozni, öröm volt vele a munka. 
 
-![udvar](/assets/külső-falak/DSCF0572.JPG)
+![udvar](/assets/külső-falak/IMG_20190326_184017.jpg)
 
 
 
