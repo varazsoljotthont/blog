@@ -45,7 +45,7 @@ Ezek után jött a "Miházunk", és ez lett az a ház, ahol teljes egészében m
 
 
 ![udvar](/assets/dekoráció/IMG_20190325_170640.jpg)
-_Sok apró részlet, és a felújításra váró tető_
+_Az udvarról nézve a ház.A füvesítés idei feladat lesz.
 
 
 
@@ -219,8 +219,7 @@ A bontott tégla az udvaron és a kertben is megjelenik. Fát és kavicsot vála
 
 
 ![udvar](/assets/dekoráció/javudvar.jpg)
-_Az udvar. A tégla, a fa és a kavics remekül összeillik. A füvesítés idei feladat lesz_
-
+_Az udvar. A tégla, a fa és a kavics remekül összeillik._
 
 
 
