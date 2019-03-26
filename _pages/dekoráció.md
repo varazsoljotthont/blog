@@ -103,7 +103,7 @@ egymáshoz.
 
 Szerettük volna, ha természetes anyagok vesznek bennünket körül, hogy vidékies legyen a házunk hangulata. 
 
-A választott stílushoz a burkolatok is hozzájárulnak. A járólap, és a laminált padló színe, a mintája ezt a hangulatot erősíti.
+A választott stílushoz a burkolatok is hozzájárulnak. A járólap, és a laminált padló színe, mintája ezt a hangulatot erősíti.
 
 ([erről itt olvashatsz](/2019-03-13/burkolatok))
 
