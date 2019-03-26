@@ -24,12 +24,14 @@ Sivárság, hatalmas törmelék "hegy", hiányzó vakolat, rozsdás kapu, istál
 
 És mi, mint akik elfelejtették a felújítással járó küzdelmeket, újra tettre készek voltunk.
 
-Az időjárás nekünk kedvezett, (benne jártunk a tavaszban) így elsőkörben felmértük az elvégzendő munkákat.
+Az időjárás nekünk kedvezett, (benne jártunk a tavaszban) így elsőkörben felmértük az elvégzendő munkákat:
 
-A feladatok:
+
 
 * összepakolni a sok lomot
 * leverni a régi vakolatot
+* ereszcsatorna felrakása
+* dörken lemez leásása
 * újra vakolni a házat
 * az istálló falát rendbehozni
 * az udvart megrendezni
@@ -39,8 +41,8 @@ A feladatok:
 * kaput, kerítést festeni
 * tyúkházat és az udvarát "újragondolni"
 * a háztetőt renoválni
-* dörken lemez leásása
-* ereszcsatorna felrakása
+
+
 
 ... és persze továbbra is szakemberek nélkül, ketten akartuk elvégezni a feladatokat.
 
@@ -77,6 +79,27 @@ _Ráfér a renoválás_
 
 ## Uccu neki, kezdjük el!
 
+
+**Ereszcsatorna**
+
+
+A házon sajnos nem volt ereszcsatorna. A tetőről lefolyó víz a ház alapjához került, amitől nem voltunk túl boldogok. Minél hamarabb meg kellett oldani a víz elvezetést. 
+
+Egy jóbarátunktól kaptunk kölcsön egy régi, félretett előtetőt. Nagyon nagy segítség volt, védte a bejárati ajtót, és erre már rá tudta vezetni a vizet a férjem.
+
+> Legalább olyan "esztétikus" volt mint a ház, így tökéletesen bepasszolt hozzánk.   
+Még a színe is. A váz zöld, mint a nyílászárók, a műanyag pedig sárga, mint a vakolat. Fontos dolgok ezek egy szín mániásnak...
+
+
+Mindenféle szedett-vedett csatorna darabok letttek összerakva, csak minél hamarabb megoldódjon a probléma. Hatalmas sikerként éltük meg, hogy megakadályoztuk a falak vizesedédét. 
+
+
+
+![udvar](/assets/külső-falak/DSCF0281.JPG)
+_Összetoldva minden darab, én pedig "antikolom" a széket a konyhai járólaphoz_
+
+
+
 A régi vakolat leverésésével kezdődött a kozmetikázás.
 
 Már az is sokat dobott a látványon, hogy egységes felületet kapott a ház. Igaz, hogy nem volt szép, de mégsem volt már annyira ütött-kopott. 
@@ -108,23 +131,7 @@ Kis nyomozás után meg lett a tuti eszköz.
 10 cm-es, szivacsos kis teddy hengert használtam, és maga volt a mennyország... Tisztán és nagyon gyoran lehet vele dolgozni, öröm volt vele a munka. 
 
 
-**Ereszcsatorna**
 
-
-A házon sajnos nem volt ereszcsatorna. A tetőről lefolyó víz a ház alapjához került, amitől nem voltunk túl boldogok. Minél hamarabb meg kellett oldani a víz elvezetést. 
-
-Egy jóbarátunktól kaptunk kölcsön egy régi, félretett előtetőt. Nagyon nagy segítség volt, védte a bejárati ajtót, és erre már rá tudta vezetni a vizet a férjem.
-
-> Legalább olyan "esztétikus" volt mint a ház, így tökéletesen bepasszolt hozzánk.   
-Még a színe is. A váz zöld, mint a nyílászárók, a műanyag pedig sárga, mint a vakolat. Fontos dolgok ezek egy szín mániásnak...
-
-
-Mindenféle szedett-vedett csatorna darabok letttek összerakva, csak minél hamarabb megoldódjon a probléma. Hatalmas sikerként éltük meg, hogy megakadályoztuk a falak vizesedédét. 
-
-
-
-![udvar](/assets/külső-falak/DSCF0281.JPG)
-_ Összetoldva minden darab, én pedig "antikolom" a széket a konyhai járólaphoz_
 
 A ház egybe épült az istállóval, így a falak felülete nagyon nagy. 
 
