@@ -65,7 +65,7 @@ Szerettem volna egy kinti asztalt, hogy a kávénkat a szabadban tudjuk meginni.
 ([erről itt olvashatsz](/2019-02-12/varrogepasztal)) 
 
 
-
+A célunk az volt, hogy kint is megteremtsük azt a hangulatot, amit a házon belül már sikerült.
 
 ![udvar](/assets/külső-falak/DSCF0048.JPG)
 _Ráfér a renoválás_
@@ -73,18 +73,34 @@ _Ráfér a renoválás_
 
 
 
-## Utána nézni, utána olvasni
+## Uccu neki, kezdjük el
+
+A régi vakolat leverésésével kezdődött a szépítkezés.
+
+Már az is sokat dobott a látványon, hogy egységes felületet kapott a ház. Igaz, hogy nem volt szép, de mégsem volt már annyira ütött-kopott. 
+
+Közben pakoltuk a sok-sok mindent, ami a felújítás során keletkezett.
+
+Szoktuk mondani, hogy mi mindig mindent legalább háromszor megfogunk, mire a a helyére kerül. 
+
+> Először elpakoltunk mindent az útból. Aztán ahogy került rá idő, szétválogattuk. Így több rakatunk lett mint addig, de legalább azonos kupacok. Fás, vasas, törmelékes. Komolyan azt hittem, hogy soha nem lesz rendezett az udvarunk.  
+(Aztán persze az lett, de kellett neki 2 év)
 
 
-Nem sajnáltam az időt arra, hogy olvassak a hozzáértőktől. Kitűnő blogok vannak ahol leírják mire kell figyelni, hogy elkerüljük a káoszt.
+![udvar](/assets/külső-falak/DSCF0048.JPG)
+
+A kerítés és a kapu is rossz állapotban volt. Csiszolókoronggal az egészet megdolgozta a férjuram, majd rozdamaróztam, és kétszer festettem. A drótháló mintájú kerítést nem egyszerű festeni. Ecsettel kenve fröcsög mindenfelé, és még lassú is.  
+Kis nyomozás után meg lett a tuti eszköz.  
+10 cm-es, szivacsos kis teddy hengerrel festettem, és maga volt a mennyország... Tisztán és nagyon gyoran lehet vele dolgozni, öröm volt vele a munka. 
 
 
-Rengeteg hasznos információhoz jutottam hozzá, amiket később alkalmaztam is.
-Volt, hogy megerősítést kaptam, hogy jó úton vagyok, volt amikor a ráérzésemet alapszabályként láttam viszont. És volt, mikor a mások által mániának mondott dolgaimat is láttam jóként leírva. 
+A ház egybe épült az istállóval, így a falak felülete nagyon nagy. 
 
-Sokat tanultam a különböző stílusokról. Képeket nézegettem, inspirálódtam, öteleteket gyűjtöttem. 
+Úgy döntött a férjuram, hogy ketté válasszuk a házat, eléjére és az istállóra.
 
-(Ez a szokásom a mai napig meg van. Jobbnál-jobb dolgokat látni a környezetünkben, érdemes nyitott szemmel nézni a bennünket körülvevő világot.)
+Mint egy régebbi posztban írtam, a felújítás során kiderült, hogy sármaltert használtak a falazás során. 
+
+Az eljárás ugyanaz volt, mint akkor...
 
 
 ## Választás
