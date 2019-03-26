@@ -45,7 +45,7 @@ Ezek után jött a "Miházunk", és ez lett az a ház, ahol teljes egészében m
 
 
 ![udvar](/assets/dekoráció/IMG_20190325_170640.jpg)
-_Az udvarról nézve a ház.A füvesítés idei feladat lesz.
+_Az udvarról nézve a ház. A füvesítés idei feladat lesz.
 
 
 
