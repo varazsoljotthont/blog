@@ -227,6 +227,7 @@ _Az udvar. A tégla, a fa és a kavics remekül összeillik._
  **+ 1 gondolat:**  
 A kevesebb néha több. Mindenre igaz, érdemes szem előtt tartani...
 
+
 ## Kapcsolódó cikkek
 
 
