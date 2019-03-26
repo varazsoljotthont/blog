@@ -93,7 +93,7 @@ _Udvaron káosz, a kertben pedig lucerna_
 (Aztán persze az lett, de kellett neki 2 év)
 
 
-
+**Festés**
 
 A kerítés és a kapu is rossz állapotban volt. Drótos csiszolókoronggal az egészet megdolgozta a férjuram, majd rozsdamaróztam, és kétszer festettem. 
 
@@ -108,9 +108,23 @@ Kis nyomozás után meg lett a tuti eszköz.
 10 cm-es, szivacsos kis teddy hengert használtam, és maga volt a mennyország... Tisztán és nagyon gyoran lehet vele dolgozni, öröm volt vele a munka. 
 
 
+**Ereszcsatorna**
+
+
+A házon sajnos nem volt ereszcsatorna. A tetőről lefolyó víz a ház alapjához került, amitől nem voltunk túl boldogok. Minél hamarabb meg kellett oldani a víz elvezetést. 
+
+Egy jóbarátunktól kaptunk kölcsön egy régi, félretett előtetőt. Nagyon nagy segítség volt, védte a bejárati ajtót, és erre már rá tudta vezetni a vizet a férjem.
+
+> Legalább olyan "esztétikus" volt mint a ház, így tökéletesen bepasszolt hozzánk.   
+Még a színe is. A váz zöld, mint a nyílászárók, a műanyag pedig sárga, mint a vakolat. Fontos dolgok ezek egy szín mániásnak...
+
+
+Mindenféle szedett-vedett csatorna darabok letttek összerakva, csak minél hamarabb megoldódjon a probléma. Hatalmas sikerként éltük meg, hogy megakadályoztuk a falak vizesedédét. 
 
 
 
+![udvar](/assets/külső-falak/DSCF0281.JPG)
+_ Összetoldva minden darab, én pedig "antikolom" a széket a konyhai járólaphoz_
 
 A ház egybe épült az istállóval, így a falak felülete nagyon nagy. 
 
