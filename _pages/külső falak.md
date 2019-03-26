@@ -20,6 +20,9 @@ Olyan lett az otthonunk, ahova munka után örömmel tértünk haza.
 
 ...de ahogy megérkeztünk a ház elé és beléptünk az udvarra, szánalmas látvány fogadott bennünket...
 
+![lámpás](/assets/külső-falak/IMG_20190325_174253.jpg)
+
+
 Sivárság, hatalmas törmelék "hegy", hiányzó vakolat, rozsdás kapu, istálló... Bármerre néztünk, minden segítségért kiáltott. 
 
 És mi, mint akik elfelejtették a felújítással járó küzdelmeket, újra tettre készek voltunk.
@@ -46,7 +49,7 @@ Az időjárás nekünk kedvezett, (benne jártunk a tavaszban) így elsőkörben
 
 ... és persze továbbra is szakemberek nélkül, ketten akartuk elvégezni a feladatokat.
 
-![lámpás](/assets/külső-falak/IMG_20190325_174253.jpg)
+
 
 
 
