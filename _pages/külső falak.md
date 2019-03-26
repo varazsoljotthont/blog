@@ -48,7 +48,7 @@ A feladatok:
 
 
 
-## Mivel kezdjük
+## Mivel kezdjük?
 
 Igyekeztünk felállítani a fontossági sorrendet, de nem igazán sikerült. 
 
@@ -57,7 +57,7 @@ Varázspálcára lett volna szükségünk ahhoz, hogy rövid idő alatt látván
 Úgy döntöttünk, hogy szimultán csinálunk több dolgot, így mire újra beköszönt az ősz, több mindennel is elkészülünk.
 
 
-**Színt, virágokat az udvarra**
+**Színt, virágokat az udvarra!**
 
 
 Virágokat akartam, hogy legyen végre valami élet körülöttünk, ha az udvaron vagyunk. Mivel a kert és az udvar még nem volt kész a parkosításra, csak büdöske magot vetettem, és a járda szegélyhez azokat ültettem.
@@ -75,7 +75,7 @@ _Ráfér a renoválás_
 
 
 
-## Uccu neki, kezdjük el
+## Uccu neki, kezdjük el!
 
 A régi vakolat leverésésével kezdődött a kozmetikázás.
 
@@ -89,11 +89,15 @@ Szoktuk mondani, hogy mi mindig mindent legalább háromszor megfogunk, mire a a
 (Aztán persze az lett, de kellett neki 2 év)
 
 
-![udvar](/assets/külső-falak/DSCF0048.JPG)
 
-A kerítés és a kapu is rossz állapotban volt. Csiszolókoronggal az egészet megdolgozta a férjuram, majd rozdamaróztam, és kétszer festettem. A drótháló mintájú kerítést nem egyszerű festeni. Ecsettel kenve fröcsög mindenfelé, és még lassú is.  
+
+A kerítés és a kapu is rossz állapotban volt. Drótos csiszolókoronggal az egészet megdolgozta a férjuram, majd roszdamaróztam, és kétszer festettem. A drótháló mintájú kerítést nem egyszerű festeni. Ecsettel kenve fröcsög mindenfelé, és még lassú is.  
 Kis nyomozás után meg lett a tuti eszköz.  
-10 cm-es, szivacsos kis teddy hengerrel festettem, és maga volt a mennyország... Tisztán és nagyon gyoran lehet vele dolgozni, öröm volt vele a munka. 
+10 cm-es, szivacsos kis teddy hengert használtam, és maga volt a mennyország... Tisztán és nagyon gyoran lehet vele dolgozni, öröm volt vele a munka. 
+
+![udvar](/assets/külső-falak/DSCF0572.JPG)
+
+
 
 
 A ház egybe épült az istállóval, így a falak felülete nagyon nagy. 
