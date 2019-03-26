@@ -99,9 +99,13 @@ egymáshoz.
 
 **Alapanyagok**
 
-A harmónia megteremtéséhez az első lépés az volt, hogy az egész házba azonos laminált padlót választottunk. 
 
-A felhasznált anyagok közül, nagyon jellegzetes dolog nálunk a tégla. Végig vonul a házon, az udvaron, a kertben. Mindenhol ott van, és mi imádjuk a hangulatát.
+
+Szerettük volna, ha természetes anyagok vesznek bennünket körül , hogy minél rusztikusabb legyen a házunk hangulata. 
+
+Ehhez a burkolatok is hozzájárulnak. A járólap, és a laminált padló színe, a mintája ezt hangulatot erősíti.([erről itt olvashatsz](//2019-03-13-burkolatok))
+
+Az első, nagyon jellegzetes dolog nálunk a tégla. Végig vonul a házon, az udvaron, a kertben. Mindenhol ott van, és mi imádjuk a hangulatát.
 
 > Sok bontott téglát beépítettünk a házba és a ház körül, erről tervben van egy külön poszt! 
 
