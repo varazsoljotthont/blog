@@ -68,12 +68,10 @@ Soron kívüli szépészeti beavakozást hajtottam végre, hogy jobb kedvre der�
 
 Virágokat akartam, hogy legyen végre valami élet körülöttünk, ha odakint vagyunk. Mivel a kert és az udvar még nem volt kész a parkosításra, csak büdöske magot vetettem, és a járda szegélyhez azokat ültettem.
 
-Szerettem volna egy kinti asztalt, hogy a kávénkat a szabadban tudjuk meginni. Igaz teraszunk még nem volt, de iyen kis apróság nem jelenthetett problémát.
+Szerettem volna egy kinti asztalt, hogy a kávénkat a szabadban tudjuk meginni. Igaz, teraszunk még nem volt, de iyen kis apróság nem jelenthetett problémát.
 
 ([az asztalról itt olvashatsz](/2019-02-12/varrogepasztal)) 
 
-![udvar](/assets/külső-falak/DSCF0836.JPG)
-_A falak már újra vakolva, és az asztal is  elkészült_
 
 
 A célunk az volt, hogy kint is megteremtsük azt a hangulatot, amit a házon belül már sikerült.
@@ -81,6 +79,8 @@ A célunk az volt, hogy kint is megteremtsük azt a hangulatot, amit a házon be
 ![udvar](/assets/külső-falak/DSCF0048.JPG)
 _Ráfér a renoválás_
 
+![udvar](/assets/külső-falak/DSCF0836.JPG)
+_A falak már újra vakolva, és az asztal is  elkészült_
 
 
 
@@ -92,20 +92,33 @@ _Ráfér a renoválás_
 
 A házon sajnos nem volt ereszcsatorna. A tetőről lefolyó víz a ház alapjához került, amitől nem voltunk túl boldogok. Minél hamarabb meg kellett oldani a víz elvezetést. 
 
-Egy jóbarátunktól kaptunk kölcsön egy régi, félretett előtetőt. Nagyon nagy segítség volt, védte a bejárati ajtót, és erre már rá tudta vezetni a vizet a férjem.
+Egy jóbarátunktól kaptunk kölcsön egy régi, félretett előtetőt. Nagyon nagy segítség volt, védte a bejárati ajtót, és erre már rá tudta vezetni az esővizet a férjem.
 
 > Legalább olyan "esztétikus" volt mint a ház, így tökéletesen bepasszolt hozzánk.   
 Még a színe is. A váz zöld, mint a nyílászárók, a műanyag pedig sárga, mint a vakolat. Fontos dolgok ezek egy szín mániásnak...
 
 
-Mindenféle szedett-vedett csatorna darabok letttek összerakva, csak minél hamarabb megoldódjon a probléma. Hatalmas sikerként éltük meg, hogy megakadályoztuk a falak vizesedédét. 
-
+Mindenféle szedett-vedett csatorna darabok lettek összerakva, csak minél hamarabb megoldódjon a probléma. Hatalmas sikerként éltük meg, hogy megakadályoztuk a falak vizesedédét. 
 
 
 ![udvar](/assets/külső-falak/DSCF0281.JPG)
 _Összetoldva minden darab, én pedig "antikolom" a széket a konyhai járólaphoz_
 
 
+
+
+**Dörken lemez**
+
+A ház utcafrontján, és a szomszéd felőli oldalon is gondot jelentett a falakon felfelé igyekvő víz. 
+
+A ház alapjánál mindkét oldalon végig ásott a férjem, és lefektette a lemezt. A visszatemetés után geotextíliát tettünk le, és rá görgeteg kavicsot terítettünk el. 
+
+Szép is lett, jó is lett
+
+> Jó kis sport volt neki. Kőkemény, agyagos földdel dolgozott, megküzdött vele rendesen... De muszáj volt megcsinálni, és úgy tűnik, hogy érdemes is volt, hisz nincs vizesedés a házban.
+
+
+## Lépésről-lépésre szépül a ház
 
 A régi vakolat leverésésével kezdődött a kozmetikázás.
 
