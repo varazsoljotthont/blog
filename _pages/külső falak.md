@@ -64,12 +64,13 @@ Varázspálcára lett volna szükségünk ahhoz, hogy rövid idő alatt látván
 
 **Színt, virágokat az udvarra!**
 
+Soron kívüli szépészeti beavakozást hajtottam végre, hogy jobb kedvre derítsem a szomorú udvarunkat.
 
-Virágokat akartam, hogy legyen végre valami élet körülöttünk, ha az udvaron vagyunk. Mivel a kert és az udvar még nem volt kész a parkosításra, csak büdöske magot vetettem, és a járda szegélyhez azokat ültettem.
+Virágokat akartam, hogy legyen végre valami élet körülöttünk, ha odakint vagyunk. Mivel a kert és az udvar még nem volt kész a parkosításra, csak büdöske magot vetettem, és a járda szegélyhez azokat ültettem.
 
-Szerettem volna egy kinti asztalt, hogy a kávénkat a szabadban tudjuk meginni. 
+Szerettem volna egy kinti asztalt, hogy a kávénkat a szabadban tudjuk meginni. Igaz teraszunk még nem volt, de iyen kis apróság nem jelenthetett problémát.
 
-([erről itt olvashatsz](/2019-02-12/varrogepasztal)) 
+([az asztalról itt olvashatsz](/2019-02-12/varrogepasztal)) 
 
 
 A célunk az volt, hogy kint is megteremtsük azt a hangulatot, amit a házon belül már sikerült.
