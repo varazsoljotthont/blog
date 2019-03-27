@@ -72,6 +72,9 @@ Szerettem volna egy kinti asztalt, hogy a kávénkat a szabadban tudjuk meginni.
 
 ([az asztalról itt olvashatsz](/2019-02-12/varrogepasztal)) 
 
+![udvar](/assets/külső-falak/DSCF0836.JPG)
+_A falak már újra vakolva, és az asztal is  elkészült_
+
 
 A célunk az volt, hogy kint is megteremtsük azt a hangulatot, amit a házon belül már sikerült.
 
