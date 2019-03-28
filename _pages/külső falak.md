@@ -90,7 +90,7 @@ _A falak már újra vakolva, és az asztal is  elkészült_
 **Ereszcsatorna**
 
 
-A házon sajnos nem volt ereszcsatorna. A tetőről lefolyó víz a ház alapjához került, amitől nem voltunk túl boldogok. Minél hamarabb meg kellett oldani a víz elvezetést. 
+A házon sajnos nem volt ereszcsatorna. A tetőről lefolyó víz a ház alapjához került, amitől nem voltunk túl boldogok. Minél hamarabb meg kellett oldani a víz elvezetését. 
 
 Egy jóbarátunktól kaptunk kölcsön egy régi, félretett előtetőt. Nagyon nagy segítség volt, védte a bejárati ajtót, és erre már rá tudta vezetni az esővizet a férjem.
 
@@ -111,11 +111,11 @@ _Összetoldva minden darab, én pedig "antikolom" a széket a konyhai járólaph
 
 A ház utcafrontján, és a szomszéd felőli oldalon is gondot jelentett a falakon felfelé igyekvő víz. 
 
-A ház alapjánál mindkét oldalon végig ásott a férjem, és lefektette a lemezt. A visszatemetés után geotextíliát tettünk le, és rá görgeteg kavicsot terítettünk el. 
+A ház alapjánál mindkét oldalon végig ásott a férjem, és dörken lemezt tett a ház alapjához. A visszatemetés után geotextíliát terítettünk le, arra pedig görgeteg kavicsot. 
 
 Szép is lett, jó is lett
 
-> Jó kis sport volt neki. Kőkemény, agyagos földdel dolgozott, megküzdött vele rendesen... De muszáj volt megcsinálni, és úgy tűnik, hogy érdemes is volt, hisz nincs vizesedés a házban.
+> Jó kis sport volt a férjemnek. Kőkemény, agyagos földdel dolgozott, megküzdött vele rendesen... De muszáj volt megcsinálni, és úgy tűnik, hogy érdemes is volt, hisz nincs vizesedés a házban.
 
 
 ## Lépésről-lépésre szépül a ház
@@ -152,21 +152,13 @@ Kis nyomozás után meg lett a tuti eszköz.
 
 
 
-
-A ház egybe épült az istállóval, így a falak felülete nagyon nagy. 
-
-Úgy döntött a férjuram, hogy ketté válasszuk a házat, eléjére és az istállóra.
-
-Mint egy régebbi posztban írtam, a felújítás során kiderült, hogy sármaltert használtak a falazás során. 
-
-Az eljárás ugyanaz volt, mint akkor...
-
+A ház víz elvezetését nagyon fontosvolt megcsinálni
 
 
 
  
  **+ 1 gondolat:**  
-Néhány virág az udvaron ápolja a lelket, oldja a kopárságot. Ez biztos! És táplálja a reményt, hogy egyszer szép udvarunk lesz, és a kertben is nő majd virág a lucerna helyett.
+Néhány virág az udvaron ápolja a lelket, oldja a kopárságot. Ez biztos! Táplálja a reményt, hogy egyszer szép udvarunk lesz, és a nő majd virág is a lucerna helyett.
 
 ## Kapcsolódó cikkek
 
