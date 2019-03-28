@@ -138,7 +138,7 @@ _Udvaron káosz, a kertben pedig lucerna_
 
 **Festés**
 
-A kerítés és a kapu is rossz állapotban volt. Drótos csiszolókoronggal az egészet megdolgozta a férjuram, majd rozsdamaróztam, és kétszer festettem. 
+A kerítés és a kapu is rossz állapotban volt. Drótkoronggal az egészet megdolgozta a férjuram, majd rozsdamaróztam, és kétszer festettem. 
 
 ![kapu](/assets/külső-falak/DSCF0572.JPG)
 _Látványos a különbség_
@@ -150,15 +150,7 @@ Kis nyomozás után meg lett a tuti eszköz.
 
 10 cm-es, szivacsos kis teddy hengert használtam, és maga volt a mennyország... Tisztán és nagyon gyoran lehet vele dolgozni, öröm volt vele a munka. 
 
-![ház](/assets/hazvasarlas/blogjav.jpg)
-_Büdöske a ház előtt, kerítés lefestve, eresz felrakva, vakolat leverve és a fal kijavítva.
-Ugye, hogy sokat jelent?_
 
-
-
-![ház](/assets/külső-falak/DSCF0825jav2.jpg)
-_Büdöske a ház előtt, kerítés lefestve, eresz felrakva, vakolat leverve és a fal kijavítva.
-Ugye, hogy sokat jelent?_
 
 
 ## Kisebb munka, nagyobb munka
@@ -167,7 +159,14 @@ A kisebb munkák legalább olyan fontosak voltak, mint az időigényesebb társa
 
 A víz elvezetését fontos volt megoldani. A kerítés - kapu festése, és a sok pakolás pedig rengeteget javított nem csak a ház, hanem az én hangulatomon is. 
 
-A nagyobb változást a falak újravakolása,és az istálló átalakítása jelentette. Látványos változást értünk el vele. Erről szól majd a követekező poszt is.
+De az igazán nagy változást a falak újra vakolása, és az istálló átalakítása jelentette. Hozom majd a történetét és a képeket a következő bejegyzésben.
+
+![ház](/assets/hazvasarlas/blogjav.jpg)
+_Büdöske a ház előtt, kerítés lefestve, eresz felrakva, vakolat leverve és a fal kijavítva.
+Ugye, hogy sokat jelent?_
+
+![ház](/assets/külső-falak/DSCF0825jav2.jpg)
+
 
  
  **+ 1 gondolat:**  
