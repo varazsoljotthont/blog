@@ -133,7 +133,7 @@ _Udvaron káosz, a kertben pedig lucerna_
 
 
 > Először elpakoltunk mindent az útból. Aztán ahogy került rá idő, szétválogattuk. Így több rakatunk lett mint addig, de legalább azonos kupacok. Fás, vasas, törmelékes. Komolyan azt hittem, hogy soha nem lesz rendezett az udvarunk.  
-(Aztán persze az lett, de kellett neki 2 év)
+(Aztán persze az lett, de kellett hozzá 2 év)
 
 
 **Festés**
