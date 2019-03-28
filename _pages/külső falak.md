@@ -150,6 +150,12 @@ Kis nyomozás után meg lett a tuti eszköz.
 
 10 cm-es, szivacsos kis teddy hengert használtam, és maga volt a mennyország... Tisztán és nagyon gyoran lehet vele dolgozni, öröm volt vele a munka. 
 
+![ház](/assets/hazvasarlas/blogjav.jpg)
+_Büdöske a ház előtt, kerítés lefestve, eresz felrakva, vakolat leverve és a fal kijavítva.
+Ugye, hogy sokat jelent?_
+
+
+
 ![ház](/assets/külső-falak/DSCF0825jav2.jpg)
 _Büdöske a ház előtt, kerítés lefestve, eresz felrakva, vakolat leverve és a fal kijavítva.
 Ugye, hogy sokat jelent?_
