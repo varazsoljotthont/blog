@@ -113,10 +113,10 @@ A ház utcafrontján, az udvar egy részénél és a szomszéd felőli oldalon i
 
 Ezért a ház mellett végig ásott a férjem, és dörken lemezt tett a ház alapjához. A visszatemetés után geotextíliát terítettünk le, arra pedig görgeteg kavicsot. 
 
-![udvar](/assets/külső-falak/DSCF1880.JPG)
+![udvar](/assets/külső-falak/DSCF1835.jpg)  
 
 
-![udvar](/assets/külső-falak/DSCF1883.JPG)
+![udvar](/assets/külső-falak/DSCF1883.jpg)
 _A kavics segíti a vízelvezetést, és látványnak sem utolsó_
 
 
