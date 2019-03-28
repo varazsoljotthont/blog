@@ -25,7 +25,7 @@ Még évekkel ezelőtt, mikor csak ábrándoztunk a "Miházunkról", tervezgett�
 
 ([erről itt olvashatsz](/2019-02-09/hazvasarlas))
 
-A modern, minimál stílusú házak, a csupa króm és üveg berendezéssel egyikünknek sem tetszettek. 
+A modern, minimál stílusú házak a csupa króm és üveg berendezéssel egyikünknek sem tetszettek. 
 
 
 Mindketten vonzódunk a régi, újra hasznosított tárgyakhoz, szeretjük a természetes dolgokat magunk körül. 
