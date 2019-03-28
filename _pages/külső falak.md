@@ -150,10 +150,13 @@ Kis nyomozás után meg lett a tuti eszköz.
 
 10 cm-es, szivacsos kis teddy hengert használtam, és maga volt a mennyország... Tisztán és nagyon gyoran lehet vele dolgozni, öröm volt vele a munka. 
 
+![ház](/assets/külső-falak/DSCF0825.JPG)
+_Büdöske a ház előtt, kerítés lefestve, vakolat leverve és a fal kijavítva._
+
 
 ## Kisebb munka, nagyobb munka
 
-A kisebb munkák legalább olyan fontosak, mint az időigényesebb társaik.
+A kisebb munkák legalább olyan fontosak voltak, mint az időigényesebb társaik.
 
 A víz elvezetését fontos volt megoldani. A kerítés - kapu festése, és a sok pakolás pedig rengeteget javított nem csak a ház, hanem az én hangulatomon is. 
 
