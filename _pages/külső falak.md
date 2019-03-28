@@ -151,10 +151,13 @@ Kis nyomozás után meg lett a tuti eszköz.
 10 cm-es, szivacsos kis teddy hengert használtam, és maga volt a mennyország... Tisztán és nagyon gyoran lehet vele dolgozni, öröm volt vele a munka. 
 
 
+## Kisebb munka, nagyobb munka
 
-A ház víz elvezetését nagyon fontosvolt megcsinálni
+A kisebb munkák legalább olyan fontosak, mint az időigényesebb társaik.
 
+A víz elvezetését fontos volt megoldani. A kerítés - kapu festése, és a sok pakolás pedig rengeteget javított nem csak a ház, hanem az én hangulatomon is. 
 
+A nagyobb változást a falak újravakolása,és az istálló átalakítása jelentette. Látványos változást értünk el vele. Erről szól majd a követekező poszt is.
 
  
  **+ 1 gondolat:**  
