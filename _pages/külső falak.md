@@ -23,7 +23,7 @@ De ahogy megérkeztünk a ház elé és beléptünk az udvarra, szánalmas látv
 ![lámpás](/assets/külső-falak/IMG_20190325_174253.jpg)
 
 
-Sivárság, hatalmas törmelék "hegy", hiányzó vakolat, rozsdás kapu, istálló... Bármerre néztünk, minden segítségért kiáltott. 
+Sivárság, hatalmas törmelék "hegy", hiányzó vakolat, rozsdás kapu, istálló. Bármerre néztünk, minden segítségért kiáltott. 
 
 És mi, mint akik elfelejtették a felújítással járó küzdelmeket, újra tettre készek voltunk.
 
@@ -47,7 +47,7 @@ Az időjárás nekünk kedvezett, (benne jártunk a tavaszban) így elsőkörben
 
 
 
-... és persze továbbra is szakemberek nélkül, ketten akartuk elvégezni a feladatokat.
+És persze továbbra is szakemberek nélkül, ketten akartuk elvégezni a feladatokat.
 
 
 
@@ -124,7 +124,7 @@ _A kavics segíti a vízelvezetést, és látványnak sem utolsó_
 Hatékonynak bizonyult a dörkenezés, és a kavics még széppé is tette ezt a részt.
 
 
-> Jó kis sport volt a férjemnek. Kőkemény, agyagos földdel dolgozott, megküzdött vele rendesen... De muszáj volt megcsinálni, és úgy tűnik, hogy érdemes is volt, hisz nincs vizesedés a házban.
+> Jó kis sport volt a férjemnek. Kemény, agyagos földdel dolgozott, megküzdött vele rendesen. De muszáj volt megcsinálni, és úgy tűnik, hogy érdemes volt, hisz nincs vizesedés a házban.
 
 
 ## Lépésről-lépésre szépül a ház
