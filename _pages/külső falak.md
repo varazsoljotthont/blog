@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Itt az ideje a csinosításnak" 
+title: "Ha már tavasz van, legyen tavasz... és dolgozzunk a ház külsején ." 
 permalink: /külső falak/
 cover: /assets/külső falak/cover.jpg
 image:
@@ -13,7 +13,7 @@ image:
 
 
 
-## Bárhová nézünk, munkát látunk
+## Terepszemle
 
 A ház lakótere elkészült, és nagyon tetszett ahogy felújítottuk.  
 Olyan lett az otthonunk, ahova munka után örömmel tértünk haza.
