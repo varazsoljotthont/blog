@@ -9,7 +9,7 @@ image:
   width: 300
 ---
 
-**A házfelújítás során, az idő rövidsége miatt csak a lakótérre fókuszáltunk. Nem volt kapacitásunk sem az udvarra, sem a ház külsejére... De nem lehetett nem észrevenni, hogy milyen "lepusztult" körülöttünk minden. Kisebb-nagyobb munkák vártak ránk, hisz továbbra is tartottuk magunkat ahhoz, hogy nem fizetünk azért, amit mi is el tudunk végezni.** 
+**A házfelújítás során, az idő rövidsége miatt csak a lakótérre fókuszáltunk. Nem volt kapacitásunk sem az udvarra, sem a ház külsejére. Nem lehetett nem észrevenni, hogy milyen "lepusztult" körülöttünk minden. Kisebb-nagyobb munkák vártak ránk, hisz továbbra is tartottuk magunkat ahhoz, hogy nem fizetünk azért, amit mi is el tudunk végezni.** 
 
 
 
@@ -18,7 +18,7 @@ image:
 A ház lakótere elkészült, és nagyon tetszett ahogy felújítottuk.  
 Olyan lett az otthonunk, ahova munka után örömmel tértünk haza.
 
-...de ahogy megérkeztünk a ház elé és beléptünk az udvarra, szánalmas látvány fogadott bennünket...
+De ahogy megérkeztünk a ház elé és beléptünk az udvarra, szánalmas látvány fogadott bennünket...
 
 ![lámpás](/assets/külső-falak/IMG_20190325_174253.jpg)
 
@@ -79,7 +79,7 @@ A célunk az volt, hogy kint is megteremtsük azt a hangulatot, amit a házon be
 ![udvar](/assets/külső-falak/DSCF0048.JPG)
 _Ráfér a renoválás_
 
-![udvar](/assets/külső-falak/DSCF0836.JPG)
+![udvar](/assets/külső-falak/DSCF0835.JPG)
 _A falak már újra vakolva, és az asztal is  elkészült_
 
 
@@ -109,11 +109,20 @@ _Összetoldva minden darab, én pedig "antikolom" a széket a konyhai járólaph
 
 **Dörken lemez**
 
-A ház utcafrontján, és a szomszéd felőli oldalon is gondot jelentett a falakon felfelé igyekvő víz. 
+A ház utcafrontján, az udvar egy részénél és a szomszéd felőli oldalon is gondot jelentett a falakon felfelé igyekvő víz. 
 
-A ház alapjánál mindkét oldalon végig ásott a férjem, és dörken lemezt tett a ház alapjához. A visszatemetés után geotextíliát terítettünk le, arra pedig görgeteg kavicsot. 
+Ezért a ház mellett végig ásott a férjem, és dörken lemezt tett a ház alapjához. A visszatemetés után geotextíliát terítettünk le, arra pedig görgeteg kavicsot. 
 
-Szép is lett, jó is lett
+![udvar](/assets/külső-falak/DSCF1880.JPG)
+
+
+![udvar](/assets/külső-falak/DSCF1883.JPG)
+_A kavics segíti a vízelvezetést, és látványnak sem utolsó_
+
+
+
+Hatékonynak bizonyult a dörkenezés, és a kavics még széppé is tette ezt a részt.
+
 
 > Jó kis sport volt a férjemnek. Kőkemény, agyagos földdel dolgozott, megküzdött vele rendesen... De muszáj volt megcsinálni, és úgy tűnik, hogy érdemes is volt, hisz nincs vizesedés a házban.
 
