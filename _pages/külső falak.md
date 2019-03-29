@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ha már tavasz van, legyen tavasz... és dolgozzunk a ház külsején!" 
+title: "A kisebb munkák is fonotsak" 
 permalink: /külső falak/
 cover: /assets/külső falak/cover.jpg
 image:
