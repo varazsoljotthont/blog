@@ -20,7 +20,7 @@ Olyan lett az otthonunk, ahova munka után örömmel tértünk haza.
 
 De ahogy megérkeztünk a ház elé és beléptünk az udvarra, szánalmas látvány fogadott bennünket...
 
-![lámpás](/assets/külső-falak/IMG_20190325_174253.jpg)
+![lámpás](/assets/külső-falak/IMG_20190329_155523.jpg)
 
 
 Sivárság, hatalmas törmelék "hegy", hiányzó vakolat, rozsdás kapu, istálló. Bármerre néztünk, minden segítségért kiáltott. 
