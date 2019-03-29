@@ -138,7 +138,7 @@ A drótháló mintájú kerítést nem egyszerű festeni. Ecsettel kenve fröcs�
 Kis nyomozás után meg lett a tuti eszköz.  
 
 
-10 cm-es, szivacsos kis teddy hengert használtam, és maga volt a mennyország... Tisztán és nagyon gyoran lehet vele dolgozni, öröm volt vele a munka. 
+10 cm-es, szivacsos teddy hengert használtam, és maga volt a mennyország... Tisztán és nagyon gyoran lehet vele dolgozni, öröm volt vele a munka. 
 
 
 **Színt, virágokat az udvarra!**
