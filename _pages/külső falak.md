@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "A kisebb munkák is fonotsak" 
+title: "Fontos munkák a ház körül" 
 permalink: /külső falak/
 cover: /assets/külső falak/cover.jpg
 image:
