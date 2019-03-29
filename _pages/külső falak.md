@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Fontos munkák a ház körül" 
+title: "Nagy előrelépés kis munkával" 
 permalink: /külső falak/
 cover: /assets/külső falak/cover.jpg
 image:
@@ -83,7 +83,12 @@ Mindenféle szedett-vedett csatorna darabok lettek összerakva, csak minél hama
 
 
 ![udvar](/assets/külső-falak/DSCF0281.JPG)
-_Összetoldva minden darab, én pedig "antikolom" a széket a konyhai járólaphoz_
+_Összetoldva minden eresz darab, én pedig "antikolom" a széket a konyhai járólaphoz_
+
+([a járólapról itt olvashatsz](/2019-03-13/burkolatok))
+
+
+
 
 
 
