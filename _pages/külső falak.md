@@ -62,25 +62,6 @@ Varázspálcára lett volna szükségünk ahhoz, hogy rövid idő alatt látván
 Úgy döntöttünk, hogy szimultán csinálunk több dolgot, így mire újra beköszönt az ősz, több mindennel is elkészülünk.
 
 
-**Színt, virágokat az udvarra!**
-
-Soron kívüli szépészeti beavakozást hajtottam végre, hogy jobb kedvre derítsem a szomorú udvarunkat.
-
-Virágokat akartam, hogy legyen végre valami élet körülöttünk, ha odakint vagyunk. Mivel a kert és az udvar még nem volt kész a parkosításra, csak büdöske magot vetettem, és a járda szegélyhez azokat ültettem.
-
-Szerettem volna egy kinti asztalt, hogy a kávénkat a szabadban tudjuk meginni. Igaz, teraszunk még nem volt, de iyen kis apróság nem jelenthetett problémát.
-
-([az asztalról itt olvashatsz](/2019-02-12/varrogepasztal)) 
-
-
-
-A célunk az volt, hogy kint is megteremtsük azt a hangulatot, amit a házon belül már sikerült.
-
-![udvar](/assets/külső-falak/DSCF0048.JPG)
-_Ráfér a renoválás_
-
-![udvar](/assets/külső-falak/DSCF0835.JPG)
-_A falak már újra vakolva, és az asztal is  elkészült_
 
 
 
@@ -158,6 +139,27 @@ Kis nyomozás után meg lett a tuti eszköz.
 
 
 10 cm-es, szivacsos kis teddy hengert használtam, és maga volt a mennyország... Tisztán és nagyon gyoran lehet vele dolgozni, öröm volt vele a munka. 
+
+
+**Színt, virágokat az udvarra!**
+
+Soron kívüli szépészeti beavakozást hajtottam végre, hogy jobb kedvre derítsem a szomorú udvarunkat.
+
+Virágokat akartam, hogy legyen végre valami élet körülöttünk, ha odakint vagyunk. Mivel a kert és az udvar még nem volt kész a parkosításra, csak büdöske magot vetettem, és a járda szegélyhez azokat ültettem.
+
+Szerettem volna egy kinti asztalt, hogy a kávénkat a szabadban tudjuk meginni. Igaz, teraszunk még nem volt, de iyen kis apróság nem jelenthetett problémát.
+
+([az asztalról itt olvashatsz](/2019-02-12/varrogepasztal)) 
+
+
+
+A célunk az volt, hogy kint is megteremtsük azt a hangulatot, amit a házon belül már sikerült.
+
+![udvar](/assets/külső-falak/DSCF0048.JPG)
+_Ráfér a renoválás_
+
+![udvar](/assets/külső-falak/DSCF0835.JPG)
+_A falak már újra vakolva, és az asztal is  elkészült_
 
 
 
