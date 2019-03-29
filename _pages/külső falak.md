@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Kis lépések a régi házunk állagának megóvásért" 
-permalink: /külső falak/
+permalink: /állagmegóvás/
 cover: /assets/külső falak/cover.jpg
 image:
   path: /assets/külső falak/cover.jpg
