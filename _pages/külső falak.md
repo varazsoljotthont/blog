@@ -65,7 +65,7 @@ Varázspálcára lett volna szükségünk ahhoz, hogy rövid idő alatt látván
 
 
 
-## Uccu neki, kezdjük el!
+## Uccu neki!
 
 
 **Ereszcsatorna**
