@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Nagy előrelépés kis munkával" 
+title: "Kis lépések, nagy változások" 
 permalink: /külső falak/
 cover: /assets/külső falak/cover.jpg
 image:
