@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Kis lépések, nagy változások" 
+title: "Kis lépések a régi házunk állagának megóvásért" 
 permalink: /külső falak/
 cover: /assets/külső falak/cover.jpg
 image:
