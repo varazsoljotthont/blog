@@ -9,7 +9,7 @@ image:
   width: 300
 ---
 
-**Régi házunk felújítása során, az idő rövidsége miatt csak a lakótérre fókuszáltunk. Nem volt kapacitásunk sem az udvarra, sem a ház külsejére. De nem lehetett nem észrevenni, hogy milyen "lepusztult" körülöttünk minden. Kisebb-nagyobb munkák vártak ránk, hisz továbbra is tartottuk magunkat ahhoz, hogy nem fizetünk azért, amit mi is el tudunk végezni.** 
+**Régi házunk felújítása során az idő rövidsége miatt, csak a lakótérre fókuszáltunk. Nem volt kapacitásunk sem az udvarra, sem a ház külsejére. De nem lehetett nem észrevenni, hogy milyen "lepusztult" körülöttünk minden. Kisebb-nagyobb munkák vártak ránk, hisz továbbra is tartottuk magunkat ahhoz, hogy nem fizetünk azért, amit mi is el tudunk végezni.** 
 
 
 
@@ -83,7 +83,7 @@ Mindenféle szedett-vedett csatorna darabok lettek összerakva, csak minél hama
 
 
 ![udvar](/assets/külső-falak/DSCF0281.JPG)
-_Összetoldva minden eresz darab, én pedig "antikolom" a széket a konyhai járólaphoz_
+_Összetoldva minden régi eresz darab, én pedig "antikolom" a széket a konyhai járólaphoz_
 
 ([a járólapról itt olvashatsz](/2019-03-13/burkolatok))
 
