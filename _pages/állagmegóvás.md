@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Fontos lépések régi házunk állagmegóvásért" 
+title: "Fontos lépések régi házunk állagmegóvásáért" 
 permalink: /állagmegóvás/
 cover: /assets/külső falak/cover.jpg
 image:
@@ -9,14 +9,14 @@ image:
   width: 300
 ---
 
-**Régi házunk felújítása során, az idő rövidsége miatt csak a lakótérre fókuszáltunk. Nem volt kapacitásunk sem az udvarra, sem a ház külsejére. De nem lehetett nem észrevenni, hogy milyen "lepusztult" körülöttünk minden. Kisebb-nagyobb munkák vártak ránk, hisz továbbra is tartottuk magunkat ahhoz, hogy nem fizetünk azért, amit mi is el tudunk végezni.** 
+**Régi házunk felújítása során,  - az idő rövidsége miatt - csak a belsőtérre fókuszáltunk. Nem volt kapacitásunk sem az udvarra, sem a ház külsejére. De nem lehetett nem észrevenni, hogy milyen "lepusztult" körülöttünk minden. Kisebb-nagyobb munkák vártak ránk, hisz továbbra is tartottuk magunkat ahhoz, hogy nem fizetünk azért, amit mi is el tudunk végezni.** 
 
 
 
 ## Terepszemle
 
 A ház lakótere elkészült, és nagyon tetszett ahogy felújítottuk.  
-Olyan lett az otthonunk, ahova munka után örömmel tértünk haza.
+Olyan lett az otthonunk, ahova munka után örömmel térünk haza.
 
 De ahogy megérkeztünk a ház elé és beléptünk az udvarra, szánalmas látvány fogadott bennünket...
 
@@ -25,7 +25,7 @@ De ahogy megérkeztünk a ház elé és beléptünk az udvarra, szánalmas látv
 
 Sivárság, hatalmas törmelék "hegy", hiányzó vakolat, rozsdás kapu, istálló. Bármerre néztünk, minden segítségért kiáltott. 
 
-És mi, mint akik elfelejtették a felújítással járó küzdelmeket, újra tettre készek voltunk.
+És mi, mint akik elfelejtették a felújítással járó küzdelmeket, újra tettrekészek voltunk.
 
 Az időjárás nekünk kedvezett, (benne jártunk a tavaszban) így elsőkörben felmértük az elvégzendő munkákat:
 
@@ -55,9 +55,7 @@ Az időjárás nekünk kedvezett, (benne jártunk a tavaszban) így elsőkörben
 
 ## Mivel kezdjük?
 
-Igyekeztünk felállítani a fontossági sorrendet, de nem igazán sikerült. 
-
-Varázspálcára lett volna szükségünk ahhoz, hogy rövid idő alatt látványos változást érjünk el.
+Igyekeztünk felállítani a fontossági sorrendet, de varázspálcára lett volna szükségünk ahhoz, hogy látványos változást érjünk el.
 
 Úgy döntöttünk, hogy szimultán csinálunk több dolgot, így mire beköszönt az ősz, több mindennel is elkészülünk.
 
@@ -143,7 +141,7 @@ A drótháló mintájú kerítést nem egyszerű festeni. Ecsettel kenve fröcs�
 Kis nyomozás után meg lett a tuti eszköz.  
 
 
-10 cm-es, szivacsos teddy hengert használtam, és maga volt a mennyország... Tisztán és nagyon gyoran lehet vele dolgozni, öröm volt vele a munka. 
+10 cm-es, szivacsos teddy hengert használtam, és maga volt a mennyország... Tisztán és nagyon gyorsan lehet vele dolgozni, öröm volt vele a munka. 
 
 
 **Színt, virágokat az udvarra!**
@@ -186,7 +184,7 @@ Ugye, hogy sokat jelent?_
 
  
  **+ 1 gondolat:**  
-Néhány virág az udvaron ápolja a lelket, oldja a kopárságot. Ez biztos! Táplálja a reményt, hogy egyszer szép udvarunk lesz, és a nő majd virág is a lucerna helyett.
+Ez biztos!Néhány virág az udvaron ápolja a lelket, oldja a kopárságot.  Táplálja a reményt, hogy egyszer szép udvarunk lesz, és nő majd virág is a lucerna helyett.
 
 ## Kapcsolódó cikkek
 
