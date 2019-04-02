@@ -100,7 +100,7 @@ Ezért a ház mellett végig ásott a férjem, és dörken lemezt tett a ház al
 ![udvar](/assets/külső-falak/DSCF1835.jpg)  
 
 
-![udvar](/assets/külső-falak/DSCF1883.jpg)
+![udvar](/assets/külső-falak/kavics.jpg)
 _A kavics segíti a vízelvezetést, és látványnak sem utolsó_
 
 
