@@ -9,14 +9,15 @@ image:
   width: 300
 ---
 
-**Régi házunk felújítása során,  - az idő rövidsége miatt - csak a belsőtérre fókuszáltunk. Nem volt kapacitásunk sem az udvarra, sem a ház külsejére. De nem lehetett nem észrevenni, hogy milyen "lepusztult" körülöttünk minden. Kisebb-nagyobb munkák vártak ránk, hisz továbbra is tartottuk magunkat ahhoz, hogy nem fizetünk azért, amit mi is el tudunk végezni.** 
+**Régi házunk felújítása során, - az idő rövidsége miatt - csak a belsőtérre fókuszáltunk. Nem volt kapacitásunk sem az udvarra, sem a ház külsejére. Szinte zavaró volt, hogy milyen "lepusztult" körülöttünk minden. Kisebb-nagyobb munkák vártak ránk, hisz továbbra is tartottuk magunkat ahhoz, hogy nem fizetünk azért, amit mi is el tudunk végezni.** 
 
 
 
 ## Terepszemle
 
-A ház lakótere elkészült, és nagyon tetszett ahogy felújítottuk.  
-Olyan lett az otthonunk, ahova munka után örömmel térünk haza.
+A ház lakótere elkészült. 
+
+És olyan lett az otthonunk, ahova munka után a mai napig örömmel térünk haza.
 
 De ahogy megérkeztünk a ház elé és beléptünk az udvarra, szánalmas látvány fogadott bennünket...
 
@@ -71,7 +72,7 @@ Igyekeztünk felállítani a fontossági sorrendet, de varázspálcára lett vol
 
 A házon sajnos nem volt ereszcsatorna. A tetőről lefolyó víz a ház alapjához került, amitől nem voltunk túl boldogok. Minél hamarabb meg kellett oldani a víz elvezetését. 
 
-Egy jóbarátunktól kaptunk kölcsön egy régi, félretett előtetőt. Nagyon nagy segítség volt. Védte a bejárati ajtót, és erre már rá tudta vezetni az esővizet a férjem.
+Egy jóbarátunktól kaptunk kölcsön egy régi, félretett előtetőt, ami nagyon nagy segítség volt. Védte a bejárati ajtót, és erre már rá lehetett vezetni az esővizet.
 
 > Legalább olyan "esztétikus" volt mint a ház, így tökéletesen bepasszolt hozzánk.   
 Még a színe is. A váz zöld, mint a nyílászárók, a műanyag pedig sárga, mint a vakolat. Fontos dolgok ezek egy szín mániásnak...
