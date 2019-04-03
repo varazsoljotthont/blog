@@ -15,7 +15,7 @@ image:
 
 ## Terepszemle
 
-A ház lakótere elkészült. 
+A házunk felújításával, átalakításával végeztünk. 
 
 És olyan lett az otthonunk, ahova munka után a mai napig örömmel térünk haza.
 
@@ -139,7 +139,7 @@ _Látványos a különbség_
 
 
 A drótháló mintájú kerítést nem egyszerű festeni. Ecsettel kenve fröcsög mindenfelé, és még lassú is.  
-Kis nyomozás után meg lett a tuti eszköz.  
+Kis nyomozás után találtam rá a tuti eszközre.  
 
 
 10 cm-es, szivacsos teddy hengert használtam, és maga volt a mennyország... Tisztán és nagyon gyorsan lehet vele dolgozni, öröm volt vele a munka. 
