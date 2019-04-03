@@ -185,7 +185,7 @@ Ugye, hogy sokat jelent?_
 
  
  **+ 1 gondolat:**  
-Ez biztos!Néhány virág az udvaron ápolja a lelket, oldja a kopárságot.  Táplálja a reményt, hogy egyszer szép udvarunk lesz, és nő majd virág is a lucerna helyett.
+Néhány virág az udvaron ápolja a lelket, oldja a kopárságot. Táplálja a reményt, hogy egyszer szép udvarunk lesz, és nő majd virág is a lucerna helyett.
 
 ## Kapcsolódó cikkek
 
