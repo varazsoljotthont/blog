@@ -8,7 +8,7 @@ image:
   width: 300
 ---
 
-**Régi házunk felújítása során, - az idő rövidsége miatt - csak a belsőtérre fókuszáltunk. Nem volt kapacitásunk sem az udvarra, sem a ház külsejére. Szinte zavaró volt, hogy milyen "lepusztult" körülöttünk minden. Kisebb-nagyobb munkák vártak ránk, hisz továbbra is tartottuk magunkat ahhoz, hogy nem fizetünk azért, amit mi is el tudunk végezni.** 
+**Régi házunk felújítása során, - az idő rövidsége miatt - csak a belső térre fókuszáltunk. Nem volt kapacitásunk sem az udvarra, sem a ház külsejére. Szinte zavaró volt, hogy milyen "lepusztult" körülöttünk minden. Kisebb-nagyobb munkák vártak ránk, hisz továbbra is tartottuk magunkat ahhoz, hogy nem fizetünk azért, amit mi is el tudunk végezni.** 
 
 
 
@@ -27,7 +27,7 @@ Sivárság, hatalmas törmelék "hegy", hiányzó vakolat, rozsdás kapu, istál
 
 És mi, mint akik elfelejtették a felújítással járó küzdelmeket, újra tettrekészek voltunk.
 
-Az időjárás nekünk kedvezett, (benne jártunk a tavaszban) így elsőkörben felmértük az elvégzendő munkákat:
+Az időjárás nekünk kedvezett, (benne jártunk a tavaszban) így első körben felmértük az elvégzendő munkákat:
 
 
 
@@ -119,7 +119,7 @@ Már az is sokat dobott a látványon, hogy egységes felületet kapott a ház. 
 
 Közben pakoltuk a sok-sok mindent, ami a felújítás során keletkezett.
 
-Szoktuk mondani, hogy mi mindig mindent legalább háromszor megfogunk, mire a a helyére kerül. 
+Szoktuk mondani, hogy mi mindig mindent legalább háromszor megfogunk, mire a helyére kerül. 
 
 ![udvar](/assets/külső-falak/IMG_20190326_184017.jpg)
 _Udvaron káosz, a kertben pedig lucerna_
