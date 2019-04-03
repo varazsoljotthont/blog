@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Fontos lépések régi házunk állagmegóvásáért" 
-cover: /assets/külső falak/cover.JPG
+cover: /assets/külső-falak/cover.JPG
 image:
-  path: /assets/külső falak/cover.JPG
+  path: /assets/külső-falak/cover.JPG
   height: 300
   width: 300
 ---
