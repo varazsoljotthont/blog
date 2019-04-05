@@ -8,6 +8,7 @@ permalink: /rolam/
 <br>
 
 <h3>Szeretettel köszöntök mindenkit a Varázsolj otthont blogon.</h3>
+<br>
 
 <img src="/assets/rolam/énjav.jpg" style="float:right; margin-top:-48px;">
 
