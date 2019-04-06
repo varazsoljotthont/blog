@@ -9,7 +9,7 @@ image:
   width: 300
 ---
 
-**A régen, a falusi házakhoz hozzátartoztak az ólak, az istállók. A "Miházunknál" is így volt. A ház első része a volt lakóépület, a hátsó az istálló, az udvaron pedig a tyúkól. Szeretjük a csendes falusi életet, de azért állattartást - néhány cicán kívül - már nem terveztünk.** 
+**A régen a falusi házakhoz hozzátartoztak az ólak, az istállók. A "Miházunknál" is így volt. A ház első része a volt lakóépület, a hátsó az istálló, az udvaron pedig a tyúkól. Szeretjük a csendes falusi életet, de azért állattartást - néhány cicán kívül - már nem terveztünk.** 
 
 
 
@@ -19,7 +19,7 @@ Talán ma már fura, hogy a régi időkben a haszonállatok ennyire közel volta
 
 Mindez pár méterre egymástól.
 
-> Az hozzá tartozik az igazsághoz, hogy jó ideje nem tartottak már mást a háznál, csak tyúkokat. Az istálló helyén egy nagy,tiszta  helyiség volt, ami érdemes volt a továbbgondolásra.
+
 
 Mikor megvettük a házat, pont ezt a közelséget akartuk kihasználni.
 
