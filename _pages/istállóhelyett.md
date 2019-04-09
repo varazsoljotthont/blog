@@ -35,25 +35,17 @@ Az átalakítás során a beltérben már nyitottunk egy ajtót az istálló fel
 Miután február végén beköltöztünk, szembesültünk azzal, hogy a ház kívülről elég rémesen fest. 
 ([itt olvashatod](/2019-04-03/állagmegóvás)) Ahogy beköszöntött a jobb idő, megkezdtük a tatarozást is.
 
+> Igen, megint csak ketten szerettük volna elvégezni a munkálatokat... Sokkal több mindent meg lehet oldani házilag, mint azt először gondolnánk. Kétszer két kéz nagyon sokra képes, ha meg van a kellő elszántság is.
 
 
-* összepakolni a sok lomot
-* leverni a régi vakolatot
-* felrakni az ereszcsatornát
-* dörken lemezt leásni
-* újra vakolni a házat
-* az istálló falát rendbehozni
-* az udvart megrendezni
-* teraszt építeni
-* a melléképülettel kezdeni valamit
-* virágágyásokat kialakítani
-* kaput, kerítést festeni
-* tyúkházat és az udvarát "újragondolni"
-* a háztetőt renoválni
+![kamra](/assets/istállóhelyett/DSCF9939.JPG)
 
 
 
-És persze továbbra is szakemberek nélkül, ketten akartuk elvégezni a feladatokat.
+Már írtam róla ([itt](/2019-02-18/afalak)), hogy régen sármaltert használtak falazáskor. Biztos, így volt olcsóbb, de azért a cement hiányzik a falakból. 
+
+A férjem egy ácskapoccsal soronként kikaparta a régi maltert a téglák közül, hogy a "rendes" vakolóanyag minél mélyebbre kerüljön a téglák közé.
+Volt vele munkája. De fontosnak érezte, hogy stabilabb legyen a falazat.
 
 
 
