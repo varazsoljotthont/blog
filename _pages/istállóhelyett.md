@@ -15,7 +15,7 @@ image:
 
 ## Istálló
 
-Talán ma már fura, hogy a régi időkben a haszonállatok ennyire közel voltak a lakótérhez. Bejárati ajtó, ablak, istálló ablak, majd az istállóajtó. 
+Talán ma már fura, hogy a régi időkben a haszonállatok ennyire közel éltek a lakótérhez. Bejárati ajtó a házra, ablak, istálló ajtó, majd egy szellőző ablak. 
 
 Mindez pár méterre egymástól.
 
@@ -31,11 +31,9 @@ Az átalakítás során a beltérben már nyitottunk egy ajtót az istálló fel
 ![kamra](/assets/istállóhelyett/DSCF9939.JPG)
 
 ## Először a ház külsejét alakítottuk át.
-Sivárság, hatalmas törmelék "hegy", hiányzó vakolat, rozsdás kapu, istálló. Bármerre néztünk, minden segítségért kiáltott. 
 
-És mi, mint akik elfelejtették a felújítással járó küzdelmeket, újra tettrekészek voltunk.
-
-Az időjárás nekünk kedvezett, (benne jártunk a tavaszban) így elsőkörben felmértük az elvégzendő munkákat:
+Miután február végén beköltöztünk, szembesültünk azzal, hogy a ház kívülről elég rémesen fest. 
+([itt olvashatod](/2019-04-03/állagmegóvás)) Ahogy beköszöntött a jobb idő, megkezdtük a tatarozást is.
 
 
 
