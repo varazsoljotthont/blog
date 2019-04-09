@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Ez aztán a látványos változás!" 
-permalink: /átváltozás/
-cover: /assets/átváltozás/cover.jpg
+permalink: /külsőfalak/
+cover: /assets/istállóhelyett/cover.jpg
 image:
-  path: /assets/átváltozás/cover.jpg
+  path: /assets/külsőfalak/cover.jpg
   height: 300
   width: 300
 ---
