@@ -15,40 +15,40 @@ image:
 
 ## Istálló
 
-Talán ma már fura, hogy a régi időkben a haszonállatok ennyire közel éltek a lakótérhez. Bejárati ajtó a házra, ablak, istálló ajtó, majd egy szellőző ablak. 
-
-Mindez pár méterre egymástól.
-
+Talán ma már fura, hogy a régi időkben a haszonállatok ennyire közel éltek a lakótérhez. 
+Bejárati ajtó a házra, ablak, istálló ajtó, majd egy szellőző ablak. Mindez pár méterre egymástól.
 
 
-Mikor megvettük a házat, pont ezt a közelséget akartuk kihasználni.
 
-Az átalakítás során a beltérben már nyitottunk egy ajtót az istálló felé, hogy majd a mosókonyhát, kamrát, kazánházat ott alakítsuk ki.
+A ház átalakításakor épp ezt a közelséget akartuk kihasználni.
 
-> Az hozzá tartozik az igazsághoz, hogy jó ideje nem tartottak már mást a háznál, csak tyúkokat. Az istálló helyén egy nagy, tiszta  helyiség volt, ami érdemes volt a továbbgondolásra.
+Az felújítás során a beltérben már nyitottunk egy ajtót az istálló felé, hogy majd a mosókonyhát, kamrát, kazánházat ott alakítsuk ki.
+
+> Az hozzá tartozik az igazsághoz, hogy jó ideje nem tartottak már mást a háznál, csak tyúkokat. Az istálló helyén egy nagy, rendezett  helyiség volt, ami érdemes volt a tovább gondolásra.
 
 
 ![kamra](/assets/istállóhelyett/DSCF9939.JPG)
 
 ## Először a ház külsejét alakítottuk át.
 
-Miután február végén beköltöztünk, szembesültünk azzal, hogy a ház kívülről elég rémesen fest. 
-([itt olvashatod](/2019-04-03/állagmegóvás)) Ahogy beköszöntött a jobb idő, megkezdtük a tatarozást is.
+Miután február végén beköltöztünk, szembesültünk azzal, hogy a ház kívülről rémesen fest. 
+([itt olvashatod](/2019-04-03/állagmegóvás)) Így hát, ahogy beköszöntött a jobb idő, megkezdtük a ház tatarozását is.
 
-> Igen, megint csak ketten szerettük volna elvégezni a munkálatokat... Sokkal több mindent meg lehet oldani házilag, mint azt először gondolnánk. Kétszer két kéz nagyon sokra képes, ha meg van a kellő elszántság is.
+> Igen, megint csak ketten szerettük volna elvégezni a munkálatokat... Sokkal több mindent meg lehet oldani házilag, mint azt először gondolnánk. Kétszer két kéz nagyon sokra képes, ha meg van a kellő elszántság.
 
 
 ![kamra](/assets/istállóhelyett/DSCF9939.JPG)
 
 
 
-Már írtam róla ([itt](/2019-02-18/afalak)), hogy régen sármaltert használtak falazáskor. Biztos, így volt olcsóbb, de azért a cement hiányzik a falakból. 
+Már írtam róla ([itt](/2019-02-18/afalak)), hogy régen sármaltert használtak falazáskor. Biztos így volt olcsóbb, de azért a cement hiányzott a falakból. 
 
-A férjem egy ácskapoccsal soronként kikaparta a régi maltert a téglák közül, hogy a "rendes" vakolóanyag minél mélyebbre kerüljön a téglák közé.
-Volt vele munkája. De fontosnak érezte, hogy stabilabb legyen a falazat.
+A férjem egy ácskapoccsal soronként kikaparta a régi maltert a fuga közökből, hogy a "rendes" vakolóanyag minél mélyebbre kerüljön a téglák közé.
+Volt vele munkája. De fontosnak érezte megcsinálni, hogy stabilabb legyen a falazat.
 
 
-
+![kamra](/assets/istállóhelyett/DSCF0695.JPG)
+_Ha már a magasban járt, akkor egy kis tetőjavítás is belefért_
 
 
 ## Mivel kezdjük?
