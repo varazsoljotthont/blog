@@ -9,7 +9,7 @@ image:
   width: 300
 ---
 
-**A régen a falusi házakhoz hozzátartoztak az ólak, az istállók. Ez a  "Miházunknál" is így volt. A ház első része a volt lakóépület, a hátsó az istálló, az udvaron pedig a tyúkól. Szeretjük a csendes falusi életet, de azért állattartást - néhány cicán kívül - már nem terveztünk.** 
+**A régen a falusi házakhoz hozzá tartoztak az ólak, az istállók. Ez a  "Miházunknál" is így volt. A ház első része a volt lakóépület, a hátsó az istálló, az udvaron pedig a tyúkól. Szeretjük a csendes falusi életet, de azért állattartást - néhány cicán kívül - már nem terveztünk.** 
 
 
 
