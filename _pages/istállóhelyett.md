@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Van egy jobb ötletünk az istálló helyett" 
+title: "Ez aztán a látványos változás!" 
 permalink: /átváltozás/
 cover: /assets/átváltozás/cover.jpg
 image:
@@ -9,13 +9,13 @@ image:
   width: 300
 ---
 
-**A régen a falusi házakhoz hozzátartoztak az ólak, az istállók. A "Miházunknál" is így volt. A ház első része a volt lakóépület, a hátsó az istálló, az udvaron pedig a tyúkól. Szeretjük a csendes falusi életet, de azért állattartást - néhány cicán kívül - már nem terveztünk.** 
+**A régen a falusi házakhoz hozzátartoztak az ólak, az istállók. Ez a  "Miházunknál" is így volt. A ház első része a volt lakóépület, a hátsó az istálló, az udvaron pedig a tyúkól. Szeretjük a csendes falusi életet, de azért állattartást - néhány cicán kívül - már nem terveztünk.** 
 
 
 
 ## Istálló
 
-Talán ma már fura, hogy a régi időkben a haszonállatok ennyire közel voltak a lakótérhez. Bejárati ajtó, ablak, istálló ablak, majd az ajtó. 
+Talán ma már fura, hogy a régi időkben a haszonállatok ennyire közel voltak a lakótérhez. Bejárati ajtó, ablak, istálló ablak, majd az istállóajtó. 
 
 Mindez pár méterre egymástól.
 
@@ -23,14 +23,14 @@ Mindez pár méterre egymástól.
 
 Mikor megvettük a házat, pont ezt a közelséget akartuk kihasználni.
 
-Az átalakítás során már nyitottunk egy ajtót az istálló felé, hogy majd a mosókonyhát, kamrát, kazánházat ott alakítsuk ki.
+Az átalakítás során a beltérben már nyitottunk egy ajtót az istálló felé, hogy majd a mosókonyhát, kamrát, kazánházat ott alakítsuk ki.
 
-> Az hozzá tartozik az igazsághoz, hogy jó ideje nem tartottak már mást a háznál, csak tyúkokat. Az istálló helyén egy nagy,tiszta  helyiség volt, ami érdemes volt a továbbgondolásra.
-
-
-![lámpás](/assets/külső-falak/IMG_20190329_155523.jpg)
+> Az hozzá tartozik az igazsághoz, hogy jó ideje nem tartottak már mást a háznál, csak tyúkokat. Az istálló helyén egy nagy, tiszta  helyiség volt, ami érdemes volt a továbbgondolásra.
 
 
+![kamra](/assets/istállóhelyett/DSCF9939.JPG)
+
+## Először a ház külsejét alakítottuk át.
 Sivárság, hatalmas törmelék "hegy", hiányzó vakolat, rozsdás kapu, istálló. Bármerre néztünk, minden segítségért kiáltott. 
 
 És mi, mint akik elfelejtették a felújítással járó küzdelmeket, újra tettrekészek voltunk.
