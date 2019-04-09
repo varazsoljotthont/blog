@@ -36,7 +36,7 @@ Miután február végén beköltöztünk, szembesültünk azzal, hogy a ház kí
 
 > Igen, megint csak ketten szerettük volna elvégezni a munkálatokat... Sokkal több mindent meg lehet oldani házilag, mint azt először gondolnánk. Kétszer két kéz nagyon sokra képes, ha meg van a kellő elszántság.
 
-[idézet](/assets/istállóhelyett/IMG_20190409_193936.jpg)
+![idézet](/assets/istállóhelyett/IMG_20190409_193936.jpg)
 
 
 
