@@ -62,12 +62,12 @@ Volt vele munkája, de fontosnak érezte megcsinálni, hogy stabilabb legyen a f
 ![kamra](/assets/istállóhelyett/DSCF0695.JPG)
 _Látszik, hogy hol van kikaparva a fuga, és ha már a magasban járt, akkor egy kis tetőjavítás is belefért_
 
-## Felosztottuk a feladatokat
+## Felosztottuk a ránk váró munkát
 
 
-Megbeszéltük a férjemmel a feladatokat. Megint csak Ő lett kőműves, én pedig a segédmunkás. A férjem a felújítás során már megszerezte  a gyakorlatot a vakolásban, és az sem utolsó szempont, hogy nincs tériszonya. Velem ellentétben...
+Megbeszéltük a férjemmel a feladatokat. Megint csak ő lett kőműves, én pedig a segédmunkás. A férjem a felújítás során már megszerezte  a gyakorlatot a vakolásban, és az sem utolsó szempont, hogy nincs tériszonya. Velem ellentétben...
 
-Az előfröcsköléssel indult a munka. Ezt a fázist nem lehet kihagyni. Portalanítja a felületet, és segíti a vakolóanyag tapadását.
+Az előfröcsköléssel indult a projekt. Ezt a fázist nem lehet kihagyni. Előkészíti a falak felületét, és segíti a vakolóanyag tapadását.
 
 ![betonkeverő](/assets/istállóhelyett/DSCF0697.JPG)
 
@@ -100,16 +100,8 @@ Az egyik, hogy minden keverést át kellett rostálnom, hogy a nagyobb darabok n
 
 **A vakolás**
 
+Lapátoltam az anyagot a keverőbe
 
-A házon sajnos nem volt ereszcsatorna. A tetőről lefolyó víz a ház alapjához került, amitől nem voltunk túl boldogok. Minél hamarabb meg kellett oldani a víz elvezetését. 
-
-Egy jóbarátunktól kaptunk kölcsön egy régi, félretett előtetőt, ami nagyon nagy segítség volt. Védte a bejárati ajtót, és erre már rá lehetett vezetni az esővizet.
-
-> Legalább olyan "esztétikus" volt mint a ház, így tökéletesen bepasszolt hozzánk.   
-Még a színe is. A váz zöld, mint a nyílászárók, a műanyag pedig sárga, mint a vakolat. Fontos dolgok ezek egy szín mániásnak...
-
-
-Mindenféle szedett-vedett csatorna darabok lettek összerakva, csak minél hamarabb megoldódjon a probléma. Hatalmas sikerként éltük meg, hogy megakadályoztuk a falak vizesedédét. 
 
 
 ![udvar](/assets/külső-falak/DSCF0281.JPG)
