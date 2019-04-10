@@ -87,7 +87,7 @@ Ez két okból is komoly probléma volt.
 
 Az egyik, hogy minden keverést át kellett rostálnom, hogy a nagyobb darabok ne kerüljenek bele az anyagba. A másik, hogy akárhogy is akartuk, nem lehetett vele tökéletesen dolgozni. 
 
-> Kemény munka volt mindkettőnknek. Mire végeztünka falakkal komoly izomzatra tettem szert. A csuklóm annyit erősödött, hogy "kinőttem" a karórámat. De hát, valamit valamiért...
+> Kemény munka volt mindkettőnknek. Mire végeztünk a falakkal komoly izomzatra tettem szert. A csuklóm annyit erősödött, hogy "kinőttem" a karórámat. De hát valamit valamiért...
 
 (A szomszédunk mondta rám, hogy feketeöves culáger vagyok, azóta is nevetve emlegetjük, hogy mennyire igaza volt)
 
@@ -98,7 +98,7 @@ Az egyik, hogy minden keverést át kellett rostálnom, hogy a nagyobb darabok n
 ## Végre! Eltűnik a tégla!
 
 
-**Ereszcsatorna**
+**A vakolás**
 
 
 A házon sajnos nem volt ereszcsatorna. A tetőről lefolyó víz a ház alapjához került, amitől nem voltunk túl boldogok. Minél hamarabb meg kellett oldani a víz elvezetését. 
