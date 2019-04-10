@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Ez aztán a látványos változás!" 
+title: "Ez aztán a látványos változás lett!" 
 permalink: /külsőfalak/
 cover: /assets/istállóhelyett/cover.jpg
 image:
-  path: /assets/külsőfalak/cover.jpg
+  path: /assets/istállóhelyett/cover.jpg
   height: 300
   width: 300
 ---
@@ -29,7 +29,7 @@ Az felújítás során a beltérben már nyitottunk egy ajtót az istálló fel�
 
 ![kamra](/assets/istállóhelyett/DSCF9939.JPG)
 
-## Először a ház külsejét alakítottuk át.
+## Először a ház külsejét alakítottuk át
 
 Miután február végén beköltöztünk, szembesültünk azzal, hogy a ház kívülről rémesen fest. 
 ([itt olvashatod](/2019-04-03/állagmegóvás)) Így hát, ahogy beköszöntött a jobb idő, megkezdtük a ház tatarozását is.
