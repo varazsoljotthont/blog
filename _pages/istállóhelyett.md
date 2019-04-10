@@ -114,7 +114,19 @@ _Halad a munka_
 ![udvar](/assets/istállóhelyett/DSCF0718.JPG)
 
 
+## Az istálló átalakulása
+
+
+Miután bevakoltuk a ház lakóterét, rátérhettünk az istállóra. 
+
 ![udvar](/assets/istállóhelyett/DSCF0737.JPG)
+_A követekező feladat az istálló megszüntetése_
+
+
+Ez a feladat már összetettebb volt. Felcseréltük az ajtó és ablak helyét, ami megintcsak a férjem köműves tudását igényelte. 
+
+
+![udvar](/assets/istállóhelyett/DSCF0743.JPG)
 _A követekező feladat az istálló megszüntetése_
 
 
