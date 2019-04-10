@@ -107,7 +107,7 @@ Lapátoltam az anyagot a keverőbe, onnan bele a talicskába, a talicskából a 
 ![udvar](/assets/istállóhelyett/DSCF0716.JPG)
 
 
-_Összetoldva minden régi eresz darab, én pedig "antikolom" a széket a konyhai járólaphoz_
+_Halad a munka_
 
 
 
