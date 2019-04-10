@@ -126,7 +126,7 @@ _A követekező feladat az istálló megszüntetése_
 Ez a feladat már összetettebb volt. Felcseréltük az ajtó és ablak helyét, ami megintcsak a férjem kőműves tudását igényelte. Falat kellett bontani, a régi ajtó helyét befalazni, áthidalót, majd az ablakot berakni. Ajtónak átmenetileg egy régi pajtaajtó féleséget raktunk be. Nem volt túl szép darab, de rövid távon kiegyeztem vele. Az ablakot bontásból vettük, de teljesen jó állapotban volt, és tartozott hozzá zsalugáter is. Átfestettem zöldre, és már be  is illett a "Miházunkba".
 
 
-> Nagyon tudatos voltam az ablakok vásárlásánál. Az utcai ablakokat egy helyi asztalos csinálta a terveim alapján, de a két udvarit használtan vettük. Osztott, a vidéki stílushoz hozzávalót választottam.
+> Nagyon tudatos voltam az ablakok vásárlásánál. Az utcai ablakokat egy helyi asztalos csinálta a terveim alapján, de a két udvarit használtan vettük. Fából készült, osztott, a vidéki stílushoz leginkább illőt választottam.
 
 
 ![udvar](/assets/istállóhelyett/DSCF0743.JPG)
