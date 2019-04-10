@@ -50,7 +50,7 @@ Miután február végén beköltöztünk, szembesültünk azzal, hogy a ház kí
 
 **Felkészülés a vakolásra**
 
-Már írtam róla ([itt](/2019-02-18/afalak)), hogy régen sármaltert használtak falazáskor. Biztos volt olcsóbb így, de azért a cement hiányzott a falakból. 
+Már írtam róla ([itt](/2019-02-18/afalak)), hogy régen sármaltert használtak falazáskor. Biztos olcsóbb volt így, de azért a cement hiányzott a falakból. 
 
 
 A férjem egy ácskapoccsal soronként kikaparta a régi maltert a fuga közökből, hogy a "rendes" vakolóanyag minél mélyebbre kerüljön a téglák közé.
