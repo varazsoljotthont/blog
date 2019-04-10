@@ -47,7 +47,7 @@ Volt vele munkája. De fontosnak érezte megcsinálni, hogy stabilabb legyen a f
 
 
 ![kamra](/assets/istállóhelyett/DSCF0695.JPG)
-_Ha már a magasban járt, akkor egy kis tetőjavítás is belefért_
+_Látszik, hogy hol van kikaparva a fuga, és ha már a magasban járt, akkor egy kis tetőjavítás is belefért_
 
 
 ## Mivel kezdjük?
