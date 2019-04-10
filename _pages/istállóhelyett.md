@@ -77,7 +77,7 @@ Az előfröcsköléssel indult a munka. Ezt a fázist nem lehet kihagyni. Portal
 
 
 
-Elmondta, hogy miből mennyit pakoljak a betonkeverőbe, és megkezdtük a munkát.  
+Egy gyorstalpaló keretein belül a férjem elmondta, hogy miből mennyit pakoljak a betonkeverőbe, és megkezdtük a munkát.  
 De nem volt egyszerű a dolog... 
 
 
@@ -85,7 +85,9 @@ Mikor a homokot hozattuk, nem kaptunk 0,2-es típusút, csak 0,4-est.
 
 Ez két okból is komoly probléma volt. 
 
-Az egyik, hogy minden keverést át kellett rostálnom, hogy a nagyobb darabok ne kerüljenek bele a malterbe. A másik, hogy akárhogy is akartuk, nem lehetett vele tökéletesen dolgozni. 
+Az egyik, hogy minden keverést át kellett rostálnom, hogy a nagyobb darabok ne kerüljenek bele az anyagba. A másik, hogy akárhogy is akartuk, nem lehetett vele tökéletesen dolgozni. 
+
+> Kemény munka volt mindkettőnknek. Mire végeztünka falakkal komoly izomzatra tettem szert. A csuklóm annyit erősödött, hogy "kinőttem" a karórámat. De hát, valamit valamiért...
 
 (A szomszédunk mondta rám, hogy feketeöves culáger vagyok, azóta is nevetve emlegetjük, hogy mennyire igaza volt)
 
@@ -93,7 +95,7 @@ Az egyik, hogy minden keverést át kellett rostálnom, hogy a nagyobb darabok n
 ![betonkeverő](/assets/istállóhelyett/DSCF0754.JPG)
 
 
-## Uccu neki!
+## Végre! Eltűnik a tégla!
 
 
 **Ereszcsatorna**
