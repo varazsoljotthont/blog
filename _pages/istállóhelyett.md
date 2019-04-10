@@ -29,7 +29,8 @@ Az felújítás során a beltérben már nyitottunk egy ajtót az istálló fel�
 
 ![kamra](/assets/istállóhelyett/DSCF9939.JPG)
 
-## Először a ház külsejét alakítottuk át
+**Ha van két kezünk nagy gond nem lehet**
+
 
 Miután február végén beköltöztünk, szembesültünk azzal, hogy a ház kívülről rémesen fest. 
 ([itt olvashatod](/2019-04-03/állagmegóvás)) Így hát, ahogy beköszöntött a jobb idő, megkezdtük a ház tatarozását is.
@@ -40,9 +41,21 @@ Miután február végén beköltöztünk, szembesültünk azzal, hogy a ház kí
 
 
 
+## Ketté osztottuk a feladatokat
+
+
+
+
+
+
+**Elsőként a bevakoltuk a lakórészt**
+
 Már írtam róla ([itt](/2019-02-18/afalak)), hogy régen sármaltert használtak falazáskor. Biztos így volt olcsóbb, de azért a cement hiányzott a falakból. 
 
+
 A férjem egy ácskapoccsal soronként kikaparta a régi maltert a fuga közökből, hogy a "rendes" vakolóanyag minél mélyebbre kerüljön a téglák közé.
+
+
 Volt vele munkája. De fontosnak érezte megcsinálni, hogy stabilabb legyen a falazat.
 
 
