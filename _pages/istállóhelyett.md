@@ -63,14 +63,24 @@ Volt vele munkája. De fontosnak érezte megcsinálni, hogy stabilabb legyen a f
 _Látszik, hogy hol van kikaparva a fuga, és ha már a magasban járt, akkor egy kis tetőjavítás is belefért_
 
 
-## Mivel kezdjük?
+**Barátom a betonkeverő**
 
-Igyekeztünk felállítani a fontossági sorrendet, de varázspálcára lett volna szükségünk ahhoz, hogy látványos változást érjünk el.
+Megbeszéltük a férjemmel a feladatokat. Megint csak Ő lesz kőműves, én pedig a segédmunkás. A férjem a felújítás során már megszerezte  a gyakorlatot a vakolásban, és az sem utolsó szempont, hogy nincs tériszonya. Velem ellentétben...
 
-Úgy döntöttünk, hogy szimultán csinálunk több dolgot, így mire beköszönt az ősz, több mindennel is elkészülünk.
+Elmondta, hogy miből mennyit pakoljak a betonkeverőbe, és megkezdtük a munkát.  
+De nem volt egyszerű a dolog... 
 
 
+Mikor a homokot hozattuk, nem kaptunk 0,2-es típusút, csak 0,4-est. 
 
+Ez két okból is komoly probléma volt. 
+
+Az egyik, hogy minden keverést át kellett rostálnom, hogy a nagyobb darabok ne kerüljenek bele a malterbe. A másik, hogy akárhogy is akartuk, nem lehetett vele tökéletesen dolgozni. 
+
+(A szomszédunk mondta rám, hogy feketeöves culáger vagyok, azóta is nevetve emlegetjük, hogy mennyire igaza volt)
+
+
+![betonkeverő](/assets/istállóhelyett/DSCF0754.JPG)
 
 
 ## Uccu neki!
