@@ -87,10 +87,6 @@ Ez két okból is komoly probléma volt.
 
 Az egyik, hogy minden keverést át kellett rostálnom, hogy a nagyobb darabok ne kerüljenek bele az anyagba. A másik, hogy akárhogy is akartuk, nem lehetett vele tökéletesen dolgozni. 
 
-> Kemény munka volt mindkettőnknek. Mire végeztünk a falakkal komoly izomzatra tettem szert. A csuklóm annyit erősödött, hogy "kinőttem" a karórámat. De hát valamit valamiért...
-
-(A szomszédunk mondta rám, hogy feketeöves culáger vagyok, azóta is nevetve emlegetjük, hogy mennyire igaza volt)
-
 
 ![betonkeverő](/assets/istállóhelyett/DSCF0754.JPG)
 
@@ -100,14 +96,23 @@ Az egyik, hogy minden keverést át kellett rostálnom, hogy a nagyobb darabok n
 
 **A vakolás**
 
-Lapátoltam az anyagot a keverőbe
+Lapátoltam az anyagot a keverőbe, onnan bele a talicskába, a talicskából a vödrökbe, amit kötéllel húzott fel a férjem az állásra. Eldolgozta, majd vödör le, és így tovább, míg nem végeztünk...
+
+> Kemény munka volt mindkettőnknek. Mire végeztünk a falakkal komoly izomzatra tettem szert. A csuklóm annyit erősödött, hogy "kinőttem" a karórámat. De hát valamit valamiért...
+
+(A szomszédunk mondta rám, hogy feketeöves culáger vagyok, azóta is nevetve emlegetjük, hogy mennyire igaza volt)
 
 
 
-![udvar](/assets/külső-falak/DSCF0281.JPG)
+![udvar](/assets/külső-falak/DSCF0716.JPG)
+
+
 _Összetoldva minden régi eresz darab, én pedig "antikolom" a széket a konyhai járólaphoz_
 
-([a járólapról itt olvashatsz](/2019-03-13/burkolatok))
+
+
+![udvar](/assets/külső-falak/DSCF0718.JPG)
+
 
 
 
