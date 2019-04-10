@@ -114,7 +114,8 @@ _Halad a munka_
 ![udvar](/assets/istállóhelyett/DSCF0718.JPG)
 
 
-
+![udvar](/assets/istállóhelyett/DSCF0737.JPG)
+_A követekező feladat az istálló megszüntetése_
 
 
 
