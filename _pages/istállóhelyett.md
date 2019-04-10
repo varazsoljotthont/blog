@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ez aztán a látványos változás lett!" 
+title: "Ez aztán a változás!" 
 permalink: /külsőfalak/
 cover: /assets/istállóhelyett/cover.jpg
 image:
@@ -41,31 +41,41 @@ Miután február végén beköltöztünk, szembesültünk azzal, hogy a ház kí
 
 
 
-## Ketté osztottuk a feladatokat
 
 
 
 
 
 
-**Elsőként a bevakoltuk a lakórészt**
 
-Már írtam róla ([itt](/2019-02-18/afalak)), hogy régen sármaltert használtak falazáskor. Biztos így volt olcsóbb, de azért a cement hiányzott a falakból. 
+**Felkészülés a vakolásra**
+
+Már írtam róla ([itt](/2019-02-18/afalak)), hogy régen sármaltert használtak falazáskor. Biztos volt olcsóbb így, de azért a cement hiányzott a falakból. 
 
 
 A férjem egy ácskapoccsal soronként kikaparta a régi maltert a fuga közökből, hogy a "rendes" vakolóanyag minél mélyebbre kerüljön a téglák közé.
 
 
-Volt vele munkája. De fontosnak érezte megcsinálni, hogy stabilabb legyen a falazat.
+Volt vele munkája, de fontosnak érezte megcsinálni, hogy stabilabb legyen a falazat.
 
 
 ![kamra](/assets/istállóhelyett/DSCF0695.JPG)
 _Látszik, hogy hol van kikaparva a fuga, és ha már a magasban járt, akkor egy kis tetőjavítás is belefért_
 
+## Felosztottuk a feladatokat
+
+
+Megbeszéltük a férjemmel a feladatokat. Megint csak Ő lett kőműves, én pedig a segédmunkás. A férjem a felújítás során már megszerezte  a gyakorlatot a vakolásban, és az sem utolsó szempont, hogy nincs tériszonya. Velem ellentétben...
+
+Az előfröcsköléssel indult a munka. Ezt a fázist nem lehet kihagyni. Portalanítja a felületet, és segíti a vakolóanyag tapadását.
+
+![betonkeverő](/assets/istállóhelyett/DSCF0697.JPG)
+
 
 **Barátom a betonkeverő**
 
-Megbeszéltük a férjemmel a feladatokat. Megint csak Ő lesz kőműves, én pedig a segédmunkás. A férjem a felújítás során már megszerezte  a gyakorlatot a vakolásban, és az sem utolsó szempont, hogy nincs tériszonya. Velem ellentétben...
+
+
 
 Elmondta, hogy miből mennyit pakoljak a betonkeverőbe, és megkezdtük a munkát.  
 De nem volt egyszerű a dolog... 
