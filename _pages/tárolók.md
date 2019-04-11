@@ -9,13 +9,13 @@ image:
   width: 300
 ---
 
- **Minden háztartásban szükség van tárolódobozokra, és a felhasználasuk az egész házra kiterjed. A stílusos otthonhoz készíthetünk stílusos tárolót 3+1 hozzávalóból: kartondoboz, spárga, ragasztó és egy kis varázslat. Csak ennyi kell** 
+ **Minden háztartásban szükség van tárolódobozokra, és a felhasználasuk az egész házra kiterjed. A stílusos otthonhoz készíthetünk stílusos tárolót 3+1 hozzávalóból: kartondoboz, spárga, ragasztó és egy kis varázslat. Csak ennyi kell.** 
 
 
 
 ## Tárolni kellene
 
-Nagyon szeretem "kiöltöztetni" a házunkat. Ünnepek előtt, évszakok váltásakor, és csak úgy is. Sok dekort készítettünk sajátkezűleg, és sok alapanyag is összegyűlt az évek alatt. Apró kis csecsebecsék, méterárú, és az épp használaton kívüli kincsek is vártak az őket megillető helyre.
+Nagyon szeretem "kiöltöztetni" a házunkat. Ünnepek előtt, évszakok váltásakor, és csak úgy is. Sok dekort készítettünk sajátkezűleg, és sok alapanyag össze is gyűlt az évek alatt. Apró kis csecsebecsék, méterárú, és az épp használaton kívüli kincsek is vártak az őket megillető helyre.
 
 Egyre erősebben jelentkezett részemrő az igény, hogy rendszerezve, esztétikusan tudjam tárolni a dolgaimat. Mikor a mosókonyha elkészült, lehetőségem és helyem lett elpakolni a sok-sok  mindent.
 ![kamra](/assets/istállóhelyett/DSCF9939.JPG)
@@ -24,7 +24,6 @@ Egyre erősebben jelentkezett részemrő az igény, hogy rendszerezve, esztétik
 
 ## Az ötlet, és a hozzávalók
 
-**Inspiráció**
 
 
 
@@ -39,11 +38,15 @@ A dobozok között vannak különböző méretűek, és erős, kemény falú, t�
 
 **Spárga**
 
-Még régebbről őrizgettünk - valamire biztos jó lesz, alapon - néhány guriga spárgát.
+Még régebbről őrizgettünk - valamire biztos jó lesz, alapon - néhány guriga spárgát. Adott volt hát a második alapanyag is.
 
 
 
+**Inspiráció**
 
+Jómagam is szeretek inspirálódni, nyitott szemmel járni, ötleteket szerezni. 
+
+Még valahol, valamikor láttam egy fotót egy bespárgázott üvegről, ami elindította az ötletet a tárolókkal kapcsolatban.
 
 
 
