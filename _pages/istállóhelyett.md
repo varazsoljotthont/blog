@@ -149,7 +149,7 @@ Apránként átalakult a hátsó rész is. Kezdte elveszíteni az istálló jell
 
 
 
-![udvar](/assets/istállóhelyett/DSCF0765.jpg)
+![udvar](/assets/istállóhelyett/DSCF0765.JPG)
 _Én így örültem, mikor végeztünk..._
 
 
