@@ -150,7 +150,8 @@ Ez a feladat már összetettebb volt. Felcseréltük az ajtó és ablak helyét,
 
 
  **+ 1 gondolat:**  
-Néhány virág az udvaron ápolja a lelket, oldja a kopárságot. Táplálja a reményt, hogy egyszer szép udvarunk lesz, és nő majd virág is a lucerna helyett.
+Mint írtam, nem sikerült túl szépen dolgozni a homok minősége miatt. Az utcafrontot már zsákosanyaggal csinálta a férjem. Kisebb volt a felület így ott megfizethető volt. Az elképzelésünk az volt, hogy fehér lesz majd a ház fala, ezért fehér színű anyagot vettünk. Ezzel a lépéssel sikerült elérni, hogy a ház "köszönő fele" már a vakolás után is szép volt. Ha nem is hófehér, de legalább nem cement színű.
+
 
 ## Kapcsolódó cikkek
 
