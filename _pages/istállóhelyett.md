@@ -72,7 +72,7 @@ Az előfröcsköléssel indult a projekt. Ezt a fázist nem lehet kihagyni. Elő
 ![betonkeverő](/assets/istállóhelyett/DSCF0697.JPG)
 
 
-**Barátom a betonkeverő**
+## Barátom a betonkeverő
 
 
 
