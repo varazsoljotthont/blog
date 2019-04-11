@@ -9,7 +9,7 @@ image:
   width: 300
 ---
 
-**A régen a falusi házakhoz hozzá tartoztak az ólak, az istállók. Ez a  "Miházunknál" is így volt. A ház első része a volt lakóépület, a hátsó az istálló, az udvaron pedig a tyúkól. Szeretjük a csendes, falusi életet, de azért állattartást - néhány cicán kívül - már nem terveztünk.** 
+**A régen a falusi házakhoz hozzá tartoztak az ólak, az istállók, és ez a  "Miházunknál" sem volt másképp. A ház első része a volt lakóépület, a hátsó az istálló, az udvaron pedig a tyúkól. Szeretjük a csendes, falusi életet, de azért állattartást - néhány cicán kívül - már nem terveztünk.** 
 
 
 
@@ -65,7 +65,7 @@ _Látszik, hogy hol van kikaparva a fuga, és ha már a magasban járt, akkor eg
 ## Felosztottuk a ránk váró munkát
 
 
-Megbeszéltük a férjemmel a feladatokat. Megint csak ő lett kőműves, én pedig a segédmunkás. A férjem a felújítás során már megszerezte  a gyakorlatot a vakolásban, és az sem utolsó szempont, hogy nincs tériszonya. Velem ellentétben...
+Megbeszéltük a ránk váró feladatokat. Megint csak ő lett kőműves, én pedig a segédmunkás. A férjem a felújítás során már megszerezte  a gyakorlatot a vakolásban, és az sem utolsó szempont, hogy nincs tériszonya. Velem ellentétben...
 
 Az előfröcsköléssel indult a projekt. Ezt a fázist nem lehet kihagyni. Előkészíti a falak felületét, és segíti a vakolóanyag tapadását.
 
