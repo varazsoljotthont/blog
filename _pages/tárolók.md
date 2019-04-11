@@ -22,14 +22,24 @@ Egyre erősebben jelentkezett részemrő az igény, hogy rendszerezve, esztétik
 
 
 
-## Az ötlet
+## Az ötlet, és a hozzávalók
 
+**Inspiráció**
+
+
+
+**Karton**
 
 Az ötlet a mindennapi bevásárlás során jött. A legtöbb üzletben a kasszák környékére kirakják a kiürült kartondobozokat, amiket szabadon el lehet vinni.
 
 > Biztos vagyok benne, hogy sokan vittük már haza ilyenekben a napi vásárlásunkat. 
 
 A dobozok között vannak különböző méretűek, és erős, kemény falú, tárolásra alkalmas darabokat is találhatunk ha szerencsénk van. Ezek közül válogattam én is. 
+
+
+**Spárga**
+
+Még régebbről őrizgettünk - valamire biztos jó lesz, alapon - néhány guriga spárgát.
 
 
 
