@@ -176,7 +176,7 @@ Ez a munka sem egy-két napig tartott, és az időnk mellett az energiánkat is 
 
 
  **+ 1 gondolat:**  
-Mint írtam, nem sikerült túl szépen dolgozni a homok minősége miatt. Az utcafrontot már zsákosanyaggal csinálta a férjem. Kisebb volt a felület, így nem került olyan sokba. Az elképzelésünk az volt, hogy fehér lesz majd a ház fala, ezért fehér színű anyagot vettünk. Ezzel a lépéssel sikerült elérni, hogy a ház "köszönő fele" már a vakolás után is szép volt. Ha nem is hófehér, de legalább nem cement színű.
+Mint írtam, nem sikerült túl szépen dolgozni a homok minősége miatt. Az utcafrontot már zsákosanyaggal csinálta a férjem. Kisebb volt a felület, így nem került olyan sokba. Az elképzelésünk az volt, hogy fehér lesz majd a ház fala, ezért fehér színű vakolóanyagot vettünk. Ezzel a lépéssel sikerült elérni, hogy a ház "köszönő fele" már a vakolás után is szép volt. Ha nem is hófehér, de legalább nem cement színű.
 
 
 ## Kapcsolódó cikkek
