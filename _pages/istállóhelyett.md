@@ -94,7 +94,8 @@ Az egyik, hogy minden keverést át kellett rostálnom, hogy a nagyobb darabok n
 ## Végre! Eltűnik a tégla!
 
 
-Tégla és tégla között nagy a különbség. A házba, és a ház köré is rengeteg téglát használtunk fel, de az teljesen más. Ott eldolgoztuk, fugáztuk, savaztuk, impregnáltuk a téglák felületét. A levert vakolat alatti tégla nem volt szép, az elhanyagoltság látszatát keltette, ezért tartottuk fontosnak, hogy minél hamarabb bevakoljuk.
+Tégla és tégla között nagy a különbség. A házba, és a ház köré is rengeteg téglát használtunk fel, de az teljesen más. Ott eldolgoztuk, fugáztuk, savaztuk, impregnáltuk a téglák felületét.  
+A levert vakolat alatti tégla nem volt szép, az elhanyagoltság látszatát keltette, ezért tartottuk fontosnak, hogy minél hamarabb bevakoljuk.
 
 
 **A vakolás**
@@ -124,7 +125,10 @@ Miután bevakoltuk a ház lakóterét, rátérhettünk az istállóra.
 _A követekező feladat az istálló megszüntetése_
 
 
-Ez a feladat már összetettebb volt. Felcseréltük az ajtó és ablak helyét, ami megint csak a férjem kőműves tudását igényelte. Falat kellett bontani, a régi ajtó helyét befalazni, áthidalót, majd az ablakot betenni. Ajtónak átmenetileg egy régi pajtaajtó féleséget raktunk be. Nem volt túl szép darab, de rövid távon kiegyeztem vele. Az ablakot bontásból vettük, de teljesen jó állapotban volt, és tartozott hozzá zsalugáter is. Átfestettem zöldre, és már be  is illett a "Miházunkba".
+Ez a feladat már összetettebb volt.  
+Felcseréltük az ajtó és ablak helyét, ami megint csak a férjem kőműves tudását igényelte. Falat kellett bontani, a régi ajtó helyét befalazni, áthidalót, majd az ablakot betenni. Ajtónak átmenetileg egy régi pajtaajtó féleséget raktunk be. Nem volt túl szép darab, de rövid távon kiegyeztem vele.  
+Az ablakot bontásból vettük, de teljesen jó állapotban volt, és tartozott hozzá zsalugáter is.  
+Átfestettem zöldre, és már be  is illett a "Miházunkba".
 
 
 ![udvar](/assets/istállóhelyett/DSCF0705.JPG)
