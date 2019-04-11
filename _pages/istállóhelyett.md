@@ -22,7 +22,7 @@ Bejárati ajtó a házra, ablak, istálló ajtó, majd egy szellőző ablak. Min
 
 A ház átalakításakor épp ezt a közelséget akartuk kihasználni.
 
-Az felújítás során a beltérben már nyitottunk egy ajtót az istálló felé, hogy majd a mosókonyhát, kamrát, kazánházat ott alakítsuk ki.
+A felújítás során a beltérben már nyitottunk egy ajtót az istálló felé, hogy majd a mosókonyhát, kamrát, kazánházat ott alakítsuk ki.
 
 > Az hozzá tartozik az igazsághoz, hogy jó ideje nem tartottak már mást a háznál, csak tyúkokat. Az istálló helyén egy nagy, rendezett  helyiség volt, ami érdemes volt a tovább gondolásra.
 
@@ -92,6 +92,9 @@ Az egyik, hogy minden keverést át kellett rostálnom, hogy a nagyobb darabok n
 
 
 ## Végre! Eltűnik a tégla!
+
+
+Tégla és tégla között nagy a különbség. A házba, és a ház köré is rengeteg téglát használtunk fel, de az teljesen más. Ott eldolgoztuk, fugáztuk, savaztuk, impregnáltuk a téglák felületét. A levert vakolat alatti tégla nem volt szép, az elhanyagoltság látszatát keltette, ezért tartottuk fontosnak, hogy minél hamarabb bevakoljuk.
 
 
 **A vakolás**
