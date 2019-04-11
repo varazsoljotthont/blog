@@ -33,7 +33,7 @@ A felújítás során a beltérben már nyitottunk egy ajtót az istálló felé
 
 
 Miután február végén beköltöztünk, szembesültünk azzal, hogy a ház kívülről rémesen fest. 
-([itt olvashatod](/2019-04-03/állagmegóvás)) Így hát, ahogy beköszöntött a jobb idő, megkezdtük a ház tatarozását is.
+([itt olvashatod](/2019-04-03/állagmegóvás)) Ezért, ahogy beköszöntött a jobb idő, megkezdtük a ház tatarozását is.
 
 > Igen, megint csak ketten szerettük volna elvégezni a munkálatokat... Sokkal több mindent meg lehet oldani házilag, mint azt először gondolnánk. Kétszer két kéz nagyon sokra képes, ha meg van a kellő elszántság.
 
@@ -172,11 +172,11 @@ A ház elején a szükséges javításokat elvégezte a férjem. A lekívánkoz�
 
 ![udvar](/assets/istállóhelyett/DSCF0838.JPG)
 
-Ez a munka sem egy-két napig tartott, és az időnk mellett az energiánkat is igénybe vette. Hazudnék, ha azt mondanám, hogy nem fárdatunk el... De ezt is megcsináltuk! Amikor ránéztünk a bevakolt házra, büszkék és boldogok voltunk. És újra megállapítottuk, hogy jó csapat vagyunk így ketten!
+Ez a munka sem egy-két napig tartott, és az időnk mellett az energiánkat is igénybe vette. Hazudnék, ha azt mondanám, hogy nem fáradtunk el... De ezt is megcsináltuk! Amikor ránéztünk a bevakolt házra, büszkék és boldogok voltunk. És újra megállapítottuk, hogy jó csapat vagyunk így ketten!
 
 
  **+ 1 gondolat:**  
-Mint írtam, nem sikerült túl szépen dolgozni a homok minősége miatt. Az utcafrontot már zsákosanyaggal csinálta a férjem. Kisebb volt a felület így ott megfizethető volt. Az elképzelésünk az volt, hogy fehér lesz majd a ház fala, ezért fehér színű anyagot vettünk. Ezzel a lépéssel sikerült elérni, hogy a ház "köszönő fele" már a vakolás után is szép volt. Ha nem is hófehér, de legalább nem cement színű.
+Mint írtam, nem sikerült túl szépen dolgozni a homok minősége miatt. Az utcafrontot már zsákosanyaggal csinálta a férjem. Kisebb volt a felület, így nem került olyan sokba. Az elképzelésünk az volt, hogy fehér lesz majd a ház fala, ezért fehér színű anyagot vettünk. Ezzel a lépéssel sikerült elérni, hogy a ház "köszönő fele" már a vakolás után is szép volt. Ha nem is hófehér, de legalább nem cement színű.
 
 
 ## Kapcsolódó cikkek
