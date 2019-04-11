@@ -166,11 +166,13 @@ _... a férjem pedig így_
 
 ![udvar](/assets/istállóhelyett/DSCF0826.JPG)
 
-A ház elején a szükséges javításokat elvégezte a férjem a lekívánkozó vakolatot leverte, majd javította a falat. Helyrehozta a lábazatot is, hogy megfelelő alapja legyen majd a szeletelt téglának.
+A ház elején a szükséges javításokat elvégezte a férjem. A lekívánkozó vakolatot leverte, majd javította a falat. Helyrehozta a lábazati részt is, hogy megfelelő alapja legyen majd a szeletelt tégla burkolásnak.
 
 
 
 ![udvar](/assets/istállóhelyett/DSCF0838.JPG)
+
+Ez a munka sem egy-két napig tartott, és az időnk mellett, az energiánkat is igénybe vette. Hazudnék, ha azt mondanán, hogy nem fárdatunk el... De ezt is megcsináltuk! Amikor ránéztünk a bevakolt házra, büszkék és boldogok voltunk. És újra megállapítottuk, hogy jó csapat vagyunk így ketten!
 
 
  **+ 1 gondolat:**  
@@ -180,11 +182,11 @@ Mint írtam, nem sikerült túl szépen dolgozni a homok minősége miatt. Az ut
 ## Kapcsolódó cikkek
 
 
-
+* [Fontos lépések régi házunk állagmegóvásáért](/2019-04-03/állagmegóvás)
 * [A Miházunk átváltozása](/2019-03-20/költözés)
-* [Eltűnt a beton, avagy burkolatok a házban](/2019-03-13/burkolatok)
+* [Régi varrógép új élete!](/2019-02-12/varrogepasztal)
 * [Életre kelnek a falak](/2019-03-01/színesfalak)
-* [Faljavítás itt, falazás ott!](/2019-02-18/afalak)
+
 
 
 
