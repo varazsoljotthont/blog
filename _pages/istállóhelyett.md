@@ -140,13 +140,15 @@ Ez a feladat már összetettebb volt. Felcseréltük az ajtó és ablak helyét,
 
 ![udvar](/assets/istállóhelyett/DSCF0752.jpg)
 
-Apránként átalakult a hátsó rész is. Kezdte elveszíteni az istálló jellegét, és mi egyáltalán nem bántuk.
+Apránként átalakult a hátsó rész is. Kezdte elveszíteni az istálló jellegét, és mi egyáltalán nem bántuk. Az ablakos részt gondoltam ki mosókonyhának. Szinte már láttam magam előtt, hogy Az ajtót "hátsó ajtónak" neveztük ki, és 
 
 
 ![udvar](/assets/istállóhelyett/DSCF0765.JPG)
+_Én így örültem, mikor végeztünk..._
 
 
 ![udvar](/assets/istállóhelyett/DSCF0770.JPG)
+_... a férjem pedig így_
 
 
 
