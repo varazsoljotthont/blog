@@ -166,7 +166,7 @@ _... a férjem pedig így_
 
 ![udvar](/assets/istállóhelyett/DSCF0826.JPG)
 
-A ház elején a szükséges javításokat elvégezte a férjem. A lekívánkozó vakolatot leverte, majd javította a falat. Helyrehozta a lábazati részt is, hogy megfelelő alapja legyen majd a szeletelt tégla burkolásnak.
+A ház elején a szükséges javításokat elvégezte a férjem. A lekívánkozó vakolatot leverte, majd javította a falat. Helyrehozta a lábazati részt is, hogy megfelelő alapja legyen majd a szeletelt tégla burkolatnak.
 
 
 
