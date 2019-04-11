@@ -9,7 +9,7 @@ image:
   width: 300
 ---
 
-**A régen a falusi házakhoz hozzá tartoztak az ólak, az istállók. Ez a  "Miházunknál" is így volt. A ház első része a volt lakóépület, a hátsó az istálló, az udvaron pedig a tyúkól. Szeretjük a csendes falusi életet, de azért állattartást - néhány cicán kívül - már nem terveztünk.** 
+**A régen a falusi házakhoz hozzá tartoztak az ólak, az istállók. Ez a  "Miházunknál" is így volt. A ház első része a volt lakóépület, a hátsó az istálló, az udvaron pedig a tyúkól. Szeretjük a csendes, falusi életet, de azért állattartást - néhány cicán kívül - már nem terveztünk.** 
 
 
 
@@ -56,7 +56,7 @@ Már írtam róla ([itt](/2019-02-18/afalak)), hogy régen sármaltert használt
 A férjem egy ácskapoccsal soronként kikaparta a régi maltert a fuga közökből, hogy a "rendes" vakolóanyag minél mélyebbre kerüljön a téglák közé.
 
 
-Volt vele munkája, de fontosnak érezte megcsinálni, hogy stabilabb legyen a falazat.
+Volt vele munka, de fontosnak érezte megcsinálni, hogy stabilabb legyen a falazat.
 
 
 ![kamra](/assets/istállóhelyett/DSCF0695.JPG)
@@ -108,8 +108,6 @@ Lapátoltam az anyagot a keverőbe, onnan bele a talicskába, a talicskából a 
 
 
 ![udvar](/assets/istállóhelyett/DSCF0716.JPG)
-
-
 _Halad a munka_
 
 
@@ -126,7 +124,7 @@ Miután bevakoltuk a ház lakóterét, rátérhettünk az istállóra.
 _A követekező feladat az istálló megszüntetése_
 
 
-Ez a feladat már összetettebb volt. Felcseréltük az ajtó és ablak helyét, ami megintcsak a férjem kőműves tudását igényelte. Falat kellett bontani, a régi ajtó helyét befalazni, áthidalót, majd az ablakot berakni. Ajtónak átmenetileg egy régi pajtaajtó féleséget raktunk be. Nem volt túl szép darab, de rövid távon kiegyeztem vele. Az ablakot bontásból vettük, de teljesen jó állapotban volt, és tartozott hozzá zsalugáter is. Átfestettem zöldre, és már be  is illett a "Miházunkba".
+Ez a feladat már összetettebb volt. Felcseréltük az ajtó és ablak helyét, ami megint csak a férjem kőműves tudását igényelte. Falat kellett bontani, a régi ajtó helyét befalazni, áthidalót, majd az ablakot betenni. Ajtónak átmenetileg egy régi pajtaajtó féleséget raktunk be. Nem volt túl szép darab, de rövid távon kiegyeztem vele. Az ablakot bontásból vettük, de teljesen jó állapotban volt, és tartozott hozzá zsalugáter is. Átfestettem zöldre, és már be  is illett a "Miházunkba".
 
 
 > Nagyon tudatos voltam az ablakok vásárlásánál. Az utcai ablakokat egy helyi asztalos csinálta a terveim alapján, de a két udvarit használtan vettük. Fából készült, osztott, a vidéki stílushoz leginkább illőt választottam.
@@ -140,7 +138,7 @@ Ez a feladat már összetettebb volt. Felcseréltük az ajtó és ablak helyét,
 
 ![udvar](/assets/istállóhelyett/DSCF0752.jpg)
 
-Apránként átalakult a hátsó rész is. Kezdte elveszíteni az istálló jellegét, és mi egyáltalán nem bántuk. Az ablakos részt gondoltam ki mosókonyhának. Szinte már láttam magam előtt, hogy milyen lesz ha elkészül.
+Apránként átalakult a hátsó rész is. Kezdte elveszíteni az istálló jellegét, és mi egyáltalán nem bántuk. Az ablakos részt gondoltam ki mosókonyhának. Szinte már láttam magam előtt, hogy milyen szép lesz ha elkészül.
 
 ![udvar](/assets/istállóhelyett/DSCF0765.JPG)
 _Én így örültem, mikor végeztünk..._
@@ -156,7 +154,6 @@ _... a férjem pedig így_
 ![udvar](/assets/istállóhelyett/DSCF0826.JPG)
 
 A ház elején a szükséges javításokat elvégezte a férjem a lekívánkozó vakolatot leverte, majd javította a falat. Helyrehozta a lábazatot is, hogy megfelelő alapja legyen majd a szeletelt téglának.
-
 
 
 
