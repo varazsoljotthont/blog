@@ -85,7 +85,7 @@ Mikor a homokot hozattuk, nem kaptunk 0,2-es típusút, csak 0,4-est.
 
 Ez két okból is komoly probléma volt. 
 
-Az egyik, hogy minden keverést át kellett rostálnom, hogy a nagyobb darabok ne kerüljenek bele az anyagba. A másik, hogy akárhogy is akartuk, nem lehetett vele tökéletesen dolgozni. 
+Az egyik, hogy minden keverést át kellett rostálnom, hogy a nagyobb szemcsék ne kerüljenek bele az anyagba. A másik, hogy akárhogy is akartuk, nem lehetett vele tökéletesen dolgozni. 
 
 
 ![betonkeverő](/assets/istállóhelyett/DSCF0754.JPG)
