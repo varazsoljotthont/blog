@@ -95,7 +95,7 @@ Az egyik, hogy minden keverést át kellett rostálnom, hogy a nagyobb szemcsék
 
 
 Tégla és tégla között nagy a különbség. A házba és a ház köré is rengeteg téglát használtunk fel, de az teljesen más. Ott eldolgoztuk, fugáztuk, savaztuk, impregnáltuk a téglák felületét.  
-A levert vakolat alatti tégla nem volt szép, az elhanyagoltság látszatát keltette, ezért tartottuk fontosnak, hogy minél hamarabb bevakoljuk.
+A levert vakolat alatti tégla nem volt szép. Az elhanyagoltság látszatát keltette, ezért tartottuk fontosnak, hogy minél hamarabb bevakoljuk.
 
 
 **A vakolás**
