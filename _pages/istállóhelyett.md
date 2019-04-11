@@ -140,9 +140,13 @@ Ez a feladat már összetettebb volt. Felcseréltük az ajtó és ablak helyét,
 
 ![udvar](/assets/istállóhelyett/DSCF0752.jpg)
 
+Apránként átalakult a hátsó rész is. Kezdte elveszíteni az istálló jellegét, és mi egyáltalán nem bántuk.
 
 
+![udvar](/assets/istállóhelyett/DSCF0765.JPG)
 
+
+![udvar](/assets/istállóhelyett/DSCF0770.JPG)
 
 
 
