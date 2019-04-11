@@ -172,7 +172,7 @@ A ház elején a szükséges javításokat elvégezte a férjem. A lekívánkoz�
 
 ![udvar](/assets/istállóhelyett/DSCF0838.JPG)
 
-Ez a munka sem egy-két napig tartott, és az időnk mellett, az energiánkat is igénybe vette. Hazudnék, ha azt mondanán, hogy nem fárdatunk el... De ezt is megcsináltuk! Amikor ránéztünk a bevakolt házra, büszkék és boldogok voltunk. És újra megállapítottuk, hogy jó csapat vagyunk így ketten!
+Ez a munka sem egy-két napig tartott, és az időnk mellett az energiánkat is igénybe vette. Hazudnék, ha azt mondanám, hogy nem fárdatunk el... De ezt is megcsináltuk! Amikor ránéztünk a bevakolt házra, büszkék és boldogok voltunk. És újra megállapítottuk, hogy jó csapat vagyunk így ketten!
 
 
  **+ 1 gondolat:**  
