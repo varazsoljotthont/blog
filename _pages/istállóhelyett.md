@@ -132,7 +132,7 @@ Ez a feladat már összetettebb volt. Felcseréltük az ajtó és ablak helyét,
 > Nagyon tudatos voltam az ablakok vásárlásánál. Az utcai ablakokat egy helyi asztalos csinálta a terveim alapján, de a két udvarit használtan vettük. Fából készült, osztott, a vidéki stílushoz leginkább illőt választottam.
 
 
-![udvar](/assets/istállóhelyett/DSCF0718.JPG)
+![udvar](/assets/istállóhelyett/DSCF0743jav.JPG)
 
 
 
