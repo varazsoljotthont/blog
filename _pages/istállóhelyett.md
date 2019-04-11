@@ -138,7 +138,7 @@ Ez a feladat már összetettebb volt. Felcseréltük az ajtó és ablak helyét,
 ![udvar](/assets/istállóhelyett/DSCF0749.JPG)
 
 
-![udvar](/assets/istállóhelyett/DSCF0752.JPG)
+![udvar](/assets/istállóhelyett/DSCF0752.jpg)
 
 
 
