@@ -133,8 +133,6 @@ Ez a feladat már összetettebb volt. Felcseréltük az ajtó és ablak helyét,
 
 
 ![udvar](/assets/istállóhelyett/DSCF0743 jav.JPG)
-_A követekező feladat az istálló megszüntetése_
-
 
 
 
