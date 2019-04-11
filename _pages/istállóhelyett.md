@@ -128,7 +128,7 @@ Ez a feladat már összetettebb volt. Felcseréltük az ajtó és ablak helyét,
 
 
 ![udvar](/assets/istállóhelyett/DSCF0705.JPG)
-_Az ablak szépül, de   az udvaron pedig eluralkodott a káosz_
+_Az ablak szépül, de az udvaron eluralkodott a káosz_
 
 
 > Nagyon tudatos voltam az ablakok vásárlásánál. Az utcai ablakokat egy helyi asztalos csinálta a terveim alapján, de a két udvarit használtan vettük. Fából készült, osztott, a vidéki stílushoz leginkább illőt választottam.
@@ -144,7 +144,12 @@ _Az ablak szépül, de   az udvaron pedig eluralkodott a káosz_
 
 Apránként átalakult a hátsó rész is. Kezdte elveszíteni az istálló jellegét, és mi egyáltalán nem bántuk. Az ablakos részt gondoltam ki mosókonyhának. Szinte már láttam magam előtt, hogy milyen szép lesz ha elkészül.
 
-![udvar](/assets/istállóhelyett/DSCF0765.JPG)
+
+![udvar](/assets/istállóhelyett/DSCF0803.JPG)
+
+
+
+![udvar](/assets/istállóhelyett/DSCF0765.jpg)
 _Én így örültem, mikor végeztünk..._
 
 
