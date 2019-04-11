@@ -1,43 +1,37 @@
 ---
 layout: post
-title: "Ez aztán a változás!" 
-permalink: /külsőfalak/
-cover: /assets/istállóhelyett/cover.jpg
+title: "Tároló dobozok sajátkezűleg, vidéki stílusban!" 
+permalink: /tárolók/
+cover: /assets/tárolók/cover.jpg
 image:
-  path: /assets/istállóhelyett/cover.jpg
+  path: /assets/tárolók/cover.jpg
   height: 300
   width: 300
 ---
 
-**A régen a falusi házakhoz hozzá tartoztak az ólak, az istállók, és ez a  "Miházunknál" sem volt másképp. A ház első része a volt lakóépület, a hátsó az istálló, az udvaron pedig a tyúkól. Szeretjük a csendes, falusi életet, de azért állattartást - néhány cicán kívül - már nem terveztünk.** 
+ **Minden háztartásban szükség van tárolódobozokra, és a felhasználasuk az egész házra kiterjed. A stílusos otthonhoz készíthetünk stílusos tárolót 3+1 hozzávalóból: kartondoboz, spárga, ragasztó és egy kis varázslat. Csak ennyi kell** 
 
 
 
-## Istálló
+## Tárolni kellene
 
-Talán ma már fura, hogy a régi időkben a haszonállatok ennyire közel éltek a lakótérhez. 
-Bejárati ajtó a házra, ablak, istálló ajtó, majd egy szellőző ablak. Mindez pár méterre egymástól.
+Nagyon szeretem "kiöltöztetni" a házunkat. Ünnepek előtt, évszakok váltásakor, és csak úgy is. Sok dekort készítettünk sajátkezűleg, és sok alapanyag is összegyűlt az évek alatt. Apró kis csecsebecsék, méterárú, és az épp használaton kívüli kincsek is vártak az őket megillető helyre.
 
-
-
-A ház átalakításakor épp ezt a közelséget akartuk kihasználni.
-
-A felújítás során a beltérben már nyitottunk egy ajtót az istálló felé, hogy majd a mosókonyhát, kamrát, kazánházat ott alakítsuk ki.
-
-> Az hozzá tartozik az igazsághoz, hogy jó ideje nem tartottak már mást a háznál, csak tyúkokat. Az istálló helyén egy nagy, rendezett  helyiség volt, ami érdemes volt a tovább gondolásra.
-
-
+Egyre erősebben jelentkezett részemrő az igény, hogy rendszerezve, esztétikusan tudjam tárolni a dolgaimat. Mikor a mosókonyha elkészült, lehetőségem és helyem lett elpakolni a sok-sok  mindent.
 ![kamra](/assets/istállóhelyett/DSCF9939.JPG)
 
-**Ha van két kezünk nagy gond nem lehet**
 
 
-Miután február végén beköltöztünk, szembesültünk azzal, hogy a ház kívülről rémesen fest. 
-([itt olvashatod](/2019-04-03/állagmegóvás)) Ezért, ahogy beköszöntött a jobb idő, megkezdtük a ház tatarozását is.
+## Az ötlet
 
-> Igen, megint csak ketten szerettük volna elvégezni a munkálatokat... Sokkal több mindent meg lehet oldani házilag, mint azt először gondolnánk. Kétszer két kéz nagyon sokra képes, ha meg van a kellő elszántság.
 
-![idézet](/assets/istállóhelyett/IMG_20190410_074200.jpg)
+Az ötlet a mindennapi bevásárlás során jött. A legtöbb üzletben a kasszák környékére kirakják a kiürült kartondobozokat, amiket szabadon el lehet vinni.
+
+> Biztos vagyok benne, hogy sokan vittük már haza ilyenekben a napi vásárlásunkat. 
+
+A dobozok között vannak különböző méretűek, és erős, kemény falú, tárolásra alkalmas darabokat is találhatunk ha szerencsénk van. Ezek közül válogattam én is. 
+
+
 
 
 
