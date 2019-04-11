@@ -153,12 +153,6 @@ Apránként átalakult a hátsó rész is. Kezdte elveszíteni az istálló jell
 
 
 
-![udvar](/assets/istállóhelyett/DSCF0765.JPG)
-_Én így örültem, mikor végeztünk..._
-
-
-![udvar](/assets/istállóhelyett/DSCF0770.JPG)
-_... a férjem pedig így_
 
 
 ## Utcafront
