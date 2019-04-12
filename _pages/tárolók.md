@@ -16,7 +16,7 @@ image:
 ## Az örök kérdés: hová tegyem?
 
 
-Nagyon szeretem "kiöltöztetni" a házunkat. Ünnepek előtt, évszakok váltásakor, és csak úgy is. Sok dekort készítettünk sajátkezűleg, és sok alapanyag össze is gyűlt az évek alatt. Apró kis csecsebecsék, méterárú, és az épp használaton kívüli kincsek is vártak az őket megillető helyre.
+Nagyon szeretem "kiöltöztetni" a házunkat. Ünnepek előtt, évszakok váltásakor, és csak úgy is. Sok dekort készítettünk sajátkezűleg, és sok alapanyag össze is gyűlt az évek alatt. Apró kis csecsebecsék, méterárú, és az épp használaton kívüli kincsek is várták, hogy szabadságuk alatt méltó helyen pihenhessenek.
 
 Egyre erősebben jelentkezett részemrő az igény, hogy rendszerezve, esztétikusan tudjam tárolni a dolgaimat. Mikor a mosókonyha elkészült, lehetőségem és helyem lett elpakolni a sok-sok  mindent.
 ![kamra](/assets/istállóhelyett/DSCF9939.JPG)
