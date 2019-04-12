@@ -9,11 +9,12 @@ image:
   width: 300
 ---
 
- **Minden háztartásban szükség van tárolódobozokra, és a felhasználasuk az egész házra kiterjed. A stílusos otthonhoz készíthetünk stílusos tárolót 3+1 hozzávalóból: kartondoboz, spárga, ragasztó és egy kis varázslat. Csak ennyi kell.** 
+ **Minden háztartásban szükség van tárolódobozokra, és a felhasználasuk az egész házra kiterjed. A stílusos otthonhoz stílusos tároló jár,és ezt elis készíthetjük 3+1 hozzávalóbó. Kartondoboz, spárga, ragasztó és egy kis varázslat. Csak ennyi kell.** 
 
 
 
-## Tárolni kellene
+## Az örök kérdés: hová tegyem?
+
 
 Nagyon szeretem "kiöltöztetni" a házunkat. Ünnepek előtt, évszakok váltásakor, és csak úgy is. Sok dekort készítettünk sajátkezűleg, és sok alapanyag össze is gyűlt az évek alatt. Apró kis csecsebecsék, méterárú, és az épp használaton kívüli kincsek is vártak az őket megillető helyre.
 
