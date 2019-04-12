@@ -26,11 +26,16 @@ Egyre erősebben jelentkezett részemrő az igény, hogy rendszerezve, esztétik
 ## Az ötlet, és a hozzávalók
 
 
+**Inspiráció**
+
+Jómagam is szeretek inspirálódni, nyitott szemmel járni, ötleteket szerezni. 
+
+Még valahol, valamikor láttam egy fotót egy bespárgázott üvegről, ami elindította a gondolatot a tárolókkal kapcsolatban.
 
 
 **Karton**
 
-Az ötlet a mindennapi bevásárlás során jött. A legtöbb üzletben a kasszák környékére kirakják a kiürült kartondobozokat, amiket szabadon el lehet vinni.
+Mondhatnám, hogy kínálta magát a lehetőség a mindennapi bevásárlások során. A legtöbb üzletben a kasszák környékére kirakják a kiürült kartondobozokat, amiket szabadon el lehet vinni.
 
 > Biztos vagyok benne, hogy sokan vittük már haza ilyenekben a napi vásárlásunkat. 
 
@@ -43,25 +48,16 @@ Még régebbről őrizgettünk - valamire biztos jó lesz, alapon - néhány gur
 
 
 
-**Inspiráció**
-
-Jómagam is szeretek inspirálódni, nyitott szemmel járni, ötleteket szerezni. 
-
-Még valahol, valamikor láttam egy fotót egy bespárgázott üvegről, ami elindította az ötletet a tárolókkal kapcsolatban.
 
 
 
 
+**Gombhoz a kabátot**
 
+Mivel mindent magunk csinálunk, készítünk, abban a szerencsés helyzetben vagyok, hogy meg tudtam mondani a polc méretét. A dobozokhoz készítette a férjem a polcot
 
-
-
-**Felkészülés a vakolásra**
-
-Már írtam róla ([itt](/2019-02-18/afalak)), hogy régen sármaltert használtak falazáskor. Biztos olcsóbb volt így, de azért a cement hiányzott a falakból. 
-
-
-A férjem egy ácskapoccsal soronként kikaparta a régi maltert a fuga közökből, hogy a "rendes" vakolóanyag minél mélyebbre kerüljön a téglák közé.
+> Az átalakítás során felszedett hajópadlóból készült, és nagyon-nagyon jó lett. Az elvünk maradt a régi: olcsó legyen, de jó! 
+(külön posztot érdemel majd a mosókonyha, hamarosan hozom) 
 
 
 Volt vele munka, de fontosnak érezte megcsinálni, hogy stabilabb legyen a falazat.
