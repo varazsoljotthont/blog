@@ -44,23 +44,24 @@ A dobozok között vannak különböző méretűek, és erős, kemény falú, t�
 
 **Spárga**
 
-Még régebbről őrizgettünk - valamire biztos jó lesz, alapon - néhány guriga spárgát. Adott volt hát a második alapanyag is.
+Még régebbről őrizgettünk - valamire biztos jó lesz, alapon - néhány guriga spárgát. Adott volt hát a második alapanyag is. 
 
 
+**Ragasztó**
 
-
-
+Két oldalú ragasztót használtam, ezt barkácsboltokban meg lehet vásárolni.
 
 
 **Gombhoz a kabátot**
 
-Mivel mindent magunk csinálunk, készítünk, abban a szerencsés helyzetben vagyok, hogy meg tudtam mondani a polc méretét. A dobozokhoz készítette a férjem a polcot
+Mivel mindent magunk csinálunk, készítünk, abban a szerencsés helyzetben vagyok, hogy meg tudtam szabni a polc méretét. A dobozokhoz készítette a férjem, így tökéletesen passzolnak egymáshoz.
 
 > Az átalakítás során felszedett hajópadlóból készült, és nagyon-nagyon jó lett. Az elvünk maradt a régi: olcsó legyen, de jó! 
-(külön posztot érdemel majd a mosókonyha, hamarosan hozom) 
+(A mosókonyha külön posztot érdemel, hamarosan hozom) 
 
 
-Volt vele munka, de fontosnak érezte megcsinálni, hogy stabilabb legyen a falazat.
+## Spárgázzunk, tekerjünk
+
 
 
 ![kamra](/assets/istállóhelyett/DSCF0695.JPG)
