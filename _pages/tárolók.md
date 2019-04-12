@@ -51,12 +51,11 @@ Még régebbről őrizgettünk - valamire biztos jó lesz, alapon - néhány gur
 
 Két oldalú ragasztót használtam, ezt barkácsboltokban meg lehet vásárolni.
 
-
-**Gombhoz a kabátot**
+## Gombhoz a kabátot
 
 Mivel mindent magunk csinálunk, készítünk, abban a szerencsés helyzetben vagyok, hogy meg tudtam szabni a polc méretét. A dobozokhoz készítette a férjem, így tökéletesen passzolnak egymáshoz.
 
-> Az átalakítás során felszedett hajópadlóból készült, és nagyon-nagyon jó lett. Az elvünk maradt a régi: olcsó legyen, de jó! 
+> A polc az átalakítás során felszedett hajópadlóból készült, és nagyon-nagyon jó lett. Az elvünk maradt a régi: olcsó legyen, de jó! 
 (A mosókonyha külön posztot érdemel, hamarosan hozom) 
 
 
