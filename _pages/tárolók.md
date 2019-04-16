@@ -74,7 +74,9 @@ Mivel mindent magunk csinálunk, készítünk, abban a szerencsés helyzetben va
 
 * **első lépés:** a dobozok felesleges részeit levágtam, majd a hiányzó helyekre toldásként beragasztottam. Ezzel a lépéssel elértem, hogy "rendes" dobozunk legyen.
 
-*
+* **második lépés:** a dobozok sarkaihoz, és az oldalakra 4-5 centinként felragasztottam a kétoldalú ragasztót.
+
+* **harmadik lépés:** a doboz aljánál indítottam a spárgát. A kezdésnél és avégén 
 
 
 
