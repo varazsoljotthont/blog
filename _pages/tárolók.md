@@ -62,12 +62,15 @@ _A kellékek: karton, ragasztó, spárga. A kezünkben pedig a varázslat_
 
 Két oldalú ragasztót használtam, ezt barkácsboltokban meg lehet vásárolni.
 
-## Gombhoz a kabátot
+**Szék**
 
-Mivel mindent magunk csinálunk, készítünk, abban a szerencsés helyzetben vagyok, hogy meg tudtam szabni a polcok magasságát. A dobozokhoz készítette a polcot a férjem a mosókonyhában, konyhában, és még a hálószobában is. A hálóban a szekrény festése, átalakítása már úgy történt, hogy meg voltak a dobozok, így tökéletesen passzolnak egymáshoz.
+Több ülőalkalmatosság tetsztelése után egy gyerekszék lett a befutó, amit én "fellépőként" használok a mindennapokban. Az alacsonysága miatt  lett jobb, mint a többi. Ezen ülve a doboz leért a földre, és nem kellett megtartani.
 
-> A polc az átalakítás során felszedett hajópadlóból készült, és nagyon-nagyon jó lett. Az elvünk maradt a régi: olcsó legyen, de jó! 
-(A mosókonyha külön posztot érdemel, hamarosan hozom) 
+**Zene**
+
+Nem túlzok, mikor azt mondom (írom), hogy meditatív tevékenységgé vált a spárgázás. Olyan jellegű munka volt ez, ami közben elcsitult az agy. Nem is igazán gondolkodtam közben, csak csináltam. Meditációs zenét hallgattam, és csak azt vettem észre, hogy végeztem.
+
+Külön ajándék még a dobozok mellé.
 
 
 ## Spárgázzunk, tekerjünk
@@ -79,11 +82,17 @@ Mivel mindent magunk csinálunk, készítünk, abban a szerencsés helyzetben va
 
 * **harmadik lépés:** a doboz aljánál indítottam a spárgát. A doboz oldalára 2-3 cm magasságban odaragasztottam a spárgát, majd visszakanyarítva elkezdtem tekerni.
 
-* **negyedik lépés:** tekerni, tekerni... Folyamatosan feszesen tartottam a s
+* **negyedik lépés:** tekerni, tekerni... Folyamatosan feszesen tartottam a spárgát, és nyomtam rá a ragasztóra, így haladva a spárgázással.
 
 
 
 
+## Gombhoz a kabátot
+
+Mivel mindent magunk csinálunk, készítünk, abban a szerencsés helyzetben vagyok, hogy meg tudtam szabni a polcok magasságát. A dobozokhoz készítette a polcot a férjem a mosókonyhában, konyhában, és még a hálószobában is. A hálóban a szekrény festése, átalakítása már úgy történt, hogy meg voltak a dobozok, így tökéletesen passzolnak egymáshoz.
+
+> A polc az átalakítás során felszedett hajópadlóból készült, és nagyon-nagyon jó lett. Az elvünk maradt a régi: olcsó legyen, de jó! 
+(A mosókonyha külön posztot érdemel, hamarosan hozom) 
 
 
 
