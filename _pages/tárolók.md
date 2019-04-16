@@ -89,10 +89,22 @@ _A hiányzó rész kiegészítve, és beragsztva_
 
 * **második lépés:** a dobozok sarkaihoz, és az oldalakra 2-3 centinként felragasztottam a kétoldalú ragasztót.
 
+
+![doboz](/assets/tárolók/IMG_20190416_173226jav.jpg)
+
+
 * **harmadik lépés:** a doboz aljánál indítottam a spárgát. A doboz oldalára 2-3 cm magasságban odaragasztottam a spárgát, majd visszakanyarítva elkezdtem tekerni.
+
+
+![doboz](/assets/tárolók/IMG_20190416_173404.jpg)
+
+
+
 
 * **negyedik lépés:** tekerni, tekerni... Folyamatosan feszesen tartottam a spárgát, és nyomtam rá a ragasztóra, így haladva a spárgázással.
 
+
+![doboz](/assets/tárolók/IMG_20190416_175359.jpg)
 
 
 
