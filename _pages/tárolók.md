@@ -160,7 +160,7 @@ Mivel mindent magunk csinálunk, készítünk, abban a szerencsés helyzetben va
 
 
 
-![doboz](/assets/tárolók/IMG_20190416_223800.jpg.jpg)
+![doboz](/assets/tárolók/IMG_20190416_223800.jpg)
 
 
 
