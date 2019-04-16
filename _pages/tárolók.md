@@ -70,7 +70,7 @@ Több ülőalkalmatosság tesztelése után egy gyerekszék lett a befutó, amit
 
 Nem túlzok, mikor azt mondom (írom), hogy meditatív tevékenységgé vált a spárgázás. Olyan jellegű munka volt ez, ami közben elcsitult az agy. Nem is igazán gondolkodtam közben, csak csináltam. Meditációs zenét hallgattam, és csak azt vettem észre, hogy végeztem.
 
-Külön ajándék még a dobozok mellé.
+Ez külön ajándék még a dobozok mellé.
 
 
 ## Spárgázzunk, tekerjünk
