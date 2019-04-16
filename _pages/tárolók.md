@@ -18,8 +18,10 @@ image:
 
 Nagyon szeretem "kiöltöztetni" a házunkat. Ünnepek előtt, évszakok váltásakor, és csak úgy is. Sok dekort készítettünk sajátkezűleg, és sok alapanyag össze is gyűlt az évek alatt. Apró kis csecsebecsék, méterárú, és az épp használaton kívüli kincsek is várták, hogy szabadságuk alatt méltó helyen pihenhessenek.
 
-Egyre erősebben jelentkezett részemrő az igény, hogy rendszerezve, esztétikusan tudjam tárolni a dolgaimat. Mikor a mosókonyha elkészült, lehetőségem és helyem lett elpakolni a sok-sok  mindent.
-![kamra](/assets/istállóhelyett/DSCF9939.JPG)
+Egyre erősebben jelentkezett részemrő az igény, hogy rendszerezve, esztétikusan tudjam tárolni a dolgaimat. Mikor a mosókonyha (is) elkészült, lehetőségem és helyem lett elpakolni a sok-sok  mindent.
+
+
+![tulipán](/assets/tárolók/IMG_20190416_095143.jpg)
 
 
 
@@ -41,7 +43,7 @@ Mondhatnám, hogy kínálta magát a lehetőség a mindennapi bevásárlások so
 
 A dobozok között vannak különböző méretűek, és erős, kemény falú, tárolásra alkalmas darabokat is találhatunk ha szerencsénk van. Ezek közül válogattam én is. 
 
-![dobozok](/assets/tárolók/IMG_20190416_071452 (1))
+![dobozok](/assets/tárolók/IMG_20190416_071347.jpg)
 
 **Spárga**
 
