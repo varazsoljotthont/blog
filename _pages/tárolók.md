@@ -68,7 +68,7 @@ Több ülőalkalmatosság tesztelése után egy gyerekszék lett a befutó, amit
 
 **Zene**
 
-Nem túlzok, mikor azt mondom (írom), hogy meditatív tevékenységgé vált a spárgázás. Olyan jellegű munka volt ez, ami közben elcsitult az agy. Nem is igazán gondolkodtam közben, csak csináltam. Meditációs zenét hallgattam, és csak azt vettem észre, hogy végeztem.
+Nem túlzok, mikor azt mondom (írom), hogy meditatív tevékenységgé vált a spárgázás. Olyan jellegű munka volt ez, ami közben elcsitult az agy. Nem is igazán gondolkodtam közben, csak csináltam. Szólt a meditációs zene, és azt vettem észre, hogy végeztem.
 
 Ez külön ajándék még a dobozok mellé.
 
@@ -101,10 +101,12 @@ _A hiányzó rész kiegészítve, és beragsztva_
 
 
 
-* **negyedik lépés:** tekerni, tekerni... Folyamatosan feszesen tartottam a spárgát, és nyomtam rá a ragasztóra, így haladva a spárgázással.
-
+* **negyedik lépés:** ...tekerni, tekerni... Folyamatosan feszesen tartottam a spárgát. Egymáshoz szorosan igazgattam a sorokat, és nyomtam rá a ragasztóra, így haladtam a spárgázással.
 
 ![doboz](/assets/tárolók/IMG_20190416_175359.jpg)
+
+
+## A bélés
 
 
 
