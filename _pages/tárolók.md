@@ -101,13 +101,35 @@ _A hiányzó rész kiegészítve, és beragsztva_
 
 
 
-* **negyedik lépés:** ...tekerni, tekerni... Folyamatosan feszesen tartottam a spárgát. Egymáshoz szorosan igazgattam a sorokat, és nyomtam rá a ragasztóra, így haladtam a spárgázással.
+* **negyedik lépés:** ...tekerni, tekerni... Feszesen tartottam a spárgát, és egymáshoz szorosan igazgattam a sorokat. A ragasztó csíkokhoz folymatosan erősen hozzányomtam a spárgát, hogy el ne engedjen.
 
 ![doboz](/assets/tárolók/IMG_20190416_175359.jpg)
 
 
 ## A bélés
 
+Nem vagyok varrónő, de valamennyire tudok varrni. 
+
+A dobozok bélését is én készítettem. 
+
+**Szabás**
+
+
+Az oldalakat lemértem, és 2 cm varrás szélességet valamint a magasságához 2cm szegést, és a visszahajtás magasságát ráhagyva kiszabtam az anyagot.
+Az aljánál is 1-1 cm volt oldalanként ráhagyás.
+
+**Varrás**
+
+Először az oldalakat varrtam össze. Színt színre fordítva, egy hosszú oldalt, egy röviddel, aztán a rövidhez a hosszút, majd végül a rövidet.
+
+Ezzel összeállt a doboz négy oldala. Az aljánál a sarkokat összeillesztettem és körbe varrtam.  
+Mikor elkészült, belepróbáltam a dobozba és gyönyörködtem egy kicsit.
+
+Végül a tetejét beszegtem, és rávarrtam a diszítő szalagot.
+
+És ezzel el is készült a designes tárolónk.
+
+**Jó tanács:** A bélés anyagát varrás előtt érdemes beavatni. 
 
 
 ## Gombhoz a kabátot
