@@ -76,7 +76,10 @@ Mivel mindent magunk csinálunk, készítünk, abban a szerencsés helyzetben va
 
 * **második lépés:** a dobozok sarkaihoz, és az oldalakra 4-5 centinként felragasztottam a kétoldalú ragasztót.
 
-* **harmadik lépés:** a doboz aljánál indítottam a spárgát. A kezdésnél és avégén 
+* **harmadik lépés:** a doboz aljánál indítottam a spárgát. A doboz oldalára 2-3 cm magasságban odaragasztottam a spárgát, majd visszakanyarítva elkezdtem tekerni.
+
+* **negyedik lépés:** tekerni, tekerni... Folyamatosan feszesen tartottam a s
+
 
 
 
