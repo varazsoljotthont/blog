@@ -92,7 +92,7 @@ Mivel mindent magunk csinálunk, készítünk, abban a szerencsés helyzetben va
 
 
  **+ 1 gondolat:**  
-Mint írtam, nem sikerült túl szépen dolgozni a homok minősége miatt. Az utcafrontot már zsákosanyaggal csinálta a férjem. Kisebb volt a felület, így nem került olyan sokba. Az elképzelésünk az volt, hogy fehér lesz majd a ház fala, ezért fehér színű vakolóanyagot vettünk. Ezzel a lépéssel sikerült elérni, hogy a ház "köszönő fele" már a vakolás után is szép volt. Ha nem is hófehér, de legalább nem cement színű.
+A lehetőség mindenben ott van. Ha az emberlánya sokat 
 
 
 ## Kapcsolódó cikkek
