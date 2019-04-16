@@ -146,7 +146,7 @@ A képek nem egy doboz spárgázását mutatják be. Sokat spárgáztam, és nem
 * [Hozzuk formába az otthonunkat!](/2019-03-26/dekoráció)
 * [A Miházunk átváltozása](/2019-03-20/költözés)
 * [Régi varrógép új élete!](/2019-02-12/varrogepasztal)
-* [Életre kelnek a falak](/2019-03-01/színesfalak)
+* [Ez aztán a változás!](/2019-04-11/külsőfalak)
 
 
 
