@@ -109,7 +109,7 @@ _A hiányzó rész kiegészítve, és beragsztva_
 
 ![doboz](/assets/tárolók/DSCF2342.JPG)
 
-Miután körbeértünk a dobozon, ragaszót pisztollyal meg lehet erősíteni a spárgát.
+Miután körbeértem a dobozon, ragaszót pisztollyal megerősítettem a spárgát.
 
 
 
@@ -149,13 +149,18 @@ Mivel mindent magunk csinálunk, készítünk, abban a szerencsés helyzetben va
 
 
 
+![doboz](/assets/tárolók/DSCF2659.JPG)
+
+
+
+
+![doboz](/assets/tárolók/IMG_20190416_074241.jpg)
 
 
 
 
 
-
-
+![doboz](/assets/tárolók/IMG_20190416_173226jav.jpg)
 
 
 
