@@ -45,6 +45,8 @@ A dobozok között vannak különböző méretűek, és erős, kemény falú, t�
 
 ![dobozok](/assets/tárolók/IMG_20190416_071347.jpg)
 _Nagy karton, kis karton, cipősdoboz... Mindegyik megfelelő alap lehet_
+
+
 **Spárga**
 
 Még régebbről őrizgettünk - valamire biztos jó lesz, alapon - néhány guriga spárgát. Adott volt hát a második alapanyag is. 
@@ -68,6 +70,9 @@ Mivel mindent magunk csinálunk, készítünk, abban a szerencsés helyzetben va
 
 
 ## Spárgázzunk, tekerjünk
+
+
+Első lépésként a dobozok felesleges részeit vágjuk le, majd a hiányzó helyekre ragasszuk be. Ezzel a lépéssel megkapjuk a "rendes" doboz formát.
 
 
 
