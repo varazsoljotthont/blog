@@ -106,6 +106,14 @@ _A hiányzó rész kiegészítve, és beragsztva_
 ![doboz](/assets/tárolók/IMG_20190416_175359.jpg)
 
 
+
+![doboz](/assets/tárolók/DSCF2342.JPG)
+
+Miután körbeértünk a dobozon, ragaszót pisztollyal meg lehet erősíteni a spárgát.
+
+
+
+
 ## A bélés
 
 Nem vagyok varrónő, de valamennyire tudok varrni. 
