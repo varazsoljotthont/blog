@@ -72,7 +72,11 @@ Mivel mindent magunk csinálunk, készítünk, abban a szerencsés helyzetben va
 ## Spárgázzunk, tekerjünk
 
 
-Első lépésként a dobozok felesleges részeit vágjuk le, majd a hiányzó helyekre ragasszuk be. Ezzel a lépéssel megkapjuk a "rendes" doboz formát.
+* **első lépés:** a dobozok felesleges részeit levágtam, majd a hiányzó helyekre toldásként beragasztottam. Ezzel a lépéssel elértem, hogy "rendes" dobozunk legyen.
+
+*
+
+
 
 
 
