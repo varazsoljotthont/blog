@@ -112,7 +112,7 @@ _A hiányzó rész kiegészítve, és beragsztva_
 
 Mivel mindent magunk csinálunk, készítünk, abban a szerencsés helyzetben vagyok, hogy meg tudtam szabni a polcok magasságát. A dobozokhoz készítette a polcot a férjem a mosókonyhában, konyhában, és még a hálószobában is. A hálóban a szekrény festése, átalakítása már úgy történt, hogy meg voltak a dobozok, így tökéletesen passzolnak egymáshoz.
 
-> A polc az átalakítás során felszedett hajópadlóból készült, és nagyon-nagyon jó lett. Az elvünk maradt a régi: olcsó legyen, de jó! 
+> A mosókonyhában a polc az átalakítás során felszedett hajópadlóból készült, és nagyon-nagyon jó lett. A konyhai egy régi ablakkeretből, amit raklap tetejéről leszedett fából polcozott be a férjem. Az elvünk maradt a régi: olcsó legyen, de jó! 
 (A mosókonyha külön posztot érdemel, hamarosan hozom) 
 
 
@@ -137,7 +137,7 @@ Mivel mindent magunk csinálunk, készítünk, abban a szerencsés helyzetben va
 
 
  **+ 1 gondolat:**  
-A lehetőség mindenben ott van. Ha az emberlánya sokat 
+A képek nem egy doboz spárgázását mutatják be. Sokat spárgáztam, és nem mindegyiknél fotóztam. A fázis képeket a napokban csináltam, ezért térnek el a kész dobozoktól.
 
 
 ## Kapcsolódó cikkek
