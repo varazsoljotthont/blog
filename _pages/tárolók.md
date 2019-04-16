@@ -182,7 +182,7 @@ A képek nem egy doboz spárgázását mutatják be. Sokat spárgáztam, és nem
 
 * [Ez aztán a változás!](/2019-04-11/külsőfalak)
 * [Hozzuk formába az otthonunkat!](/2019-03-26/dekoráció)
-* [Régi varrógép új élete!](/2019-02-12/varrogepasztal)
+* [Régi varrógép új élete](/2019-02-12/varrogepasztal)
 * [A Miházunk átváltozása](/2019-03-20/költözés)
 
 
