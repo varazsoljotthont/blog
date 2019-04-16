@@ -78,6 +78,15 @@ Ez külön ajándék még a dobozok mellé.
 
 * **első lépés:** a dobozok felesleges részeit levágtam, majd a hiányzó helyekre toldásként beragasztottam. Ezzel a lépéssel elértem, hogy "rendes" dobozunk legyen.
 
+![doboz](/assets/tárolók/IMG_20190416_213033.jpg)
+_A hiányzó rész kiegészítve, és beragsztva_
+
+
+
+![doboz](/assets/tárolók/IMG_20190416_172619jav.jpg)
+
+
+
 * **második lépés:** a dobozok sarkaihoz, és az oldalakra 2-3 centinként felragasztottam a kétoldalú ragasztót.
 
 * **harmadik lépés:** a doboz aljánál indítottam a spárgát. A doboz oldalára 2-3 cm magasságban odaragasztottam a spárgát, majd visszakanyarítva elkezdtem tekerni.
