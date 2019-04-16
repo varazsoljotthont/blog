@@ -41,6 +41,7 @@ Mondhatnám, hogy kínálta magát a lehetőség a mindennapi bevásárlások so
 
 A dobozok között vannak különböző méretűek, és erős, kemény falú, tárolásra alkalmas darabokat is találhatunk ha szerencsénk van. Ezek közül válogattam én is. 
 
+![dobozok](/assets/tárolók/IMG_20190416_071452 (1))
 
 **Spárga**
 
@@ -53,7 +54,7 @@ Két oldalú ragasztót használtam, ezt barkácsboltokban meg lehet vásárolni
 
 ## Gombhoz a kabátot
 
-Mivel mindent magunk csinálunk, készítünk, abban a szerencsés helyzetben vagyok, hogy meg tudtam szabni a polc méretét. A dobozokhoz készítette a férjem, így tökéletesen passzolnak egymáshoz.
+Mivel mindent magunk csinálunk, készítünk, abban a szerencsés helyzetben vagyok, hogy meg tudtam szabni a polcok magasságát. A dobozokhoz készítette a polcot a férjem a mosókonyhában, konyhában, és még a hálószobában is. A hálóban a szekrény festése, átalakítása már úgy történt, hogy meg voltak a dobozok, így tökéletesen passzolnak egymáshoz.
 
 > A polc az átalakítás során felszedett hajópadlóból készült, és nagyon-nagyon jó lett. Az elvünk maradt a régi: olcsó legyen, de jó! 
 (A mosókonyha külön posztot érdemel, hamarosan hozom) 
@@ -63,7 +64,7 @@ Mivel mindent magunk csinálunk, készítünk, abban a szerencsés helyzetben va
 
 
 
-![kamra](/assets/istállóhelyett/DSCF0695.JPG)
+![kamra](/assets/tárolók/DSCF0695.JPG)
 _Látszik, hogy hol van kikaparva a fuga, és ha már a magasban járt, akkor egy kis tetőjavítás is belefért_
 
 ## Felosztottuk a ránk váró munkát
