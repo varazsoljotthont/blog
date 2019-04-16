@@ -17,7 +17,7 @@ image:
 ## Az örök kérdés: hová tegyem?
 
 
-Nagyon szeretem "kiöltöztetni" a házunkat. Ünnepek előtt, évszakok váltásakor, és csak úgy is. Sok dekort készítettünk sajátkezűleg, és sok alapanyag össze is gyűlt az évek alatt. Apró kis csecsebecsék, méterárú, és az épp használaton kívüli kincsek is várták, hogy szabadságuk alatt méltó helyen pihenhessenek.
+Nagyon szeretem "kiöltöztetni" a házunkat. Ünnepek előtt, évszakok váltásakor, és csak úgy is. Sok dekort készítettünk sajátkezűleg, és sok alapanyag össze is gyűlt az évek alatt. Apró kis csecsebecsék, méterárú, és az épp használaton kívüli kincsek várták, hogy szabadságuk alatt méltó helyen pihenhessenek.
 
 Egyre erősebben jelentkezett részemrő az igény, hogy rendszerezve, esztétikusan tudjam tárolni a dolgaimat. Mikor a mosókonyha (is) elkészült, lehetőségem és helyem lett elpakolni a sok-sok  mindent.
 
@@ -38,11 +38,11 @@ Még valahol, valamikor láttam egy fotót egy bespárgázott üvegről, ami eli
 
 **Karton**
 
-Mondhatnám, hogy kínálta magát a lehetőség a mindennapi bevásárlások során. A legtöbb üzletben a kasszák környékére kirakják a kiürült kartondobozokat, amiket szabadon el lehet vinni.
+Szinte kínálta magát a lehetőség a mindennapi bevásárlások során. A legtöbb üzletben a kasszák környékére kirakják a kiürült kartondobozokat, amiket szabadon el lehet vinni.
 
 > Biztos vagyok benne, hogy sokan vittük már haza ilyenekben a napi vásárlásunkat. 
 
-A dobozok között vannak különböző méretűek, és erős, kemény falú, tárolásra alkalmas darabokat is találhatunk ha szerencsénk van. Ezek közül válogattam én is. 
+A dobozok különböző méretűek, és erős, kemény falú, tárolásra alkalmas darabokat is találhatunk ha szerencsénk van. 
 
 ![dobozok](/assets/tárolók/IMG_20190416_071347.jpg)
 _Nagy karton, kis karton, cipősdoboz... Mindegyik megfelelő alap lehet_
