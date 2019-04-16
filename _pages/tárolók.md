@@ -64,7 +64,7 @@ Két oldalú ragasztót használtam, ezt barkácsboltokban meg lehet vásárolni
 
 **Szék**
 
-Több ülőalkalmatosság tetsztelése után egy gyerekszék lett a befutó, amit én "fellépőként" használok a mindennapokban. Az alacsonysága miatt  lett jobb, mint a többi. Ezen ülve a doboz leért a földre, és nem kellett megtartani.
+Több ülőalkalmatosság tesztelése után egy gyerekszék lett a befutó, amit én "fellépőként" használok a mindennapokban. Az alacsonysága miatt  lett jobb, mint a többi. Ezen ülve a doboz leért a földre, és nem kellett megtartani.
 
 **Zene**
 
