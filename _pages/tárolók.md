@@ -44,10 +44,15 @@ Mondhatnám, hogy kínálta magát a lehetőség a mindennapi bevásárlások so
 A dobozok között vannak különböző méretűek, és erős, kemény falú, tárolásra alkalmas darabokat is találhatunk ha szerencsénk van. Ezek közül válogattam én is. 
 
 ![dobozok](/assets/tárolók/IMG_20190416_071347.jpg)
-
+_Nagy karton, kis karton, cipősdoboz... Mindegyik megfelelő alap lehet_
 **Spárga**
 
 Még régebbről őrizgettünk - valamire biztos jó lesz, alapon - néhány guriga spárgát. Adott volt hát a második alapanyag is. 
+
+![doboz](/assets/tárolók/DSCF2347.JPG)
+_A kellékek: karton, ragasztó, spárga. A kezünkben pedig a varázslat_
+
+
 
 
 **Ragasztó**
@@ -66,8 +71,7 @@ Mivel mindent magunk csinálunk, készítünk, abban a szerencsés helyzetben va
 
 
 
-![kamra](/assets/tárolók/DSCF0695.JPG)
-_Látszik, hogy hol van kikaparva a fuga, és ha már a magasban járt, akkor egy kis tetőjavítás is belefért_
+
 
 ## Felosztottuk a ránk váró munkát
 
