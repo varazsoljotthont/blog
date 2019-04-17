@@ -126,7 +126,7 @@ A dobozok bélését is én készítettem.
 Az oldalakat lemértem, és 2 cm varrás szélességet valamint a magasságához 2cm szegést, és a visszahajtás magasságát ráhagyva kiszabtam az anyagot.
 Az aljánál is 1-1 cm volt oldalanként ráhagyás.
 
-![textil](/assets/tárolók/IMG_20190417_072226 (1).jpg)
+![anyag](/assets/tárolók/IMG_20190417_072226.jpg)
 
 
 **Varrás**
