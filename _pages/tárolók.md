@@ -116,9 +116,7 @@ Miután körbeértem a dobozon, ragaszót pisztollyal megerősítettem a spárg�
 
 ## A bélés
 
-Nem vagyok varrónő, de valamennyire tudok varrni. 
-
-A dobozok bélését is én készítettem. 
+Nem vagyok varrónő, de valamicskét értek hozzá. Sok mindent varrtam már a "Miházunkba", ezért bátran nekiálltam a dobozok bélését is elkészíteni.
 
 **Szabás**
 
@@ -133,10 +131,10 @@ Az aljánál is 1-1 cm volt oldalanként ráhagyás.
 
 Először az oldalakat varrtam össze. Színt színre fordítva, egy hosszú oldalt, egy röviddel, aztán a rövidhez a hosszút, majd végül a rövidet.
 
-Ezzel összeállt a taxtil bélés négy oldala. Az aljátés az oldalál a sarkoknál összeillesztettem és körbe varrtam.  
+Ezzel összeállt a textil bélés négy oldala. Az alját és az oldalát a sarkoknál összeillesztettem és körbe varrtam.  
 Mikor elkészült, belepróbáltam a dobozba és gyönyörködtem egy kicsit.
 
-Végül a tetejét beszegtem, és rávarrtam a diszítő szalagot.
+Végül a tetejét beszegtem, és rávarrtam a diszítő szalagot. 
 
 És ezzel el is készült a designes tárolónk.
 
@@ -145,9 +143,9 @@ Végül a tetejét beszegtem, és rávarrtam a diszítő szalagot.
 
 ## Gombhoz a kabátot
 
-Mivel mindent magunk csinálunk, készítünk, abban a szerencsés helyzetben vagyok, hogy meg tudtam szabni a polcok magasságát. A dobozokhoz készítette a polcot a férjem a mosókonyhában, konyhában, és még a hálószobában is. A hálóban a szekrény festése, átalakítása már úgy történt, hogy meg voltak a dobozok, így tökéletesen passzolnak egymáshoz.
+Mivel mindent magunk csinálunk, készítünk, abban a szerencsés helyzetben vagyok, hogy meg tudtam szabni a polcok magasságát. A dobozokhoz készítette a polcot a férjem a mosókonyhában, konyhában, és még a hálószobában is. A hálóban a szekrény festése, átalakítása már úgy történt, hogy meg voltak a tárolók, így tökéletesen passzolnak egymáshoz.
 
-> A mosókonyhában a polc az átalakítás során felszedett hajópadlóból készült, és nagyon-nagyon jó lett. A konyhai egy régi ablakkeretből, amit raklap tetejéről leszedett fából polcozott be a férjem. Az elvünk maradt a régi: olcsó legyen, de jó! 
+> A mosókonyhában a polc az átalakítás során felszedett hajópadlóból készült, és nagyon-nagyon jó lett. A konyhai polcok régi ablakkeretből, amit raklap tetejéről leszedett fából polcozott be a férjem. Az elvünk maradt a régi: olcsó legyen, de jó! 
 (A mosókonyha külön posztot érdemel, hamarosan hozom) 
 
 
