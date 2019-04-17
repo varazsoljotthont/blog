@@ -115,7 +115,7 @@ Miután körbeértem a dobozon, ragaszót pisztollyal megerősítettem a spárg�
 
 ## A bélés
 
-Nem vagyok varrónő, de valamicskét értek hozzá. Sok mindent varrtam már a "Miházunkba", ezért bátran nekiálltam a dobozok bélését is elkészíteni.
+Nem vagyok varrónő, de valamicskét értek hozzá. Sok mindent varrtam már a "Miházunkba", ezért bátran álltam neki a dobozok bélését is elkészíteni.
 
 **Szabás**
 
