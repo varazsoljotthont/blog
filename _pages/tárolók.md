@@ -42,7 +42,7 @@ Szinte kínálta magát a lehetőség a mindennapi bevásárlások során. A leg
 
 > Biztos vagyok benne, hogy sokan vittük már haza ilyenekben a napi vásárlásunkat. 
 
-A dobozok különböző méretűek. És erős, kemény falú, tárolásra alkalmas darabokat is találhatunk ha szerencsénk van. 
+A dobozok különböző méretűek. Erős, kemény falú, tárolásra alkalmas darabokat is találhatunk ha szerencsénk van. 
 
 ![dobozok](/assets/tárolók/IMG_20190416_071347.jpg)
 _Nagy karton, kis karton, cipősdoboz... Mindegyik megfelelő alap lehet_
