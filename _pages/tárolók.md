@@ -32,7 +32,6 @@ Egyre erősebben jelentkezett részemről az igény, hogy rendszerezve, esztéti
 **Inspiráció**
 
 Jómagam is szeretek inspirálódni, nyitott szemmel járni, ötleteket szerezni. 
-
 Még valahol, valamikor láttam egy fotót egy bespárgázott üvegről, ami elindította a gondolatot a tárolókkal kapcsolatban.
 
 
