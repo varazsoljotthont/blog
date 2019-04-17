@@ -136,7 +136,7 @@ Mikor elkészült, belepróbáltam a dobozba és gyönyörködtem egy kicsit.
 
 Végül a tetejét beszegtem, és rávarrtam a diszítő szalagot. 
 
-Ezzel el is készült a designes, természetes hatású,  tárolónk.
+Ezzel el is készült az olcsó, dekoratív, természetes hatású tárolónk.
 
 **Jó tanács:** A bélés anyagát varrás előtt érdemes beavatni. 
 
