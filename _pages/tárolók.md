@@ -93,7 +93,7 @@ _A hiányzó rész kiegészítve, és beragsztva_
 ![doboz](/assets/tárolók/IMG_20190416_173226jav.jpg)
 
 
-* **harmadik lépés:** a doboz aljánál indítottam a spárgát. A doboz oldalára 2-3 cm magasságban odaragasztottam a spárgát, majd visszakanyarítva elkezdtem tekerni.
+* **harmadik lépés:** a doboz aljánál indítottam a spárgát. A doboz oldalára 2-3 cm magasságban odaragasztottam, majd visszakanyarítva elkezdtem tekerni.
 
 
 ![doboz](/assets/tárolók/IMG_20190416_173404.jpg)
