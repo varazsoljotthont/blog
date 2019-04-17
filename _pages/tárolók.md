@@ -53,7 +53,7 @@ _Nagy karton, kis karton, cipősdoboz... Mindegyik megfelelő alap lehet_
 Még régebbről őrizgettünk - valamire biztos jó lesz, alapon - néhány guriga spárgát. Adott volt hát a második alapanyag is. 
 
 ![doboz](/assets/tárolók/DSCF2347.JPG)
-_A kellékek: karton, ragasztó, spárga. A kezünkben pedig a varázslat_
+_A kellékek: karton, ragasztó, spárga. Kezünkben pedig a varázslat_
 
 
 
@@ -79,7 +79,7 @@ Ez külön ajándék még a dobozok mellé.
 * **első lépés:** a dobozok felesleges részeit levágtam, majd a hiányzó helyekre toldásként beragasztottam. Ezzel a lépéssel elértem, hogy "rendes" dobozunk legyen.
 
 ![doboz](/assets/tárolók/IMG_20190416_213033.jpg)
-_A hiányzó rész kiegészítve, és beragsztva_
+_A hiányzó rész kiegészítve, és beragasztva_
 
 
 
@@ -136,7 +136,7 @@ Mikor elkészült, belepróbáltam a dobozba és gyönyörködtem egy kicsit.
 
 Végül a tetejét beszegtem, és rávarrtam a diszítő szalagot. 
 
-És ezzel el is készült a designes tárolónk.
+Ezzel el is készült a designes, természetes hatású,  tárolónk.
 
 **Jó tanács:** A bélés anyagát varrás előtt érdemes beavatni. 
 
