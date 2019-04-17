@@ -143,7 +143,7 @@ Ezzel el is készült a designes, természetes hatású,  tárolónk.
 
 ## Gombhoz a kabátot
 
-Mivel mindent magunk csinálunk, készítünk, abban a szerencsés helyzetben vagyok, hogy meg tudtam szabni a polcok magasságát. A dobozokhoz készítette a polcot a férjem a mosókonyhában, konyhában, és még a hálószobában is. A hálóban a szekrény festése, átalakítása már úgy történt, hogy meg voltak a tárolók, így tökéletesen passzolnak egymáshoz.
+Mivel mindent magunk csinálunk, készítünk, abban a szerencsés helyzetben voltam, hogy meg tudtam szabni a polcok magasságát. A dobozokhoz készítette a polcot a férjem a mosókonyhában, konyhában, és még a hálószobában is. A hálóban a szekrény festése, átalakítása már úgy történt, hogy meg voltak a tárolók, így tökéletesen passzolnak egymáshoz.
 
 > A mosókonyhában a polc az átalakítás során felszedett hajópadlóból készült, és nagyon-nagyon jó lett. A konyhai polcok régi ablakkeretből, amit raklap tetejéről leszedett fából polcozott be a férjem. Az elvünk maradt a régi: olcsó legyen, de jó! 
 (A mosókonyha külön posztot érdemel, hamarosan hozom) 
