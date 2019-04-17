@@ -19,7 +19,7 @@ image:
 
 Nagyon szeretem "kiöltöztetni" a házunkat. Ünnepek előtt, évszakok váltásakor, és csak úgy is. Sok dekort készítettünk sajátkezűleg, és sok alapanyag össze is gyűlt az évek alatt. Apró kis csecsebecsék, méterárú, és az épp használaton kívüli kincsek várták, hogy szabadságuk alatt méltó helyen pihenhessenek.
 
-Egyre erősebben jelentkezett részemrő az igény, hogy rendszerezve, esztétikusan tudjam tárolni a dolgaimat. Mikor a mosókonyha (is) elkészült, lehetőségem és helyem lett elpakolni a sok-sok  mindent.
+Egyre erősebben jelentkezett részemről az igény, hogy rendszerezve, esztétikusan tudjam tárolni a dolgaimat. Mikor a mosókonyha (is) elkészült, lehetőségem és helyem lett elpakolni a sok-sok  mindent.
 
 
 ![tulipán](/assets/tárolók/IMG_20190416_095143.jpg)
@@ -42,7 +42,7 @@ Szinte kínálta magát a lehetőség a mindennapi bevásárlások során. A leg
 
 > Biztos vagyok benne, hogy sokan vittük már haza ilyenekben a napi vásárlásunkat. 
 
-A dobozok különböző méretűek, és erős, kemény falú, tárolásra alkalmas darabokat is találhatunk ha szerencsénk van. 
+A dobozok különböző méretűek. És erős, kemény falú, tárolásra alkalmas darabokat is találhatunk ha szerencsénk van. 
 
 ![dobozok](/assets/tárolók/IMG_20190416_071347.jpg)
 _Nagy karton, kis karton, cipősdoboz... Mindegyik megfelelő alap lehet_
@@ -133,7 +133,7 @@ Az aljánál is 1-1 cm volt oldalanként ráhagyás.
 
 Először az oldalakat varrtam össze. Színt színre fordítva, egy hosszú oldalt, egy röviddel, aztán a rövidhez a hosszút, majd végül a rövidet.
 
-Ezzel összeállt a doboz négy oldala. Az aljánál a sarkokat összeillesztettem és körbe varrtam.  
+Ezzel összeállt a taxtil bélés négy oldala. Az aljátés az oldalál a sarkoknál összeillesztettem és körbe varrtam.  
 Mikor elkészült, belepróbáltam a dobozba és gyönyörködtem egy kicsit.
 
 Végül a tetejét beszegtem, és rávarrtam a diszítő szalagot.
