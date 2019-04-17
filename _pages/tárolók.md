@@ -125,6 +125,7 @@ Az oldalakat lemértem, és 2 cm varrás szélességet valamint a magasságához
 Az aljánál is 1-1 cm volt oldalanként ráhagyás.
 
 ![anyag](/assets/tárolók/IMG_20190417_072226.jpg)
+_Szeretem a vidékies stílusú anyagokat_
 
 
 **Varrás**
