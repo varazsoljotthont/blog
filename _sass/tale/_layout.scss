@@ -50,7 +50,7 @@ footer,
     @include transition(all .2s ease-out);
     color: $default-color;
     display: inline-block;
-    opacity: .9;
+    opacity: .7 ;
     padding: 0 2rem 0 0;
 
     &:last-child {
@@ -60,11 +60,12 @@ footer,
     &:hover,
     &:focus {
       opacity: 1;
+      text-decoration: underline;   
     }
   }
 
   a {
-    color: $default-color;
+    color: #111;
     font-family: $sans-serif;
   }
 }
