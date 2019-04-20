@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Varrógépből asztal? Mutatom, hogy lehet!"
+title: "Varrógépből kerti asztal? Mutatom, hogy lehet!"
 cover: /assets/varrogepasztal/cover.jpg
 image:
   path: /assets/varrogepasztal/cover.jpg
