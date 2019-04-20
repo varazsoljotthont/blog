@@ -1,12 +1,13 @@
 ---
 layout: post
-title: "Régi varrógép új élete"
-cover: /assets/varrogepasztal/cover.jpg
+title: "Alakítsuk át a nagyi régi varrogépét asztallá!"
+cover: /assets/varrógepasztal/cover.jpg
 image:
   path: /assets/varrogepasztal/cover.jpg
   height: 300
   width: 300  
 ---
+
 
 
 
