@@ -1,7 +1,6 @@
 ---
 layout: post
-title: "Alakítsuk át a nagyi régi varrogépét asztallá!"
-cover: /assets/varrógepasztal/cover.jpg
+title: "Varrógépből asztal? Mutatom, hogy lehet!"
 image:
   path: /assets/varrogepasztal/cover.jpg
   height: 300
