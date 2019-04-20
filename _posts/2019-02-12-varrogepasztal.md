@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Varrógépből asztal? Mutatom, hogy lehet!"
+cover: /assets/varrógepasztal/cover.jpg
 image:
   path: /assets/varrogepasztal/cover.jpg
   height: 300
