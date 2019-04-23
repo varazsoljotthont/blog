@@ -88,7 +88,7 @@ _Készül a járda, a kamra, a terasz
 
 Nem állítom, hogy nincs velük tennivaló, de a szépségük kárpótol a mindenért.
 
-> Szeletelt, bontott, vagy címeres tégla forgalmazásával is a ([Tégláriumot](https://www.teglarium.com/)) keresheted.
+> Szeletelt, bontott, vagy címeres tégla forgalmazásával a ([Tégláriumot](https://www.teglarium.com/)) keresheted.
 
 
 
@@ -159,7 +159,7 @@ Egy régi kolbásztöltő lett a megfelelő eszköz. Sok anyag belefért, így v
 
 Nem hiszem, hogy túl általános lenne a töltő ilyen jellegű felhasználása, de hatékonynak bizonyult.
 
-![tégla](/assets/tégla/DSCF0864jav.JPG)
+![tégla](/assets/tégla/DSCF0864jav.jpg)
 
 A cemeteszsákkal átdörzsöltem a fugát, hogy egyenletes mélységű legyen, majd a fuga száradása után kőbalzsammal kezeltem a téglát.
 
