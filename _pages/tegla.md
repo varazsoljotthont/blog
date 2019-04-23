@@ -159,7 +159,7 @@ Egy régi kolbásztöltő lett a megfelelő eszköz. Sok anyag belefért, így v
 
 Nem hiszem, hogy túl általános lenne a töltő ilyen jellegű felhasználása, de hatékonynak bizonyult.
 
-
+![tégla](/assets/tégla/DSCF0864jav.JPG)
 
 A cemeteszsákkal átdörzsöltem a fugát, hogy egyenletes mélységű legyen, majd a fuga száradása után kőbalzsammal kezeltem a téglát.
 
