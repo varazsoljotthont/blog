@@ -31,6 +31,7 @@ A modern, minimál stílusú házak a csupa króm, üveg, egyen berendezéssel e
 Mindketten vonzódunk a régi, újra hasznosított tárgyakhoz, szeretjük a természetes dolgokat magunk körül. 
 Mikor elkezdődött a ház átalakítása, adta magát az ötlet, hogy használjuk fel birtokunkban lévő téglákat. 
 Kéznél van, ingyért van, helyben van, és még szép is.  
+
 Mi kell még?
 
 ![idézet](/assets/tégla/idézet.jpg)
@@ -39,15 +40,13 @@ Mi kell még?
 
 ## Mindenhol tégla 
 
-Felhasználásuk mindenre és mindenhova kiterjed.
-
-A lakásban és az udvaron is több helyre építettünk be bontott téglákat. 
+A bontott tégla felhasználása mindenre és mindenhova kiterjed. A lakásban és az udvaron is legkülönbözőbb módon hasznosítottuk az évek alatt összegyűjtött téglákat.
 
 > Tényleg csak a fantáziánk szab határt, hogy miként gondoljuk újra a régi, bontott téglák sorsát. 
 
 
 
-Ebből készült a(z):
+A "Miházunkban" ebből készült a(z):
 
 * konyhapult
 * pillérek
@@ -172,9 +171,17 @@ Nem hiszem, hogy túl általános lenne a töltő ilyen jellegű felhasználása
 
 A cemeteszsákkal átdörzsöltem a fugát, hogy egyenletes mélységű legyen, majd a fuga száradása után kőbalzsammal kezeltem a téglát.
 
+A balzsam ad neki
+
 
 
 Szeretjük a téglát. 
+Azt hiszem, ezt nem is tagadhatjuk...
+
+Mi ebben a régi építőanyagban megtaláltuk mindazt amit kerestünk, hogy a házunk hangulata olyan legyen, amilyennek megálmodtuk.
+
+Vidékies, rusztikus, hangulatos eredménye lett a sok téglának a házban.
+
 
 
 
