@@ -169,7 +169,7 @@ A ház lábazatát is téglából álmodtuk meg. Erre a célra szeletlet téglá
 
 Elég nagy felületet kellett kifugázni, ezért okozott némi fejtörést, hogy mivel lehet hatékonyan elvégezni a feladatot.
 
-Természetesen a férjem megtalálta a megoldást, mégha nem is a legáltalánosabb dolog jutott az eszébe.  
+Természetesen a férjem megtalálta a megoldást, még ha nem is a legáltalánosabb dolog jutott az eszébe.  
 Egy régi kolbásztöltő lett a megfelelő eszköz. Sok anyag belefért, így viszonylag gyorsan tudott haladni a munkával. 
 
 
