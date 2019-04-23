@@ -11,7 +11,7 @@ image:
 
 
 
-**A bontott tégla napjainkban valódi reneszánszát éli, de a mi esetünkben nem a divat miatt került be a házba.  A szlogenem: "Téglából ház, lélekből otthon". És ha a téglába beletesszük a lelkünket, akkor szépséges dolgokat tudunk létrehozni.**
+**A bontott tégla napjainkban valódi reneszánszát éli, de a mi esetünkben nem a divat miatt került be a házba.  A szlogenem: "Téglából ház, lélekből otthon". És ha a téglába beletesszük a lelkünket, akkor képesek leszünk létrehozni azt az otthont, amire vágyunk.**
 
 
 
@@ -71,7 +71,7 @@ Ebből készült a(z):
 ...és még nincs vége...
 
 ![tégla](/assets/tégla/DSCF2569jav.jpg)
-_Készül a járda, a kamra, a terasz
+_Készül a járda, a kamra, a terasz_
 
 ![tégla](/assets/tégla/DSCF2400jav.jpg)
 
@@ -90,9 +90,10 @@ Nem állítom, hogy nincs velük tennivaló, de a szépségük kárpótol a mind
 
 > Szeletelt, bontott, vagy címeres tégla forgalmazásával a ([Tégláriumot](https://www.teglarium.com/)) keresheted.
 
-![tégla](/assets/tégla/sufni.jpg)
+![tégla](/assets/tégla/sufnijav.jpg)
+_A címeres téglák a sufni dekoratív falába lettek beépítve_
 
-![tégla](/assets/tégla/sufni.jpg)
+![tégla](/assets/tégla/sufni2jav.jpg)
 
 
 
