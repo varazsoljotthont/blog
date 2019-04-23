@@ -54,7 +54,7 @@ A "Miházunkban" ebből készült a(z):
 * konyhapult
 * pillérek
 * régi ajtó helyén a dekor fal 
-* nappali polc rendszere
+* nappali polcrendszere
 * kamra burkolata
 * terasz
 * terasz burkolata
@@ -96,7 +96,7 @@ Nem is gondolnánk, hogy milyen sok fajtája létezik a téglának... Különbö
 
 
 
-Nem állítom, hogy nincs velük tennivaló, de a szépségük kárpótol a mindenért.
+Nem állítom, hogy nincs velük tennivaló, de a szépségük kárpótol mindenért.
 
 
 **Meghatározza az otthonunk hangulatát**
@@ -115,9 +115,9 @@ _Mindenhol jelen van a bontott tégla_
 **Válogatás**
 
 
-A válogatással kezdődik a munka, attól függően, hogy mit szeretnénk készíteni. 
+A válogatással kezdődött a munka, attól függően, hogy mi volt a tervünk. 
 
-A nagyjából azonos méretűeket szedtük ki a téglarakásunkból, és ha friss bontásból származott a tégla, akkor azt még pucolni is kellett.  Nálunk ez a feladat mindig az enyém volt.  
+A nagyjából azonos méretűeket szedtük ki a téglarakásunkból, de ha friss bontásból származott a tégla, akkor azt még pucolni is kellett.  Nálunk ez a feladat mindig az enyém volt.  
 A férjem épített, én pedig segédmunkáskodtam...
 
 
@@ -137,14 +137,14 @@ Sósavval átkentem a felületeket, hogy a rajt maradt maltert, és egyéb szenn
 
 
 A következő fázis a fugázás.  
-Különböző módon fugáztunk kint és bent.
+
 
 
 A lakásban eleve úgy raktuk  a téglát, hogy a téglák közötti sorokat "csak" finomítani kelljen. Cementeszsákkal dörzsöltem át a maltert, hogy egyenletes legyen, és ezzel elő is készítettem a kozmetikai fugázásra. 
 
 Cement tejet készítettem, és óvatosan átfestegettem a téglák közti fugákat.
 
-> A cementtej cement és víz elegye, olyan állagúra keverve, hogy ecsettel kenhető legyen. Ízlés dolga, hogy mennyire sötét színt szeretnénk fugának. Én a szürke cemethez mindig tettem egy kevés fehéret is, hogy ne legyen annyira komor a felület.)
+> A cementtej, cement és víz elegye. Olyan állagúra keverve, hogy ecsettel kenhető legyen. Ízlés dolga, hogy mennyire sötét színt szeretnénk fugának. Én a szürke cemethez mindig tettem egy kevés fehéret is, hogy ne legyen annyira komor a felület.)
 
 ![tégla](/assets/tégla/kert.jpg)
 _A pihenőrész és a kút is tégla burkolatot kapott_
@@ -210,7 +210,7 @@ _Kerti rom. Ha ilyen szép környezetben pihenhetünk, az külön öröm_
 
 
 
-**Ma már nem jelent gondot, hogy a fürdőszobába vagy a konyhába építsük be a bontott téglát. Az impregnáló anyagokkal mosható, szennyeződés taszító lesz a tégla felülete. A Téglárium oldalán minden információ olvasható ami a bontott tégláról fontos lehet.** 
+**Ma már nem jelent gondot, hogy a fürdőszobába vagy a konyhába építsük be a bontott téglát. Az impregnáló anyagokkal mosható, szennyeződés taszító lesz a tégla, ráadásul elegendő egy alkalommal lekenni a kezelendő felületet. A Téglárium oldalán minden információ olvasható ami a bontott tégláról fontos lehet.** 
 ([itt találod](https://www.facebook.com/Teglarium/?epa=SEARCH_BOX))
 
 
