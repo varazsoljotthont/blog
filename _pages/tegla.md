@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "A bontott tégla varázsa"
+title: "Bontott tégla varázsa az otthonunkban"
 permalink: /tegla/
 cover: /assets/tégla/cover.jpg
 image:
