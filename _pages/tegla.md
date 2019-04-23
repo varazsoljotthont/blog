@@ -90,6 +90,11 @@ Nem állítom, hogy nincs velük tennivaló, de a szépségük kárpótol a mind
 
 > Szeletelt, bontott, vagy címeres tégla forgalmazásával a ([Tégláriumot](https://www.teglarium.com/)) keresheted.
 
+![tégla](/assets/tégla/sufni.jpg)
+
+![tégla](/assets/tégla/sufni.jpg)
+
+
 
 
 **Válogatás**
@@ -160,6 +165,9 @@ Egy régi kolbásztöltő lett a megfelelő eszköz. Sok anyag belefért, így v
 Nem hiszem, hogy túl általános lenne a töltő ilyen jellegű felhasználása, de hatékonynak bizonyult.
 
 ![tégla](/assets/tégla/DSCF0864jav.jpg)
+
+
+![tégla](/assets/tégla/IMG_20190311_105751jav.jpg)
 
 A cemeteszsákkal átdörzsöltem a fugát, hogy egyenletes mélységű legyen, majd a fuga száradása után kőbalzsammal kezeltem a téglát.
 
