@@ -151,7 +151,7 @@ _A pihenőrész és a kút is tégla burkolatot kapott_
 
 ## Sufni
 
-Régen egy teljesen jellegetelen nyitott elejű tároló volt. Férjem befalazta, majd a direkt erre a célra gyűjtögetett címeres téglákkal burkolta. 
+Régen egy teljesen jellegtelen nyitott elejű tároló volt. Férjem befalazta, majd a direkt erre a célra gyűjtögetett címeres téglákkal burkolta. 
 
 ![tégla](/assets/tégla/sufnijav.jpg)
 _A címeres téglák a sufni dekoratív falába lettek beépítve_
