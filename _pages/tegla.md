@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Tégla a lakásban, a kertben"
+title: "Tégla sokoldalú felhasználása a lakásban, a kertben"
 permalink: /tegla/
 cover: /assets/tégla/cover.JPG
 image:
@@ -38,7 +38,7 @@ Mi kell még?
 
 Felhasználásuk mindenre és mindenhova kiterjed.
 
-A lakrészben, és az udvaron is több helyre építettünk be bontott téglákat. 
+A lakásban és az udvaron is több helyre építettünk be bontott téglákat. 
 
 > Tényleg csak a fantáziánk szab határt, hogy miként gondoljuk újra a régi, bontott téglák sorsát. 
 
@@ -79,15 +79,26 @@ Ebből készült a(z):
 
 Nem állítom, hogy nincs velül tennivaló, de a szépségük kárpótol a mindenért.
 
+
+**Válogatás**
+
+
 A válogatással kezdődik a munka, attól függően, hogy mit szeretnénk készíteni. 
 
-A nagyjából azonos méretűeket szedtük ki a téglarakásunkból, és ha friss bontásból származik a tégla, akkor azt még pucolni is kellett. Nálunk ez a feladat mindig az enyém volt. A férjem épített, én pedig segédmunkáskodtam...
+A nagyjából azonos méretűeket szedtük ki a téglarakásunkból, és ha friss bontásból származott a tégla, akkor azt még pucolni is kellett.  Nálunk ez a feladat mindig az enyém volt.  
+A férjem épített, én pedig segédmunkáskodtam...
 
 
 
-Amikor a férjem elkészítette az éppen aktuális téglás művünket, megint én következtem. 
+Amikor elkészült az éppen aktuális tégla mű, megint én következtem. 
+
+
+**Sósavazás**
+
 
 Sósavval átkentem a felületeket, hogy a rajt maradt maltert, és egyéb szennyeződéseket lemarja. Ahol szükségesnek láttam, egy kicsit spaklival is rásegítettem. 
+
+**Fugázás**
 
 
 A következő fázis a fugázás. 
@@ -103,7 +114,7 @@ Cement tejet készítettem, és óvatosan átfestegettem a téglák fugákat.
 > A cementtej cement és víz elegye, olyan állagúra keverve, hogy ecsettel kenhető legyen. Ízlés dolga, hogy mennyire sötét színt szeretnénk fugának. Én a szürke cemethez mindig tettem egy kevés fehéret is, hogy ne legyen annyira komor a felület.)
 
 
-**Vigyázzunk rá!**
+## Vigyázzunk rá!
 
 
 Száradás után ahol kellett még plasztikáztam egy kicsit, és az utolsó lépésként a felületét balzsammal kezeltem. 
@@ -120,7 +131,11 @@ A balzsam lezárja a tégla felületét, nem lesz porózus, könnyen lehet takar
 
 **Lábazat**
 
-A ház lábazatát is tégéból álmodtuk meg. Erre a célra szeletlet téglát vásároltunk, amit kültéri csemperagasztóval rgasztott fel a férjem, a fugázásához pedig szélesfugát használt. 
+A ház lábazatát is téglából álmodtuk meg. Erre a célra szeletlet téglát vásároltunk, amit kültéri csemperagasztóval rgasztott fel a férjem, a fugázásához pedig szélesfugát használt. 
+
+
+> Szeletelt, bontott, vagy címeres tégla forgalmazásával is a ([Tégláriumot](https://www.teglarium.com/)) keresheted.
+
 
 Elég nagy felületet kellett kifugázni, ezért okozott némi fejtörést, hogy mivel lehet hatékonyan megcsinálni.
 
