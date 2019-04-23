@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "A tégla nem csak építőanyag!"
+title: "Tégla a lakásban, a kertben"
 permalink: /tegla/
 cover: /assets/tégla/cover.JPG
 image:
@@ -25,7 +25,7 @@ Még évekkel ezelőtt, mikor csak ábrándoztunk a "Miházunkról", tervezgett�
 
 ([erről itt olvashatsz](/2019-02-09/hazvasarlas))
 
-A modern, minimál stílusú házak a csupa króm és üveg berendezéssel egyikünknek sem tetszettek. 
+A modern, minimál stílusú házak a csupa króm, üveg, egyen berendezéssel egyikünknek sem tetszettek. 
 
 
 Mindketten vonzódunk a régi, újra hasznosított tárgyakhoz, szeretjük a természetes dolgokat magunk körül. 
@@ -36,7 +36,13 @@ Mi kell még?
 
 ## Mindenhol tégla 
 
+Felhasználásuk mindenre és mindenhova kiterjed.
+
 A lakrészben, és az udvaron is több helyre építettünk be bontott téglákat. 
+
+> Tényleg csak a fantáziánk szab határt, hogy miként gondoljuk újra a régi, bontott téglák sorsát. 
+
+
 
 Ebből készült a(z):
 
@@ -62,21 +68,22 @@ Ebből készült a(z):
 ...és még nincs vége...
 
 
-Nagyon szeretem, hogy nem szabályosak, hogy kissé csorbák lettek előző életükben. Rusztikus hangulatot adnak a háznak, ezzel pedig megteremtik azt légkört, amire vágytunk.
+> Nagyon szeretem, hogy nem szabályosak, hogy kissé csorbák lettek előző életükben. Rusztikus hangulatot adnak a háznak, ezzel pedig megteremtik azt légkört, amire vágytunk.
+
 
 ## A feladatok, hogy sokáig örülhessünk a téglás házunknak!
 
+**Nem is gondolnánk, hogy milyen sok fajtája létezik a téglának... Különböznek hosszban, magasságban, színben. Vannak címeres, pecsétes téglák, amikre szinte "vadásztunk" és külön gyűjtögettünk, hisz azokkal különleges tervünk volt.**
 
-Különböző méretűek, ütött - kopott darabok a bontott téglák.  
+
+
 Nem állítom, hogy nincs velül tennivaló, de a szépségük kárpótol a mindenért.
 
 A válogatással kezdődik a munka, attól függően, hogy mit szeretnénk készíteni. 
 
-Nem is gondolnánk, hogy milyen sok fajtája létezik a téglának... Különböznek hosszban, magasságban, színben
+A nagyjából azonos méretűeket szedtük ki a téglarakásunkból, és ha friss bontásból származik a tégla, akkor azt még pucolni is kellett. Nálunk ez a feladat mindig az enyém volt. A férjem épített, én pedig segédmunkáskodtam...
 
-> Ja, igen! Ha friss bontásból származik a tégla, akkor azt még pucolni is kell... Nálunk ez a feladat mindig az enyém volt. A férjem épített, én pedig segédmunkáskodtam...
 
-**A címeres, pecsétes téglákat külön gyűjtögettük, hisz azokkal különleges tervünk volt...**
 
 Amikor a férjem elkészítette az éppen aktuális téglás művünket, megint én következtem. 
 
@@ -89,7 +96,7 @@ A következő fázis a fugázás.
 Különböző módon fugáztunk kint és bent.
 
 
-A lakásban eleve úgy raktuk  a téglát, hogy a téglák közötti sorokat "csak" finomítani kelljen. A cementeszsák egy darabja tökéletes erre a célra. Átdörzsöltem vele a maltert, hogy egyenletes legyen, és ezzel elő is készítettem szépészeti fugázásra.
+A lakásban eleve úgy raktuk  a téglát, hogy a téglák közötti sorokat "csak" finomítani kelljen. Átdörzsöltem vele a maltert, hogy egyenletes legyen, és ezzel elő is készítettem szépészeti fugázásra. A cementeszsák egy darabja tökéletes erre a célra. 
 
 Cement tejet készítettem, és óvatosan átfestegettem a téglák fugákat.
 
@@ -108,6 +115,24 @@ A balzsam lezárja a tégla felületét, nem lesz porózus, könnyen lehet takar
 ([itt találod](https://www.facebook.com/Teglarium/?epa=SEARCH_BOX))
 
 **Ma már nem jelent gondot, hogy a fürdőszobába vagy a konyhába építsük be a bontott téglát. Az impregnáló anyagokkal mosható, szennyeződés taszító lesz a tégla felülete.**
+
+
+
+**Lábazat**
+
+A ház lábazatát is tégéból álmodtuk meg. Erre a célra szeletlet téglát vásároltunk, amit kültéri csemperagasztóval rgasztott fel a férjem, a fugázásához pedig szélesfugát használt. 
+
+Elég nagy felületet kellett kifugázni, ezért okozott némi fejtörést, hogy mivel lehet hatékonyan megcsinálni.
+
+
+
+Egy régi kolbásztöltő lett a megfelelő eszköz. Sok anyag belefért, így viszonylag gyorsan lehetett haladni a munkával. 
+
+Nem hiszem, hogy túl általános lenne az ilyen jellegű felhasználása, de hatékonynak bizonyult.
+
+
+
+A cemeteszsákkal átdörzsöltem a fugát, hogy egyenletes mélységű legyen
 
 
 
