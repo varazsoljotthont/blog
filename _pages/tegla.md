@@ -94,7 +94,7 @@ Nem állítom, hogy nincs velük tennivaló, de a szépségük kárpótol a mind
 
 ## Sufni
 
-Régen egy teljesen jellegetelen ún. leereszték vagy ereszték volt. Nyitott elejű tároló. Férjem befalazta, majd a direkt erre a célra gyűjtögetett címeres téglákkal burkolta. 
+Régen egy teljesen jellegetelen nyitott elejű tároló volt. Férjem befalazta, majd a direkt erre a célra gyűjtögetett címeres téglákkal burkolta. 
 
 ![tégla](/assets/tégla/sufnijav.jpg)
 _A címeres téglák a sufni dekoratív falába lettek beépítve_
