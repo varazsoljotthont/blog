@@ -162,7 +162,7 @@ _A címeres téglák a sufni dekoratív falába lettek beépítve_
 
 ## Lábazat
 
-A ház lábazatát is téglából álmodtuk meg. Erre a célra szeletlet téglát vásároltunk, amit kültéri csemperagasztóval rgasztott fel a férjem, a fugázásához pedig szélesfugát használt. 
+A ház lábazatát is téglából álmodtuk meg. Erre a célra szeletlet téglát vásároltunk, amit kültéri csemperagasztóval ragasztott fel a férjem, a fugázásához pedig zsákos fugázó anyagot használt. 
 
 
 
