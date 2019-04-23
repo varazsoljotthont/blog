@@ -98,7 +98,7 @@ _A címeres téglák a sufni dekoratív falába lettek beépítve_
 
 
 ![tégla](/assets/tégla/cover.jpg)
-_ A pihenőrész és a kút is tégla burkolatot kapott_
+_A pihenőrész és a kút is tégla burkolatot kapott_
 
 
 
@@ -191,7 +191,7 @@ Nem hiszem, hogy túl általános lenne a töltő ilyen jellegű felhasználása
 
 A cemeteszsákkal átdörzsöltem a fugát, hogy egyenletes mélységű legyen, majd a fuga száradása után kőbalzsammal kezeltem a téglát.
 
-A balzsam ad neki
+> A balzsamtól szép fényes lesz a tégla felülete, és az időjárástól is megvédi.
 
 
 
@@ -200,7 +200,7 @@ Azt hiszem, ezt nem is tagadhatjuk...
 
 Ebben a régi építőanyagban mi megtaláltuk mindazt amit kerestünk, hogy a házunk hangulata olyan legyen, amilyennek megálmodtuk.
 
-Vidékies, rusztikus, hangulatos. 
+Vidékies, rusztikus, barátságos. 
 
 Voltak, akik úgy gondolták, hogy túl sok lesz a téglából. De mint a ([dekorációról szóló posztban írtam](/2019-03-26/dekoráció
 )) ha a felhasznált anyagok fajtájával nem esünk túlzásokba (max 3) akkor nem lőhetünk mellé.
@@ -215,7 +215,7 @@ Voltak, akik úgy gondolták, hogy túl sok lesz a téglából. De mint a ([deko
 
 
 **+ 1 gondolat:**   
-A jól kiégetett téglával nem lesz gond a kültérben sem. Amelyiknek csilingelő hangja van, az biztosan jó minőségű, és a megfelelő felület kezeléssel hosszú évekig gyönyörködhetünk a munkánkban.
+A jól kiégetett téglával nem lesz gond a kültérben. Amelyiknek csilingelő hangja van, az biztosan jó minőségű, és megfelelő felület kezeléssel hosszú évekig gyönyörködhetünk a munkánkban.
 
 
 ## Kapcsolódó cikkek
