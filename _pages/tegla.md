@@ -71,13 +71,16 @@ Ebből készült a(z):
 > Nagyon szeretem, hogy nem szabályosak, hogy kissé csorbák lettek előző életükben. Rusztikus hangulatot adnak a háznak, ezzel pedig megteremtik azt légkört, amire vágytunk.
 
 
-## A feladatok, hogy sokáig örülhessünk a téglás házunknak!
+## A feladatok, hogy a bontott téglából látványelem legyen!
 
 **Nem is gondolnánk, hogy milyen sok fajtája létezik a téglának... Különböznek hosszban, magasságban, színben. Vannak címeres, pecsétes téglák, amikre szinte "vadásztunk" és külön gyűjtögettünk, hisz azokkal különleges tervünk volt.**
 
 
 
 Nem állítom, hogy nincs velül tennivaló, de a szépségük kárpótol a mindenért.
+
+> Szeletelt, bontott, vagy címeres tégla forgalmazásával is a ([Tégláriumot](https://www.teglarium.com/)) keresheted.
+
 
 
 **Válogatás**
@@ -101,13 +104,11 @@ Sósavval átkentem a felületeket, hogy a rajt maradt maltert, és egyéb szenn
 **Fugázás**
 
 
-A következő fázis a fugázás. 
-
-
+A következő fázis a fugázás.  
 Különböző módon fugáztunk kint és bent.
 
 
-A lakásban eleve úgy raktuk  a téglát, hogy a téglák közötti sorokat "csak" finomítani kelljen. Átdörzsöltem vele a maltert, hogy egyenletes legyen, és ezzel elő is készítettem szépészeti fugázásra. A cementeszsák egy darabja tökéletes erre a célra. 
+A lakásban eleve úgy raktuk  a téglát, hogy a téglák közötti sorokat "csak" finomítani kelljen. Cementeszsákkal dörzsöltem át a maltert, hogy egyenletes legyen, és ezzel elő is készítettem a kozmetikai fugázásra. 
 
 Cement tejet készítettem, és óvatosan átfestegettem a téglák fugákat.
 
@@ -122,10 +123,10 @@ Sok féléből lehet választani, nekem is meg van a bevált márkám, amiben m�
 A balzsam lezárja a tégla felületét, nem lesz porózus, könnyen lehet takarítani, és még szép fényt is kap a tégla.
 
 
-**A Téglárium oldalán minden információ olvasható ami a bontott tégláról fontos lehet.** 
-([itt találod](https://www.facebook.com/Teglarium/?epa=SEARCH_BOX))
 
-**Ma már nem jelent gondot, hogy a fürdőszobába vagy a konyhába építsük be a bontott téglát. Az impregnáló anyagokkal mosható, szennyeződés taszító lesz a tégla felülete.**
+
+**Ma már nem jelent gondot, hogy a fürdőszobába vagy a konyhába építsük be a bontott téglát. Az impregnáló anyagokkal mosható, szennyeződés taszító lesz a tégla felülete. A Téglárium oldalán minden információ olvasható ami a bontott tégláról fontos lehet.** 
+([itt találod](https://www.facebook.com/Teglarium/?epa=SEARCH_BOX))**
 
 
 
@@ -134,7 +135,6 @@ A balzsam lezárja a tégla felületét, nem lesz porózus, könnyen lehet takar
 A ház lábazatát is téglából álmodtuk meg. Erre a célra szeletlet téglát vásároltunk, amit kültéri csemperagasztóval rgasztott fel a férjem, a fugázásához pedig szélesfugát használt. 
 
 
-> Szeletelt, bontott, vagy címeres tégla forgalmazásával is a ([Tégláriumot](https://www.teglarium.com/)) keresheted.
 
 
 Elég nagy felületet kellett kifugázni, ezért okozott némi fejtörést, hogy mivel lehet hatékonyan megcsinálni.
