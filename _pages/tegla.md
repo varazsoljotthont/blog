@@ -72,6 +72,8 @@ A "Miházunkban" ebből készült a(z):
 ![tégla](/assets/tégla/DSCF2569jav.jpg)
 _Így készült a járda, a kamra, a terasz_
 
+
+
 ![tégla](/assets/tégla/DSCF2400jav1.jpg)
 
 ![tégla](/assets/tégla/DSCF0922jav.jpg)
@@ -98,8 +100,10 @@ _A címeres téglák a sufni dekoratív falába lettek beépítve_
 ![tégla](/assets/tégla/cover.jpg)
 _ A pihenőrész és a kút is tégla burkolatot kapott_
 
+
+
 ![tégla](/assets/tégla/IMG_20190321_121905jav.jpg)
-_Nappali, előtér, és konyha.
+_Nappali, előtér, és konyha_
 
 ![tégla](/assets/tégla/IMG_20190311_092455jav.jpg)
 
@@ -194,11 +198,12 @@ A balzsam ad neki
 Szeretjük a téglát. 
 Azt hiszem, ezt nem is tagadhatjuk...
 
-Mi ebben a régi építőanyagban megtaláltuk mindazt amit kerestünk, hogy a házunk hangulata olyan legyen, amilyennek megálmodtuk.
+Ebben a régi építőanyagban mi megtaláltuk mindazt amit kerestünk, hogy a házunk hangulata olyan legyen, amilyennek megálmodtuk.
 
-Vidékies, rusztikus, hangulatos eredménye lett a sok téglának a házban.
+Vidékies, rusztikus, hangulatos. 
 
-
+Voltak, akik úgy gondolták, hogy túl sok lesz a téglából. De mint a ([dekorációról szóló posztban írtam](/2019-03-26/dekoráció
+)) ha a felhasznált anyagok fajtájával nem esünk túlzásokba (max 3) akkor nem lőhetünk mellé.
 
 
 
