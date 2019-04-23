@@ -224,7 +224,7 @@ _Kerti rom. Ha ilyen szép környezetben pihenhetünk, az külön öröm_
 Szeretjük a téglát. 
 Azt hiszem, ezt nem is tagadhatjuk...
 
-Ebben a régi építőanyagban mi megtaláltuk mindazt amit kerestünk, hogy a házunk hangulata olyan legyen, amilyennek megálmodtuk.
+Ebben a régi építőanyagban megtaláltuk mindazt amit kerestünk, hogy a házunk hangulata olyan legyen, amilyennek megálmodtuk.
 
 Vidékies, rusztikus, barátságos. 
 
