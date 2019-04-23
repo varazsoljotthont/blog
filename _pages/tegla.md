@@ -11,7 +11,7 @@ image:
 
 
 
-**A bontott tégla napjainkban valódi reneszánszát éli, de a mi esetünkben nem a divat miatt került be a házba.  A szlogenem: "Téglából ház, lélekből otthon". Ha a téglához hozzátesszük a lelkünket, akkor képesek leszünk megalkotni azt az otthont, amire vágyunk.**
+**A bontott tégla napjainkban valódi reneszánszát éli, de a mi esetünkben nem a divat miatt került be a házba.  A szlogenem: "Téglából ház, lélekből otthon". Ha a téglához hozzáadjuk a lelkünkből jövő vágyat, akkor képesek leszünk megalkotni azt az otthont, amit elképzeltünk magunknak.**
 
 
 
