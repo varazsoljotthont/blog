@@ -104,7 +104,7 @@ _Nappali, előtér, és konyha_
 ![tégla](/assets/tégla/IMG_20190311_113801jav.jpg)
 _Mindenhol jelen van a bontott tégla_
 
-## Feladatok, hogy a bontott téglából látványelem legyen!
+## Feladatok, hogy a bontott téglából látványelem legyen
 
 **Válogatás**
 
