@@ -21,7 +21,7 @@ image:
 
 
 
-Még évekkel ezelőtt, mikor csak ábrándoztunk a "Miházunkról", tervezgettük, hogy milyen lesz majd az otthonunk hangulata. Azt már akkor is tudtuk, hogy nekünk nagy valószínűséggel nem lesz trendi, az épp divatos irányelveket követő házunk.
+Még évekkel ezelőtt, mikor csak ábrándoztunk a "Miházunkról", tervezgettük, hogy milyen legyen majd az otthonunk hangulata. Azt már akkor is tudtuk, hogy nekünk nagy valószínűséggel nem lesz trendi, az épp divatos irányelveket követő házunk.
 
 ([erről itt olvashatsz](/2019-02-09/hazvasarlas))
 
@@ -40,7 +40,7 @@ Mi kell még?
 
 ## Mindenhol tégla 
 
-A bontott tégla felhasználása mindenre és mindenhova kiterjed. A lakásban és az udvaron is legkülönbözőbb módon hasznosítottuk az évek alatt összegyűjtött téglákat.
+A bontott tégla felhasználása mindenre és mindenhova kiterjed. A lakásban és az udvaron is a legkülönbözőbb módon hasznosítottuk az évek alatt összegyűjtött téglákat.
 
 > Tényleg csak a fantáziánk szab határt, hogy miként gondoljuk újra a régi, bontott téglák sorsát. 
 
@@ -87,12 +87,15 @@ _Így készült a járda, a kamra, a terasz_
 
 Nem állítom, hogy nincs velük tennivaló, de a szépségük kárpótol a mindenért.
 
-> Szeletelt, bontott, vagy címeres tégla forgalmazásával a ([Tégláriumot](https://www.teglarium.com/)) keresheted.
+> Bontott, szeletelt vagy címeres tégla forgalmazásával a ([Tégláriumot](https://www.teglarium.com/)) keresheted.
 
 ![tégla](/assets/tégla/sufnijav.jpg)
 _A címeres téglák a sufni dekoratív falába lettek beépítve_
 
 ![tégla](/assets/tégla/sufni2jav.jpg)
+
+
+![tégla](/assets/tégla/cover.jpg)
 
 
 
