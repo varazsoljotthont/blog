@@ -70,12 +70,12 @@ Ebből készült a(z):
 
 ...és még nincs vége...
 
-![tégla](/assets/tégla/DSCF2569jav.JPG)
+![tégla](/assets/tégla/DSCF2569jav.jpg)
 _Készül a járda, a kamra, a terasz
 
-![tégla](/assets/tégla/DSCF2400jav.JPG)
+![tégla](/assets/tégla/DSCF2400jav.jpg)
 
-![tégla](/assets/tégla/DSCF0922jav.JPG)
+![tégla](/assets/tégla/DSCF0922jav.jpg)
 
 > Nagyon szeretem, hogy nem szabályosak, hogy kissé csorbák lettek előző életükben. Rusztikus hangulatot adnak a háznak, ezzel pedig megteremtik azt légkört, amire vágytunk.
 
