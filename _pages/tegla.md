@@ -16,7 +16,7 @@ image:
 
 
 
-## Miért pont a tégla?
+## Miért tégla?
 
 
 
@@ -44,6 +44,9 @@ A bontott tégla felhasználása mindenre és mindenhova kiterjed. A lakásban �
 
 > Tényleg csak a fantáziánk szab határt, hogy miként gondoljuk újra a régi, bontott téglák sorsát. 
 
+
+![tégla](/assets/tégla/IMG_20190423_174028.jpg)
+_Dekorfal a teraszon, természetesen bontott téglából_
 
 
 A "Miházunkban" ebből készült a(z):
