@@ -132,6 +132,11 @@ Sok féléből lehet választani, nekem is meg van a bevált márkám, amiben m�
 A balzsam lezárja a tégla felületét, nem lesz porózus, könnyen lehet takarítani, és még szép fényt is kap a tégla.
 
 
+**Felületkezelés**
+
+> A lábazatok , a terasz, a kút, a járda évekkel ezelőtt készültek. Semmi bajuk nem lett a téli időben. A járdákat minden ősszel átkenem impregnáló anyaggal, ezzel védjük a téli nedvességtől, fagytól.
+(Ugyanezt védelmet megadjuk a fából készült dolgainknak is, csak azokat lenolajjal festem. Sem időben, sem anyagilag nem akkora ráfordítás, mint amennyit jelent, hogy minél tovább megőrizhessük a szépségüket.)
+
 
 
 **Ma már nem jelent gondot, hogy a fürdőszobába vagy a konyhába építsük be a bontott téglát. Az impregnáló anyagokkal mosható, szennyeződés taszító lesz a tégla felülete. A Téglárium oldalán minden információ olvasható ami a bontott tégláról fontos lehet.** 
@@ -156,25 +161,11 @@ Nem hiszem, hogy túl általános lenne a töltő ilyen jellegű felhasználása
 
 
 
-A cemeteszsákkal átdörzsöltem a fugát, hogy egyenletes mélységű legyen
+A cemeteszsákkal átdörzsöltem a fugát, hogy egyenletes mélységű legyen, majd a fuga száradása után kőbalzsammal kezeltem a téglát.
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Szeretjük a téglát. 
 
 
 
@@ -187,7 +178,8 @@ A cemeteszsákkal átdörzsöltem a fugát, hogy egyenletes mélységű legyen
 
 
 **+ 1 gondolat:**   
-A laminált padló praktikus, megfizethető megoldás. Ha a ház átalakítására több időnk van, és ezáltal nagyobb az anyagi keretünk, valószínű, hogy nem ezt választjuk, hanem a fapadlót. A lamináltnak sajnos hideg a felülete. Padlófűtéssel biztosan kellemes, de betonra, és az alátét habszivacsra rakva hideg.
+A jól kiégetett téglával nem lesz gond a kültérben sem. Amelyiknek csilingelő hangja van, az biztosan jó minőségű, és a megfelelő felület kezeléssel hosszú évekig gyönyörködhetünk a munkánkban.
+
 
 ## Kapcsolódó cikkek
 
