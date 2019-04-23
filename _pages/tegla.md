@@ -72,7 +72,7 @@ A "Miházunkban" ebből készült a(z):
 ![tégla](/assets/tégla/DSCF2569jav.jpg)
 _Így készült a járda, a kamra, a terasz_
 
-![tégla](/assets/tégla/DSCF2400jav.jpg)
+![tégla](/assets/tégla/DSCF2400jav1.jpg)
 
 ![tégla](/assets/tégla/DSCF0922jav.jpg)
 
