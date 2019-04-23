@@ -84,7 +84,7 @@ _Így készült a járda, a kamra, a terasz_
 > Nagyon szeretem, hogy nem szabályosak, hogy kissé csorbák lettek előző életükben. Rusztikus hangulatot adnak a háznak, ezzel pedig megteremtik azt légkört, amire vágytunk.
 
 
-## Feladatok, hogy a bontott téglából látványelem legyen!
+
 
 **Nem is gondolnánk, hogy milyen sok fajtája létezik a téglának... Különböznek hosszban, magasságban, színben. Vannak címeres, pecsétes téglák, amikre szinte "vadásztunk" és külön gyűjtögettünk, hisz azokkal különleges tervünk volt.**
 
@@ -115,7 +115,7 @@ _Nappali, előtér, és konyha_
 ![tégla](/assets/tégla/IMG_20190311_113801jav.jpg)
 _Mindenhol jelen van a bontott tégla_
 
-
+## Feladatok, hogy a bontott téglából látványelem legyen!
 
 **Válogatás**
 
