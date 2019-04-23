@@ -229,7 +229,7 @@ Ebben a régi építőanyagban megtaláltuk mindazt amit kerestünk, hogy a ház
 Vidékies, rusztikus, barátságos. 
 
 Voltak, akik úgy gondolták, hogy túl sok lesz a téglából. De mint a [dekorációról szóló posztban írtam](/2019-03-26/dekoráció
-) ha a felhasznált anyagok fajtájával nem esünk túlzásokba (max 3) akkor nem lőhetünk mellé.
+) ha a felhasznált anyagok fajtáival nem esünk túlzásokba (max 3) akkor nem lőhetünk mellé.
 
 
 
