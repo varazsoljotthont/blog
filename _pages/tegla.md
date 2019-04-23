@@ -2,9 +2,9 @@
 layout: post
 title: "Barátságos otthon bontott tégla felhasználásával"
 permalink: /tegla/
-cover: /assets/tégla/cover1.jpg
+cover: /assets/tégla/cover.jpg
 image:
-  path: /assets/tégla/cover1.jpg
+  path: /assets/tégla/cover.jpg
   height: 300
   width: 300
 ---
@@ -97,7 +97,7 @@ _A címeres téglák a sufni dekoratív falába lettek beépítve_
 ![tégla](/assets/tégla/sufni2jav.jpg)
 
 
-![tégla](/assets/tégla/cover.jpg)
+![tégla](/assets/tégla/kert.jpg)
 _A pihenőrész és a kút is tégla burkolatot kapott_
 
 
