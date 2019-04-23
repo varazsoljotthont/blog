@@ -96,7 +96,16 @@ _A címeres téglák a sufni dekoratív falába lettek beépítve_
 
 
 ![tégla](/assets/tégla/cover.jpg)
+_ A pihenőrész és a kút is tégla burkolatot kapott_
 
+![tégla](/assets/tégla/IMG_20190321_121905jav.jpg)
+_Nappali, előtér, és konyha.
+
+![tégla](/assets/tégla/IMG_20190311_092455jav.jpg)
+
+
+![tégla](/assets/tégla/IMG_20190311_113801jav.jpg)
+_Mindenhol jelen van a bontott tégla_
 
 
 
@@ -111,6 +120,10 @@ A férjem épített, én pedig segédmunkáskodtam...
 
 
 Amikor elkészült az éppen aktuális tégla mű, megint én következtem. 
+
+
+![tégla](/assets/tégla/IMG_20190311_113801jav.jpg)
+_Kerti rom. Ha ilyen szép környezetben pihenhetünk, az külön öröm_
 
 
 **Sósavazás**
