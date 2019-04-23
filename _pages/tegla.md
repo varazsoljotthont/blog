@@ -30,7 +30,7 @@ A modern, minimál stílusú házak a csupa króm, üveg, egyen berendezéssel e
 
 Mindketten vonzódunk a régi, újra hasznosított tárgyakhoz, szeretjük a természetes dolgokat magunk körül. 
 Mikor elkezdődött a ház átalakítása, adta magát az ötlet, hogy használjuk fel birtokunkban lévő téglákat. 
-Kéznél van, ingyért van, helyben van, időtálló és még szép is.  
+Kéznél van, ingyen van, helyben van, időtálló és még szép is.  
 
 Mi kell még?
 
