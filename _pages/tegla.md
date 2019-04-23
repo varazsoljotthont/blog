@@ -136,7 +136,7 @@ Különböző módon fugáztunk kint és bent.
 
 A lakásban eleve úgy raktuk  a téglát, hogy a téglák közötti sorokat "csak" finomítani kelljen. Cementeszsákkal dörzsöltem át a maltert, hogy egyenletes legyen, és ezzel elő is készítettem a kozmetikai fugázásra. 
 
-Cement tejet készítettem, és óvatosan átfestegettem a téglák fugákat.
+Cement tejet készítettem, és óvatosan átfestegettem a téglák közti fugákat.
 
 > A cementtej cement és víz elegye, olyan állagúra keverve, hogy ecsettel kenhető legyen. Ízlés dolga, hogy mennyire sötét színt szeretnénk fugának. Én a szürke cemethez mindig tettem egy kevés fehéret is, hogy ne legyen annyira komor a felület.)
 
