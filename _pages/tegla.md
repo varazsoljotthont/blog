@@ -197,7 +197,7 @@ A cementeszsákkal átdörzsöltem a fugát, hogy egyenletes mélységű legyen,
 
 Száradás után ahol kellett még plasztikáztam egy kicsit, és az utolsó lépésként a felületét balzsammal kezeltem. 
 Sok féléből lehet választani, nekem is meg van a bevált márkám, amiben még nem csalódtam.
-A balzsam lezárja a tégla felületét, nem lesz porózus, könnyen lehet takarítani, és még szép fényt is kap a tégla.
+A balzsam lezárja a tégla felületét, nem lesz porózus, könnyen lehet takarítani, és még szép fényt is kap.
 
 ![tégla](/assets/tégla/kertirom2.jpg)
 _Kerti rom. Ha ilyen szép környezetben pihenhetünk, az külön öröm_
