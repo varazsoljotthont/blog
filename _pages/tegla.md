@@ -144,7 +144,7 @@ A lakásban eleve úgy raktuk  a téglát, hogy a téglák közötti sorokat "cs
 
 Cement tejet készítettem, és óvatosan átfestegettem a téglák közti fugákat.
 
-> A cementtej, cement és víz elegye. Olyan állagúra keverve, hogy ecsettel kenhető legyen. Ízlés dolga, hogy mennyire sötét színt szeretnénk fugának. Én a szürke cemethez mindig tettem egy kevés fehéret is, hogy ne legyen annyira komor a felület.)
+> A cementtej, cement és víz elegye, olyan állagúra keverve, hogy ecsettel kenhető legyen. Ízlés dolga, hogy mennyire sötét színt szeretnénk fugának. Én a szürke cemethez mindig tettem egy kevés fehéret is, hogy ne legyen annyira komor a felület.)
 
 ![tégla](/assets/tégla/kert.jpg)
 _A pihenőrész és a kút is tégla burkolatot kapott_
