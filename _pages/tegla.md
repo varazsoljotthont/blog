@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Barátságos otthon bontott tégla felhasználásával"
+title: "A bontott tégla varázsa"
 permalink: /tegla/
 cover: /assets/tégla/cover.jpg
 image:
