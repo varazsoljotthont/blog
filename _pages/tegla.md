@@ -232,6 +232,5 @@ A felületkezelést nem szabad elhanyagolni. Ha megadjuk a téglának azt a véd
 
 * [Fontos lépések régi házunk állagmegóvásáért](/2019-04-03/állagmegóvás)
 * [Ez aztán a változás!](/2019-04-11/külsőfalak)
-* [A földes szobákkal kezdtük a házfelújítást!](/2019-02-12/szobabetonozas)
 * [Találjuk ki a házunkat](/2019-02-11/találjuk_ki)
-
+* [Kell egy ház... De hol, milyen, mennyiért?](/2019-02-09/hazvasarlas)
