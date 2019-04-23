@@ -80,7 +80,7 @@ _Készül a járda, a kamra, a terasz
 > Nagyon szeretem, hogy nem szabályosak, hogy kissé csorbák lettek előző életükben. Rusztikus hangulatot adnak a háznak, ezzel pedig megteremtik azt légkört, amire vágytunk.
 
 
-## A feladatok, hogy a bontott téglából látványelem legyen!
+## Feladatok, hogy a bontott téglából látványelem legyen!
 
 **Nem is gondolnánk, hogy milyen sok fajtája létezik a téglának... Különböznek hosszban, magasságban, színben. Vannak címeres, pecsétes téglák, amikre szinte "vadásztunk" és külön gyűjtögettünk, hisz azokkal különleges tervünk volt.**
 
