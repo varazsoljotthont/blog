@@ -11,7 +11,7 @@ image:
 
 
 
-**A bontott tégla napjainkban valódi reneszánszát éli, de a mi esetünkben nem a divat miatt került be a házba.  A szlogenem: "Téglából ház, lélekből otthon". És ha a téglába beletesszük a lelkünket, akkor képesek leszünk létrehozni azt az otthont, amire vágyunk.**
+**A bontott tégla napjainkban valódi reneszánszát éli, de a mi esetünkben nem a divat miatt került be a házba.  A szlogenem: "Téglából ház, lélekből otthon". És ha a téglába beletesszük a lelkünket, akkor képesek leszünk megalkotni azt az otthont, amire vágyunk.**
 
 
 
@@ -21,7 +21,7 @@ image:
 
 
 
-Még évekkel ezelőtt, mikor csak ábrándoztunk a "Miházunkról", tervezgettük, hogy milyen legyen majd az otthonunk hangulata. Azt már akkor is tudtuk, hogy nekünk nagy valószínűséggel nem lesz trendi, az épp divatos irányelveket követő házunk.
+Még évekkel ezelőtt, mikor csak ábrándoztunk a "Miházunkról", tervezgettük, hogy milyen lesz majd az otthonunk hangulata. Azt már akkor is tudtuk, hogy nekünk nagy valószínűséggel nem lesz trendi, az épp divatos irányelveket követő házunk.
 
 ([erről itt olvashatsz](/2019-02-09/hazvasarlas))
 
@@ -30,7 +30,7 @@ A modern, minimál stílusú házak a csupa króm, üveg, egyen berendezéssel e
 
 Mindketten vonzódunk a régi, újra hasznosított tárgyakhoz, szeretjük a természetes dolgokat magunk körül. 
 Mikor elkezdődött a ház átalakítása, adta magát az ötlet, hogy használjuk fel birtokunkban lévő téglákat. 
-Kéznél van, ingyért van, helyben van, és még szép is.  
+Kéznél van, ingyért van, helyben van, időtálló és még szép is.  
 
 Mi kell még?
 
@@ -126,7 +126,7 @@ A férjem épített, én pedig segédmunkáskodtam...
 Amikor elkészült az éppen aktuális tégla mű, megint én következtem. 
 
 
-![tégla](/assets/tégla/IMG_20190311_113801jav.jpg)
+![tégla](/assets/tégla/kertirom2.jpg)
 _Kerti rom. Ha ilyen szép környezetben pihenhetünk, az külön öröm_
 
 
