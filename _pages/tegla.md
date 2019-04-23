@@ -222,8 +222,8 @@ Ebben a régi építőanyagban mi megtaláltuk mindazt amit kerestünk, hogy a h
 
 Vidékies, rusztikus, barátságos. 
 
-Voltak, akik úgy gondolták, hogy túl sok lesz a téglából. De mint a ([dekorációról szóló posztban írtam](/2019-03-26/dekoráció
-)) ha a felhasznált anyagok fajtájával nem esünk túlzásokba (max 3) akkor nem lőhetünk mellé.
+Voltak, akik úgy gondolták, hogy túl sok lesz a téglából. De mint a [dekorációról szóló posztban írtam](/2019-03-26/dekoráció
+) ha a felhasznált anyagok fajtájával nem esünk túlzásokba (max 3) akkor nem lőhetünk mellé.
 
 
 
