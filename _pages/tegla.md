@@ -46,7 +46,7 @@ A bontott tégla felhasználása mindenre és mindenhova kiterjed. A lakásban �
 
 
 ![tégla](/assets/tégla/IMG_20190423_174028.jpg)
-_Dekorfal a teraszon, természetesen bontott téglából_
+_Dekor fal a teraszon, természetesen bontott téglából_
 
 
 A "Miházunkban" ebből készült a(z):
