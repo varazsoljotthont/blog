@@ -181,13 +181,12 @@ A ház lábazatát is téglából álmodtuk meg. Erre a célra szeletlet téglá
 
 
 
-Elég nagy felületet kellett kifugázni, ezért okozott némi fejtörést, hogy mivel lehet hatékonyan megcsinálni.
+Elég nagy felületet kellett kifugázni, ezért okozott némi fejtörést, hogy mivel lehet hatékonyan elvégezni a feladatot.
+
+Természetesen a férjem megtalálta a megoldást, mégha nem is a legáltalánosabb dolog jutott az eszébe.  
+Egy régi kolbásztöltő lett a megfelelő eszköz. Sok anyag belefért, így viszonylag gyorsan tudott haladni a munkával. 
 
 
-
-Egy régi kolbásztöltő lett a megfelelő eszköz. Sok anyag belefért, így viszonylag gyorsan lehetett haladni a munkával. 
-
-Nem hiszem, hogy túl általános lenne a töltő ilyen jellegű felhasználása, de hatékonynak bizonyult.
 
 ![tégla](/assets/tégla/DSCF0864jav.jpg)
 
