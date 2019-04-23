@@ -196,7 +196,7 @@ Egy régi kolbásztöltő lett a megfelelő eszköz. Sok anyag belefért, így v
 
 ![tégla](/assets/tégla/IMG_20190311_105751jav.jpg)
 
-A cemeteszsákkal átdörzsöltem a fugát, hogy egyenletes mélységű legyen, majd a fuga száradása után kőbalzsammal kezeltem a téglát.
+A cementeszsákkal átdörzsöltem a fugát, hogy egyenletes mélységű legyen, majd a fuga száradása után kőbalzsammal kezeltem a téglát.
 
 > A balzsamtól szép fényes lesz a tégla felülete, és az időjárástól is megvédi.
 
