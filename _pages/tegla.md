@@ -86,7 +86,7 @@ _Így készült a járda, a kamra, a terasz_
 
 
 
-**Nem is gondolnánk, hogy milyen sok fajtája létezik a téglának... Különböznek hosszban, magasságban, színben. Vannak címeres, pecsétes téglák, amikre szinte "vadásztunk" és külön gyűjtögettünk, hisz azokkal különleges tervünk volt.**
+Nem is gondolnánk, hogy milyen sok fajtája létezik a téglának... Különböznek hosszban, magasságban, színben. Vannak címeres, pecsétes téglák, amikre szinte "vadásztunk" és külön gyűjtögettünk, hisz azokkal különleges tervünk volt.
 
 
 
