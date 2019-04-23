@@ -97,8 +97,7 @@ _A címeres téglák a sufni dekoratív falába lettek beépítve_
 ![tégla](/assets/tégla/sufni2jav.jpg)
 
 
-![tégla](/assets/tégla/kert.jpg)
-_A pihenőrész és a kút is tégla burkolatot kapott_
+
 
 
 
@@ -126,8 +125,7 @@ A férjem épített, én pedig segédmunkáskodtam...
 Amikor elkészült az éppen aktuális tégla mű, megint én következtem. 
 
 
-![tégla](/assets/tégla/kertirom2.jpg)
-_Kerti rom. Ha ilyen szép környezetben pihenhetünk, az külön öröm_
+
 
 
 **Sósavazás**
@@ -148,6 +146,10 @@ Cement tejet készítettem, és óvatosan átfestegettem a téglák fugákat.
 
 > A cementtej cement és víz elegye, olyan állagúra keverve, hogy ecsettel kenhető legyen. Ízlés dolga, hogy mennyire sötét színt szeretnénk fugának. Én a szürke cemethez mindig tettem egy kevés fehéret is, hogy ne legyen annyira komor a felület.)
 
+![tégla](/assets/tégla/kert.jpg)
+_A pihenőrész és a kút is tégla burkolatot kapott_
+
+
 
 ## Vigyázzunk rá!
 
@@ -155,6 +157,9 @@ Cement tejet készítettem, és óvatosan átfestegettem a téglák fugákat.
 Száradás után ahol kellett még plasztikáztam egy kicsit, és az utolsó lépésként a felületét balzsammal kezeltem. 
 Sok féléből lehet választani, nekem is meg van a bevált márkám, amiben még nem csalódtam.
 A balzsam lezárja a tégla felületét, nem lesz porózus, könnyen lehet takarítani, és még szép fényt is kap a tégla.
+
+![tégla](/assets/tégla/kertirom2.jpg)
+_Kerti rom. Ha ilyen szép környezetben pihenhetünk, az külön öröm_
 
 
 **Felületkezelés**
@@ -195,6 +200,8 @@ A cemeteszsákkal átdörzsöltem a fugát, hogy egyenletes mélységű legyen, 
 
 
 
+## Nem bántuk meg
+
 Szeretjük a téglát. 
 Azt hiszem, ezt nem is tagadhatjuk...
 
@@ -215,14 +222,14 @@ Voltak, akik úgy gondolták, hogy túl sok lesz a téglából. De mint a ([deko
 
 
 **+ 1 gondolat:**   
-A jól kiégetett téglával nem lesz gond a kültérben. Amelyiknek csilingelő hangja van, az biztosan jó minőségű, és megfelelő felület kezeléssel hosszú évekig gyönyörködhetünk a munkánkban.
+A felületkezelést nem szabad elhanyagolni. Ha megadjuk a téglának azt a védelmet, ami jár neki, egész biztosan nem lesz vele probléma.
 
 
 ## Kapcsolódó cikkek
 
 
-* [Életre kelnek a falak!](/2019-03-01/sz%C3%ADnesfalak)
-* [Faljavítás itt, falazás ott!](/2019-02-18/afalak)
+* [Fontos lépések régi házunk állagmegóvásáért](/2019-04-03/állagmegóvás)
+* [Ez aztán a változás!](/2019-04-11/külsőfalak)
 * [A földes szobákkal kezdtük a házfelújítást!](/2019-02-12/szobabetonozas)
 * [Találjuk ki a házunkat](/2019-02-11/találjuk_ki)
 
