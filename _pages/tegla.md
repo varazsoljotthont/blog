@@ -33,6 +33,9 @@ Mikor elkezdődött a ház átalakítása, adta magát az ötlet, hogy használj
 Kéznél van, ingyért van, helyben van, és még szép is.  
 Mi kell még?
 
+![idézet](/assets/tégla/idézet.jpg)
+
+
 
 ## Mindenhol tégla 
 
