@@ -154,6 +154,30 @@ Cement tejet készítettem, és óvatosan átfestegettem a téglák fugákat.
 ![tégla](/assets/tégla/kert.jpg)
 _A pihenőrész és a kút is tégla burkolatot kapott_
 
+## Lábazat
+
+A ház lábazatát is téglából álmodtuk meg. Erre a célra szeletlet téglát vásároltunk, amit kültéri csemperagasztóval rgasztott fel a férjem, a fugázásához pedig szélesfugát használt. 
+
+
+
+
+Elég nagy felületet kellett kifugázni, ezért okozott némi fejtörést, hogy mivel lehet hatékonyan elvégezni a feladatot.
+
+Természetesen a férjem megtalálta a megoldást, mégha nem is a legáltalánosabb dolog jutott az eszébe.  
+Egy régi kolbásztöltő lett a megfelelő eszköz. Sok anyag belefért, így viszonylag gyorsan tudott haladni a munkával. 
+
+
+
+![tégla](/assets/tégla/DSCF0864jav.jpg)
+
+
+![tégla](/assets/tégla/IMG_20190311_105751jav.jpg)
+
+A cementeszsákkal átdörzsöltem a fugát, hogy egyenletes mélységű legyen, majd a fuga száradása után kőbalzsammal kezeltem a téglát.
+
+> A balzsamtól szép fényes lesz a tégla felülete, és az időjárástól is megvédi.
+
+
 
 
 ## Vigyázzunk rá!
@@ -179,28 +203,7 @@ _Kerti rom. Ha ilyen szép környezetben pihenhetünk, az külön öröm_
 
 
 
-**Lábazat**
 
-A ház lábazatát is téglából álmodtuk meg. Erre a célra szeletlet téglát vásároltunk, amit kültéri csemperagasztóval rgasztott fel a férjem, a fugázásához pedig szélesfugát használt. 
-
-
-
-
-Elég nagy felületet kellett kifugázni, ezért okozott némi fejtörést, hogy mivel lehet hatékonyan elvégezni a feladatot.
-
-Természetesen a férjem megtalálta a megoldást, mégha nem is a legáltalánosabb dolog jutott az eszébe.  
-Egy régi kolbásztöltő lett a megfelelő eszköz. Sok anyag belefért, így viszonylag gyorsan tudott haladni a munkával. 
-
-
-
-![tégla](/assets/tégla/DSCF0864jav.jpg)
-
-
-![tégla](/assets/tégla/IMG_20190311_105751jav.jpg)
-
-A cementeszsákkal átdörzsöltem a fugát, hogy egyenletes mélységű legyen, majd a fuga száradása után kőbalzsammal kezeltem a téglát.
-
-> A balzsamtól szép fényes lesz a tégla felülete, és az időjárástól is megvédi.
 
 
 
