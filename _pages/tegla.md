@@ -153,7 +153,7 @@ _A címeres téglák a sufni dekoratív falába lettek beépítve_
 ![tégla](/assets/tégla/sufni2jav.jpg)
 
 
-> Bontott, szeletelt vagy címeres tégla forgalmazásával a ([Tégláriumot](https://www.teglarium.com/)) keresheted.
+> Bontott, szeletelt vagy címeres tégla forgalmazásával a [Tégláriumot](https://www.teglarium.com/) keresheted.
 
 
 
