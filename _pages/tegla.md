@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Tégla sokoldalú felhasználása a lakásban, a kertben"
+title: "Barátságos otthon bontott tégla felhasználásával"
 permalink: /tegla/
 cover: /assets/tégla/cover.JPG
 image:
@@ -70,7 +70,7 @@ A "Miházunkban" ebből készült a(z):
 ...és még nincs vége...
 
 ![tégla](/assets/tégla/DSCF2569jav.jpg)
-_Készül a járda, a kamra, a terasz_
+_Így készült a járda, a kamra, a terasz_
 
 ![tégla](/assets/tégla/DSCF2400jav.jpg)
 
