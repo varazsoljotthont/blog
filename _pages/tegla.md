@@ -92,19 +92,8 @@ _Így készült a járda, a kamra, a terasz_
 
 Nem állítom, hogy nincs velük tennivaló, de a szépségük kárpótol a mindenért.
 
-## Sufni
 
-Régen egy teljesen jellegetelen nyitott elejű tároló volt. Férjem befalazta, majd a direkt erre a célra gyűjtögetett címeres téglákkal burkolta. 
-
-![tégla](/assets/tégla/sufnijav.jpg)
-_A címeres téglák a sufni dekoratív falába lettek beépítve_
-
-![tégla](/assets/tégla/sufni2jav.jpg)
-
-
-> Bontott, szeletelt vagy címeres tégla forgalmazásával a ([Tégláriumot](https://www.teglarium.com/)) keresheted.
-
-
+**Meghatározza az otthonunk hangulatát**
 
 ![tégla](/assets/tégla/IMG_20190321_121905jav.jpg)
 _Nappali, előtér, és konyha_
@@ -153,6 +142,23 @@ Cement tejet készítettem, és óvatosan átfestegettem a téglák fugákat.
 
 ![tégla](/assets/tégla/kert.jpg)
 _A pihenőrész és a kút is tégla burkolatot kapott_
+
+## Sufni
+
+Régen egy teljesen jellegetelen nyitott elejű tároló volt. Férjem befalazta, majd a direkt erre a célra gyűjtögetett címeres téglákkal burkolta. 
+
+![tégla](/assets/tégla/sufnijav.jpg)
+_A címeres téglák a sufni dekoratív falába lettek beépítve_
+
+![tégla](/assets/tégla/sufni2jav.jpg)
+
+
+> Bontott, szeletelt vagy címeres tégla forgalmazásával a ([Tégláriumot](https://www.teglarium.com/)) keresheted.
+
+
+
+
+
 
 ## Lábazat
 
