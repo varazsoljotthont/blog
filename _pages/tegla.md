@@ -86,7 +86,7 @@ _Készül a járda, a kamra, a terasz
 
 
 
-Nem állítom, hogy nincs velül tennivaló, de a szépségük kárpótol a mindenért.
+Nem állítom, hogy nincs velük tennivaló, de a szépségük kárpótol a mindenért.
 
 > Szeletelt, bontott, vagy címeres tégla forgalmazásával is a ([Tégláriumot](https://www.teglarium.com/)) keresheted.
 
@@ -152,7 +152,7 @@ Elég nagy felületet kellett kifugázni, ezért okozott némi fejtörést, hogy
 
 Egy régi kolbásztöltő lett a megfelelő eszköz. Sok anyag belefért, így viszonylag gyorsan lehetett haladni a munkával. 
 
-Nem hiszem, hogy túl általános lenne az ilyen jellegű felhasználása, de hatékonynak bizonyult.
+Nem hiszem, hogy túl általános lenne a töltő ilyen jellegű felhasználása, de hatékonynak bizonyult.
 
 
 
@@ -172,21 +172,7 @@ A cemeteszsákkal átdörzsöltem a fugát, hogy egyenletes mélységű legyen
 
 
 
-![csempe](/assets/burkolatok/DSCF0204.JPG)
 
-
-
-![csempe](/assets/burkolatok/DSCF0207.JPG)
-_Kész_
-
-
-
-
-
-![járólap](/assets/burkolatok/DSCF0208.JPG)
-
-![járólap](/assets/burkolatok/DSCF0217.JPG)
-_A lapozás elkezdődött_
 
 
 
