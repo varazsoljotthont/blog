@@ -2,9 +2,9 @@
 layout: post
 title: "Barátságos otthon bontott tégla felhasználásával"
 permalink: /tegla/
-cover: /assets/tégla/cover.JPG
+cover: /assets/tégla/cover.jpg
 image:
-  path: /assets/tégla/cover.JPG
+  path: /assets/tégla/cover.jpg
   height: 300
   width: 300
 ---
