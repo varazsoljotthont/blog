@@ -84,6 +84,12 @@ _Így készült a járda, a kamra, a terasz_
 > Nagyon szeretem, hogy nem szabályosak, hogy kissé csorbák lettek előző életükben. Rusztikus hangulatot adnak a háznak, ezzel pedig megteremtik azt légkört, amire vágytunk.
 
 
+![tégla](/assets/tégla/IMG_20190401_075603.jpg)
+_Járda, terasz, lábazat, ágyásszegély_
+
+
+![tégla](/assets/tégla/IMG_20190226_201722.jpg)
+_A homlokzat dísz körül is szeletelt tégla van_
 
 
 Nem is gondolnánk, hogy milyen sok fajtája létezik a téglának... Különböznek hosszban, magasságban, színben. Vannak címeres, pecsétes téglák, amikre szinte "vadásztunk" és külön gyűjtögettük, hisz azokkal különleges tervünk volt.
