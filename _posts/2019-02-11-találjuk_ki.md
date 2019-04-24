@@ -189,7 +189,7 @@ Tudtuk, hogy meg tudjuk csinálni.
 Nem szabad megijedni a ránk váró, eddig ismeretelen kihívásoktól. A felújítás ideje alatt rengeteget tanultunk magunkról is, és egymásról is. Leginkább azt, hogy együtt mindenre képesek vagyunk!  
 ...és nem utolsósorban több szakmát is elsajátítottunk a munka során...
 
-Ha tetszett keress a Facebookon is, az oldalt  <a href="https://www.facebook.com/Var%C3%A1zsolj-otthont-360330751226066/" target="_blank">itt találod</a>
+Ha tetszett, kedveld a Facebook oldalt is. Itt még több érdekességet találsz a mindennapok varázslataiból.  <a href="https://www.facebook.com/Var%C3%A1zsolj-otthont-360330751226066/" target="_blank">itt találod</a>
 
 
 ## Kapcsolódó cikkek
