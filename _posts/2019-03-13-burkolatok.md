@@ -191,6 +191,10 @@ A laminált padló praktikus, megfizethető megoldás. Ha a ház átalakításá
 ## Kapcsolódó cikkek
 
 
+Ha tetszett keress a Facebookon is, az oldalt  <a href="https://www.facebook.com/Var%C3%A1zsolj-otthont-360330751226066/" target="_blank">itt találod</a>
+
+
+
 * [Életre kelnek a falak!](/2019-03-01/sz%C3%ADnesfalak)
 * [Faljavítás itt, falazás ott!](/2019-02-18/afalak)
 * [A földes szobákkal kezdtük a házfelújítást!](/2019-02-12/szobabetonozas)
