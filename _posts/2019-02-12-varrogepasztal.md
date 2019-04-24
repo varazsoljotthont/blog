@@ -118,8 +118,7 @@ _Itt már teraszt is kapott az asztal_
 **+ 1 gondolat:**  
 Könnyebb lett volna a kivitelezés, ha a körbe az asztal széléhez teszünk egy keretet. A ragasztó, a fuga nem tudott volna lefolyni. Így is megoldottam, de kétségtelen, hogy egyszerűbb lett volna munka.
 
-Ha tetszett keress a Facebookon is, az oldalt  <a href="https://www.facebook.com/Var%C3%A1zsolj-otthont-360330751226066/" target="_blank">itt találod</a>
-
+Ha tetszett, kedveld a Facebook oldalt is. Itt még több érdekességet találsz a mindennapok varázslataiból.  <a href="https://www.facebook.com/Var%C3%A1zsolj-otthont-360330751226066/" target="_blank">itt találod</a>
 
 
 ## Kapcsolódó cikkek
