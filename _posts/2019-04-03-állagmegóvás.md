@@ -186,8 +186,7 @@ Ugye, hogy sokat jelent?_
  **+ 1 gondolat:**  
 Néhány virág az udvaron ápolja a lelket, oldja a kopárságot. Táplálja a reményt, hogy egyszer szép udvarunk lesz, és nő majd virág is a lucerna helyett.
 
-Ha tetszett keress a Facebookon is, az oldalt  <a href="https://www.facebook.com/Var%C3%A1zsolj-otthont-360330751226066/" target="_blank">itt találod</a>
-
+Ha tetszett, kedveld a Facebook oldalt is. Itt még több érdekességet találsz a mindennapok varázslataiból.  <a href="https://www.facebook.com/Var%C3%A1zsolj-otthont-360330751226066/" target="_blank">itt találod</a>
 
 ## Kapcsolódó cikkek
 
