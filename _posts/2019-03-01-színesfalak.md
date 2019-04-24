@@ -204,7 +204,7 @@ Január vége volt, és nekünk már csak egy hónapunk maradt a költözésig.
 Most van négy éve (2015.02.28), hogy beköltöztünk a "Miházunkba", és a költözés után négy évvel elindult a blog is. Az eltelt időben nagyon sok mindent átalakítottunk, felújítottunk, és még mindig van tervünk (most épp egy "kerti romot", egy pihenős, kávézós sarkot készítünk).  
 A célkitűzésünk maradt az olcsón - jót... és mindig megállapítjuk, hogy nem lenne a házunk ennyire ötletes és egyedi, ha megvesszük a készen kapható dolgokat!
 
-
+Ha tetszett keress a Facebookon is, az oldalt  <a href="https://www.facebook.com/Var%C3%A1zsolj-otthont-360330751226066/" target="_blank">itt találod</a>
 
 ## Kapcsolódó cikkek
 
