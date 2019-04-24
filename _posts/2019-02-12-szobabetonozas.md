@@ -222,7 +222,7 @@ Az, hogy mi 3,5 hónap alatt megcsináltuk, az ( is ) kellett, hogy mindenki akk
 Idő - pénz hiányában a padlófűtés ötletét elvetettük, ezért a szigetelésnek nem sok értelme lett. A lelkünket megnyugtattuk, de a konyhában a járófelület hideg maradt.
 
 
-Ha tetszett keress a Facebookon is, az oldalt  <a href="https://www.facebook.com/Var%C3%A1zsolj-otthont-360330751226066/" target="_blank">itt találod</a>
+Ha tetszett, kedveld a Facebook oldalt is. Itt még több érdekességet találsz a mindennapok varázslataiból.  <a href="https://www.facebook.com/Var%C3%A1zsolj-otthont-360330751226066/" target="_blank">itt találod</a>
 
 
 
