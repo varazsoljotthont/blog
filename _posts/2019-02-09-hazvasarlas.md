@@ -118,11 +118,15 @@ A „Miházunkban”.
 
 ![parasztház](/assets/hazvasarlas/mihazunkjav2.jpg)
   _...és végül ilyen lett a házunk!_
+  
+
 
 
 **+ 1 gondolat:**  
 Régi ház vásárlásakor szinte mindig marad egy kis ez-az az előző tulajdonostól.
 Érdemes ezeket félretenni, megőrizni. Sok minden akadhat a tárgyak között, amit újra gondolva fel lehet használni a ház körül.
+
+Ha tetszett keress a Facebookon is <a href="https://www.facebook.com/Var%C3%A1zsolj-otthont-360330751226066/" target="_blank">itt találod</a>
 
 ## Kapcsolódó cikkek
 * [A földes szobákkal kezdtük a házfelújítást!](/2019-02-12/szobabetonozas)
