@@ -1,16 +1,15 @@
 ---
 layout: post
-title: "A tégla nem csak építőanyag!"
+title: "A háziasszonyok álma: a mosókonyha!"
 permalink: /vazlat/
-cover: /assets/tégla/cover.JPG
+cover: /assets/mosokonyha/cover.JPG
 image:
-  path: /assets/tégla/cover.JPG
+  path: /assets/mosokonyha/cover.JPG
   height: 300
   width: 300
 ---
 
-
-
+**A mai családiházakhoz már hozzátartozik a mosókonyha. És nem olyan helyisége az otthonunknak, amit zárt ajtók mögött kell tartani. Ott is lehet ízlésesen, rendezetten tárolni a dolgainkat. Ha előre megtervezzük a gépek, polcok helyét, nem lesz nehéz fenntartani a rendet. 
 
 ![idézet](/assets/burkolatok/IMG_20190306_122829.jpg)
 
