@@ -9,20 +9,22 @@ image:
   width: 300
 ---
 
-**A mai családiházakhoz már hozzátartozik a mosókonyha. És nem olyan helyisége az otthonunknak, amit zárt ajtók mögött kell tartani. Ott is lehet ízlésesen, rendezetten tárolni a dolgainkat. Ha előre megtervezzük a gépek, polcok helyét, nem lesz nehéz fenntartani a rendet.** 
+**A mai családiházakhoz szervesen hozzátartozik a mosókonyha. És ma már olyan helyisége az otthonunknak, amit nem kell zárt ajtók mögött tartani. Ott is lehet ízlésesen, rendezetten tárolni a dolgainkat. Ha előre megtervezzük a gépek, polcok helyét, nem lesz nehéz fenntartani a rendet.** 
 
-![idézet](/assets/burkolatok/IMG_20190306_122829.jpg)
+![idézet](/assets/mosokonyha/IMG_20190426_134358.jpg)
 
-A házunk parasztházas jellege a burkolat választásra is hatással volt.
+## Mosókonyha, az kell*
 
-## Laminált padló
+Már akkor tudtam, hogy lesz mosókonyha a házban, mikor megvettük a házat.
 
-Szerettünk volna "igazi" fából készült hajópadlót, de az ára miatt ezt elvetettük. 
+Régen is volt, és akkor is nagyon szerettem. Számomra alapfelszereltség. 
+
+Kell, hogy ne a nappaliban száradjanak a ruhák, hogy legyen helye a vasalásra váró holmiknak, hogy a csecsebecséimet rendszerezve tudjam elrakni, hogy a varrógépemnek is legyen megfelelő helye. Szóval, amint lett rá lehetőségünk, neki álltunk a régi istállóból a kialakítani a mosókonyhát.
 
 
-Ettől még továbbra is nagyon tetszett, így olyan stílusú lamináltban gondolkodtunk, ami hangulatában hasonlított a padlóra.
-Ághelyes, göbös mintáztúra esett a választásunk.  
-Ez épp annyira volt divatos, amennyire nekem kellett, de nem a legújabb irányzatot követte. 
+## Megint betonozunk
+
+
 
 
 ![parketta](/assets/burkolatok/IMG_20190311_160229.jpg)
