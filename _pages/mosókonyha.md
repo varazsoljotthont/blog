@@ -23,9 +23,13 @@ Mert fontos volt, hogy ne a nappaliban száradjanak a ruhák, hogy legyen helye 
 Szóval, amint lett rá lehetőségünk, neki álltunk a régi istállóból a kialakítani a mosókonyhát.
 
 
-## Megint betonozunk
+## Tervezés
 
- A régi istálló alapterülete alkalmas volt arra, hogy abból válasszuk le a mosókonyhát (is). A tervünk az volt, hogy közel legyen a lakás többi részéhez hogy az előtérből a mosókonyhába jussunk, 
+ A régi istálló alapterülete alkalmas volt arra, hogy abból válasszuk le a mosókonyhát (is). Szerettük volna, hogy közel legyen a lakás többi részéhez, így már az átalakítás során nyitottunk egy ajtót az előtérből az istálló felé.
+ 
+Megterveztük, hogy mekkora legyen, és kijelöltük  a falak helyét, majd megkezdtük a kedvenc munkánkat...
+
+
 
 ![beton](/assets/mosokonyha/DSCF1814.JPG)
 _A munka felosztása a szokásos: én kevertem, a férjem eldolgozta_
@@ -35,9 +39,17 @@ _A munka felosztása a szokásos: én kevertem, a férjem eldolgozta_
 
 
 
-A konyha kivételével minden helyiségben ez lett a burkolat. Így a nappali, hálószoba, folyosó, és előtér egységes felületet kapott.
+Nem lett hatalmas helyiség (9m2), de az aljzatba rengeteg beton belement.
+
+> A betonzás másnapján beszélgettünk, hogy milyen jó, hogy ez is elkészült,  hogy milyen gyorsan végeztünk, mikor mondja a férjem, hogy olyan gyorsan keverted a betont, nem győztem hordani. Erre én, hogy, olyan gyorsan hordtad, hogy alig bírtam keverni...  
+Szóval a kommunikáció hiánya félreértésékehez vezetett, és fele annyi idő alatt végeztünk mint terveztük.
 
 
+![beton](/assets/mosokonyha/DSCF1820.JPG)
+
+
+
+![beton](/assets/mosokonyha/DSCF1833.JPG)
 
 
 A laminált padló lerakásáról sajnos nincs fotó, cserébe mutatok egy képet a kész folyósóról!
@@ -173,7 +185,7 @@ De akkor is, és most is úgy gondoljuk, hogy megérte minden erőfeszítés. Az
 
 
 **+ 1 gondolat:**   
-A laminált padló praktikus, megfizethető megoldás. Ha a ház átalakítására több időnk van, és ezáltal nagyobb az anyagi keretünk, valószínű, hogy nem ezt választjuk, hanem a fapadlót. A lamináltnak sajnos hideg a felülete. Padlófűtéssel biztosan kellemes, de betonra, és az alátét habszivacsra rakva hideg.
+Nagy kedvencem lett a mosókonyha. Nem csak a praktikukma, hanem a hangulata miatt is. A cél az volt, hogy olcsó legyen, de jó, ezért minden újragondolt, újrahasznosított. 
 
 ## Kapcsolódó cikkek
 
