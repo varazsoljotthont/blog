@@ -13,19 +13,18 @@ image:
 
 ![idézet](/assets/mosokonyha/IMG_20190426_134358.jpg)
 
-## Mosókonyha, az kell*
+## Mosókonyha, az kell
 
-Már akkor tudtam, hogy lesz mosókonyha a házban, mikor megvettük a házat.
-
+Már akkor tudtam, hogy lesz mosókonyhám, mikor megvettük a házat.
 Régen is volt, és akkor is nagyon szerettem. Számomra alapfelszereltség. 
 
-Mert fontos volt, hogy ne a nappaliban száradjanak a ruhák, hogy legyen helye a vasalásra váró holmiknak, hogy a csecsebecséimet átlátható módon tudjam tárolni, hogy a varrógépemnek is legyen megfelelő helye.  
+Fontos volt, hogy ne a nappaliban száradjanak a ruhák, hogy legyen helye a vasalásra váró holmiknak, hogy a csecsebecséimet átlátható módon tudjam tárolni, hogy a varrógépemnek is legyen megfelelő helye.  
 Szóval, amint lett rá lehetőségünk, neki álltunk a régi istállóból a kialakítani a mosókonyhát.
 
 
 ## Tervezés
 
- A régi istálló alapterülete alkalmas volt arra, hogy abból válasszuk le a mosókonyhát (is). Szerettük volna, hogy közel legyen a lakás többi részéhez, így már az átalakítás során nyitottunk egy ajtót az előtérből az istálló felé.
+A régi istálló alapterülete alkalmas volt arra, hogy abból válasszuk le a mosókonyhát (is). Szerettük volna, hogy közel legyen a lakás többi részéhez, így már az átalakítás során nyitottunk egy ajtót az előtérből az istálló felé.
  
 Megterveztük, hogy mekkora legyen, és kijelöltük  a falak helyét, majd megkezdtük a kedvenc munkánkat...
 
