@@ -8,8 +8,8 @@ image:
   height: 300
   width: 300
 ---
-
-**A mai családiházakhoz szervesen hozzátartozik a mosókonyha. És ma már olyan helyisége az otthonunknak, amit nem kell zárt ajtók mögött tartani. Ott is lehet ízlésesen, rendezetten tárolni a dolgainkat. Ha előre megtervezzük a gépek, polcok helyét, nem lesz nehéz fenntartani a rendet.** 
+sem kell
+**A mai családiházakhoz már szervesen hozzátartozik a mosókonyha. Ha betartunk pár alapszabályt, zárt ajtók mögé sem kell rejteni. Amennyiben előre megtervezzük a gépek, polcok helyét, nem lesz nehéz fenntartani a rendet.** 
 
 ![idézet](/assets/mosokonyha/IMG_20190426_134358.jpg)
 
@@ -27,8 +27,12 @@ Kell, hogy ne a nappaliban száradjanak a ruhák, hogy legyen helye a vasalásra
 
 
 
-![parketta](/assets/burkolatok/IMG_20190311_160229.jpg)
-_A kiválasztott darab_
+![beton](/assets/mosokonyha/DSCF1814.JPG)
+_A munka felosztása a szokásos: én kevertem, a férjem eldolgozta_
+
+
+![beton](/assets/mosokonyha/DSCF1808.JPG)
+
 
 
 A konyha kivételével minden helyiségben ez lett a burkolat. Így a nappali, hálószoba, folyosó, és előtér egységes felületet kapott.
