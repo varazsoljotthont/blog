@@ -8,8 +8,8 @@ image:
   height: 300
   width: 300
 ---
-sem kell
-**A mai családiházakhoz már szervesen hozzátartozik a mosókonyha. Ha betartunk pár alapszabályt, zárt ajtók mögé sem kell rejteni. Amennyiben előre megtervezzük a gépek, polcok helyét, nem lesz nehéz fenntartani a rendet.** 
+
+**A mai családiházakhoz már szervesen hozzátartozik a mosókonyha, és ha betartunk pár alapszabályt, zárt ajtók mögé sem kell rejteni. Amennyiben előre megtervezzük a gépek, polcok helyét, nem lesz nehéz fenntartani a rendet.** 
 
 ![idézet](/assets/mosokonyha/IMG_20190426_134358.jpg)
 
@@ -29,7 +29,7 @@ Szóval, amint lett rá lehetőségünk, neki álltunk a régi istállóból a k
  
 Megterveztük, hogy mekkora legyen, és kijelöltük  a falak helyét, majd megkezdtük a kedvenc munkánkat...
 
-
+**Megint betonozás**
 
 ![beton](/assets/mosokonyha/DSCF1814.JPG)
 _A munka felosztása a szokásos: én kevertem, a férjem eldolgozta_
@@ -50,9 +50,12 @@ Szóval a kommunikáció hiánya félreértésékehez vezetett, és fele annyi i
 
 
 ![beton](/assets/mosokonyha/DSCF1833.JPG)
+_Végre kész! Jöhet a fal_
+
+**Fal**
 
 
-A laminált padló lerakásáról sajnos nincs fotó, cserébe mutatok egy képet a kész folyósóról!
+Gipszkarton fallal akartuk leválasztani a mosókonyhát a kazánháztól és a leendő kamrától.
 
 ![folyosó](/assets/burkolatok/IMG_20190311_092455.jpg)
 _A folyosó napjainkban_
