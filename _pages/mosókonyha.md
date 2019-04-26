@@ -19,13 +19,13 @@ Már akkor tudtam, hogy lesz mosókonyha a házban, mikor megvettük a házat.
 
 Régen is volt, és akkor is nagyon szerettem. Számomra alapfelszereltség. 
 
-Kell, hogy ne a nappaliban száradjanak a ruhák, hogy legyen helye a vasalásra váró holmiknak, hogy a csecsebecséimet rendszerezve tudjam elrakni, hogy a varrógépemnek is legyen megfelelő helye. Szóval, amint lett rá lehetőségünk, neki álltunk a régi istállóból a kialakítani a mosókonyhát.
+Mert fontos volt, hogy ne a nappaliban száradjanak a ruhák, hogy legyen helye a vasalásra váró holmiknak, hogy a csecsebecséimet átlátható módon tudjam tárolni, hogy a varrógépemnek is legyen megfelelő helye.  
+Szóval, amint lett rá lehetőségünk, neki álltunk a régi istállóból a kialakítani a mosókonyhát.
 
 
 ## Megint betonozunk
 
-
-
+ A régi istálló alapterülete alkalmas volt arra, hogy abból válasszuk le a mosókonyhát (is). A tervünk az volt, hogy közel legyen a lakás többi részéhez hogy az előtérből a mosókonyhába jussunk, 
 
 ![beton](/assets/mosokonyha/DSCF1814.JPG)
 _A munka felosztása a szokásos: én kevertem, a férjem eldolgozta_
