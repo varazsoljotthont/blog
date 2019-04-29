@@ -48,7 +48,7 @@ Szóval a kommunikáció hiánya félreértésékehez vezetett, és fele annyi i
 
 
 
-![beton](/assets/mosokonyha/DSCF1833.JPG)
+![beton](/assets/mosokonyha/DSCF1817.JPG)
 _Végre kész! Jöhet a fal_
 
 **Fal**
