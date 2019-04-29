@@ -74,7 +74,7 @@ _Két fal készült gipszkartonból_
 ![gipszkarton](/assets/mosokonyha/DSCF2303.JPG)
 A falakon még látszik az istállókra jellemző fekete festék_
 
-![gipszkarton](/assets/mosokonyha/DSCF23043.JPG)
+![gipszkarton](/assets/mosokonyha/DSCF2304.JPG)
 
 Az eltelt idő azt mutatja, hogy jól választottunk. A színe nem kényes, mindenhez passzol, és a vidéki ház designjébe is tökéletesen bele illik.
 
