@@ -48,9 +48,10 @@ Szóval a kommunikáció hiánya félreértésékehez vezetett, és fele annyi i
 
 
 ![beton](/assets/mosokonyha/DSCF1804.JPG)
-_Végre kész! Jöhet a fal_
+_Elszántság, erő, akarat! Már pedig itt mosókonyha lesz!_
 
 ![beton](/assets/mosokonyha/DSCF1817.JPG)
+_Végre kész! Jöhet a fal_
 
 
 
