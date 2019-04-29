@@ -38,7 +38,7 @@ _A munka felosztása a szokásos: én kevertem, a férjem eldolgozta_
 
 
 
-Nem lett hatalmas helyiség (9m2), de az aljzatba rengeteg beton belement.
+Nem lett hatalmas helyiség (9m2), de az aljzatba így is rengeteg beton belement.
 
 > A betonzás másnapján beszélgettünk, hogy milyen jó, hogy ez is elkészült,  hogy milyen gyorsan végeztünk, mikor mondja a férjem, hogy olyan gyorsan keverted a betont, nem győztem hordani. Erre én, hogy, olyan gyorsan hordtad, hogy alig bírtam keverni...  
 Szóval a kommunikáció hiánya félreértésékehez vezetett, és fele annyi idő alatt végeztünk mint terveztük.
@@ -54,10 +54,27 @@ _Végre kész! Jöhet a fal_
 **Fal**
 
 
-Gipszkarton fallal akartuk leválasztani a mosókonyhát a kazánháztól és a leendő kamrától.
+Nagyon akartunk haladni a projekttel, ezért a könnyűszerkezetes megoldást választottuk.
 
-![folyosó](/assets/burkolatok/IMG_20190311_092455.jpg)
-_A folyosó napjainkban_
+A gipszkarton mellett döntöttünk. 
+
+Ezzel a módszerrel gyorsan le tudtuk választani a mosókonyhát a kazánháztól és a leendő kamrától.
+Fémprofilokat használtunk, és ezekkel nem okozott nehézséget a fal megépítése.
+
+Miután álltak a falak, az eljárás a régről ismert folyamat volt: javítás, glettelés, csiszolás majd a festés.
+
+
+
+![gipszkarton](/assets/mosokonyha/DSCF2300.JPG)
+_Két fal készült gipszkartonból_
+
+
+
+
+![gipszkarton](/assets/mosokonyha/DSCF2303.JPG)
+A falakon még látszik az istállókra jellemző fekete festék_
+
+![gipszkarton](/assets/mosokonyha/DSCF23043.JPG)
 
 Az eltelt idő azt mutatja, hogy jól választottunk. A színe nem kényes, mindenhez passzol, és a vidéki ház designjébe is tökéletesen bele illik.
 
