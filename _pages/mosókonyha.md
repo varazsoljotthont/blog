@@ -44,12 +44,17 @@ Nem lett hatalmas helyiség (9m2), de az aljzatba így is rengeteg beton belemen
 Szóval a kommunikáció hiánya félreértésékehez vezetett, és fele annyi idő alatt végeztünk mint terveztük.
 
 
+
+
+
+![beton](/assets/mosokonyha/DSCF1804.JPG)
+_Végre kész! Jöhet a fal_
+
 ![beton](/assets/mosokonyha/DSCF1817.JPG)
 
 
 
-![beton](/assets/mosokonyha/DSCF1820.JPG)
-_Végre kész! Jöhet a fal_
+
 
 **Fal**
 
