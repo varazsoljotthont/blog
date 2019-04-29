@@ -65,7 +65,7 @@ Nagyon akartunk haladni a projekttel, ezért könnyűszerkezetes megoldást vál
 Ezzel a módszerrel gyorsan le tudtuk választani a mosókonyhát a kazánháztól és a leendő kamrától.
 Fémprofilokat használtunk, és ezekkel nem okozott nehézséget a fal megépítése.
 
-Miután álltak a falak, az eljárás a ([régről ismert folyamat](/2019-02-18/afalak)) volt: javítás, glettelés, csiszolás majd a festés.
+Miután álltak a falak, az eljárás a [régről ismert folyamat](/2019-02-18/afalak) volt: javítás, glettelés, csiszolás majd a festés.
 
 
 
@@ -80,7 +80,7 @@ Mindkettő téglából készült, ami a kijavításukat nem könnyítette meg. V
 
 
 ![gipszkarton](/assets/mosokonyha/DSCF2303.JPG)
-A falakon még látszik az istállókra jellemző fekete festék_
+_A falakon még látszik az istállókra jellemző fekete festék_
 
 ![gipszkarton](/assets/mosokonyha/DSCF2304.JPG)
 
