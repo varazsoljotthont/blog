@@ -54,9 +54,7 @@ _Végre kész! Jöhet a fal_
 **Fal**
 
 
-Nagyon akartunk haladni a projekttel, ezért a könnyűszerkezetes megoldást választottuk.
-
-A gipszkarton mellett döntöttünk. 
+Nagyon akartunk haladni a projekttel, ezért könnyűszerkezetes megoldást választottunk, ezen belül pedig a gipszkarton mellett döntöttünk. 
 
 Ezzel a módszerrel gyorsan le tudtuk választani a mosókonyhát a kazánháztól és a leendő kamrától.
 Fémprofilokat használtunk, és ezekkel nem okozott nehézséget a fal megépítése.
@@ -68,6 +66,10 @@ Miután álltak a falak, az eljárás a régről ismert folyamat volt: javítás
 ![gipszkarton](/assets/mosokonyha/DSCF2300.JPG)
 _Két fal készült gipszkartonból_
 
+A másik két fal adott volt. 
+Mindkettő téglából készült, ami a kijavításukat nem könnyítette meg. Volt velük feladat bőven... Régi vakolatot leverni,újra vakolni, glettelni,csiszolni, festeni...
+
+![gipszkarton](/assets/mosokonyha/DSCF1820.JPG)
 
 
 
