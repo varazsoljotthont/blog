@@ -40,6 +40,10 @@ Minden, de tényleg minden tárgy újrahasznosított lett.
 * **... és még a nevét is kaptuk a helyiségnek. Mi csak Frau Zimmerként emlegetjük, ezt kapta a névadón. Szemben velünk egy osztrák házaspár lakik ( férj csak nagyon keveset beszél magyarul), és mikor készült a mosókonyha, kérdezgette, hog mi lesz ez... Mondtuk, hogy mosókonyha, ő meg, hogy: Ja, ja! Frau Zimmer! Nekünk pedig úgy megtetszett, hogy rajt is maradt.**
 
 
+Ezekkel felújított tárgyakkal különleges hangulatú lett a mosókonyhám. Egyszerű, vidékies, romantikus és nagyon szerethető.
+
+
+
 
 
 ## Nem vagyok belsőépítész, lakberendező
