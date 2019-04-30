@@ -131,7 +131,24 @@ Minden, de tényleg minden tárgy újrahasznosított lett.
 
 Igyekeztünk - mint mindig - olcsón jót csinálni. 
 
-Felhasználtuk a régi polcot, hajópadlót, ajtót, széket, maradék fákat a berendezés elkészítéséhez. A tárolókat kartonból csináltam. A lámpát felújítottuk. 
+Felhasználtuk
+
+* **a régi polcot** 
+
+* **hajópadlót** 
+
+* **ajtót** 
+
+* **széket** 
+
+* **maradék fákat a berendezés elkészítéséhez.** 
+
+* **A tárolókat kartonból csináltam.**
+
+* **A lámpát felújítottuk.**
+
+Ezekkel felújított tárgyakkal különleges hangulatú lett a mosókonyhám. REgyszerű, vidékies, romantikus és nagyon szerethető.
+
 
 
 ![járólap](/assets/mosokonyha/DSCF2320.JPG)
