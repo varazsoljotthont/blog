@@ -165,6 +165,9 @@ Ha tetszett, kedveld a Facebook oldalt is. Itt még több érdekességet találs
 
 
 
+<a href="https://www.facebook.com/Var%C3%A1zsolj-otthont-360330751226066/" target="_blank">Ha tetszett, kedveld a Facebook oldalt is</a>
+Itt még több érdekességet találsz a mindennapok varázslataiból.
+
 
 ## Kapcsolódó cikkek
 
