@@ -9,24 +9,24 @@ image:
   width: 300
 ---
 
-**A mai, modern családiházakból már nem hiányozhat a mosókonyha. Jó tervezéssel a leghasznosabb helyisége lesz az otthonunknak. A házimunka jelentős részét elvégezhetjük úgy, hogy a a lakóterünk szépségén ne essen csorba.** 
+**A mai, modern családiházakból már nem hiányozhat a mosókonyha. Jó tervezéssel a leghasznosabb helyisége lesz az otthonunknak. A házimunka jelentős részét elvégezhetjük úgy, hogy a lakóterünk szépségén ne essen csorba.** 
 
 
 
 ![idézet](/assets/mosokonyha/IMG_20190426_134358.jpg)
 
-## Mosókonyha, az kell
+## Mosókonyha, az kell!
 
 Már akkor tudtam, hogy lesz mosókonyhám, mikor megvettük a házat.
 Régen is volt, és akkor is nagyon szerettem. Számomra alapfelszereltség. 
 
 Fontos volt, hogy ne a nappaliban száradjanak a ruhák, hogy legyen helye a vasalásra váró holmiknak, hogy a csecsebecséimet átlátható módon tudjam tárolni, hogy a varrógépemnek is legyen megfelelő helye.  
-Szóval, amint lett rá lehetőségünk, neki álltunk az istállóból a kialakítani a mosókonyhát.
+Szóval, amint lett rá lehetőségünk, neki álltunk az istállóból a kialakítani.
 
 
 ## Tervezés
 
-A mosókonyha tervezése már akkor megkezdődött, amikor a házat alakítottuk át. Szerettük volna, hogy közel legyen a lakás többi részéhez, így már az átalakítás során nyitottunk egy ajtót az előtérből az istálló felé. ([erről itt olvashatsz](/2019-02-11/találjuk_ki))
+A mosókonyha tervezése már akkor megkezdődött, amikor a házat alakítottuk át. Szerettük volna, hogy közel legyen a lakás többi részéhez, így már a felújítás során nyitottunk egy ajtót az előtérből az istálló felé. ([erről itt olvashatsz](/2019-02-11/találjuk_ki))
  
 
 A régi épület alapterülete alkalmas volt arra, hogy abból válasszuk le a mosókonyhát (is).  
@@ -35,7 +35,7 @@ Előre kitaláltuk hová lesz a mosdó, a mosógép, a radiátor. Szerettünk vo
 
 > Biztos, ami biztos, legyen alapon. Sosem árt, ha nagyobb vendégség, itt alvós társaság van a háznál.
 
-A vizet, és a szennyvizet már akkor megcsinálták, mikor a házat. Nem akartuk pár évvel később újra szétveretni a házat. A csövek bekerültek, és türelmesen vártak arra, hogy elkészüljön a helyiség.
+A víz és a szennyvíz csövezését már akkor megcsinálták, mikor a házon dolgoztak. Nem akartuk pár évvel később újra szétveretni a házat. A csövek bekerültek, és türelmesen vártak arra, hogy elkészüljön a helyiség.
 
 
 
