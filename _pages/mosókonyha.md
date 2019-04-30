@@ -39,7 +39,7 @@ A vizet, és a szennyvizet már akkor megcsinálták, mikor a házat. Nem akartu
 
 
 
-Megterveztük, hogy mekkora legyen, és kijelöltük  a falak helyét, majd megkezdtük a kedvenc munkánkat...
+Megterveztük és kijelöltük  a falak helyét, majd megkezdtük a kedvenc munkánkat...
 
 
 
