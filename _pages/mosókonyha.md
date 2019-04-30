@@ -41,7 +41,7 @@ A csövek bekerültek, és türelmesen vártak 2 évig arra, hogy elkészüljön
 
 
 
-Megterveztük és kijelöltük  a falak helyét, majd megkezdtük a kedvenc munkánkat...
+Következő lépésként kijelöltük  a falak helyét, majd megkezdtük a kedvenc munkánkat...
 
 
 
