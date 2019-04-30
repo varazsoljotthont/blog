@@ -9,7 +9,9 @@ image:
   width: 300
 ---
 
-**Az otthonunk hangulata a berendezésen, a dekoráción is múlik. Jól megcsinálni nem ördögtől való feladat. Nem kell szakembernek lenni ahhoz, hogy a környezetünk olyan hellyé váljon, ahová jó hazaérkezni.**
+**A mosókonyha nem luxus. Már a rég időkben is volt egy külön helyiség a mosási munkálatokra. Ha figyelembe veszzük a praktikum, a funkcionalitás, és az esztétika szempontjait, nem kell zárt ajtó mögé rejteni.**
+
+
 
 ## Berendezés
 
