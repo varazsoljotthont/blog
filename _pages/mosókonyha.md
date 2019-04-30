@@ -50,6 +50,7 @@ _A munka felosztása a szokásos: én kevertem, a férjem eldolgozta_
 
 
 ![beton](/assets/mosokonyha/DSCF1808.JPG)
+_Csövek, szerelvények már a falban_
 
 
 
@@ -153,9 +154,7 @@ A mosókonyha berendezésében olyan sok újragondolt dolog van, hogy érdemes e
 
 ## Kapcsolódó cikkek
 
-
+* [Fontos lépések régi házunk állagmegóvásáért](/2019-04-03/állagmegóvás)
 * [Életre kelnek a falak!](/2019-03-01/sz%C3%ADnesfalak)
-* [Faljavítás itt, falazás ott!](/2019-02-18/afalak)
-* [A földes szobákkal kezdtük a házfelújítást!](/2019-02-12/szobabetonozas)
 * [Találjuk ki a házunkat](/2019-02-11/találjuk_ki)
-
+* [Kell egy ház... de hol, milyen, mennyiért?](/2019-02-09/hazvasarlas)
