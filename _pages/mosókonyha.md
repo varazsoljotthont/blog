@@ -13,7 +13,7 @@ image:
 
 
 
-![idézet](/assets/mosokonyha/IMG_20190426_134358.jpg)
+
 
 ## Mosókonyha, az kell!
 
@@ -22,6 +22,11 @@ Régen is volt, és akkor is nagyon szerettem. Számomra alapfelszereltség.
 
 Fontos volt, hogy ne a nappaliban száradjanak a ruhák, hogy legyen helye a vasalásra váró holmiknak, hogy a csecsebecséimet átlátható módon tudjam tárolni, hogy a varrógépemnek is legyen megfelelő helye.  
 Szóval, amint lett rá lehetőségünk, neki álltunk az istállóból a kialakítani.
+
+
+![idézet](/assets/mosokonyha/IMG_20190426_134358.jpg)
+
+
 
 
 ## Tervezés
