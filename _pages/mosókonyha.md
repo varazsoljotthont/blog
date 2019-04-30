@@ -9,7 +9,7 @@ image:
   width: 300
 ---
 
-**A mai, modern családiházakból már nem hiányozhat a mosókonyha. Jó tervezéssel a leghasznosabb helyisége lesz az otthonunknak.** 
+**A mai, modern családiházakból már nem hiányozhat a mosókonyha. Jó tervezéssel a leghasznosabb helyisége lesz az otthonunknak. A házimunka jelentős részét elvégezhetjük úgy, hogy a a lakóterünk szépségén ne essen csorba.** 
 
 
 
@@ -111,7 +111,7 @@ Ha úgy vásároljuk meg a burkolatokat, egész biztosan más színt választok.
 
 Megalkudtam a kékkel, és végül nem is bántam meg. A sötétkék csempe nagy kedvencem lett, a járólappal pedig békét kötöttem.
 
-![csempep](/assets/mosokonyha/DSCF2305.JPG)
+![csempe](/assets/mosokonyha/DSCF2305.JPG)
 
 
 ![járólap](/assets/mosokonyha/DSCF2308.JPG)
@@ -127,43 +127,22 @@ _Alakulgat a burkolás_
 
 
 
-## Berendezés
 
-Minden, de tényleg minden tárgy újrahasznosított lett. 
 
-Igyekeztünk - mint mindig - olcsón jót csinálni. 
-
-Felhasználtuk
-
-* **a régi polcot** 
-
-* **hajópadlót** 
-
-* **ajtót** 
-
-* **széket** 
-
-* **maradék fákat a berendezés elkészítéséhez.** 
-
-* **A tárolókat kartonból csináltam.**
-
-* **A lámpát felújítottuk.**
-
-Ezekkel felújított tárgyakkal különleges hangulatú lett a mosókonyhám. REgyszerű, vidékies, romantikus és nagyon szerethető.
-
+A burkolás, festés végeztével jöhetett a berendezési tárgyak tervezése.
 
 
 ![járólap](/assets/mosokonyha/DSCF2320.JPG)
 _Mindjárt kész_
 
 
-
+A burkolás, festés végeztével jöhetett a berendezési tárgyak tervezése. Izgalmas feladat volt, mert nem akartunk túl sokat költeni, determészetesen szépet, egyedit akartunk.
 
 
 
 
 **+ 1 gondolat:**   
-Olyan sok minden újragondolt dolog van a mosókonyhában, hogy érdemes egyenként megmutatnom őket. A következő posztban ezekről írok.
+A mosókonyha berendezésében olyan sok újragondolt dolog van, hogy érdemes egyenként megmutatnom őket. A következő posztban ezekről írok.
 
 ## Kapcsolódó cikkek
 
