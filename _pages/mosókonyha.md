@@ -9,7 +9,7 @@ image:
   width: 300
 ---
 
-**A mai, modern családiházakból már nem hiányozhat a mosókonyha. Jó tervezéssel, a leghasznosabb helyisége lesz az otthonunknak.** 
+**A mai, modern családiházakból már nem hiányozhat a mosókonyha. Jó tervezéssel a leghasznosabb helyisége lesz az otthonunknak.** 
 
 
 
