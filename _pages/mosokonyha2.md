@@ -9,7 +9,7 @@ image:
   width: 300
 ---
 
-**A mosókonyha nem luxus. Ha figyelembe veszzük a praktikum, a funkcionalitás, és az esztétika szempontjait, nem kell zárt ajtó mögé sem rejteni. Éppúgy a része lehet az otthonunknak, mint a lakás többi része.**
+**A mosókonyha nem luxus. Ha figyelembe veszzük a praktikum, a funkcionalitás, és az esztétika szempontjait, nem kell zárt ajtó mögé sem rejteni. Éppúgy a része lehet az otthonunknak, mint a lakás többi helyisége.**
 
 
 
