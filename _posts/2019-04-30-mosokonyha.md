@@ -8,7 +8,7 @@ image:
   width: 300
 ---
 
-**A mai, modern családiházakból már nem hiányozhat a mosókonyha. Jó tervezéssel a leghasznosabb helyisége lesz az otthonunknak. A házimunka jelentős részét elvégezhetjük úgy, hogy a lakóterünk szépségén nem esik csorba.** 
+**A mai, modern családi házakból már nem hiányozhat a mosókonyha. Jó tervezéssel a leghasznosabb helyisége lesz az otthonunknak. A házimunka jelentős részét elvégezhetjük úgy, hogy a lakóterünk szépségén nem esik csorba.** 
 
 
 
@@ -20,7 +20,7 @@ Már akkor tudtam, hogy lesz mosókonyhám, mikor megvettük a házat.
 Régen is volt, és akkor is nagyon szerettem. Számomra alapfelszereltség. 
 
 Fontos volt, hogy ne a nappaliban száradjanak a ruhák, hogy legyen helye a vasalásra váró holmiknak, hogy a csecsebecséimet átlátható módon tudjam tárolni, hogy a varrógépemnek is legyen megfelelő helye.  
-Szóval, amint lett rá lehetőségünk, neki álltunk az istállóból a kialakítani.
+Szóval, amint lett rá lehetőségünk, neki álltunk az istállóból kialakítani.
 
 
 ![idézet](/assets/mosokonyha/IMG_20190426_134358.jpg)
@@ -40,7 +40,7 @@ Kitaláltuk hová lesz majd a mosdó, a mosógép, a radiátor. Szerettünk voln
 
 > Biztos, ami biztos, legyen alapon. Sosem árt, ha nagyobb vendégség, itt alvós társaság van a háznál.
 
-A csövek bekerültek, és türelmesen vártak 2 évig arra, hogy elkészüljön a helyiség.
+A csövek bekerültek, és türelmesen vártak 1,5 évig arra, hogy elkészüljön a helyiség.
 
 
 
