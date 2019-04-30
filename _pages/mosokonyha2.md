@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Legyen hangulatos a mosókonyhánk!" 
-permalink: /dekoráció/
+title: "A mosókonyha is lehet hangulatos" 
+permalink: /mosokonyha/
 cover: /assets/mosokonyha/cover.jpg
 image:
   path: /assets/mosokonyha/cover.jpg
