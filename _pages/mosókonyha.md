@@ -126,16 +126,27 @@ A férjem csempézett, járólapozott, én pedig festettem a falakat. A festés 
 Minden, de tényleg minden tárgy újrahasznosított lett.
 
 
-** A mosókonyha és a kamra közti ajtó még a házátalakításból származik. Férjem csinált hozzá keretet, és beépítette.
+* **A mosókonyha és a kamra közti ajtó még a házátalakításból származik. Férjem csinált hozzá keretet, és beépítette.**
 
-** A polc a régi, bontott hajópadlóból született újjá. Férjem megcsinálta, szú ellen lekezeltem, majd festetettem.
+* **A polc a régi, bontott hajópadlóból született újjá. Férjem megcsinálta, szú ellen lekezeltem, majd festetettem.**
 
-** A mosdópult saját ötlet.  
-A felsőrésze akácfa darabokból, a szekrényke része pedig egy régi ajtóbetétjéből és egy használaton kívüli polcbólkészült.
+* **A mosdópult saját ötlet. A felsőrésze akácfa darabokból, a szekrényke része pedig egy régi ajtóbetétjéből és egy használaton kívüli polcból készült.**
 
-** A mennyezeti lámpa régen kiscsibéket melegített. Újra lett vezetékelve, rendeltem hozzá textil kábelt, mennyezeti rózsát, színre fújtam a búrát, és kész is.
+* **A szennyestartót, és a falszegélyt a kábeldob kerítésünk középső darabjaiból állította össze a férjem.
 
-** A varrógépem közel 30 éves, átfestettem fehérre, hogy passzoljon a többi dologhoz.
+* **A mennyezeti lámpa régen kiscsibéket melegített. Újra lett vezetékelve, rendeltem hozzá textil kábelt, mennyezeti rózsát, színre fújtam a búrát, és kész is.**
+
+* **A varrógépem közel 30 éves, átfestettem fehérre, hogy passzoljon a többi dologhoz.**
+
+* **Az ablakpárkány szintén akácfából készült**
+
+* **A széket, a kis polcot, a bőröndöt egy kollégámtól kaptam (tudta, hogy nálam megmenekülnek ezek a régi darabok), felújítás után tökéletesen beillenek a mosókonyhába.
+
+* **... és még a nevét is kaptuk a helyiségnek. Mi csak Frau Zimmerként emlegetjük, ezt kapta a névadón. A szemben velünk egy osztrák házaspár lakik ( férj csak nagyon keveset beszél magyarul), és mikor készült a mosókonyha, kérdezgette, hog mi lesz ez... Mondtuk, hogy mosókonyha, ő meg, hogy: Ja, ja! Faru Zimmer! Nekünk pedig úgy megtetszett, hogy rajt is maradt.
+
+
+
+
 
 
 
