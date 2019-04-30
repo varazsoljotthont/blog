@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "A háziasszonyok álma: a mosókonyha!"
+title: "Minden háziasszony álma: a mosókonyha!"
 cover: /assets/mosokonyha/cover2.JPG
 image:
   path: /assets/mosokonyha/cover2.JPG
