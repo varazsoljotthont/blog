@@ -42,7 +42,7 @@ Kitaláltuk hová lesz majd a mosdó, a mosógép, a radiátor. Szerettünk voln
 
 > Biztos, ami biztos, legyen alapon. Sosem árt, ha nagyobb vendégség, itt alvós társaság van a háznál.
 
-A csövek bekerültek, és türelmesen vártak 2 évig arra, hogy elkészüljön a helyiség.
+A csövek bekerültek, és türelmesen vártak 1,5 évig arra, hogy elkészüljön a helyiség.
 
 
 
