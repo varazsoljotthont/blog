@@ -91,7 +91,6 @@ Fémprofilokat használtunk, és ezekkel nem okozott nehézséget a fal megépí
 Miután álltak a falak, az eljárás a [régről ismert folyamat](/2019-02-18/afalak) volt: javítás, glettelés, csiszolás majd a festés.
 
 
-
 ![gipszkarton](/assets/mosokonyha/DSCF2300.JPG)
 _Két fal készült gipszkartonból_
 
