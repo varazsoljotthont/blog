@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "A mosókonyha is lehet hangulatos" 
+title: "Legyen praktikus, hangulatos a mosókonyhánk!" 
 permalink: /mosokonyha/
 cover: /assets/mosokonyha/cover.jpg
 image:
