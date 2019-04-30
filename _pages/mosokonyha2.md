@@ -31,7 +31,7 @@ Legyen:
 
 Ezeknek a feltételeknek csak úgy tudtunk megfelelni,hogy sját magunk készítettünk el a mindent.
 
-A ház felújítás során, amit lehetett megmentettünk([pl: a hajópadlót is](/2019-02-12/szobabetonozas)
+A ház felújítás során, amit lehetett megmentettünk többek között [a hajópadlót is](/2019-02-12/szobabetonozas)
 
 Minden, de tényleg minden tárgy újrahasznosított lett.
 
