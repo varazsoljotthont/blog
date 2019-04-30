@@ -159,6 +159,7 @@ A burkolás, festés végeztével jöhetett a berendezési tárgyak tervezése. 
 **+ 1 gondolat:**   
 A mosókonyha berendezésében olyan sok újragondolt dolog van, hogy érdemes egyenként megmutatnom őket. A következő posztban sorra veszem őket.
 
+
 ## Kapcsolódó cikkek
 
 * [Fontos lépések régi házunk állagmegóvásáért](/2019-04-03/állagmegóvás)
