@@ -35,7 +35,7 @@ Előre kitaláltuk hová lesz a mosdó, a mosógép, a radiátor. Szerettünk vo
 
 > Biztos, ami biztos, legyen alapon. Sosem árt, ha nagyobb vendégség, itt alvós társaság van a háznál.
 
-A víz és a szennyvíz csövezését már akkor megcsinálták, mikor a házon dolgoztak. Nem akartuk pár évvel később újra szétveretni a házat. A csövek bekerültek, és türelmesen vártak arra, hogy elkészüljön a helyiség.
+A víz és a szennyvíz csövezését már akkor megcsinálták, mikor a házon dolgoztak. Nem akartuk pár évvel később újra szétveretni a falakat. A csövek bekerültek, és türelmesen vártak arra, hogy elkészüljön a helyiség.
 
 
 
