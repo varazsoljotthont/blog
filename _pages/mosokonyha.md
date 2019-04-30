@@ -41,10 +41,10 @@ Ezeknek, a saját magunknak állított kritériumoknak csak úgy tudtunk megfele
 
 A ház felújítás során amit lehetett megmentettünk, többek között [a hajópadlót is,](/2019-02-12/szobabetonozas) amit később újra felhasználtunk.
 
-<a href="2019-02-12/szobabetonozas/" target="_blank">a hajópadlót is</a> , amit később újra felhasználtunk.
+<a href="blog_posts/2019-02-12-szobabetonozas.md/" target="_blank">a hajópadlót is</a> , amit később újra felhasználtunk.
 
 
-<a href="a hajópadlót is/" target="_blank">2019-02-12/szobabetonozas</a> ,
+
 
 Minden, de tényleg minden tárgy újrahasznosított lett a mosókonyhában
 
