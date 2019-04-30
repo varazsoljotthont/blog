@@ -278,6 +278,10 @@ _Az udvar. A tégla, a fa és a kavics remekül összeillik._
 A kevesebb néha több. Mindenre igaz, érdemes szem előtt tartani...
 
 
+Ha tetszett, kedveld a Facebook oldalt is. Itt még több érdekességet találsz a mindennapok varázslataiból.  <a href="https://www.facebook.com/Var%C3%A1zsolj-otthont-360330751226066/" target="_blank">itt találod</a>
+
+
+
 ## Kapcsolódó cikkek
 
 
