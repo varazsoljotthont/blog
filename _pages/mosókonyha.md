@@ -132,7 +132,7 @@ Minden, de tényleg minden tárgy újrahasznosított lett.
 
 * **A mosdópult saját ötlet. A felsőrésze akácfa darabokból, a szekrényke része pedig egy régi ajtóbetétjéből és egy használaton kívüli polcból készült.**
 
-* **A szennyestartót, és a falszegélyt a kábeldob kerítésünk középső darabjaiból állította össze a férjem.
+* **A szennyestartót, és a falszegélyt a kábeldob kerítésünk középső darabjaiból állította össze a férjem.**
 
 * **A mennyezeti lámpa régen kiscsibéket melegített. Újra lett vezetékelve, rendeltem hozzá textil kábelt, mennyezeti rózsát, színre fújtam a búrát, és kész is.**
 
