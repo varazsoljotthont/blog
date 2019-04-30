@@ -142,9 +142,9 @@ Minden, de tényleg minden tárgy újrahasznosított lett.
 
 * **A széket, a kis polcot, a bőröndöt egy kollégámtól kaptam (tudta, hogy nálam megmenekülnek ezek a régi darabok), felújítás után tökéletesen beillenek a mosókonyhába.**
 
-* **[A tároló dobozokat](/2019-04-17/tárolók) én készítettem.
+* **[A tároló dobozokat](/2019-04-17/tárolók) én készítettem.**
 
-* **... és még a nevét is kaptuk a helyiségnek. Mi csak Frau Zimmerként emlegetjük, ezt kapta a névadón. A szemben velünk egy osztrák házaspár lakik ( férj csak nagyon keveset beszél magyarul), és mikor készült a mosókonyha, kérdezgette, hog mi lesz ez... Mondtuk, hogy mosókonyha, ő meg, hogy: Ja, ja! Faru Zimmer! Nekünk pedig úgy megtetszett, hogy rajt is maradt.**
+* **... és még a nevét is kaptuk a helyiségnek. Mi csak Frau Zimmerként emlegetjük, ezt kapta a névadón. Szemben velünk egy osztrák házaspár lakik ( férj csak nagyon keveset beszél magyarul), és mikor készült a mosókonyha, kérdezgette, hog mi lesz ez... Mondtuk, hogy mosókonyha, ő meg, hogy: Ja, ja! Frau Zimmer! Nekünk pedig úgy megtetszett, hogy rajt is maradt.**
 
 
 
@@ -154,7 +154,7 @@ Minden, de tényleg minden tárgy újrahasznosított lett.
 
 
 **+ 1 gondolat:**   
-Nagy kedvencem lett a mosókonyha. Nem csak a praktikukma, hanem a hangulata miatt is. A cél az volt, hogy olcsó legyen, de jó, ezért minden újragondolt, újrahasznosított. 
+Nagy kedvencem lett a mosókonyha. Nem csak a praktikuma, hanem a hangulata miatt is. A cél az volt, hogy olcsó legyen, de jó, ezért minden újragondolt, újrahasznosított. 
 
 ## Kapcsolódó cikkek
 
