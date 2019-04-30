@@ -133,12 +133,15 @@ Megalkudtam a kékkel, és végül nem is bántam meg. A sötétkék csempe nagy
 
 
 ![járólap](/assets/mosokonyha/DSCF2309.JPG)
+_Alakulgat a burkolás_
+
 
 A férjem csempézett, járólapozott, én pedig festettem a falakat. A festés előtt még megmentettünk egy gerendát is, ami nagyon szép dísze lett a mosókonyhának.
 
 
 ![járólap](/assets/mosokonyha/DSCF2311.JPG)
-_Alakulgat a burkolás_
+_Kicsi részlet látszik a gerendából_
+
 
 
 
