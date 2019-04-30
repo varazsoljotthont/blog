@@ -39,7 +39,7 @@ Ezeknek, a saját magunknak állított kritériumoknak csak úgy tudtunk megfele
 
 ![tulipán](/assets/mosokonyha/IMG_20190430_195350.jpg)
 
-A ház felújítás során amit lehetett megmentettünk, többek között [a hajópadlót is.](/2019-02-12/szobabetonozas) amit később úra felhaszáltunk.
+A ház felújítás során amit lehetett megmentettünk, többek között [a hajópadlót is](/2019-02-12/szobabetonozas) amit később úra felhaszáltunk.
 
 Minden, de tényleg minden tárgy újrahasznosított lett a mosókonyhában
 
