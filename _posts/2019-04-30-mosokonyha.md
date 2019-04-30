@@ -48,7 +48,7 @@ Következő lépésként kijelöltük  a falak helyét, majd megkezdtük a kedve
 
 
 
-**Megint betonozás**
+## Megint betonozás
 
 ![beton](/assets/mosokonyha/DSCF1814.JPG)
 _A munka felosztása a szokásos: én kevertem, a férjem eldolgozta_
@@ -78,7 +78,7 @@ _Végre kész! Jöhet a fal_
 
 
 
-**Fal**
+## A falak
 
 
 Nagyon akartunk haladni a projekttel, ezért könnyűszerkezetes megoldást választottunk, ezen belül pedig a gipszkarton mellett döntöttünk. 
