@@ -188,7 +188,7 @@ De akkor is, és most is úgy gondoljuk, hogy megérte minden erőfeszítés. Az
 **+ 1 gondolat:**   
 A laminált padló praktikus, megfizethető megoldás. Ha a ház átalakítására több időnk van, és ezáltal nagyobb az anyagi keretünk, valószínű, hogy nem ezt választjuk, hanem a fapadlót. A lamináltnak sajnos hideg a felülete. Padlófűtéssel biztosan kellemes, de betonra, és az alátét habszivacsra rakva hideg.
 
-Ha tetszett, kedveld a Facebook oldalt is. Itt még több érdekességet találsz a mindennapok varázslataiból.  <a href="https://www.facebook.com/Var%C3%A1zsolj-otthont-360330751226066/" target="_blank">itt találod</a>
+<a href="https://www.facebook.com/Var%C3%A1zsolj-otthont-360330751226066/" target="_blank">Ha tetszett, kedveld a Facebook oldalt is,</a> itt még több érdekességet találsz a mindennapok varázslataiból.
 
 
 ## Kapcsolódó cikkek
