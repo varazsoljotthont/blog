@@ -15,6 +15,9 @@ image:
 
 ## Berendezés
 
+![tulipán](/assets/mosokonyha/IMG_20190430_195350.jpg)
+
+
 
 
 A berendezés megtervezésekor több szempontunk is volt.
