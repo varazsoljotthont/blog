@@ -105,11 +105,9 @@ Még a ház átalakítás elején egy ismerős a garázsában rendezkedett, és 
 
 > Azt hiszem szerencsések vagyunk, mert több alkalommal előfordult már, hogy hasonló módon jutottunk hozzá számunkra fontos dolgokhoz.
 
-Ha úgy vásároljuk meg a burkolatokat, egész biztosan más színt választok.  
-De így, hogy megkaptuk a kellő mennyiséget, nem akartunk másikat venni.
+Ha úgy vásároljuk meg a burkolatokat, egész biztosan más színt választok. De így, hogy megkaptuk a kellő mennyiséget, nem akartunk másikat venni.
 
-Megalkudtam a kékkel, és végül nem is bántam meg.  
-A sötétkék csempe nagy kedvencem lett, a járólappal pedig békét kötöttem.
+Megalkudtam a kékkel, és végül nem is bántam meg. A sötétkék csempe nagy kedvencem lett, a járólappal pedig békét kötöttem.
 
 ![csempep](/assets/mosokonyha/DSCF2305.JPG)
 
