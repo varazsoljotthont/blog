@@ -99,6 +99,13 @@ _A falakon még látszik az istállókra jellemző fekete festék_
 
 ![gipszkarton](/assets/mosokonyha/DSCF2304.JPG)
 
+## Villanyszerelés
+
+A gipszkarton falak elkészülte után jöhetett a villanyszerelés.
+
+Alaposan átbeszéltük, hova, mit akarunk:
+
+Megterveztük a mosógép, a varrógép pontos helyét. A konnektorokat, a villanykapcsolókat.
 
 
 ## Burkolatok
