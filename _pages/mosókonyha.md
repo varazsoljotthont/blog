@@ -2,9 +2,9 @@
 layout: post
 title: "A háziasszonyok álma: a mosókonyha!"
 permalink: /mosokonyha/
-cover: /assets/mosokonyha/cover.JPG
+cover: /assets/mosokonyha/cover2.JPG
 image:
-  path: /assets/mosokonyha/cover.JPG
+  path: /assets/mosokonyha/cover2.JPG
   height: 300
   width: 300
 ---
@@ -53,7 +53,7 @@ _A munka felosztása a szokásos: én kevertem, a férjem eldolgozta_
 
 Nem lett hatalmas helyiség (9m2), de az aljzatba így is rengeteg beton belement.
 
-> A betonzás másnapján beszélgettünk, hogy milyen jó, hogy ez is elkészült,  hogy milyen gyorsan végeztünk, mikor mondja a férjem, hogy olyan gyorsan keverted a betont, nem győztem hordani. Erre én, hogy, olyan gyorsan hordtad, hogy alig bírtam keverni...  
+> A betonozás másnapján beszélgettünk, hogy milyen jó, hogy ez is elkészült,  hogy milyen gyorsan végeztünk, mikor mondja a férjem, hogy olyan gyorsan keverted a betont, nem győztem hordani. Erre én, hogy, olyan gyorsan hordtad, hogy alig bírtam keverni...  
 Szóval a kommunikáció hiánya félreértésékehez vezetett, és fele annyi idő alatt végeztünk mint terveztük.
 
 
@@ -120,32 +120,20 @@ Megalkudtam a kékkel, és végül nem is bántam meg. A sötétkék csempe nagy
 A férjem csempézett, járólapozott, én pedig festettem a falakat. A festés előtt még megmentettünk egy gerendát is, ami nagyon szép dísze lett a mosókonyhának.
 
 
+![járólap](/assets/mosokonyha/DSCF2311.JPG)
+
+![járólap](/assets/mosokonyha/DSCF2320.JPG)
+
 ## Berendezés
 
+Minden, de tényleg minden tárgy újrahasznosított lett. 
 
-Minden, de tényleg minden tárgy újrahasznosított lett.
+Igyekeztünk - mint mindig - olcsón jót csinálni. 
+
+Felhasználtuk a régi polcot, hajópadlót, ajtót, széket, maradék fákat a berendezés elkészítéséhez. A tárolókat kartonból csináltam. A lámpát felújítottuk. 
 
 
-* **A mosókonyha és a kamra közti ajtó még a házátalakításból származik. Férjem csinált hozzá keretet, és beépítette.**
-
-* **A polc a régi, bontott hajópadlóból született újjá. Férjem megcsinálta, szú ellen lekezeltem, majd festetettem.**
-
-* **A mosdópult saját ötlet. A felsőrésze akácfa darabokból, a szekrényke része pedig egy régi ajtóbetétjéből és egy használaton kívüli polcból készült.**
-
-* **A szennyestartót, és a falszegélyt a kábeldob kerítésünk középső darabjaiból állította össze a férjem.**
-
-* **A mennyezeti lámpa régen kiscsibéket melegített. Újra lett vezetékelve, rendeltem hozzá textil kábelt, mennyezeti rózsát, színre fújtam a búrát, és kész is.**
-
-* **A varrógépem közel 30 éves, átfestettem fehérre, hogy passzoljon a többi dologhoz.**
-
-* **Az ablakpárkány szintén akácfából készült.**
-
-* **A széket, a kis polcot, a bőröndöt egy kollégámtól kaptam (tudta, hogy nálam megmenekülnek ezek a régi darabok), felújítás után tökéletesen beillenek a mosókonyhába.**
-
-* **[A tároló dobozokat](/2019-04-17/tárolók) én készítettem.**
-
-* **... és még a nevét is kaptuk a helyiségnek. Mi csak Frau Zimmerként emlegetjük, ezt kapta a névadón. Szemben velünk egy osztrák házaspár lakik ( férj csak nagyon keveset beszél magyarul), és mikor készült a mosókonyha, kérdezgette, hog mi lesz ez... Mondtuk, hogy mosókonyha, ő meg, hogy: Ja, ja! Frau Zimmer! Nekünk pedig úgy megtetszett, hogy rajt is maradt.**
-
+![járólap](/assets/mosokonyha/DSCF2320.JPG)
 
 
 
@@ -154,7 +142,7 @@ Minden, de tényleg minden tárgy újrahasznosított lett.
 
 
 **+ 1 gondolat:**   
-Nagy kedvencem lett a mosókonyha. Nem csak a praktikuma, hanem a hangulata miatt is. A cél az volt, hogy olcsó legyen, de jó, ezért minden újragondolt, újrahasznosított. 
+Olyan sok minden újragondolt dolog van a mosókonyhában, hogy érdemes egyenként megmutatnom őket. A következő posztban ezekről írok.
 
 ## Kapcsolódó cikkek
 
