@@ -1,20 +1,37 @@
 ---
 layout: post
-title: "Az otthon hangulata" 
+title: "Legyen hangulatos a mosókonyhánk!" 
 permalink: /dekoráció/
-cover: /assets/dekoráció/cover.jpg
+cover: /assets/mosokonyha/cover.jpg
 image:
-  path: /assets/dekoráció/cover.jpg
+  path: /assets/mosokonyha/cover.jpg
   height: 300
   width: 300
 ---
 
-**A mosókonyha nem luxus. Már a rég időkben is volt egy külön helyiség a mosási munkálatokra. Ha figyelembe veszzük a praktikum, a funkcionalitás, és az esztétika szempontjait, nem kell zárt ajtó mögé rejteni.**
+**A mosókonyha nem luxus. Ha figyelembe veszzük a praktikum, a funkcionalitás, és az esztétika szempontjait, nem kell zárt ajtó mögé sem rejteni. Éppúgy a része lehet az otthonunknak, mint a lakás többi része.**
 
 
 
 ## Berendezés
 
+
+
+A berendezés megtervezésekor több szempontunk is volt.
+
+Legyen:
+
+* **olcsó**
+
+* **méretre készült**
+
+* **mutatós**
+
+* **egyedi**
+
+Ezeknek a feltételeknek csak úgy tudtunk megfelelni,hogy sját magunk készítettünk el a mindent.
+
+A ház felújítás során, amit lehetett megmentettünk([pl: a hajópadlót is](/2019-02-12/szobabetonozas)
 
 Minden, de tényleg minden tárgy újrahasznosított lett.
 
