@@ -121,8 +121,9 @@ A férjem csempézett, járólapozott, én pedig festettem a falakat. A festés 
 
 
 ![járólap](/assets/mosokonyha/DSCF2311.JPG)
+_Alakulgat a burkolás_
 
-![járólap](/assets/mosokonyha/DSCF2320.JPG)
+
 
 ## Berendezés
 
@@ -134,6 +135,7 @@ Felhasználtuk a régi polcot, hajópadlót, ajtót, széket, maradék fákat a 
 
 
 ![járólap](/assets/mosokonyha/DSCF2320.JPG)
+_Mindjárt kész_
 
 
 
