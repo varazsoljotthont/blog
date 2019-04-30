@@ -11,6 +11,33 @@ image:
 
 **Az otthonunk hangulata a berendezésen, a dekoráción is múlik. Jól megcsinálni nem ördögtől való feladat. Nem kell szakembernek lenni ahhoz, hogy a környezetünk olyan hellyé váljon, ahová jó hazaérkezni.**
 
+## Berendezés
+
+
+Minden, de tényleg minden tárgy újrahasznosított lett.
+
+
+* **A mosókonyha és a kamra közti ajtó még a házátalakításból származik. Férjem csinált hozzá keretet, és beépítette.**
+
+* **A polc a régi, bontott hajópadlóból született újjá. Férjem megcsinálta, szú ellen lekezeltem, majd festetettem.**
+
+* **A mosdópult saját ötlet. A felsőrésze akácfa darabokból, a szekrényke része pedig egy régi ajtóbetétjéből és egy használaton kívüli polcból készült.**
+
+* **A szennyestartót, és a falszegélyt a kábeldob kerítésünk középső darabjaiból állította össze a férjem.**
+
+* **A mennyezeti lámpa régen kiscsibéket melegített. Újra lett vezetékelve, rendeltem hozzá textil kábelt, mennyezeti rózsát, színre fújtam a búrát, és kész is.**
+
+* **A varrógépem közel 30 éves, átfestettem fehérre, hogy passzoljon a többi dologhoz.**
+
+* **Az ablakpárkány szintén akácfából készült.**
+
+* **A széket, a kis polcot, a bőröndöt egy kollégámtól kaptam (tudta, hogy nálam megmenekülnek ezek a régi darabok), felújítás után tökéletesen beillenek a mosókonyhába.**
+
+* **[A tároló dobozokat](/2019-04-17/tárolók) én készítettem.**
+
+* **... és még a nevét is kaptuk a helyiségnek. Mi csak Frau Zimmerként emlegetjük, ezt kapta a névadón. Szemben velünk egy osztrák házaspár lakik ( férj csak nagyon keveset beszél magyarul), és mikor készült a mosókonyha, kérdezgette, hog mi lesz ez... Mondtuk, hogy mosókonyha, ő meg, hogy: Ja, ja! Frau Zimmer! Nekünk pedig úgy megtetszett, hogy rajt is maradt.**
+
+
 
 
 ## Nem vagyok belsőépítész, lakberendező
