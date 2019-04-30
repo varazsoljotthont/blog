@@ -52,7 +52,7 @@ Minden, de tényleg minden tárgy újrahasznosított lett a mosókonyhában
 ## Ajtó, ablak, ablakpárkány
 
 
-A mosókonyha és a kamra közti ajtó még a házátalakításból származik. Régen szobaajtó volt, de a házban nem akartuk megtartani. Férjem szögvasból csinált hozzá keretet, és beépítette.
+A mosókonyha és a kamra közti ajtó még a házátalakításból származik. Egy beltéri ajtó volt, de a házban nem akartuk megtartani. Férjem szögvasból csinált hozzá keretet, és beépítette.
 
 * **A polc a régi, bontott hajópadlóból született újjá. Férjem megcsinálta, szú ellen lekezeltem, majd festetettem.**
 
