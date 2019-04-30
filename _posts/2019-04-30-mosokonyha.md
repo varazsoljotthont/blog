@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "A háziasszonyok álma: a mosókonyha!"
-permalink: /mosokonyha/
 cover: /assets/mosokonyha/cover2.JPG
 image:
   path: /assets/mosokonyha/cover2.JPG
