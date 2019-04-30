@@ -101,12 +101,20 @@ _A falakon még látszik az istállókra jellemző fekete festék_
 
 ## Burkolatok
 
-Még a ház átalakítás elején egy ismerős a garázsában rendezkedett, és a sok minden között volt csempe és járólap is. Tudta, hogy mi felújítunk, így szólt, hogy érdekel-e bennünket.
+Még a ház átalakítás elején egy ismerős a garázsában rendezkedett, és a sok mindene között volt csempe és járólap is. Tudta, hogy mi felújítunk, így szólt, hogy érdekel-e bennünket.
 
 > Azt hiszem szerencsések vagyunk, mert több alkalommal előfordult már, hogy hasonló módon jutottunk hozzá számunkra fontos dolgokhoz.
 
+Ha úgy vásároljuk meg a burkolatokat, egész biztosan más színt választok.  
+De így, hogy megkaptuk a kellő mennyiséget, nem akartunk másikat venni.
+
+Megalkudtam a kékkel, és végül nem is bántam meg.  
+A sötétkék csempe nagy kedvencem lett, a járólappal pedig békét kötöttem.
+
+![csempep](/assets/mosokonyha/DSCF2303.JPG)
 
 
+![járólap](/assets/mosokonyha/DSCF2303.JPG)
 
 **+ 1 gondolat:**   
 Nagy kedvencem lett a mosókonyha. Nem csak a praktikukma, hanem a hangulata miatt is. A cél az volt, hogy olcsó legyen, de jó, ezért minden újragondolt, újrahasznosított. 
