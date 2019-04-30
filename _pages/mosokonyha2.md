@@ -15,7 +15,7 @@ image:
 
 ## Berendezés
 
-![tulipán](/assets/mosokonyha/IMG_20190430_195350.jpg)
+
 
 
 
@@ -33,6 +33,9 @@ Legyen:
 * **egyedi**
 
 Ezeknek a feltételeknek csak úgy tudtunk megfelelni,hogy sját magunk készítettünk el a mindent.
+
+![tulipán](/assets/mosokonyha/IMG_20190430_195350.jpg)
+
 
 A ház felújítás során, amit lehetett megmentettünk többek között [a hajópadlót is.](/2019-02-12/szobabetonozas)
 
@@ -281,8 +284,7 @@ _Az udvar. A tégla, a fa és a kavics remekül összeillik._
 A kevesebb néha több. Mindenre igaz, érdemes szem előtt tartani...
 
 
-<a href="https://www.facebook.com/Var%C3%A1zsolj-otthont-360330751226066/" target="_blank">Ha tetszett, kedveld a Facebook oldalt is</a>
-Itt még több érdekességet találsz a mindennapok varázslataiból.
+<a href="https://www.facebook.com/Var%C3%A1zsolj-otthont-360330751226066/" target="_blank">Ha tetszett, kedveld a Facebook oldalt is</a> , itt még több érdekességet találsz a mindennapok varázslataiból.
 
 
 ## Kapcsolódó cikkek
