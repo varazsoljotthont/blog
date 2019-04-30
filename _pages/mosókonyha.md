@@ -30,12 +30,14 @@ A mosókonyha tervezése már akkor megkezdődött, amikor a házat alakítottuk
  
 
 A régi épület alapterülete alkalmas volt arra, hogy abból válasszuk le a mosókonyhát (is).  
-A fűtés -vízszerelővel megbeszéltük a lehetőségeket a szerelvényezéssel kapcsolatban.  
-Előre kitaláltuk hová lesz a mosdó, a mosógép, a radiátor. Szerettünk volna egy plusz WC-t is, és a mosókonyhába gondoltuk ki a helyét. 
+
+A mesterek a víz és a szennyvíz csövezését már akkor megcsinálták, mikor a házon dolgoztak. Előre gondolkodtunk, mert a költözés után  pár évvel nem szerettünk volna újra hadiállapotot magunk körül. 
+ 
+Kitaláltuk hová lesz majd a mosdó, a mosógép, a radiátor. Szerettünk volna egy plusz WC-t is, és annak is a mosókonyhába gondoltuk ki a helyét. 
 
 > Biztos, ami biztos, legyen alapon. Sosem árt, ha nagyobb vendégség, itt alvós társaság van a háznál.
 
-A víz és a szennyvíz csövezését már akkor megcsinálták, mikor a házon dolgoztak. Nem akartuk pár évvel később újra szétveretni a falakat. A csövek bekerültek, és türelmesen vártak arra, hogy elkészüljön a helyiség.
+A csövek bekerültek, és türelmesen vártak 2 évig arra, hogy elkészüljön a helyiség.
 
 
 
@@ -104,9 +106,9 @@ _A falakon még látszik az istállókra jellemző fekete festék_
 
 A gipszkarton falak elkészülte után jöhetett a villanyszerelés.
 
-Alaposan átbeszéltük, hova, mit akarunk:
+Alaposan átbeszéltük hova, mit akarunk.
 
-Megterveztük a mosógép, a varrógép pontos helyét. A konnektorokat, a villanykapcsolókat.
+Kitaláltuk a mosógép, a varrógép pontos helyét, a konnektorokat, a villanykapcsolókat.
 
 
 ## Burkolatok
@@ -144,7 +146,7 @@ A burkolás, festés végeztével jöhetett a berendezési tárgyak tervezése.
 _Mindjárt kész_
 
 
-A burkolás, festés végeztével jöhetett a berendezési tárgyak tervezése. Izgalmas feladat volt, mert nem akartunk túl sokat költeni, determészetesen szépet, egyedit akartunk.
+A burkolás, festés végeztével jöhetett a berendezési tárgyak tervezése. Izgalmas feladat volt, mert nem akartunk túl sokat költeni, de természetesen szépet, egyedit akartunk.
 
 
 
