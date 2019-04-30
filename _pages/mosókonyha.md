@@ -9,7 +9,9 @@ image:
   width: 300
 ---
 
-**A mai családiházakhoz már szervesen hozzátartozik a mosókonyha, és ha betartunk pár alapszabályt, zárt ajtók mögé sem kell rejteni. Amennyiben előre megtervezzük a gépek, polcok helyét, nem lesz nehéz fenntartani a rendet.** 
+**A mai, modern családiházakból már nem hiányozhat a mosókonyha. Jó tervezéssel, a leghasznosabb helyisége lesz az otthonunknak. 
+
+
 
 ![idézet](/assets/mosokonyha/IMG_20190426_134358.jpg)
 
