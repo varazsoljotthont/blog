@@ -111,10 +111,13 @@ De így, hogy megkaptuk a kellő mennyiséget, nem akartunk másikat venni.
 Megalkudtam a kékkel, és végül nem is bántam meg.  
 A sötétkék csempe nagy kedvencem lett, a járólappal pedig békét kötöttem.
 
-![csempep](/assets/mosokonyha/DSCF2303.JPG)
+![csempep](/assets/mosokonyha/DSCF2305.JPG)
 
 
-![járólap](/assets/mosokonyha/DSCF2303.JPG)
+![járólap](/assets/mosokonyha/DSCF2308.JPG)
+
+
+![járólap](/assets/mosokonyha/DSCF2309.JPG)
 
 **+ 1 gondolat:**   
 Nagy kedvencem lett a mosókonyha. Nem csak a praktikukma, hanem a hangulata miatt is. A cél az volt, hogy olcsó legyen, de jó, ezért minden újragondolt, újrahasznosított. 
