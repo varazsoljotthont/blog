@@ -138,11 +138,11 @@ Minden, de tényleg minden tárgy újrahasznosított lett.
 
 * **A varrógépem közel 30 éves, átfestettem fehérre, hogy passzoljon a többi dologhoz.**
 
-* **Az ablakpárkány szintén akácfából készült**
+* **Az ablakpárkány szintén akácfából készült.**
 
-* **A széket, a kis polcot, a bőröndöt egy kollégámtól kaptam (tudta, hogy nálam megmenekülnek ezek a régi darabok), felújítás után tökéletesen beillenek a mosókonyhába.
+* **A széket, a kis polcot, a bőröndöt egy kollégámtól kaptam (tudta, hogy nálam megmenekülnek ezek a régi darabok), felújítás után tökéletesen beillenek a mosókonyhába.**
 
-* **... és még a nevét is kaptuk a helyiségnek. Mi csak Frau Zimmerként emlegetjük, ezt kapta a névadón. A szemben velünk egy osztrák házaspár lakik ( férj csak nagyon keveset beszél magyarul), és mikor készült a mosókonyha, kérdezgette, hog mi lesz ez... Mondtuk, hogy mosókonyha, ő meg, hogy: Ja, ja! Faru Zimmer! Nekünk pedig úgy megtetszett, hogy rajt is maradt.
+* **... és még a nevét is kaptuk a helyiségnek. Mi csak Frau Zimmerként emlegetjük, ezt kapta a névadón. A szemben velünk egy osztrák házaspár lakik ( férj csak nagyon keveset beszél magyarul), és mikor készült a mosókonyha, kérdezgette, hog mi lesz ez... Mondtuk, hogy mosókonyha, ő meg, hogy: Ja, ja! Faru Zimmer! Nekünk pedig úgy megtetszett, hogy rajt is maradt.**
 
 
 
