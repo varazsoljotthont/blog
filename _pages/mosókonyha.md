@@ -117,6 +117,29 @@ Megalkudtam a kékkel, és végül nem is bántam meg. A sötétkék csempe nagy
 
 ![járólap](/assets/mosokonyha/DSCF2309.JPG)
 
+A férjem csempézett, járólapozott, én pedig festettem a falakat. A festés előtt még megmentettünk egy gerendát is, ami nagyon szép dísze lett a mosókonyhának.
+
+
+## Berendezés
+
+
+Minden, de tényleg minden tárgy újrahasznosított lett.
+
+
+** A mosókonyha és a kamra közti ajtó még a házátalakításból származik. Férjem csinált hozzá keretet, és beépítette.
+
+** A polc a régi, bontott hajópadlóból született újjá. Férjem megcsinálta, szú ellen lekezeltem, majd festetettem.
+
+** A mosdópult saját ötlet.  
+A felsőrésze akácfa darabokból, a szekrényke része pedig egy régi ajtóbetétjéből és egy használaton kívüli polcbólkészült.
+
+** A mennyezeti lámpa régen kiscsibéket melegített. Újra lett vezetékelve, rendeltem hozzá textil kábelt, mennyezeti rózsát, színre fújtam a búrát, és kész is.
+
+** A varrógépem közel 30 éves, átfestettem fehérre, hogy passzoljon a többi dologhoz.
+
+
+
+
 **+ 1 gondolat:**   
 Nagy kedvencem lett a mosókonyha. Nem csak a praktikukma, hanem a hangulata miatt is. A cél az volt, hogy olcsó legyen, de jó, ezért minden újragondolt, újrahasznosított. 
 
