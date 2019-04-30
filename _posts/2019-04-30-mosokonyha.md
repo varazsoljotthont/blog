@@ -61,7 +61,7 @@ _Csövek, szerelvények már a falban_
 
 Nem lett hatalmas helyiség (9m2), de az aljzatba így is rengeteg beton belement.
 
-> A betonozás másnapján beszélgettünk, hogy milyen jó, hogy ez is elkészült,  hogy milyen gyorsan végeztünk, mikor mondja a férjem, hogy olyan gyorsan keverted a betont, nem győztem hordani. Erre én, hogy, olyan gyorsan hordtad, hogy alig bírtam keverni...  
+> A betonozás másnapján beszélgettünk, hogy milyen jó, hogy ez is elkészült,  hogy milyen gyorsan végeztünk, mikor mondta a férjem, hogy olyan gyorsan keverted a betont, nem győztem hordani. Erre én, hogy, olyan gyorsan hordtad, hogy alig bírtam keverni...  
 Szóval a kommunikáció hiánya félreértésékehez vezetett, és fele annyi idő alatt végeztünk mint terveztük.
 
 
