@@ -144,7 +144,6 @@ _Alakulgat a burkolás_
 
 
 
-A burkolás, festés végeztével jöhetett a berendezési tárgyak tervezése.
 
 
 ![járólap](/assets/mosokonyha/DSCF2320.JPG)
@@ -152,6 +151,9 @@ _Mindjárt kész_
 
 
 A burkolás, festés végeztével jöhetett a berendezési tárgyak tervezése. Izgalmas feladat volt, mert nem akartunk túl sokat költeni, de természetesen szépet, egyedit akartunk.
+
+
+
 
 
 
