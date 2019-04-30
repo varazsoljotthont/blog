@@ -30,7 +30,7 @@ Szóval, amint lett rá lehetőségünk, neki álltunk az istállóból a kialak
 
 ## Tervezés
 
-A mosókonyha tervezése már akkor megkezdődött, amikor a házat alakítottuk át. Szerettük volna, hogy közel legyen a lakás többi részéhez, így már a felújítás során nyitottunk egy ajtót az előtérből az istálló felé. <a href="2019-02-11/találjuk_ki/" target="_blank">erről itt olvashatsz</a> 
+A mosókonyha tervezése már akkor megkezdődött, amikor a házat alakítottuk át. Szerettük volna, hogy közel legyen a lakás többi részéhez, így már a felújítás során nyitottunk egy ajtót az előtérből az istálló felé. ([erről itt olvashatsz](/2019-02-11/találjuk_ki))
 
 A régi épület alapterülete alkalmas volt arra, hogy abból válasszuk le a mosókonyhát (is).  
 
@@ -86,7 +86,7 @@ Nagyon akartunk haladni a projekttel, ezért könnyűszerkezetes megoldást vál
 Ezzel a módszerrel gyorsan le tudtuk választani a mosókonyhát a kazánháztól és a leendő kamrától.
 Fémprofilokat használtunk, és ezekkel nem okozott nehézséget a fal megépítése.
 
-Miután álltak a falak, az eljárás a <a href="2019-02-18/afalak/" target="_blank">régről ismert folyamat</a> volt: javítás, glettelés, csiszolás majd a festés.
+Miután álltak a falak, az eljárás a [régről ismert folyamat](/2019-02-18/afalak) volt: javítás, glettelés, csiszolás majd a festés.
 
 
 ![gipszkarton](/assets/mosokonyha/DSCF2300.JPG)
