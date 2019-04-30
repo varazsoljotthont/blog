@@ -24,9 +24,24 @@ Szóval, amint lett rá lehetőségünk, neki álltunk az istállóból a kialak
 
 ## Tervezés
 
-A régi épület alapterülete alkalmas volt arra, hogy abból válasszuk le a mosókonyhát (is). Szerettük volna, hogy közel legyen a lakás többi részéhez, így már az átalakítás során nyitottunk egy ajtót az előtérből az istálló felé. ([erről itt olvashatsz](/2019-02-11/találjuk_ki))
+A mosókonyha tervezése már akkor megkezdődött, amikor a házat alakítottuk át. Szerettük volna, hogy közel legyen a lakás többi részéhez, így már az átalakítás során nyitottunk egy ajtót az előtérből az istálló felé. ([erről itt olvashatsz](/2019-02-11/találjuk_ki))
  
+
+A régi épület alapterülete alkalmas volt arra, hogy abból válasszuk le a mosókonyhát (is). 
+
+A fűtés -vízszerelővel megbeszéltük a lehetőségeket a szerelvényezéssel kapcsolatban.
+
+Előre kitaláltuk hová lesz a mosdó, a mosógép, a radiátor. Szerettünk volna egy plusz WC-t is, és a mosókonyhába gondoltuk ki a helyét. 
+
+> Biztos, ami biztos, legyen alapon. Sosem árt, ha nagyobb vendégség, itt alvós társaság van a háznál.
+
+A vizet, és a szennyvizet már akkor megcsinálták, mikor a házat. Nem akartuk pár évvel később újra szétveretni a házat. A csövek bekerültek, és türelmesen vártak arra, hogy elkészüljön a helyiség.
+
+
+
 Megterveztük, hogy mekkora legyen, és kijelöltük  a falak helyét, majd megkezdtük a kedvenc munkánkat...
+
+
 
 **Megint betonozás**
 
