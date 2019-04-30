@@ -21,7 +21,7 @@ image:
 Nagyon örültem, mikor a mosókonyha végre burkolatot kapott, és elkezdett hasonlítani ahhoz amit megálmodtam magamnak. 
 
 
-> Jöhetett a legjobb rész...Hogy rendezzem be a birodalmamat?
+> Jöhetett a legjobb rész... Hogyan rendezzem be a birodalmamat?
 
 A berendezés megtervezésekor több szempontunk is volt.
 
@@ -41,7 +41,8 @@ Ezeknek, a saját magunknak állított kritériumoknak csak úgy tudtunk megfele
 
 A ház felújítás során amit lehetett megmentettünk, többek között [a hajópadlót is.](/2019-02-12/szobabetonozas)
 
-Minden, de tényleg minden tárgy újrahasznosított lett a mosókonyhában##Ajtó, ablak, 
+Minden, de tényleg minden tárgy újrahasznosított lett a mosókonyhában
+
 
 ## Ajtó, ablak, ablakpárkány
 
