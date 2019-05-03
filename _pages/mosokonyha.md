@@ -56,6 +56,7 @@ A mosókonyha és a kamra közti ajtó még a házátalakításból származik. 
 
 
 ![ajtó](/assets/talaljuk_ki/15jav.jpg)
+_Kis átalakítás után tökéletes lett az ajtó mosókonyhába_
 
 
 ![ajtó](/assets/mosokonyha/IMG_20190503_064600.jpg)
