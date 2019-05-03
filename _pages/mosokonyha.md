@@ -57,7 +57,7 @@ Minden, de tényleg minden tárgy újrahasznosított lett a mosókonyhában
 A mosókonyha és a kamra közti ajtó még a házátalakításból származik. Egy beltéri ajtó volt, de a házban nem akartuk megtartani. Férjem szögvasból csinált hozzá keretet, és beépítette.
 
 
-![ajtó](/assets/talaljuk_ki/15jav.jpg)
+![ajtó](/assets/talaljuk_ki/kamrafelől.jpg)
 _Kis átalakítás után tökéletes lett az ajtó mosókonyhába_
 
 
@@ -98,7 +98,7 @@ Olcsó, egyedi és nagyon szép lett az ablak.
 
 > A téli tüzelőnk egy részét akác deszka szél képezi. Valóságos kincsesbánya az ilyen barkácsoló családnak mint mi vagyunk.
 
-![párkány](/assets/mosokonyha/IMG_20190503_065448.jpg)
+
 
 ![párkány](/assets/mosokonyha/párkány.jpg)
 
@@ -111,7 +111,7 @@ Méretre készült, [a tároló dobozok](/2019-04-17/tárolók) adták a polcok 
 
 A polc alját egy régi ajtó betétje takarja, így nem lehet "belátni", és még mutatós is.
 
-![polc](/assets/mosokonyha/DSCF2659.JPG)
+![polc](/assets/mosokonyha/polc.jpg)
 
 
 * **A mosdópult saját ötlet. A felsőrésze akácfa darabokból, a szekrényke része pedig egy régi ajtóbetétjéből és egy használaton kívüli polcból készült.**
