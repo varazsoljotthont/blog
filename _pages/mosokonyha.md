@@ -62,6 +62,12 @@ _Kis átalakítás után tökéletes lett az ajtó mosókonyhába_
 ![ajtó](/assets/mosokonyha/IMG_20190503_064600.jpg)
 
 
+Az ablakpárkány szintén akácfából készült.
+
+![párkány](/assets/mosokonyha/IMG_20190503_065448.jpg)
+
+![párkány](/assets/mosokonyha/IMG_20190503_065707.jpg)
+
 * **A polc a régi, bontott hajópadlóból született újjá. Férjem megcsinálta, szú ellen lekezeltem, majd festetettem.**
 
 * **A mosdópult saját ötlet. A felsőrésze akácfa darabokból, a szekrényke része pedig egy régi ajtóbetétjéből és egy használaton kívüli polcból készült.**
@@ -72,7 +78,7 @@ _Kis átalakítás után tökéletes lett az ajtó mosókonyhába_
 
 * **A varrógépem közel 30 éves, átfestettem fehérre, hogy passzoljon a többi dologhoz.**
 
-* **Az ablakpárkány szintén akácfából készült.**
+
 
 * **A széket, a kis polcot, a bőröndöt egy kollégámtól kaptam (tudta, hogy nálam megmenekülnek ezek a régi darabok), felújítás után tökéletesen beillenek a mosókonyhába.**
 
