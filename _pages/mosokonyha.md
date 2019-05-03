@@ -200,50 +200,45 @@ Bordó spryval egységes színűre fújtam a lámpákat és az órát, ezzel ped
 
 ## Varrógép
 
-A varrógépem közel 30 éves. Átfestettem fehérre, hogy passzoljon a berendezés többi darabjához..
+A varrógépem közel 30 éves. Átfestettem fehérre, hogy passzoljon a berendezés többi darabjához...
+
+![polc](/assets/mosokonyha/varrógép.jpg)
 
 
 
-* **A széket, a kis polcot, a bőröndöt egy kollégámtól kaptam (tudta, hogy nálam megmenekülnek ezek a régi darabok), felújítás után tökéletesen beillenek a mosókonyhába.**
+## Az apróságok
 
-* **[A tároló dobozokat](/2019-04-17/tárolók) én készítettem.**
+A széket, a kis polcot, a bőröndöt egy kollégámtól kaptam. Tudta, hogy nálam megmenekülnek ezek a régi darabok. 
 
-* **... és még a nevét is kaptuk a helyiségnek. Mi csak Frau Zimmerként emlegetjük, ezt kapta a névadón. Szemben velünk egy osztrák házaspár lakik ( férj csak nagyon keveset beszél magyarul), és mikor készült a mosókonyha, kérdezgette, hog mi lesz ez... Mondtuk, hogy mosókonyha, ő meg, hogy: Ja, ja! Frau Zimmer! Nekünk pedig úgy megtetszett, hogy rajt is maradt.**
+Felújítottuk őket, és tökéletesek lettek a mosókonyhába.
+
+
+
+## Frau Zimmer
+
+...még a nevét is kaptuk a helyiségnek. Mi csak Frau Zimmerként emlegetjük, ezt kapta a névadón. 
+
+Szemben velünk egy osztrák házaspár lakik ( férj csak keveset beszél magyarul), és mikor készült a mosókonyha, kérdezgette, hogy mi lesz ez... Mondtuk, hogy mosókonyha, ő meg, hogy: Ja, ja! Frau Zimmer! Nekünk pedig úgy megtetszett, hogy rajt is maradt.
 
 
 ![tábla](/assets/mosokonyha/20228507_1281479718618061_3541910890656629635_n.jpg)
-
-Ezekkel felújított tárgyakkal különleges hangulatú lett a mosókonyhám. Egyszerű, vidékies, romantikus és nagyon szerethető.
-
+_Annyira jópofa a név, hogy készítettem egy kis táblát, ami a kamra felől jelzi, hogy mi van az ajtó túl_
 
 
 
+Mint az elején írtam, a berendezés valóban a legolcsóbb dolgokkal lett megoldva. Nem minden pénz kérdése, azt hiszem. 
 
+A mosókonyha példája remekül mutatja, hogy ötleteléssel, kézügyeséggel mennyi mindent ki lehet hozni áron alul. És nem csak olcsó, hanem egyedi tárgyakat tudunk házilag elkészíteni.
 
-
-
-
+Különleges hangulatú lett a mosókonyhám. Egyszerű, vidékies, romantikus és nagyon szerethető.
 
 
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
- 
- 
- **+ 1 gondolat:**  
-A kevesebb néha több. Mindenre igaz, érdemes szem előtt tartani...
+**+ 1 gondolat:**  
+Hogy a mosókonyhában a penészt elkerüljük, telente egy nagy teljesítményű páramentesítőt használunk. Mellette gyorsan leszáradnak a ruhák, penésznek nyoma sincs, és a fogyasztása sem jelentős.
 
 
 <a href="https://www.facebook.com/Var%C3%A1zsolj-otthont-360330751226066/" target="_blank">Ha tetszett, kedveld a Facebook oldalt is</a> , itt még több érdekességet találsz a mindennapok varázslataiból.
@@ -252,12 +247,10 @@ A kevesebb néha több. Mindenre igaz, érdemes szem előtt tartani...
 ## Kapcsolódó cikkek
 
 
-
-* [A Miházunk átváltozása](/2019-03-20/költözés)
-* [Eltűnt a beton, avagy burkolatok a házban](/2019-03-13/burkolatok)
-* [Életre kelnek a falak](/2019-03-01/színesfalak)
+* [Ez aztán a változás!](/2019-04-11-külsőfalak)
+* [Életre kelnek a falak](/2019-03-01-színesfalak)
 * [Faljavítás itt, falazás ott!](/2019-02-18/afalak)
-
+* [Találjuk ki a házunkat](/2019-02-11/találjuk_ki)
 
 
 
