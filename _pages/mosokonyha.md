@@ -57,11 +57,11 @@ Minden, de tényleg minden tárgy újrahasznosított lett a mosókonyhában
 A mosókonyha és a kamra közti ajtó még a házátalakításból származik. Egy beltéri ajtó volt, de a házban nem akartuk megtartani. Férjem szögvasból csinált hozzá keretet, és beépítette.
 
 
-![ajtó](/assets/talaljuk_ki/kamrafelől.jpg)
+![ajtó](/assets/talaljuk_ki/15jav.jpg)
 _Kis átalakítás után tökéletes lett az ajtó mosókonyhába_
 
 
-![ajtó](/assets/mosokonyha/IMG_20190503_064657.jpg)
+![ajtó](/assets/mosokonyha/kamrafelől.jpg)
 
 
 
