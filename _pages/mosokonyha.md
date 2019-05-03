@@ -61,7 +61,7 @@ A mosókonyha és a kamra közti ajtó még a házátalakításból származik. 
 _Kis átalakítás után tökéletes lett az ajtó mosókonyhába_
 
 
-![ajtó](/assets/mosokonyha/IMG_20190503_064600.jpg)
+![ajtó](/assets/mosokonyha/IMG_20190503_064657.jpg)
 
 
 
@@ -100,7 +100,7 @@ Olcsó, egyedi és nagyon szép lett az ablak.
 
 ![párkány](/assets/mosokonyha/IMG_20190503_065448.jpg)
 
-![párkány](/assets/mosokonyha/IMG_20190503_065707.jpg)
+![párkány](/assets/mosokonyha/párkány.jpg)
 
 
 **Polc**
