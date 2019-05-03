@@ -19,12 +19,12 @@ Az én mosókonyhám az istállóból készült ([erről itt olvashatsz](/2019-0
 
 ## Berendezés
 
-Szerettük volna minél olcsóbban megoldani mosókonyha a berendezését. Ezt csak úgy tudtuk megvalósítani, hogy (megint) SK készítettünk el mindent. Természetesen ebben a projektben is a férjem volt a kivitelező, én pedig egy személyben a dizájner és a segédmunkás.
+Szerettük volna minél olcsóbban megoldani mosókonyha a berendezését. Ezt csak úgy tudtuk megvalósítani, hogy (megint) SK készítettünk mindent. Természetesen ebben a projektben is a férjem volt a kivitelező, én pedig egy személyben a dizájner és a segédmunkás.
 
 
 Több szempontunk is volt, mikor elkezdtük megtervezni, hogy hova mi kerüljön.
 
-**A bútorzat legyen:**
+**Fontos volt, hogy a bútorzat legyen:**
 
 * **olcsó**
 
@@ -44,7 +44,7 @@ A ház felújítás során amit lehetett megmentettünk, többek között [a haj
 
 
 
-Minden, de tényleg minden tárgy újrahasznosított lett a mosókonyhában
+Így aztán, minden, de tényleg minden tárgy újrahasznosított lett a mosókonyhában.
 
 
 ## Ajtó, ablak, ablakpárkány
@@ -75,7 +75,7 @@ Megcsiszoltam, átfestettem, és kiválasztottam a hozzá illő függönyt.
 Alaposan átrágom már a vásárlás előtt, hogy mi az ami leginkább beillik az adott helyiségbe, így az üzletbe már határozott elképzeléssel megyek. 
 
 
-Köszönet Kapuváron <a href="https://www.google.hu/maps/uv?hl=hu&pb=!1s0x476c063a58733483%3A0x8530e31628e35499!2m22!2m2!1i80!2i80!3m1!2i20!16m16!1b1!2m2!1m1!1e1!2m2!1m1!1e3!2m2!1m1!1e5!2m2!1m1!1e4!2m2!1m1!1e6!3m1!7e115!4shttps%3A%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipMZt0VlFlQM2ClHuz8yynNak7fJJ87eZOKZ_rtx%3Dw284-h160-k-no!5zenN1enNpIGbDvGdnw7ZueSBrYXB1dsOhciAtIEdvb2dsZS1rZXJlc8Opcw!15sCAESAggH&imagekey=!1e10!2sAF1QipMZt0VlFlQM2ClHuz8yynNak7fJJ87eZOKZ_rtx&sa=X&ved=2ahUKEwjGyMmv_f_hAhXto4sKHdM_D-sQoiowDnoECA0QBg/" target="_blank">a Zsuzsi függönynek.</a> a
+Köszönet Kapuváron <a href="https://www.google.hu/maps/uv?hl=hu&pb=!1s0x476c063a58733483%3A0x8530e31628e35499!2m22!2m2!1i80!2i80!3m1!2i20!16m16!1b1!2m2!1m1!1e1!2m2!1m1!1e3!2m2!1m1!1e5!2m2!1m1!1e4!2m2!1m1!1e6!3m1!7e115!4shttps%3A%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipMZt0VlFlQM2ClHuz8yynNak7fJJ87eZOKZ_rtx%3Dw284-h160-k-no!5zenN1enNpIGbDvGdnw7ZueSBrYXB1dsOhciAtIEdvb2dsZS1rZXJlc8Opcw!15sCAESAggH&imagekey=!1e10!2sAF1QipMZt0VlFlQM2ClHuz8yynNak7fJJ87eZOKZ_rtx&sa=X&ved=2ahUKEwjGyMmv_f_hAhXto4sKHdM_D-sQoiowDnoECA0QBg/" target="_blank">a Zsuzsi függönynek.</a> 
 
 ![ablak](/assets/mosokonyha/DSCF2662.JPG)
 
@@ -90,7 +90,7 @@ Csempét vagy hasonlót nem szerettünk volna.
 Fa mellett döntöttünk, de nem volt olyan széles deszka darabunk, ami elfedte volna. 
 Némi gondolkodás után megszületett az ötlet.
 
-Akác deszkából készítette a férjem, ami remekül rímel a megmentett gerendához is. Igaz, hogy ez is keskenyebb lett mint a párkány, de nagyon ötletes megoldása lett a dolognak.
+Akác deszkából készítette a férjem, ami nagyszerűen rímel a megmentett gerendához is. Igaz, hogy ez is keskenyebb lett mint a párkány, de nagyon ötletes megoldása lett a dolognak.
 
 A hiányzó részt misunggal öntötte ki, én pedig lekentem mosható, fehér festékkel.
 
@@ -117,8 +117,24 @@ A polc alját egy régi ajtó betétje takarja, így nem lehet "belátni", és m
 
 ![polc](/assets/mosokonyha/polc.jpg)
 
+
+
 **Tárolók**
 
+A dobozok szintén az olcsó legyen, de jó elvünk alapján készültek. 
+
+* **A hozzávalók:**
+
+* **karton**
+
+* **spárga**
+
+* **kétoldalú ragasztó**
+
+> Az [Ötletes tároló dobozok sajátkezűleg, vidéki stílusban](/2019-04-17/tárolók) posztnál részletesen leírtam az elkészítésüket.
+
+
+## Mosdó
 
 A mosdópult saját ötlet. A felsőrésze akácfa darabokból, a szekrényke része pedig egy régi ajtóbetétjéből és egy használaton kívüli polcból készült.
 
