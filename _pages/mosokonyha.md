@@ -51,6 +51,8 @@ Minden, de tényleg minden tárgy újrahasznosított lett a mosókonyhában
 
 ## Ajtó, ablak, ablakpárkány
 
+**Ajtó**
+
 
 A mosókonyha és a kamra közti ajtó még a házátalakításból származik. Egy beltéri ajtó volt, de a házban nem akartuk megtartani. Férjem szögvasból csinált hozzá keretet, és beépítette.
 
@@ -62,11 +64,46 @@ _Kis átalakítás után tökéletes lett az ajtó mosókonyhába_
 ![ajtó](/assets/mosokonyha/IMG_20190503_064600.jpg)
 
 
-Az ablakpárkány szintén akácfából készült.
+
+**Ablak**
+
+Az ablak bontásból származik. 
+
+Az elsődleges szempont volt, hogy fából készült legyen, aztán pedig, hogy passzoljon a ház stílusához. Mindenképp négy osztásost akartam, hisz az előtér ablaka is ilyen.
+
+Megcsiszoltam, átfestettem, és kiválasztottam a hozzá illő függönyt.
+
+> A függöny nálam központi kérdés. 
+Alaposan átrágom már a vásárlás előtt, hogy mi az ami leginkább beillik az adott helyiségbe, így az üzletbe már határozott elképzeléssel megyek. 
+Köszönet a Zsuzsi függyönyboltnak!
+
+![ablak](/assets/mosokonyha/DSCF2662.JPG)
+
+
+
+
+
+**Az ablakpárkány**
+
+Mikor készült a mosókonyha, nem igazán tudtuk miből legyen a belső párkány. Magunk akartuk megcsinálni, de olyan széles deszka darabunk nem volt, mint a párkány. Csempét vagy hasonlót nem szerettünk volna. 
+
+Némi gondolkodás után megszületett az ötlet.
+
+Akác deszkából készítette a férjem, ami remekül rímel a megmentett gerendához is. Igaz, hogy ez is keskenyebb mint a párkány, de nagyon ötletes megoldása lett a dolognak.
+
+A hiányzó részt malterral kiöntötte, én pedig lekentem mosható, fehér festékkel.
+
+Olcsó, egyedi és nagyon szép lett az ablak.
+
+
+> A téli tüzelőnk egy részét akác deszka szél képezi. Valóságos kincsesbánya az ilyen barkácsoló családnak mint mi vagyunk.
 
 ![párkány](/assets/mosokonyha/IMG_20190503_065448.jpg)
 
 ![párkány](/assets/mosokonyha/IMG_20190503_065707.jpg)
+
+
+
 
 * **A polc a régi, bontott hajópadlóból született újjá. Férjem megcsinálta, szú ellen lekezeltem, majd festetettem.**
 
