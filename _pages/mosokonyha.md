@@ -13,15 +13,14 @@ image:
 
 
 
+
+
+Az én mosókonyhám az istállóból készült [erről itt olvashatsz](/2019-04-30/mosokonyha), épp ezért nagyon örültem, mikor végre burkolatot kapott, és elkezdett hasonlítani ahhoz, amit megálmodtam magamnak. 
+
 ## Berendezés
 
+Mivel az anyagiak
 
-
-
-Nagyon örültem, mikor a mosókonyha végre burkolatot kapott, és elkezdett hasonlítani ahhoz, amit megálmodtam magamnak. 
-
-
-> Jöhetett a legjobb rész... Hogyan rendezzem be a birodalmamat?
 
 A berendezés megtervezésekor több szempontunk is volt.
 
