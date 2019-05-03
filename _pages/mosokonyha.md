@@ -171,6 +171,7 @@ Rendeltem hozzá textil kábelt, mennyezeti rózsát, újra lett vezetékelve, l
 
 
 ![polc](/assets/mosokonyha/DSCF2438.JPG)
+_Egy régi rossz, lámpa született nálunk újjá_
 
 
 
@@ -187,8 +188,10 @@ A faliórával ugyanez volt a helyzet, annyi különbséggel, hogy az fehér vol
 
 
 ![polc](/assets/mosokonyha/óra.jpg)
+_Bordó lámpák, bordó óra_
 
 
+![polc](/assets/mosokonyha/kispolc.jpg)
 
 > Még a [dekorációknál írtam](/2019-03-26/dekoráció), hogy kiegészítő színnek a bordót választottam. Végig kíséri a házat, és a mosókonyhában is ez lett az a szín, ami a kéket kissé feldobja.
 
