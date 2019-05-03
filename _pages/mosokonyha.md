@@ -15,7 +15,7 @@ image:
 
 
 
-Az én mosókonyhám az istállóból készült [erről itt olvashatsz](/2019-04-30/mosokonyha), épp ezért nagyon örültem, mikor végre burkolatot kapott, és elkezdett hasonlítani ahhoz, amit megálmodtam magamnak. 
+Az én mosókonyhám az istállóból készült ([erről itt olvashatsz](/2019-04-30/mosokonyha)), épp ezért nagyon örültem, mikor végre burkolatot kapott, és elkezdett hasonlítani ahhoz, amit megálmodtam magamnak. 
 
 ## Berendezés
 
