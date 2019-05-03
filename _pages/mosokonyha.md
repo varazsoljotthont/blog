@@ -219,11 +219,11 @@ Felújítottuk őket, és tökéletesek lettek a mosókonyhába.
 
 ...még a nevét is kaptuk a helyiségnek. Mi csak Frau Zimmerként emlegetjük, ezt kapta a névadón. 
 
-Szemben velünk egy osztrák házaspár lakik ( férj csak keveset beszél magyarul), és mikor készült a mosókonyha, kérdezgette, hogy mi lesz ez... Mondtuk, hogy mosókonyha, ő meg, hogy: Ja, ja! Frau Zimmer! Nekünk pedig úgy megtetszett, hogy rajt is maradt.
+Szemben velünk egy osztrák házaspár lakik (férj csak keveset beszél magyarul), és mikor készült a mosókonyha, kérdezgette, hogy mi lesz ez... Mondtuk, hogy mosókonyha, ő meg, hogy: Ja, ja! Frau Zimmer! Nekünk pedig úgy megtetszett, hogy rajt is maradt.
 
 
 ![tábla](/assets/mosokonyha/20228507_1281479718618061_3541910890656629635_n.jpg)
-_Annyira jópofa a név, hogy készítettem egy kis táblát, ami a kamra felől jelzi, hogy mi van az ajtó túl_
+_Annyira jópofa a név, hogy készítettünk egy kis táblát, ami a kamra felől jelzi, hogy mi van az ajtó túl_
 
 
 
