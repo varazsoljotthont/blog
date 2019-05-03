@@ -161,6 +161,7 @@ Ezekkel felújított tárgyakkal különleges hangulatú lett a mosókonyhám. E
 
 
  
+ 
  **+ 1 gondolat:**  
 A kevesebb néha több. Mindenre igaz, érdemes szem előtt tartani...
 
