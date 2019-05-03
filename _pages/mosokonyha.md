@@ -121,7 +121,7 @@ A polc alját egy régi ajtó betétje takarja, így nem lehet "belátni", és m
 
 **Tárolók**
 
-A dobozok szintén az olcsó legyen, de jó elvünk alapján készültek. 
+A dobozok szintén az olcsó legyen de jó, elvünk alapján készültek. 
 
 * **A hozzávalók:**
 
@@ -136,13 +136,62 @@ A dobozok szintén az olcsó legyen, de jó elvünk alapján készültek.
 
 ## Mosdó
 
-A mosdópult saját ötlet. A felsőrésze akácfa darabokból, a szekrényke része pedig egy régi ajtóbetétjéből és egy használaton kívüli polcból készült.
+A mosdót kaptuk, a mosdópult saját ötlet.  
+A felsőrésze akácfa darabokból, a szekrényke része pedig egy régi ajtóbetétjéből és egy használaton kívüli polcból készült.
 
-* **A szennyestartót, és a falszegélyt a kábeldob kerítésünk középső darabjaiból állította össze a férjem.**
 
-* **A mennyezeti lámpa régen kiscsibéket melegített. Újra lett vezetékelve, rendeltem hozzá textil kábelt, mennyezeti rózsát, színre fújtam a búrát, és kész is.**
+![polc](/assets/mosokonyha/DSCF2724.jpg)
 
-* **A varrógépem közel 30 éves, átfestettem fehérre, hogy passzoljon a többi dologhoz.**
+
+![polc](/assets/mosokonyha/DSCF2723.jpg)
+
+
+## A szennyestartó 
+
+
+A szennyestartó abszolút méretre készült, és a kábeldob kerítésünk középső darabjaiból állította össze a férjem. 
+
+Az aljára kerekeket szerelt, hogy takarításkor könnyen tudjam mozgatni, az elejére szivecskét az oldalára pedig lyukakat vágott, hogy a szellőzése is meglegyen.
+
+
+
+## Lámpa, óra
+
+**Mennyezeti lámpa**
+
+
+Az elképzelésem régi, ipari stílusú lámpa volt, de mikor megnéztem, hogy mennyibe kerülnek, elszomorodtam...
+
+De nem is mi lennénk, ha nem lett volna a tervemnek megoldása.
+
+A férjem ötlete volt mennyezeti lámpa. 
+
+A miénk régen kis csibéket melegített.  
+Rendeltem hozzá textil kábelt, mennyezeti rózsát, újra lett vezetékelve, lefújtam a búrát, és kész is lett.
+
+
+![polc](/assets/mosokonyha/DSCF2322.JPG)
+
+
+
+**Falikar és óra**
+
+A varrógéphez szükségem volt egy kislámpára is. 
+
+Ha jól emlékszem, nem volt 2000 Ft, szóval tényleg jó áron sikerült megvennem. Viszont a színe fekete volt, ami sehogy sem illett bele a tervezett dizájnba.
+
+A faliórával ugyanez volt a helyzet, annyi különbséggel, hogy az fehér volt, ami ugyanúgy nem felelt meg nekem.
+
+
+
+> Még a [dekorációknál írtam](/2019-03-26/dekoráció), hogy kiegészítő színnek a bordót választottam. Végig kíséri a házat, és a mosókonyhában is ez lett az a szín, ami a kéket kissé feldobja.
+
+Bordó spryval egységes színűre fújtam a lámpákat és az órát, ezzel pedig meg lett az a hangulat, amit elszerettem volna érni. 
+
+
+## Varrógép
+
+A varrógépem közel 30 éves. Átfestettem fehérre, hogy passzoljon a berendezés többi darabjához..
 
 
 
