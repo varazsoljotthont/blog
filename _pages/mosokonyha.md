@@ -44,7 +44,7 @@ A ház felújítás során amit lehetett megmentettünk, többek között [a haj
 
 
 
-Így aztán, minden, de tényleg minden tárgy újrahasznosított lett a mosókonyhában.
+Így aztán minden, de tényleg minden tárgy újrahasznosított lett a mosókonyhában.
 
 
 ## Ajtó, ablak, ablakpárkány
