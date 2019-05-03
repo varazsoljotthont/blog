@@ -75,7 +75,7 @@ Megcsiszoltam, átfestettem, és kiválasztottam a hozzá illő függönyt.
 
 > A függöny nálam központi kérdés. 
 Alaposan átrágom már a vásárlás előtt, hogy mi az ami leginkább beillik az adott helyiségbe, így az üzletbe már határozott elképzeléssel megyek. 
-Köszönet a Zsuzsi függyönyboltnak!
+Köszönet a Kapuváron a Zsuzsi függönyboltnak!
 
 ![ablak](/assets/mosokonyha/DSCF2662.JPG)
 
@@ -103,9 +103,14 @@ Olcsó, egyedi és nagyon szép lett az ablak.
 ![párkány](/assets/mosokonyha/IMG_20190503_065707.jpg)
 
 
+**Polc**
 
+A polc a régi, bontott hajópadlóból született újjá. Férjem megcsinálta, szú ellen lekezeltem, majd festetettem.
 
-* **A polc a régi, bontott hajópadlóból született újjá. Férjem megcsinálta, szú ellen lekezeltem, majd festetettem.**
+Méretre készült, a [a tároló dobozok](/2019-04-17/tárolók) adták a polcok közti távolság méretét. Így a lett a legpraktikusabb hely kihasználtsága a mosókonyhának.
+
+![polc](/assets/mosokonyha/DSCF2659.JPG)
+
 
 * **A mosdópult saját ötlet. A felsőrésze akácfa darabokból, a szekrényke része pedig egy régi ajtóbetétjéből és egy használaton kívüli polcból készült.**
 
