@@ -75,6 +75,9 @@ Megcsiszoltam, átfestettem, és kiválasztottam a hozzá illő függönyt.
 Alaposan átrágom már a vásárlás előtt, hogy mi az ami leginkább beillik az adott helyiségbe, így az üzletbe már határozott elképzeléssel megyek. 
 Köszönet a Kapuváron a Zsuzsi függönyboltnak!
 
+
+Köszönet Kapuváron <a href="https://www.google.hu/maps/uv?hl=hu&pb=!1s0x476c063a58733483%3A0x8530e31628e35499!2m22!2m2!1i80!2i80!3m1!2i20!16m16!1b1!2m2!1m1!1e1!2m2!1m1!1e3!2m2!1m1!1e5!2m2!1m1!1e4!2m2!1m1!1e6!3m1!7e115!4shttps%3A%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipMZt0VlFlQM2ClHuz8yynNak7fJJ87eZOKZ_rtx%3Dw284-h160-k-no!5zenN1enNpIGbDvGdnw7ZueSBrYXB1dsOhciAtIEdvb2dsZS1rZXJlc8Opcw!15sCAESAggH&imagekey=!1e10!2sAF1QipMZt0VlFlQM2ClHuz8yynNak7fJJ87eZOKZ_rtx&sa=X&ved=2ahUKEwjGyMmv_f_hAhXto4sKHdM_D-sQoiowDnoECA0QBg/" target="_blank"> a Zsuzsi függöny üzletnek</a>
+
 ![ablak](/assets/mosokonyha/DSCF2662.JPG)
 
 
@@ -83,13 +86,13 @@ Köszönet a Kapuváron a Zsuzsi függönyboltnak!
 
 **Az ablakpárkány**
 
-Mikor készült a mosókonyha, nem igazán tudtuk miből legyen a belső párkány. Magunk akartuk megcsinálni, de olyan széles deszka darabunk nem volt, mint a párkány. Csempét vagy hasonlót nem szerettünk volna. 
+Mikor készült a mosókonyha, nem igazán tudtuk miből legyen a belső párkány. Magunk akartuk megcsinálni, nem volt olyan széles deszka darab, ami elfedte volna. mint a párkány. Csempét vagy hasonlót nem szerettünk volna. 
 
 Némi gondolkodás után megszületett az ötlet.
 
 Akác deszkából készítette a férjem, ami remekül rímel a megmentett gerendához is. Igaz, hogy ez is keskenyebb mint a párkány, de nagyon ötletes megoldása lett a dolognak.
 
-A hiányzó részt malterral kiöntötte, én pedig lekentem mosható, fehér festékkel.
+A hiányzó részt misunggal öntötte ki, én pedig lekentem mosható, fehér festékkel.
 
 Olcsó, egyedi és nagyon szép lett az ablak.
 
@@ -105,14 +108,14 @@ Olcsó, egyedi és nagyon szép lett az ablak.
 
 A polc a régi, bontott hajópadlóból született újjá. Férjem megcsinálta, szú ellen lekezeltem, majd festetettem.
 
-Méretre készült, [a tároló dobozok](/2019-04-17/tárolók) adták a polcok közti távolság méretét. Így a lett a legpraktikusabb hely kihasználtsága a mosókonyhának.
+Méretre készült, [a tároló dobozok](/2019-04-17/tárolók) adták a polcok közti távolság méretét. Így lett a legpraktikusabb hely kihasználtsága a mosókonyhának.
 
 A polc alját egy régi ajtó betétje takarja, így nem lehet "belátni", és még mutatós is.
 
 ![polc](/assets/mosokonyha/polc.jpg)
 
 
-* **A mosdópult saját ötlet. A felsőrésze akácfa darabokból, a szekrényke része pedig egy régi ajtóbetétjéből és egy használaton kívüli polcból készült.**
+A mosdópult saját ötlet. A felsőrésze akácfa darabokból, a szekrényke része pedig egy régi ajtóbetétjéből és egy használaton kívüli polcból készült.
 
 * **A szennyestartót, és a falszegélyt a kábeldob kerítésünk középső darabjaiból állította össze a férjem.**
 
