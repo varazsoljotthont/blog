@@ -140,10 +140,10 @@ A mosdót kaptuk, a mosdópult saját ötlet.
 A felsőrésze akácfa darabokból, a szekrényke része pedig egy régi ajtóbetétjéből és egy használaton kívüli polcból készült.
 
 
-![polc](/assets/mosokonyha/DSCF2724.jpg)
+![polc](/assets/mosokonyha/DSCF2724.JPG)
 
 
-![polc](/assets/mosokonyha/DSCF2723.jpg)
+![polc](/assets/mosokonyha/DSCF2723.JPG)
 
 
 ## A szennyestartó 
@@ -170,7 +170,10 @@ A miénk régen kis csibéket melegített.
 Rendeltem hozzá textil kábelt, mennyezeti rózsát, újra lett vezetékelve, lefújtam a búrát, és kész is lett.
 
 
-![polc](/assets/mosokonyha/DSCF2322.JPG)
+![polc](/assets/mosokonyha/DSCF2438.JPG)
+
+
+
 
 
 
@@ -181,6 +184,9 @@ A varrógéphez szükségem volt egy kislámpára is.
 Ha jól emlékszem, nem volt 2000 Ft, szóval tényleg jó áron sikerült megvennem. Viszont a színe fekete volt, ami sehogy sem illett bele a tervezett dizájnba.
 
 A faliórával ugyanez volt a helyzet, annyi különbséggel, hogy az fehér volt, ami ugyanúgy nem felelt meg nekem.
+
+
+![polc](/assets/mosokonyha/óra.jpg)
 
 
 
