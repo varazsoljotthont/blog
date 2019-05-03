@@ -19,12 +19,12 @@ Az én mosókonyhám az istállóból készült ([erről itt olvashatsz](/2019-0
 
 ## Berendezés
 
-Mivel az anyagiak
+Szerettük volna minél olcsóbban megoldani mosókonyha a berendezését. Ezt csak úgy tudtuk megvalósítani, hogy (megint) SK készítettünk el mindent. Természetesen ebben a projektben is a férjem volt a kivitelező, én pedig egy személyben a dizájner és a segédmunkás.
 
 
-A berendezés megtervezésekor több szempontunk is volt.
+Több szempontunk is volt, mikor elkezdtük megtervezni, hogy hova mi kerüljön.
 
-Legyen:
+**A bútorzat legyen:**
 
 * **olcsó**
 
@@ -34,7 +34,6 @@ Legyen:
 
 * **egyedi**
 
-Ezeknek, a saját magunknak állított kritériumoknak csak úgy tudtunk megfelelni, hogy SK készítettünk el mindent. Természetesen ebben a projektben is a férjem volt a kivitelező, én pedig egy személyben a dizájner és a segédmunkás.
 
 ![tulipán](/assets/mosokonyha/IMG_20190430_195350.jpg)
 
