@@ -54,6 +54,10 @@ Minden, de tényleg minden tárgy újrahasznosított lett a mosókonyhában
 
 A mosókonyha és a kamra közti ajtó még a házátalakításból származik. Egy beltéri ajtó volt, de a házban nem akartuk megtartani. Férjem szögvasból csinált hozzá keretet, és beépítette.
 
+
+![ajtó](/assets/mosokonyha/IMG_20190503_064600.jpg)
+
+
 * **A polc a régi, bontott hajópadlóból született újjá. Férjem megcsinálta, szú ellen lekezeltem, majd festetettem.**
 
 * **A mosdópult saját ötlet. A felsőrésze akácfa darabokból, a szekrényke része pedig egy régi ajtóbetétjéből és egy használaton kívüli polcból készült.**
