@@ -107,7 +107,9 @@ Olcsó, egyedi és nagyon szép lett az ablak.
 
 A polc a régi, bontott hajópadlóból született újjá. Férjem megcsinálta, szú ellen lekezeltem, majd festetettem.
 
-Méretre készült, a [a tároló dobozok](/2019-04-17/tárolók) adták a polcok közti távolság méretét. Így a lett a legpraktikusabb hely kihasználtsága a mosókonyhának.
+Méretre készült, [a tároló dobozok](/2019-04-17/tárolók) adták a polcok közti távolság méretét. Így a lett a legpraktikusabb hely kihasználtsága a mosókonyhának.
+
+A polc alját egy régi ajtó betétje takarja, így nem lehet "belátni", és még mutatós is.
 
 ![polc](/assets/mosokonyha/DSCF2659.JPG)
 
