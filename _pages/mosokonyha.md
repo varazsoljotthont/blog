@@ -2,9 +2,9 @@
 layout: post
 title: "Hangulatos mosókonyha? Lehetséges!" 
 permalink: /mosókonyha/
-cover: /assets/mosokonyha/cover.jpg
+cover: /assets/mosokonyha/cover2.jpg
 image:
-  path: /assets/mosokonyha/cover.jpg
+  path: /assets/mosokonyha/cover2.jpg
   height: 300
   width: 300
 ---
