@@ -3,10 +3,14 @@ layout: post
 title: "Hangulatos mosókonyha? Lehetséges!" 
 permalink: /mosókonyha/
 cover: /assets/mosokonyha/cover.JPG
+image:
   path: /assets/mosokonyha/cover.JPG
   height: 300
   width: 300
 ---
+
+
+
 
 **A mosókonyha nem luxus. És ha figyelembe vesszük a praktikum, a funkcionalitás, és az esztétika szempontjait, nem kell zárt ajtó mögé sem rejteni. Éppúgy a része lehet az otthonunknak, mint a lakás többi helyisége.**
 
