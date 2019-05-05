@@ -166,7 +166,7 @@ De nem is mi lennénk, ha nem lett volna a tervemnek megoldása.
 
 A férjem ötlete volt mennyezeti lámpa. 
 
-A miénk régen kis csibéket melegített.  
+A miénk régen kis csibéket melegített, most pedig beteljesíti az álmomat a mosókonyhában.
 
 Rendeltem hozzá textil kábelt, mennyezeti rózsát, újra lett vezetékelve, lefújtam a búrát, és kész is lett.
 
