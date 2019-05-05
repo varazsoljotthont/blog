@@ -115,6 +115,7 @@ Méretre készült, [a tároló dobozok](/2019-04-17/tárolók) adták a polcok 
 A polc alját egy régi ajtó betétje takarja, így nem lehet "belátni", és még mutatós is.
 
 ![polc](/assets/mosokonyha/polc.jpg)
+_A régi gerendát szerettük volna megtartani_
 
 
 
