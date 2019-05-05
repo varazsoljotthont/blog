@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "A háziasszonyok álma: a mosókonyha!"
-permalink: /mosokonyha/
-cover: /assets/mosokonyha/cover2.JPG
+title: "Nem minden tűzre való, ami annak látszik!"
+permalink: /fábólkreatívan/
+cover: /assets/fából/cover2.JPG
 image:
-  path: /assets/mosokonyha/cover2.JPG
+  path: /assets/fából/cover2.JPG
   height: 300
   width: 300
 ---
