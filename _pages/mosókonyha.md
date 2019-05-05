@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Nem minden tűzre való, ami annak látszik!"
+title: "Ne dobd a tűzre! Kreatív ötletek a téli tüzelő felhasználásával  "
 permalink: /fábólkreatívan/
 cover: /assets/fából/cover2.JPG
 image:
