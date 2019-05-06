@@ -87,16 +87,19 @@ Szerintem tökéletes lett.
 
 Egy kert alatti sétánk alkalmával találtunk egy hármas osztású ablakkeretet.
 
-Mire kiszáradt, már tudtam is, hogy mi lesz belőle.
+Mire kiszáradt a téli csapadékból, már tudtam is, hogy mi lesz belőle.
 
-A hátuljára farost lemez került, és már csak festeni kellett. A hálószobába, az ágyfölé került a monogramunkkal. 
+A hátuljára farost lemez került, és már csak festeni kellett. A hálószobába, az ágy fölé került a monogramunkkal. 
 
-> Őszinte leszek, volt olyan ismerős aki nem értette, hogy ezt most minek, de nekünk nagyon tetszik azóta is.
+> Őszinte leszek, volt olyan ismerős aki nem értette, hogy ezt most mire jó, de nekünk nagyon tetszik azóta is.
 
 
 
 ## Kábeldob
 
+A szerencsének komoly szerepe van az életünkben.
+
+A férjem munkahelyén delegációt vártak, és az udvaron levő kábeldobokat el kellett tüntetni szem elől. Mivel mi ott élünk, ahol a munkahely volt, az lett a megoldása a dolognak, hogy kerüljön hozzánk.
 
 
 ![beton](/assets/mosokonyha/DSCF1804.JPG)
