@@ -21,7 +21,7 @@ A házátalakítás során végig arra törekedtünk, hogy természetes anyagokk
 
 Az alapszabályunk szerint 3 féle alapanyagot használtunk, hogy elkerüljük a "mindenből egy kicsi" okozta káoszt.
 
-Az, hogy mi a  **fa**, **a tégla** **és a fém** mellett döntöttünk, nem volt egészen véletlen. A tégláról már írtam a [ebben a posztban](/2019-04-23/tegla) a fa pedig szintén kínálta magát, hogy használjuk fel a ház körül.
+Az, hogy mi a  **fa**, **a tégla** **és a fém** mellett döntöttünk, nem volt egészen véletlen. A tégláról már írtam  [ebben a posztban,](/2019-04-23/tegla) a fa pedig szintén kínálta magát, hogy használjuk fel a ház körül.
 
 
 
