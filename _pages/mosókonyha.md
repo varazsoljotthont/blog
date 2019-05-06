@@ -29,57 +29,73 @@ Az, hogy mi a  **fa**, **a tégla** **és a fém** mellett döntöttünk, tudato
 
 **Egy kis ez, egy kis az**
 
-A ház megvételekor - az előző tulajdonostól - maradtak itt régi ablakok, különböző faanyagok. A felújítás során mi is sokat kitermeltünk, és a tüzifánkból is a férjem minden kiválogatta azt, amit másra is fel tudott használni. 
+A ház megvételekor - az előző tulajdonostól - maradtak itt régi ablakok, különböző faanyagok. A felújítás során mi is sokat kitermeltünk, és a tüzifánkból is a férjem minden évben kiválogatta azt, amit másra is fel tudott használni. 
 
 
-## Tüzifából kerti kiülő
-
-
-
-
-![idézet](/assets/mosokonyha/IMG_20190426_134358.jpg)
+## Mi mindenre jó  tüzifa
 
 
 
 
-## Tervezés
-
-A mosókonyha tervezése már akkor megkezdődött, amikor a házat alakítottuk át. Szerettük volna, hogy közel legyen a lakás többi részéhez, így már a felújítás során nyitottunk egy ajtót az előtérből az istálló felé. ([erről itt olvashatsz](/2019-02-11/találjuk_ki))
- 
-
-A régi épület alapterülete alkalmas volt arra, hogy abból válasszuk le a mosókonyhát (is).  
-
-A mesterek a víz és a szennyvíz csövezését már akkor megcsinálták, mikor a házon dolgoztak. Előre gondolkodtunk, mert a költözés után  pár évvel nem szerettünk volna újra hadiállapotot magunk körül. 
- 
-Kitaláltuk hová lesz majd a mosdó, a mosógép, a radiátor. Szerettünk volna egy plusz WC-t is, és annak is a mosókonyhába gondoltuk ki a helyét. 
-
-> Biztos, ami biztos, legyen alapon. Sosem árt, ha nagyobb vendégség, itt alvós társaság van a háznál.
-
-A csövek bekerültek, és türelmesen vártak 1,5 évig arra, hogy elkészüljön a helyiség.
+**Kerti kiülő**
 
 
+Minden évben téli tüzelőnek vásároltunk akác deszkaszélet is.
 
-Következő lépésként kijelöltük  a falak helyét, majd megkezdtük a kedvenc munkánkat...
+> Az benne a jó, hogy különböző szélességű, hosszúságú darabok vannak köztük, amiket aztán tüzetesen átvizsgál a férjem, és külön - külön "kupcolja" őket, felhasználás szerint csoportosítva.
+
+Két évi adagból gyűlt össze az a mennyiség, amiből el lehetett kezdeni a kiülőnk elkészítését. 
+
+(Lesz majd róla egy külön poszt, megígérem)
+
+Pár hét alatt megcsinálta a férjem, és mi azóta is nagy örömmel rendszeresen használjuk. 
 
 
+**Ágyásszegély**
 
-**Megint betonozás**
+Szokták mondani, hogy az ördög a részletekben lakozik, és én ezt csak megerősíteni tudom.
 
-![beton](/assets/mosokonyha/DSCF1814.JPG)
-_A munka felosztása a szokásos: én kevertem, a férjem eldolgozta_
+Mikor elkezdtem az udvart csinosítani, és kialakítottuk az ágyásokat, valami nagyon hiányzott. 
+Hiába ültettem el a virágokat, fákat, bokrokat befejezetlennek tűnt...
 
+A lezárása hiányzott a virágágyásnak. Kellett egy keretet adni a helynek, hogy kiemelje a növények szépségét.
 
-![beton](/assets/mosokonyha/DSCF1808.JPG)
-_Csövek, szerelvények már a falban_
+Az akác széldeszka jó választásnak tűnt, és teljesen beleillik az udvarunkba
 
 
 
-Nem lett hatalmas helyiség (9m2), de az aljzatba így is rengeteg beton belement.
-
-> A betonozás másnapján beszélgettünk, hogy milyen jó, hogy ez is elkészült,  hogy milyen gyorsan végeztünk, mikor mondja a férjem, hogy olyan gyorsan keverted a betont, nem győztem hordani. Erre én, hogy, olyan gyorsan hordtad, hogy alig bírtam keverni...  
-Szóval a kommunikáció hiánya félreértésékehez vezetett, és fele annyi idő alatt végeztünk mint terveztük.
+**Polcok**
 
 
+A nappaliban, fürdőszobában polcok készültek ebből az anyagból, az előtérben pedig a fogasok.
+
+
+## Régi ablak keretek
+
+**Kis asztal, polc**
+
+Nem is hinnénk, hogy még ezeket a régi szúette darabokat is újra lehet hasznosítani.
+
+A férjemet dícséri a konyhai kisasztalka, és a polc.
+
+A régi ablakkereteket szembefordítva rögzítette, és bepolcozta. A polc alsórészének ajtaja egy régi ajtóbetét lett. A fogantyú egy kis kerek faszelet. 
+
+Szerintem tökéletes lett. 
+
+
+**Dekoráció**
+
+Egy kert alatti sétánk alkalmával találtunk egy hármas osztású ablakkeretet.
+
+Mire kiszáradt, már tudtam is, hogy mi lesz belőle.
+
+A hátuljára farost lemez került, és már csak festeni kellett. A hálószobába, az ágyfölé került a monogramunkkal. 
+
+> Őszinte leszek, volt olyan ismerős aki nem értette, hogy ezt most minek, de nekünk nagyon tetszik azóta is.
+
+
+
+## Kábeldob
 
 
 
@@ -174,7 +190,8 @@ A burkolás, festés végeztével jöhetett a berendezési tárgyak tervezése. 
 
 
 **+ 1 gondolat:**   
-A mosókonyha berendezésében olyan sok újragondolt dolog van, hogy érdemes egyenként megmutatnom őket. A következő posztban sorra veszem őket.
+A fa védelméről gondoskodni kell. Mivel nem akartunk semmit színre festeni  (a hintaágyon kívül) a lenolaj lett az az anyag, amivel minden évben felületkezelek mindent. Van vele munka, de ha ez az ára, hogy sokáig örülhessünk neki, akkor nem szabad sajnálni a fától a védelmet.
+
 
 ## Kapcsolódó cikkek
 
