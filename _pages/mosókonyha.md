@@ -14,13 +14,15 @@ image:
 
 
 
-## Mosókonyha, az kell!
+## A lehetőség mindenben ott van 
 
-Már akkor tudtam, hogy lesz mosókonyhám, mikor megvettük a házat.
-Régen is volt, és akkor is nagyon szerettem. Számomra alapfelszereltség. 
 
-Fontos volt, hogy ne a nappaliban száradjanak a ruhák, hogy legyen helye a vasalásra váró holmiknak, hogy a csecsebecséimet átlátható módon tudjam tárolni, hogy a varrógépemnek is legyen megfelelő helye.  
-Szóval, amint lett rá lehetőségünk, neki álltunk az istállóból a kialakítani.
+A házátalakítás során végig arra törekedtünk, hogy természetes anyagokkal vegyük körbe magunkat.
+
+Az alapszabályunk szerint 3 féle alapanyagot használtunk, hogy elkerüljük a "mindenből egy kicsi" okozta káoszt.
+
+Az, hogy mi a  **fa**, **a tégla** **és a fém** mellett döntöttünk, nem volt egészen véletlen. A tégláról már írtam a [ebben a posztban](/2019-04-23/tegla) a fa pedig szintén kínálta magát, hogy használjuk fel a ház körül.
+
 
 
 ![idézet](/assets/mosokonyha/IMG_20190426_134358.jpg)
