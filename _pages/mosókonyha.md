@@ -9,8 +9,7 @@ image:
   width: 300
 ---
 
-**A mai, modern családiházakból már nem hiányozhat a mosókonyha. Jó tervezéssel a leghasznosabb helyisége lesz az otthonunknak. A házimunka jelentős részét elvégezhetjük úgy, hogy a lakóterünk szépségén nem esik csorba.** 
-
+**Szeretünk barkácsolni, és a fa az egyik kedvenc alapanyagunk. A hulladék ill. tüzifából némi kreativitással sok hasznos dolgot és dekorációs tárgyat elkészíthetünk.**
 
 
 
