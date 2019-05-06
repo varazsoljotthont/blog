@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Hangulatos mosókonyha pénztárcabarát ötletekkel" 
+title: "Hangulatos mosókonyha, pénztárcabarát ötletekkel" 
 permalink: /mosókonyha/
 cover: /assets/mosokonyha/cover.JPG
 image:
