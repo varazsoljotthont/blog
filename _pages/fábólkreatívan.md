@@ -57,15 +57,9 @@ A hintaágy nagy vágyunk volt, de amíg a felújítás zajlott nem is foglalkoz
 
 De a jószerencse - mint oly sokszor - most is mellettünk volt. A néhány házzal arrébb lakó ismerős lecserélte az övét, és megkérdezte tőlünk érdekel-e bennünket a régi.
 
-Lom volt elég az udvaron, hogy eggyel több vagy kevesebb, igazán nem számított. 
+Lom volt elég az udvaron, hogy eggyel több vagy kevesebb, igazán nem számított. Áthoztuk, és félretettük.
 
-Áthoztuk, és félretettük.
-
-Aztán persze eljött az idő, amikor a férjem elkezdte a rendbe tenni.
-
-A vázát akác szélből készítette, az ülő részét pedig a kábeldob középső részéből. 
-
-A hinta kapott egy kis zöld színű lazúrt, és lett egy kellően vidékies hintaágyunk szinte a semmiből.
+Aztán persze eljött az idő, amikor a férjem elkezdte a rendbe tenni. A vázát akác szélből készítette, az ülő részét pedig a kábeldob középső részéből. A hinta kapott egy kis zöld színű lazúrt, és lett egy kellően vidékies hintaágyunk szinte a semmiből.
 
 
 
