@@ -247,6 +247,8 @@ Hogy a mosókonyhában a penészt elkerüljük, telente egy nagy teljesítmény�
 
 <a href="https://www.facebook.com/Var%C3%A1zsolj-otthont-360330751226066/" target="_blank">Ha tetszett, kedveld a Facebook oldalt is</a> , itt még több érdekességet találsz a mindennapok varázslataiból.
 
+<a href="https://www.instagram.com/varazsoljotthont/?hl=hu/" target="_blank">Ha követsz Instagramon</a> sok olyan fotót láthatsz, ami a blogról vagy a Facebook oldalról kimaradt.
+
 
 ## Kapcsolódó cikkek
 
