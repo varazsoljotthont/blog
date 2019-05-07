@@ -51,6 +51,26 @@ Két évi adagból gyűlt össze az a mennyiség, amiből el lehetett kezdeni a 
 Pár hét alatt megcsinálta a férjem, és mi azóta is nagy örömmel rendszeresen használjuk. 
 
 
+**Hintaágy**
+
+A hintaágy nagy vágyunk volt, de amíg a felújítás zajlott nem is foglalkoztunk a témával.
+
+De a jószerencse - mint oly sokszor - most is mellettünk volt. A néhány házzal arrébb lakó ismerős lecserélte az övét, és megkérdezte tőlünk érdekel-e bennünket a régi.
+
+Lom volt elég az udvaron, hogy eggyel több vagy kevesebb, igazán nem számított. 
+
+Áthoztuk, és félretettük.
+
+Aztán persze eljött az idő, amikor a férjem elkezdte a rendbe tenni.
+
+A vázát akác szélből készítette, az ülő részét pedig a kábeldob középső részéből. 
+
+A hinta kapott egy kis zöld színű lazúrt, és lett egy kellően vidékies hintaágyunk szinte a semmiből.
+
+
+
+
+
 **Ágyásszegély**
 
 Szokták mondani, hogy az ördög a részletekben lakozik, és én ezt csak megerősíteni tudom.
