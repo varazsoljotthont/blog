@@ -113,7 +113,13 @@ A hátuljára farost lemez került, és már csak festeni kellett. A hálószob�
 
 A szerencsének komoly szerepe van az életünkben.
 
-A férjem munkahelyén delegációt vártak, és az udvaron levő kábeldobokat el kellett tüntetni szem elől. Mivel mi ott élünk, ahol a munkahely volt, az lett a megoldása a dolognak, hogy kerüljön hozzánk.
+A férjem munkahelyén delegációt vártak, és az udvaron levő kábeldobokat el kellett tüntetni szem elől. Mivel mi ott élünk, ahol a munkahely van, és az udvarunk úgyis egy kis tüzépre hasonlított az lett a megoldása a dolognak, hogy szétszedés után hozzánk hozták.
+
+Egy délután "gurigáztunk" velük, mire összeraktuk, és akkor mégcsak tippünk sem volt, hogy mire lesz majd jó.
+
+Egy kolléga adta az ötletet, hogy csináljunk belőle kerítést... Először meglepőnek tűnta javaslata, aztán megfogadtuk, és a férjem megcsinálta. 
+Mi csak Viking kerítésnek hívjuk. 
+Hogy különleges lett az biztos, de mi szeretjük, és a sok-sok növénnyel klasszul is néz ki. 
 
 
 ![beton](/assets/mosokonyha/DSCF1804.JPG)
