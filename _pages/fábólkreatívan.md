@@ -104,7 +104,7 @@ A régi ablakkereteket szembefordítva rögzítette, és bepolcozta. A polc als�
 Szerintem tökéletes lett. 
 
 
-![fa](/assets/fábólkreatívan/IMG_20190511_091031jó.jpg)
+![fa](/assets/fábólkreatívan/IMG_20190512_193914.jpg)
 
 
 ![fa](/assets/fábólkreatívan/IMG_20190512_192054.jpg)
@@ -135,7 +135,7 @@ Mi csak Viking kerítésnek hívjuk.
 Hogy különleges lett az biztos, de mi szeretjük, és a sok-sok növénnyel klasszul is néz ki. 
 
 
-![fa](/assets/fábólkreatívan/IMG_20190512_192054.jpg)
+![fa](/assets/fábólkreatívan/IMG_20190511_091031jó.jpg)
 
 
 ![fa](/assets/fábólkreatívan/kert.jpg)
