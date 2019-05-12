@@ -104,6 +104,12 @@ A régi ablakkereteket szembefordítva rögzítette, és bepolcozta. A polc als�
 Szerintem tökéletes lett. 
 
 
+![fa](/assets/fábólkreatívan/IMG_20190512_192156.jpg)
+
+
+![fa](/assets/fábólkreatívan/IMG_20190512_192054.jpg)
+
+
 **Dekoráció**
 
 Egy kert alatti sétánk alkalmával találtunk egy hármas osztású ablakkeretet.
