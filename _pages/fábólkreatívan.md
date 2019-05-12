@@ -147,66 +147,6 @@ Hogy különleges lett az biztos, de mi szeretjük, és a sok-sok növénnyel kl
 
 
 
-**Fal**
-
-
-Nagyon akartunk haladni a projekttel, ezért könnyűszerkezetes megoldást választottunk, ezen belül pedig a gipszkarton mellett döntöttünk. 
-
-Ezzel a módszerrel gyorsan le tudtuk választani a mosókonyhát a kazánháztól és a leendő kamrától.
-Fémprofilokat használtunk, és ezekkel nem okozott nehézséget a fal megépítése.
-
-Miután álltak a falak, az eljárás a [régről ismert folyamat](/2019-02-18/afalak) volt: javítás, glettelés, csiszolás majd a festés.
-
-
-![gipszkarton](/assets/mosokonyha/DSCF2300.JPG)
-_Két fal készült gipszkartonból_
-
-A másik két fal adott volt. 
-Mindkettő téglából készült, ami a kijavításukat nem könnyítette meg. Volt velük feladat bőven... Régi vakolatot leverni, újra vakolni, glettelni,csiszolni, festeni...
-
-![gipszkarton](/assets/mosokonyha/DSCF1820.JPG)
-
-
-
-![gipszkarton](/assets/mosokonyha/DSCF2303.JPG)
-_A falakon még látszik az istállókra jellemző fekete festék_
-
-![gipszkarton](/assets/mosokonyha/DSCF2304.JPG)
-
-## Villanyszerelés
-
-A gipszkarton falak elkészülte után jöhetett a villanyszerelés.
-
-Alaposan átbeszéltük hova, mit akarunk.
-
-Kitaláltuk a mosógép, a varrógép pontos helyét, a konnektorokat, a villanykapcsolókat.
-
-
-## Burkolatok
-
-Még a ház átalakítás elején egy ismerős a garázsában rendezkedett, és a sok mindene között volt csempe és járólap is. Tudta, hogy mi felújítunk, így szólt, hogy érdekel-e bennünket.
-
-> Azt hiszem szerencsések vagyunk, mert több alkalommal előfordult már, hogy hasonló módon jutottunk hozzá számunkra fontos dolgokhoz.
-
-Ha úgy vásároljuk meg a burkolatokat, egész biztosan más színt választok. De így, hogy megkaptuk a kellő mennyiséget, nem akartunk másikat venni.
-
-Megalkudtam a kékkel, és végül nem is bántam meg. A sötétkék csempe nagy kedvencem lett, a járólappal pedig békét kötöttem.
-
-![csempe](/assets/mosokonyha/DSCF2305.JPG)
-
-
-![járólap](/assets/mosokonyha/DSCF2308.JPG)
-
-
-![járólap](/assets/mosokonyha/DSCF2309.JPG)
-_Alakul a mosókonyhám_
-
-
-A férjem csempézett, járólapozott, én pedig festettem a falakat. A festés előtt még megmentettünk egy gerendát is, ami nagyon szép dísze lett a mosókonyhának.
-
-
-![járólap](/assets/mosokonyha/DSCF2311.JPG)
-_Kicsi részlet látszik a gerendából_
 
 
 
@@ -215,11 +155,16 @@ _Kicsi részlet látszik a gerendából_
 
 
 
-![járólap](/assets/mosokonyha/DSCF2320.JPG)
-_Mindjárt kész, jöhet a berendezés_
 
 
-A burkolás, festés végeztével jöhetett a berendezési tárgyak tervezése. Izgalmas feladat volt, mert nem akartunk túl sokat költeni, de természetesen szépet, egyedit akartunk.
+
+
+
+
+
+
+
+
 
 
 
