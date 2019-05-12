@@ -51,6 +51,12 @@ Két évi adagból gyűlt össze az a mennyiség, amiből el lehetett kezdeni a 
 Pár hét alatt megcsinálta a férjem, és mi azóta is nagy örömmel rendszeresen használjuk. 
 
 
+![fa](/assets/fábólkreatívan/IMG_20190509_185602 (1).jpg)
+_Az oromdeszka régi padlásdeszkából készült_
+
+![fa](/assets/fábólkreatívan/IMG_20190511_091740jó.jpg)
+
+
 **Hintaágy**
 
 A hintaágy nagy vágyunk volt, de amíg a felújítás zajlott nem is foglalkoztunk a témával.
