@@ -135,11 +135,13 @@ Mi csak Viking kerítésnek hívjuk.
 Hogy különleges lett az biztos, de mi szeretjük, és a sok-sok növénnyel klasszul is néz ki. 
 
 
-![beton](/assets/mosokonyha/DSCF1804.JPG)
-_Elszántság, erő, akarat! Már pedig itt mosókonyha lesz!_
+![fa](/assets/fábólkreatívan/IMG_20190512_192054.jpg)
 
-![beton](/assets/mosokonyha/DSCF1817.JPG)
-_Végre kész! Jöhet a fal_
+
+![fa](/assets/fábólkreatívan/IMG_20190507_173743 (2)jó.jpg)
+
+
+
 
 
 
