@@ -138,7 +138,7 @@ Hogy különleges lett az biztos, de mi szeretjük, és a sok-sok növénnyel kl
 ![fa](/assets/fábólkreatívan/IMG_20190511_091031jó.jpg)
 
 
-![fa](/assets/fábólkreatívan/kert.jpg)
+![fa](/assets/fábólkreatívan/kertjav.jpg)
 
 
 
