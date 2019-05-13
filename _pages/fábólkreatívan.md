@@ -68,7 +68,7 @@ Lom volt elég az udvaron, hogy eggyel több vagy kevesebb, igazán nem számít
 Aztán persze eljött az idő, amikor a férjem elkezdte a rendbe tenni. A vázát akác szélből készítette, az ülő részét pedig a kábeldob középső részéből. A hinta kapott egy kis zöld színű lazúrt, és lett egy kellően vidékies hintaágyunk szinte a semmiből.
 
 
-![fa](/assets/fábólkreatívan/hintaágy jó.jpg)
+![fa](/assets/fábólkreatívan/hintaágy.jpg)
 
 
 
