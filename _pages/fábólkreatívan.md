@@ -106,7 +106,7 @@ A nappaliban, fürdőszobában polcok készültek ebből az anyagból, az előt�
 ![fa](/assets/dekoráció/IMG_20190325_175636.jpg)
 _A nappali bútorzata, és a dekorációja is a télitüzelőből és a hulladék fa darabokból készült_
 
-![fa](/assets/dekoráció/nappali.jpg)
+![fa](/assets/fábólkreatívan/nappali.jpg)
 _Faszeletből szivecskék, szőlőtőkéből falidísz, rá régi ajtóbetétből csillagok, amiket aztán roszdásítottam_
 
 
