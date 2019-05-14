@@ -68,7 +68,7 @@ Lom volt elég az udvaron, hogy eggyel több vagy kevesebb, igazán nem számít
 Aztán persze eljött az idő, amikor a férjem elkezdte a rendbe tenni. A vázát akác szélből készítette, az ülő részét pedig a kábeldob középső részéből. A hinta kapott egy kis zöld színű lazúrt, és lett egy kellően vidékies hintaágyunk szinte a semmiből.
 
 
-![fa](/assets/dekoráció/IMG_20190322_172155.jpg)
+![fa](/assets/dekoráció/20180709_184225.jpg)
 
 
 
@@ -89,6 +89,30 @@ Az akác széldeszka jó választásnak tűnt, és teljesen beleillik az udvarun
 
 
 A nappaliban, fürdőszobában polcok készültek ebből az anyagból, az előtérben pedig a fogasok.
+
+**Nappali**
+
+
+![fa](/assets/dekoráció/IMG_20190325_175636.jpg)
+_A nappali bútorzata, és a dekorációja is a télitüzelőből és a hulladék fa darabokból készült_
+
+![fa](/assets/dekoráció/IMG_20190321_121003.jpg)
+
+
+**Előtér**
+
+![fa](/assets/dekoráció/53382599_362051337720674_7760969830441680896_n.jpg)
+
+53382599_362051337720674_7760969830441680896_n
+
+
+**Fürdőszoba**
+
+![fa](/assets/fábólkreatívan/fürdő.jpg)
+_Nagy kedvencem ez a polc, és a spárgázott dobozokban a női dolgok is elrejhetők_
+
+
+
 
 
 ## Régi ablak keretek
@@ -143,33 +167,26 @@ Hogy különleges lett az biztos, de mi szeretjük, és a sok-sok növénnyel kl
 
 
 
+
+
+
+
+
 ## Apróságok
 
-**Nappali**
-
-
-![fa](/assets/dekoráció/IMG_20190325_175636.jpg)
-_A nappali bútorzata, és a dekorációja is a télitüzelőből és a hulladék fa darabokból készült_
-
-![fa](/assets/dekoráció/IMG_20190512_104815.jpg)
-
-
-
-
-
-**Fürdőszoba**
-
-![fa](/assets/fábólkreatívan/fürdő.jpg)
+![fa](/assets/dekoráció/IMG_20190311_105842.jpg)
+_Virágtartó láda_
 
 
 ![fa](/assets/fábólkreatívan/IMG_20190512_104815.jpg)
+_Az újságtartó a kibontott, régi faredőny újragondolása_
 
 
 
 
 
-
-
+**...a végére egy hangulat fotó, régi ajtóval, ami még keresi a helyét...
+![fa](/assets/fábólkreatívan/IMG_20190512_114029jó.jpg)
 
 
 
