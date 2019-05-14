@@ -145,21 +145,24 @@ Hogy különleges lett az biztos, de mi szeretjük, és a sok-sok növénnyel kl
 
 ## Apróságok
 
+**Nappali**
+
 
 ![fa](/assets/dekoráció/IMG_20190325_175636.jpg)
+_A nappali bútorzata, és a dekorációja is a télitüzelőből és a hulladék fa darabokból készült_
 
-
-![fa](/assets/dekoráció/IMG_20190324_152902.jpg)
-
-
-
+![fa](/assets/dekoráció/IMG_20190512_104815.jpg)
 
 
 
 
 
+**Fürdőszoba**
+
+![fa](/assets/fábólkreatívan/fürdő.jpg)
 
 
+![fa](/assets/fábólkreatívan/IMG_20190512_104815.jpg)
 
 
 
