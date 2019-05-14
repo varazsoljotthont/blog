@@ -195,7 +195,7 @@ _Az újságtartó a kibontott, régi faredőny újragondolása_
 ![polc](/assets/mosokonyha/polc.jpg)
 _A mosókonyha polca a régi padlóból van_
 
-![polc](/assets/mosokonyha/DSCF2723.jpg)
+![polc](/assets/mosokonyha/DSCF2723.JPG)
 
 A mosókonyháról [itt](2019-04-30/mosokonyha) [és itt](/2019-05-06/mosókonyhaberendezés) olvashtasz bővebben.
 
@@ -219,6 +219,6 @@ A fa védelméről gondoskodni kell. Mivel nem akartunk semmit színre festeni  
 ## Kapcsolódó cikkek
 
 * [Fontos lépések régi házunk állagmegóvásáért](/2019-04-03/állagmegóvás)
-* [Életre kelnek a falak!](/2019-03-01/sz%C3%ADnesfalak)
+* [Régi varrógép új élete!](/2019-02-12/varrogepasztal)
 * [Találjuk ki a házunkat](/2019-02-11/találjuk_ki)
 * [Kell egy ház... de hol, milyen, mennyiért?](/2019-02-09/hazvasarlas)
