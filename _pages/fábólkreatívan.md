@@ -196,6 +196,7 @@ _Az újságtartó a kibontott, régi faredőny újragondolása_
 _A mosókonyha polca a régi padlóból van_
 
 ![polc](/assets/mosokonyha/DSCF2723.JPG)
+_Szennyestartó és a mosdószekrény is újrafelhasznált fából van elkészítve_
 
 A mosókonyháról [itt](2019-04-30/mosokonyha) [és itt](/2019-05-06/mosókonyhaberendezés) olvashtasz bővebben.
 
