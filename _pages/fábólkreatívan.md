@@ -103,7 +103,6 @@ _A nappali bútorzata, és a dekorációja is a télitüzelőből és a hulladé
 
 ![fa](/assets/dekoráció/53382599_362051337720674_7760969830441680896_n.jpg)
 
-53382599_362051337720674_7760969830441680896_n
 
 
 **Fürdőszoba**
@@ -174,7 +173,7 @@ Hogy különleges lett az biztos, de mi szeretjük, és a sok-sok növénnyel kl
 
 ## Apróságok
 
-![fa](/assets/dekoráció/IMG_20190311_105842.jpg)
+![fa](/assets/dekoráció/láda.jpg)
 _Virágtartó láda_
 
 
@@ -185,7 +184,7 @@ _Az újságtartó a kibontott, régi faredőny újragondolása_
 
 
 
-**...a végére egy hangulat fotó, régi ajtóval, ami még keresi a helyét...
+**...a végére egy hangulat fotó. Régi ajtó, ami még keresi a helyét...**
 ![fa](/assets/fábólkreatívan/IMG_20190512_114029jó.jpg)
 
 
