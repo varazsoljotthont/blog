@@ -201,6 +201,9 @@ _Szennyestartó és a mosdószekrény is újrafelhasznált fából van elkészí
 A mosókonyháról [itt](2019-04-30/mosokonyha) [és itt](/2019-05-06/mosókonyhaberendezés) olvashatsz bővebben.
 
 **...a végére egy hangulat fotó. Régi ajtó, ami még keresi a helyét...**
+
+
+
 ![fa](/assets/fábólkreatívan/ajtó.jpg)
 
 
