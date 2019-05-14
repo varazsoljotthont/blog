@@ -145,7 +145,7 @@ A felsőrésze akácfa darabokból, a szekrényke része pedig egy régi ajtóbe
 
 ![polc](/assets/mosokonyha/DSCF2724.JPG)
 
-
+![polc](/assets/mosokonyha/polc.jpg)
 ![polc](/assets/mosokonyha/DSCF2723.JPG)
 
 
