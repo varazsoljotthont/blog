@@ -29,20 +29,26 @@ Az, hogy mi a  **fa**, **a tégla**, valamint az udvaron a **a kavics**, a laká
 
 **Egy kis ez, egy kis az**
 
-A ház megvételekor - az előző tulajdonostól - maradtak itt régi ablakok, különböző faanyagok. A felújítás során mi is sokat kitermeltünk, és a tüzifánkból is a férjem minden évben kiválogatta azt, amit másra is fel tudott használni. 
+A ház megvételekor - az előző tulajdonostól - maradtak itt régi ablakok, különböző faanyagok. A felújítás során mi is sokat kitermeltünk, és a tüzifánkból is a férjem mindig kiválogatta azt, amit másra is fel tudott használni.
 
 
-## Mi mindenre jó  tüzifa
+## Mi mindenre jó a tüzifa
 
+
+Minden évben, a téli tüzelőnk egy része akác deszka.
+
+> Az benne a jó, hogy különböző szélességű, hosszúságú darabok vannak köztük, amiket aztán tüzetesen átvizsgál a férjem, és külön - külön "kupcolja" őket, felhasználás szerint csoportosítva.
+
+Az udvaron sok minden ebből készült, kézenfekvő volt, hogy ebből dolgozzunk.
 
 
 
 **Kerti kiülő**
 
 
-Minden évben téli tüzelőnek vásároltunk akác deszkaszélet is.
 
-> Az benne a jó, hogy különböző szélességű, hosszúságú darabok vannak köztük, amiket aztán tüzetesen átvizsgál a férjem, és külön - külön "kupcolja" őket, felhasználás szerint csoportosítva.
+
+
 
 Két évi adagból gyűlt össze az a mennyiség, amiből el lehetett kezdeni a kiülőnk elkészítését. 
 
@@ -85,7 +91,11 @@ Az akác széldeszka jó választásnak tűnt, és teljesen beleillik az udvarun
 
 ![fa](/assets/dekoráció/szegély.jpg)
 
-**Polcok**
+
+
+
+
+## Polcok
 
 
 A nappaliban, fürdőszobában polcok készültek ebből az anyagból, az előtérben pedig a fogasok.
@@ -181,8 +191,12 @@ _Virágtartó láda_
 _Az újságtartó a kibontott, régi faredőny újragondolása_
 
 
+![polc](/assets/mosokonyha/polc.jpg)
+_A mosókonyha polca a régi padlóból van_
 
+![polc](/assets/mosokonyha/polc.jpg)
 
+A mosókonyháról[itt](/2019-05-06/mosókonyhaberendezés) [és itt](2019-04-30/mosokonyha) olvashtasz bővebben.
 
 **...a végére egy hangulat fotó. Régi ajtó, ami még keresi a helyét...**
 ![fa](/assets/fábólkreatívan/IMG_20190512_114029jó.jpg)
@@ -193,6 +207,12 @@ _Az újságtartó a kibontott, régi faredőny újragondolása_
 
 **+ 1 gondolat:**   
 A fa védelméről gondoskodni kell. Mivel nem akartunk semmit színre festeni  (a hintaágyon kívül) a lenolaj lett az az anyag, amivel minden évben felületkezelek mindent. Van vele munka, de ha ez az ára, hogy sokáig örülhessünk neki, akkor nem szabad sajnálni a fától a védelmet.
+
+
+<a href="https://www.facebook.com/Var%C3%A1zsolj-otthont-360330751226066/" target="_blank">Ha tetszett, kedveld a Facebook oldalt is</a> , itt még több érdekességet találsz a mindennapok varázslataiból.
+
+<a href="https://www.instagram.com/varazsoljotthont/?hl=hu/" target="_blank">Kövess az Instagramon</a> is, és sok olyan fotót láthatsz, ami a blogról vagy a Facebook oldalról kimaradt.
+
 
 
 ## Kapcsolódó cikkek
