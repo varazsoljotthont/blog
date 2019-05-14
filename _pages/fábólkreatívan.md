@@ -195,9 +195,9 @@ _Az újságtartó a kibontott, régi faredőny újragondolása_
 ![polc](/assets/mosokonyha/polc.jpg)
 _A mosókonyha polca a régi padlóból van_
 
-![polc](/assets/mosokonyha/polc.jpg)
+![polc](/assets/mosokonyha/DSCF2723.jpg)
 
-A mosókonyháról[itt](/2019-05-06/mosókonyhaberendezés) [és itt](2019-04-30/mosokonyha) olvashtasz bővebben.
+A mosókonyháról [itt](2019-04-30/mosokonyha) [és itt](/2019-05-06/mosókonyhaberendezés) olvashtasz bővebben.
 
 **...a végére egy hangulat fotó. Régi ajtó, ami még keresi a helyét...**
 ![fa](/assets/fábólkreatívan/ajtó.jpg)
