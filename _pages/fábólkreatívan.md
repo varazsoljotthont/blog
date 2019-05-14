@@ -106,7 +106,8 @@ A nappaliban, fürdőszobában polcok készültek ebből az anyagból, az előt�
 ![fa](/assets/dekoráció/IMG_20190325_175636.jpg)
 _A nappali bútorzata, és a dekorációja is a télitüzelőből és a hulladék fa darabokból készült_
 
-![fa](/assets/dekoráció/IMG_20190321_121003.jpg)
+![fa](/assets/dekoráció/nappali.jpg)
+_Faszeletből szivecskék, szőlőtőkéből falidísz, rá régi ajtóbetétből csillagok, amiket aztán roszdásítottam_
 
 
 **Előtér**
@@ -199,7 +200,7 @@ _A mosókonyha polca a régi padlóból van_
 A mosókonyháról[itt](/2019-05-06/mosókonyhaberendezés) [és itt](2019-04-30/mosokonyha) olvashtasz bővebben.
 
 **...a végére egy hangulat fotó. Régi ajtó, ami még keresi a helyét...**
-![fa](/assets/fábólkreatívan/IMG_20190512_114029jó.jpg)
+![fa](/assets/fábólkreatívan/ajtó.jpg)
 
 
 
