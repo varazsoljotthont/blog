@@ -68,7 +68,7 @@ Lom volt elég az udvaron, hogy eggyel több vagy kevesebb, igazán nem számít
 Aztán persze eljött az idő, amikor a férjem elkezdte a rendbe tenni. A vázát akác szélből készítette, az ülő részét pedig a kábeldob középső részéből. A hinta kapott egy kis zöld színű lazúrt, és lett egy kellően vidékies hintaágyunk szinte a semmiből.
 
 
-![fa](/assets/fábólkreatívan/hintaágy.jpg)
+![fa](/assets/dekoráció/IMG_20190322_172155.jpg)
 
 
 
@@ -116,8 +116,8 @@ Egy kert alatti sétánk alkalmával találtunk egy hármas osztású ablakkeret
 
 Mire kiszáradt a téli csapadékból, már tudtam is, hogy mi lesz belőle.
 
-A hátuljára farost lemez került, és már csak festeni kellett. A hálószobába, az ágy fölé került a monogramunkkal. 
-
+A hátuljára farostlemez csavarozott a férjem, és nekem már csak festeni kellett. A hálószobába, az ágy fölé került a monogramunkkal újra gondolt régi ablak 
+.
 > Őszinte leszek, volt olyan ismerős aki nem értette, hogy ezt most mire jó, de nekünk nagyon tetszik azóta is.
 
 ![fa](/assets/fábólkreatívan/tk.jpg)
@@ -143,13 +143,13 @@ Hogy különleges lett az biztos, de mi szeretjük, és a sok-sok növénnyel kl
 
 
 
+## Apróságok
 
 
+![fa](/assets/dekoráció/IMG_20190325_175636.jpg)
 
 
-
-
-
+![fa](/assets/dekoráció/IMG_20190324_152902.jpg)
 
 
 
