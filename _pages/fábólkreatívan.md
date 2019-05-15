@@ -126,7 +126,7 @@ _Nagy kedvencem ez a polc, és a spárgázott dobozokban a női dolgok is elrejh
 
 
 
-## Régi ablak keretek
+## Régi ablakkeretek
 
 **Kis asztal, polc**
 
