@@ -113,6 +113,7 @@ _Faszeletből szivecskék, szőlőtőkéből falidísz, rá régi ajtóbetétbő
 **Előtér**
 
 ![fa](/assets/dekoráció/53382599_362051337720674_7760969830441680896_n.jpg)
+_A dekorációkról szóló posztot [itt találod](/2019-03-26/dekoráció)
 
 
 
