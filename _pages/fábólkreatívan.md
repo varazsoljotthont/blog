@@ -220,5 +220,6 @@ A fa védelméről gondoskodni kell. Mivel nem akartunk semmit színre festeni  
 
 * [Fontos lépések régi házunk állagmegóvásáért](/2019-04-03/állagmegóvás)
 * [Régi varrógép új élete!](/2019-02-12/varrogepasztal)
+* [Miházunk átváltozása](/2019-03-20/költözés)
 * [Találjuk ki a házunkat](/2019-02-11/találjuk_ki)
-* [Kell egy ház... de hol, milyen, mennyiért?](/2019-02-09/hazvasarlas)
+* 
