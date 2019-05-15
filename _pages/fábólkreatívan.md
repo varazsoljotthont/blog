@@ -161,9 +161,9 @@ A hátuljára farostlemezt csavarozott a férjem, és nekem már csak festeni ke
 
 A szerencsének komoly szerepe van az életünkben.
 
-A férjem munkahelyén delegációt vártak, és az udvaron levő kábeldobokat el kellett tüntetni szem elől. Mivel mi ott élünk, ahol a munkahely van, és az udvarunk úgyis egy kis tüzépre hasonlított, az lett a megoldása a dolognak, hogy szétszedés után hozzánk hozták.
+A férjem munkahelyén delegációt vártak, és az udvaron levő kábeldobokat el kellett tüntetni szem elől. Mivel mi ott élünk, ahol a munkahely van - és az udvarunk úgyis egy kis tüzépre hasonlított -, az lett a megoldása a dolognak, hogy szétszedés után hozzánk hozták.
 
-Egy délután "gurigáztunk" velük, mire összeraktuk, és akkor mégcsak tippünk sem volt, hogy mire lesz majd jó.
+Egy délután "gurigáztunk" velük, mire összeraktuk, és akkor mégcsak tippünk sem volt, hogy mire lesznek majd jók.
 
 Egy kolléga adta az ötletet, hogy csináljunk belőle kerítést... Először meglepőnek tűnta javaslata, aztán megfogadtuk, és a férjem megcsinálta. 
 Mi csak Viking kerítésnek hívjuk. 
