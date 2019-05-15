@@ -156,6 +156,7 @@ A hátuljára farostlemezt csavarozott a férjem, és nekem már csak festeni ke
 > Őszinte leszek, volt olyan ismerős aki nem értette, hogy ezt most mire jó, de nekünk nagyon tetszik azóta is.
 
 ![fa](/assets/fábólkreatívan/tk.jpg)
+_Az éjjeliszekrény is saját gyártmány_
 
 ## Kábeldob
 
