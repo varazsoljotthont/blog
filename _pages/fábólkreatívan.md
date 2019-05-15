@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Készíts fából egyedi dolgokat az otthonodba!"
+title: "Így lett a tüzifa otthonunk dísze"
 permalink: /fábólkreatívan/
 cover: /assets/fábólkreatívan/cover2.jpg
 image:
