@@ -2,9 +2,9 @@
 layout: post
 title: "Készíts fából egyedi dolgokat az otthonodba!"
 permalink: /fábólkreatívan/
-cover: /assets/fából/cover2.JPG
+cover: /assets/fábólkreatívan/cover2.JPG
 image:
-  path: /assets/fából/cover2.JPG
+  path: /assets/fábólkreatívan/cover2.JPG
   height: 300
   width: 300
 ---
