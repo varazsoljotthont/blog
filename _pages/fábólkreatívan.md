@@ -151,7 +151,7 @@ Egy kert alatti sétánk alkalmával találtunk egy hármas osztású ablakkeret
 
 Mire kiszáradt a téli csapadékból, már tudtam is, hogy mi lesz belőle.
 
-A hátuljára farostlemez csavarozott a férjem, és nekem már csak festeni kellett. A hálószobába, az ágy fölé került a monogramunkkal újra gondolt régi ablak 
+A hátuljára farostlemezt csavarozott a férjem, és nekem már csak festeni kellett. A hálószobába, az ágy fölé került a monogramunkkal újra gondolt régi ablak 
 .
 > Őszinte leszek, volt olyan ismerős aki nem értette, hogy ezt most mire jó, de nekünk nagyon tetszik azóta is.
 
