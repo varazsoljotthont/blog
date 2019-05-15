@@ -134,7 +134,7 @@ Nem is hinnénk, hogy még ezeket a régi szúette darabokat is újra lehet hasz
 
 A férjemet dícséri a konyhai kisasztalka, és a polc.
 
-A régi ablakkereteket szembefordítva rögzítette, és bepolcozta. A polc alsórészének ajtaja egy régi ajtóbetét lett. A fogantyú egy kis kerek faszelet. 
+A régi ablakkereteket szembefordítva rögzítette, és bepolcozta. A polc alsó részének ajtaja egy régi ajtóbetét lett. A fogantyú egy kis kerek faszelet. 
 
 Szerintem tökéletes lett. 
 
