@@ -118,7 +118,7 @@ _Faszeletből szivecskék, szőlőtőkéből falidísz, rá régi ajtóbetétbő
 
 **Fürdőszoba**
 
-![fa](/assets/fábólkreatívan/fürdő.jpg)
+![fa](/assets/fábólkreatívan/fürdőj.jpg)
 _Nagy kedvencem ez a polc, és a spárgázott dobozokban a női dolgok is elrejhetők_
 
 
