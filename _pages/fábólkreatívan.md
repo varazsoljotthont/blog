@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Így lett a tüzifa otthonunk dísze"
+title: "Így lett a tüzifa az otthonunk dísze"
 permalink: /fábólkreatívan/
 cover: /assets/fábólkreatívan/cover2.jpg
 image:
