@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Így lett a tüzifa az otthonunk dísze"
+title: "Így használd a tüzifát otthonod diszítésére"
 permalink: /fábólkreatívan/
 cover: /assets/fábólkreatívan/cover2.jpg
 image:
