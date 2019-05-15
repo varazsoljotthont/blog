@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Nem kell mindent a tűzre dobni! Kreatív ötletek a téli tüzelő felhasználásával"
+title: "Készíts fából egyedi dolgokat az otthonodba!"
 permalink: /fábólkreatívan/
 cover: /assets/fából/cover2.JPG
 image:
