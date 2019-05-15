@@ -83,7 +83,7 @@ Aztán persze eljött az idő, amikor a férjem elkezdte rendbe tenni. A vázát
 Szokták mondani, hogy az ördög a részletekben lakozik, és én ezt csak megerősíteni tudom.
 
 Mikor elkezdtem az udvart csinosítani, és kialakítottuk az ágyásokat, valami nagyon hiányzott. 
-Hiába ültettem el a virágokat, fákat, bokrokat befejezetlennek tűnt...
+Hiába ültettem el a virágokat, fákat, bokrokat, befejezetlennek tűnt...
 
 A lezárása hiányzott a virágágyásnak. Kellett egy keretet adni a helynek, hogy kiemelje a növények szépségét.
 
@@ -104,7 +104,7 @@ A nappaliban, fürdőszobában polcok készültek ebből az anyagból, az előt�
 
 
 ![fa](/assets/dekoráció/IMG_20190325_175636.jpg)
-_A nappali bútorzata, és a dekorációja is a télitüzelőből és a hulladék fa darabokból készült_
+_A nappali bútorzata, dekorációja, a téli tüzelőből és a hulladék fadarabokból készült_
 
 ![fa](/assets/fábólkreatívan/nappali.jpg)
 _Faszeletből szivecskék, szőlőtőkéből falidísz, rá régi ajtóbetétből csillagok, amiket aztán roszdásítottam_
