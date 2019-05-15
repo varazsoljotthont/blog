@@ -165,7 +165,7 @@ A férjem munkahelyén delegációt vártak, és az udvaron levő kábeldobokat 
 
 Egy délután "gurigáztunk" velük, mire összeraktuk, és akkor mégcsak tippünk sem volt, hogy mire lesznek majd jók.
 
-Egy kolléga adta az ötletet, hogy csináljunk belőle kerítést... Először meglepőnek tűnta javaslata, aztán megfogadtuk, és a férjem megcsinálta. 
+Egy kolléga adta az ötletet, hogy csináljunk belőle kerítést... Először meglepőnek tűnt a javaslata, aztán megfogadtuk, és a férjem megcsinálta. 
 Mi csak Viking kerítésnek hívjuk. 
 Hogy különleges lett az biztos, de mi szeretjük, és a sok-sok növénnyel klasszul is néz ki. 
 
