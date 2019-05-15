@@ -35,7 +35,7 @@ A ház megvételekor - az előző tulajdonostól - maradtak itt régi ablakok, k
 ## Mi mindenre jó a tüzifa
 
 
-Minden évben, a téli tüzelőnk egy része akác deszka.
+Minden évben, a téli tüzelőnk egy része akác széldeszka.
 
 > Az benne a jó, hogy különböző szélességű, hosszúságú darabok vannak köztük, amiket aztán tüzetesen átvizsgál a férjem, és külön - külön "kupcolja" őket, felhasználás szerint csoportosítva.
 
@@ -71,7 +71,7 @@ De a jószerencse - mint oly sokszor - most is mellettünk volt. A néhány ház
 
 Lom volt elég az udvaron, hogy eggyel több vagy kevesebb, igazán nem számított. Áthoztuk, és félretettük.
 
-Aztán persze eljött az idő, amikor a férjem elkezdte a rendbe tenni. A vázát akác szélből készítette, az ülő részét pedig a kábeldob középső részéből. A hinta kapott egy kis zöld színű lazúrt, és lett egy kellően vidékies hintaágyunk szinte a semmiből.
+Aztán persze eljött az idő, amikor a férjem elkezdte rendbe tenni. A vázát akác szélből készítette, az ülő részét pedig a kábeldob középső részéből. A hinta kapott egy kis zöld színű lazúrt, és lett egy kellően vidékies hintaágyunk szinte a semmiből.
 
 
 ![fa](/assets/dekoráció/hintaágy.jpg)
