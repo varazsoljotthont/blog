@@ -9,35 +9,47 @@ image:
   width: 300
 ---
 
-**A családi ház tökéletes választás volt a részünkről. Tavasztól őszig kint vagyunk az udvaron, a kertben. Tavaly kialakítottuk a virágos kertet, és a szép kert igazán megérdemelt egy stílusos kiülőt.**
 
 
+**A családi ház tökéletes választás volt a részünkről. Az udvart és a kertet legalább akkorra lelkesedéssel alakítottuk ki, mint ahogy a  "Miházunkat" is felújítottuk. A szép kert pedig igazán megérdemelt egy stílusban passzoló kerti kiülőt is.**
+ 
 
 ## Előre tervezés
 
 A kerti kiülőnk a teljes egészében a férjemet dícséri.  
 
-Előrelátóan mindig félretette azokat deszkákat, faanyagokat amikről úgy gondolta, hogy beépíthető lesz majd az általunk megálmodott pihenőhelybe.
+Éveken keresztül, előrelátóan tette félre azokat deszkákat, faanyagokat amikről úgy gondolta, hogy beépíthető lesz majd az általunk megálmodott projektekbe.
 
-[Az előző posztban](/2019-05-16-fábólkreatívan) írtam a tűzrevaló fa egyéb felhasználásáról.
+Sok olyan faanyag is összegyűlt, amit kár lett volna hulladékként kezelni, és érdemes volt gyűjtögetni.
 
-Több okból is az akácdeszkát használta fel a kiülő megépítéséhez:
+> [Az előző posztban](/2019-05-16-fábólkreatívan) már írtam a tűzrevaló kreatív felhasználásáról.
+
+A téli tüzelőnk egy részét évek óta akác deszkaszél képezi, és a férjem tudatosan mindig kiválogatta azokat a darabokat amiben volt fantázia. 
+
+A tervezett pihenő elkészítéséhez is jónak tűnt az akácdeszka.
 
 
-* **bírja az időjárás viszontagságait**
+Több okból is ezt választotta a kiülő megépítéséhez:
+
+
+* **ellenálló az időjárás viszontagságainak**
+* **nem kellett külön anyagot venni hozzá**
+* **az egyéb anyagok ott voltak a házkörül**
 * **kellően girbe - gurba**
-* **a tüzelőnek vásárolt faból lett kiválogatva, így nem kellett külön anyagot venni hozzá**
-* **a plusz anyagok ott voltak a házkörül**
 
-## Inspirálódás
 
 ![idézet](/assets/fábólkreatívan/IMG_20190506_205856.jpg)
 
 
+## Inspirálódás
 
-**Egy kis ez, egy kis az**
 
-A ház megvételekor - az előző tulajdonostól - maradtak itt régi ablakok, különböző faanyagok. A felújítás során mi is sokat kitermeltünk, és a tüzifánkból is a férjem mindig kiválogatta azt, amit másra is fel tudott használni.
+Azt megbeszéltük, hogy rusztikus hangulatú pihenőhelyet szeretnénk.
+
+Mivel a házunk is egy régi felújított ház, ahonnan "hiányzik"  a derékszög, a párhuzamos és a merőleges, udvarra sem akartunk túl szabályos gerendákat.
+
+Sok képet megnéztünk, és kezdett kialakulni a kép az én férjuram fejében, hogy a mi alapanyagainkból mit lehet összehozni. Ezután jó pár  Youtube-s videót megnézett, hogy hogy kell elkészíteni, hogy stabil is legyen majd ha elkészül.
+
 
 
 ## Mi mindenre jó a tüzifa
