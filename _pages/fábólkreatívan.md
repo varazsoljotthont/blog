@@ -1,27 +1,35 @@
 ---
 layout: post
 title: "Így lett a tüzifa az otthonunk dísze"
-permalink: /fábólkreatívan/
-cover: /assets/fábólkreatívan/cover2.jpg
+permalink: /kiülő/
+cover: /assets/kiülő/cover2.jpg
 image:
-  path: /assets/fábólkreatívan/cover2.jpg
+  path: /assets/kiülő/cover2.jpg
   height: 300
   width: 300
 ---
 
-**Szeretünk barkácsolni, és a fa az egyik kedvenc alapanyagunk. A hulladék ill. tüzifából némi kreativitással sok hasznos dolgot és dekorációs tárgyat elkészíthetünk.**
+**A családi ház tökéletes választás volt a részünkről. Tavasztól őszig kint vagyunk az udvaron, a kertben. Tavaly kialakítottuk a virágos kertet, és a szép kert igazán megérdemelt egy stílusos kiülőt.**
 
 
 
+## Előre tervezés
 
-## A lehetőség mindenben ott van 
+A kerti kiülőnk a teljes egészében a férjemet dícséri.  
+
+Előrelátóan mindig félretette azokat deszkákat, faanyagokat amikről úgy gondolta, hogy beépíthető lesz majd az általunk megálmodott pihenőhelybe.
+
+[Az előző posztban](/2019-05-16-fábólkreatívan) írtam a tűzrevaló fa egyéb felhasználásáról.
+
+Több okból is az akácdeszkát használta fel a kiülő megépítéséhez:
 
 
-A házátalakítás során végig arra törekedtünk, hogy természetes anyagokkal vegyük körbe magunkat.
+* **bírja az időjárás viszontagságait**
+* **kellően girbe - gurba**
+* **a tüzelőnek vásárolt faból lett kiválogatva, így nem kellett külön anyagot venni hozzá**
+* **a plusz anyagok ott voltak a házkörül**
 
-Az alapszabályunk szerint 3 féle alapanyagot használtunk, hogy elkerüljük a "mindenből egy kicsi" okozta káoszt.
-
-Az, hogy mi a  **fa**, **a tégla**, valamint az udvaron a **a kavics**, a lakásban pedig **a fém** mellett döntöttünk, tudatos választás volt. Azontúl, hogy nagyon tetszettek, az anyagi okai is megvoltak. A tégláról már írtam  [ebben a posztban,](/2019-04-23/tegla) a fa pedig szintén kínálta magát, hogy használjuk fel a ház körül.
+## Inspirálódás
 
 ![idézet](/assets/fábólkreatívan/IMG_20190506_205856.jpg)
 
