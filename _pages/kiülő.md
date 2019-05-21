@@ -38,7 +38,7 @@ Több okból is ezt választotta a kiülő megépítéséhez:
 * **kellően girbe - gurba**
 
 
-![idézet](/assets/fábólkreatívan/IMG_20190506_205856.jpg)
+![idézet](/assets/kertikiülő/idézet.jpg)
 
 
 ## Inspirálódás
