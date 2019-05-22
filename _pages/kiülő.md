@@ -68,7 +68,7 @@ _Akác deszkaszél leszállítva, kezdődhet a válogatás_
 
 
 
-**Kezdődik a "legózás"
+**Kezdődik a "legózás"**
 
 Mivel nem szabályos deszkákból és gerendákból épült fel a kiülő, ezért elég sokat kellett tili-tolizni az anyagokkal.
 
@@ -77,13 +77,14 @@ Mivel nem szabályos deszkákból és gerendákból épült fel a kiülő, ezér
 
 
 
+![kiülő](/assets/kertikiülő/2.jpg)
+
+
+![kiülő](/assets/kertikiülő/3.jpg)
 
 
 
-
-
-
-
+![kiülő](/assets/kertikiülő/4.jpg)
 
 
 
