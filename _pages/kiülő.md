@@ -94,9 +94,14 @@ Először csak három pár szarufát tettünk fel, aztán inkább négy pár let
 
 ![kiülő](/assets/kertikiülő/8jav.jpg)
 
-Felkerültek a tetőlécek, indulhat a cserepezés
+Felkerültek a tetőlécek, indulhat a cserepezés.
 
 ![kiülő](/assets/kertikiülő/10.jpg)
+
+Ránézésre összeállt a dolog, de még volt vele feladat. Hogy stabil legyen sok merevítőt be kellett még építeni. 
+
+
+
 
 
 
@@ -106,6 +111,15 @@ Felkerültek a tetőlécek, indulhat a cserepezés
 
 ![kiülő](/assets/kertikiülő/14.jpg)
 
+Mikor ezzel elkészült a férjem, jöhetett a csinosítás.
+
+A kúpcserepet, ugyanúgy mint a régi házaknál fehér mésszel kente át Felkerült az oromdísz, és egy patkó, és végül az egész megkapta a lenolajos kényeztetést.
+
+Sokat gondolkodtunk azon, hogy mit kezdjünk az aljával.  
+Füvesnek nem akartuk meghagyni.  
+Egyrészt, ott nem is nő meg rendesen, másrészt ami megnő letapossuk, ahol pedig nem, ott meg nem lehet hozzáférni a fűnyíróval.
+
+Szerettük volna téglával leburkolni, de az össszeset elhasználtuk (hogy hova, arról [ebben a posztban olvashatsz,](/2019-04-23/tegla)) így aztán muszáj volt valami ütős, de stílusban odaillő, és persze olcsó megoldást találnunk.
 
 
 
