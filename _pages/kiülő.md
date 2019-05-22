@@ -22,7 +22,7 @@ A kerti kiülőnk a teljes egészében a férjemet dícséri.
 
 Sok olyan faanyag is összegyűlt, amit kár lett volna hulladékként kezelni, és érdemes volt gyűjtögetni.
 
-> [Az előző posztban](/2019-05-16-fábólkreatívan) már írtam a tűzrevaló kreatív felhasználásáról.
+> [Az előző posztban](/2019-05-16/fábólkreatívan) már írtam a tűzrevaló kreatív felhasználásáról.
 
 A téli tüzelőnk egy részét évek óta akác deszkaszél képezi, és a férjem tudatosan mindig kiválogatta azokat a darabokat amiben volt fantázia. 
 
