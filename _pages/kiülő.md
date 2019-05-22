@@ -74,13 +74,14 @@ Mivel nem szabályos deszkákból és gerendákból épült fel a kiülő, ezér
 
 
 ![kiülő](/assets/kertikiülő/1.jpg)
+_A felhasználanyagok kérgezésével indult a projekt_
 
 
 
 ![kiülő](/assets/kertikiülő/2.jpg)
 
 
-![kiülő](/assets/kertikiülő/3.jpg)
+
 
 
 
