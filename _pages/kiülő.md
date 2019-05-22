@@ -100,15 +100,15 @@ Felkerültek a tetőlécek, indulhat a cserepezés
 
 
 
-![kiülő](/assets/kertikiülő/11.jpg)
+![kiülő](/assets/kertikiülő/11jav.jpg)
 
-
+![kiülő](/assets/kertikiülő/15.jpg)
 
 ![kiülő](/assets/kertikiülő/14.jpg)
 
 
 
-![kiülő](/assets/kertikiülő/15.jpg)
+
 
 **+ 1 gondolat:**   
 A fa védelméről gondoskodni kell. Mivel nem akartunk semmit színre festeni  (a hintaágyon kívül) a lenolaj lett az az anyag, amivel minden évben felületkezelek mindent. Van vele munka, de ha ez az ára, hogy sokáig örülhessünk neki, akkor nem szabad sajnálni a fától a védelmet.
