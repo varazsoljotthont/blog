@@ -48,180 +48,44 @@ Azt megbeszéltük, hogy rusztikus hangulatú pihenőhelyet szeretnénk.
 
 Mivel a házunk is egy régi felújított ház, ahonnan "hiányzik"  a derékszög, a párhuzamos és a merőleges, udvarra sem akartunk túl szabályos gerendákat.
 
-Sok képet megnéztünk, és kezdett kialakulni a kép az én férjuram fejében, hogy a mi alapanyagainkból mit lehet összehozni. Ezután jó pár  Youtube-s videót megnézett, hogy hogy kell elkészíteni, hogy stabil is legyen majd ha elkészül.
+Sok képet megnéztünk, és kezdett kialakulni a kép az én férjuram fejében, hogy a mi alapanyagainkból mit lehet összehozni. 
 
 
+## A kiülő
 
-## Mi mindenre jó a tüzifa
 
+A kiülő elkészítése nem leírások, és szabályos faanyagok felhasználásával történt, épp ezért nem igazán tudok róla részleteiben írni.  
 
-Minden évben, a téli tüzelőnk egy része akác széldeszka.
+Rendhagyó módon most egy képriport következik arról, ahogy kinőtt a földből a mi kerti pihenőhelyünk.
 
-> Az benne a jó, hogy különböző szélességű, hosszúságú darabok vannak köztük, amiket aztán tüzetesen átvizsgál a férjem, és külön - külön "kupcolja" őket, felhasználás szerint csoportosítva.
 
-Az udvaron sok minden ebből készült, kézenfekvő volt, hogy ebből dolgozzunk.
+**Az alapanyag**
 
+Két évi adagból lettek kiválogatva a megfelelő méretű deszka darabok. Fontos volt, hogy legyenek kellő hosszúságúak a padnak és az asztallapjának.
 
+![kiülő](/assets/kertikiülő/IMG_20190417_065254.jpg)
+_Akác deszkaszél leszállítva, kezdődhet a válogatás_
 
-**Kerti kiülő**
 
 
+**Kezdődik a "legózás"
 
+Mivel nem szabályos deszkákból és gerendákból épült fel a kiülő, ezért elég sokat kellett tili-tolizni az anyagokkal.
 
 
+![kiülő](/assets/kertikiülő/1.jpg)
 
-Két évi adagból gyűlt össze az a mennyiség, amiből el lehetett kezdeni a kiülőnk elkészítését. 
 
-(Lesz majd róla egy külön poszt, megígérem)
 
-Pár hét alatt megcsinálta a férjem, és mi azóta is nagy örömmel rendszeresen használjuk. 
 
 
-![fa](/assets/fábólkreatívan/IMG_20190509_185602.jpg)
-_Az oromdeszka régi padlásdeszkából készült_
 
-![fa](/assets/fábólkreatívan/IMG_20190511_091740jó.jpg)
 
 
-**Hintaágy**
 
-A hintaágy nagy vágyunk volt, de amíg a felújítás zajlott nem is foglalkoztunk a témával.
 
-De a jószerencse - mint oly sokszor - most is mellettünk volt. A néhány házzal arrébb lakó ismerős lecserélte az övét, és megkérdezte tőlünk érdekel-e bennünket a régi.
 
-Lom volt elég az udvaron, hogy eggyel több vagy kevesebb, igazán nem számított. Áthoztuk, és félretettük.
 
-Aztán persze eljött az idő, amikor a férjem elkezdte rendbe tenni. A vázát akác szélből készítette, az ülő részét pedig a kábeldob középső részéből. A hinta kapott egy kis zöld színű lazúrt, és lett egy kellően vidékies hintaágyunk szinte a semmiből.
-
-
-![fa](/assets/dekoráció/hintaágy.jpg)
-
-
-
-**Ágyásszegély**
-
-Szokták mondani, hogy az ördög a részletekben lakozik, és én ezt csak megerősíteni tudom.
-
-Mikor elkezdtem az udvart csinosítani, és kialakítottuk az ágyásokat, valami nagyon hiányzott. 
-Hiába ültettem el a virágokat, fákat, bokrokat, befejezetlennek tűnt...
-
-A lezárása hiányzott a virágágyásnak. Kellett egy keretet adni a helynek, hogy kiemelje a növények szépségét.
-
-Az akác széldeszka jó választásnak tűnt, és teljesen beleillik az udvarunkba
-
-![fa](/assets/dekoráció/szegély.jpg)
-
-
-
-
-
-## Polcok
-
-
-A nappaliban, fürdőszobában polcok készültek ebből az anyagból, az előtérben pedig a fogasok.
-
-**Nappali**
-
-
-![fa](/assets/dekoráció/IMG_20190325_175636.jpg)
-_A nappali bútorzata, dekorációja, a téli tüzelőből és a hulladék fadarabokból készült_
-
-![fa](/assets/fábólkreatívan/nappali.jpg)
-_Faszeletből szivecskék, szőlőtőkéből falidísz, rá régi ajtóbetétből csillagok, amiket aztán rozsdásítottam_
-
-
-**Előtér**
-
-![fa](/assets/dekoráció/53382599_362051337720674_7760969830441680896_n.jpg)
-_A dekorációkról szóló posztot [itt találod](/2019-03-26/dekoráció)_
-
-
-
-**Fürdőszoba**
-
-![fa](/assets/fábólkreatívan/fürdőj.jpg)
-_Nagy kedvencem ez a polc, és a spárgázott dobozokban a női dolgok is elrejhetők_
-
-
-
-
-
-## Régi ablakkeretek
-
-**Kis asztal, polc**
-
-Nem is hinnénk, hogy még ezeket a régi szúette darabokat is újra lehet hasznosítani.
-
-A férjemet dícséri a konyhai kisasztalka, és a polc.
-
-A régi ablakkereteket szembefordítva rögzítette, és bepolcozta. A polc alsó részének ajtaja egy régi ajtóbetét lett. A fogantyú egy kis kerek faszelet. 
-
-Szerintem tökéletes lett. 
-
-
-![fa](/assets/fábólkreatívan/IMG_20190512_193914.jpg)
-
-
-![fa](/assets/fábólkreatívan/IMG_20190512_192054.jpg)
-
-
-**Dekoráció**
-
-Egy kert alatti sétánk alkalmával találtunk egy hármas osztású ablakkeretet.
-
-Mire kiszáradt a téli csapadékból, már tudtam is, hogy mi lesz belőle.
-
-A hátuljára farostlemezt csavarozott a férjem, és nekem már csak festeni kellett. A hálószobába, az ágy fölé került a monogramunkkal újra gondolt régi ablak 
-.
-> Őszinte leszek, volt olyan ismerős aki nem értette, hogy ezt most mire jó, de nekünk nagyon tetszik azóta is.
-
-![fa](/assets/fábólkreatívan/tk.jpg)
-_Az éjjeliszekrényke is saját gyártmány_
-
-## Kábeldob
-
-A szerencsének komoly szerepe van az életünkben.
-
-A férjem munkahelyén delegációt vártak, és az udvaron levő kábeldobokat el kellett tüntetni szem elől. Mivel mi ott élünk, ahol a munkahely van - és az udvarunk úgyis egy kis tüzépre hasonlított -, az lett a megoldása a dolognak, hogy szétszedés után hozzánk hozták.
-
-Egy délután "gurigáztunk" velük, mire összeraktuk, és akkor mégcsak tippünk sem volt, hogy mire lesznek majd jók.
-
-Egy kolléga adta az ötletet, hogy csináljunk belőle kerítést... Először meglepőnek tűnt a javaslata, aztán megfogadtuk, és a férjem megcsinálta.  
-Mi csak Viking kerítésnek hívjuk.  
-Hogy különleges lett az biztos, de mi szeretjük, és a sok-sok növénnyel klasszul is néz ki. 
-
-
-![fa](/assets/fábólkreatívan/kertjav.jpg)
-
-
-![fa](/assets/fábólkreatívan/IMG_20190511_091031jó.jpg)
-
-
-
-
-## Apróságok
-
-![fa](/assets/dekoráció/láda.jpg)
-_Virágtartó láda_
-
-
-![fa](/assets/fábólkreatívan/IMG_20190512_104815.jpg)
-_Az újságtartó a kibontott, régi faredőny újragondolása_
-
-
-![polc](/assets/mosokonyha/polc.jpg)
-_A mosókonyha polca a régi padlóból van_
-
-![polc](/assets/mosokonyha/DSCF2723.JPG)
-_Szennyestartó és a mosdószekrény is újrafelhasznált fából van elkészítve_
-
-A [mosókonyháról itt,](/2019-04-30/mosokonyha) [és itt](/2019-05-06/mosókonyhaberendezés) olvashatsz bővebben.
-
-**...a végére egy hangulat fotó. Régi ajtó, ami még keresi a helyét...**
-
-
-
-![fa](/assets/fábólkreatívan/ajtó.jpg)
 
 
 
