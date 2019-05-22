@@ -82,16 +82,19 @@ _A felhasználanyagok kérgezésével indult a projekt_
 
 
 
+Az, hogy mi legyen majd a kiülő tetején,eléggé feladta a leckét... Nem akartuk olyan anyaggal lefedni, ami nem illik bele az általunk elképzelt képbe.
+A cserép lett megszavazva, de ez a súlya miatt okozott némi fejtörést.
 
+Először csak három pár szarufát tettünk fel, aztán inkább négy pár lett, nehogy a cserép súlya problémát okozzon.
 
 
 ![kiülő](/assets/kertikiülő/4.jpg)
 
 
 
-![kiülő](/assets/kertikiülő/6.jpg)
 
-![kiülő](/assets/kertikiülő/7.jpg)
+
+
 
 
 ![kiülő](/assets/kertikiülő/8jav.jpg)
