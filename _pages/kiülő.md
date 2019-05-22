@@ -32,7 +32,7 @@ A tervezett pihenő elkészítéséhez is jónak tűnt az akácdeszka.
 Több okból is ezt választotta a kiülő megépítéséhez:
 
 
-* **ellenálló az időjárás viszontagságainak**
+* **ellenáll az időjárás viszontagságainak**
 * **nem kellett külön anyagot venni hozzá**
 * **az egyéb anyagok ott voltak a házkörül**
 * **kellően girbe - gurba**
@@ -113,7 +113,10 @@ Ránézésre összeállt a dolog, de még volt vele feladat. Hogy stabil legyen 
 
 Mikor ezzel elkészült a férjem, jöhetett a csinosítás.
 
-A kúpcserepet, ugyanúgy mint a régi házaknál fehér mésszel kente át Felkerült az oromdísz, és egy patkó, és végül az egész megkapta a lenolajos kényeztetést.
+A kúpcserepet, ugyanúgy mint a régi házaknál fehér mésszel kente át Felkerült az oromdísz, és egy patkó, végül az egész megkapta a lenolajos kényeztetést.
+
+
+**Mi legyen a talpunk alatt?**
 
 Sokat gondolkodtunk azon, hogy mit kezdjünk az aljával.  
 Füvesnek nem akartuk meghagyni.  
