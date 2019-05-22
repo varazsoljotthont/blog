@@ -94,7 +94,7 @@ _A felhasználanyagok kérgezésével indult a projekt_
 ![kiülő](/assets/kertikiülő/7.jpg)
 
 
-![kiülő](/assets/kertikiülő/8.jpg)
+![kiülő](/assets/kertikiülő/8jav.jpg)
 
 
 
