@@ -82,27 +82,33 @@ _A felhasználanyagok kérgezésével indult a projekt_
 
 
 
-Az, hogy mi legyen majd a kiülő tetején,eléggé feladta a leckét... Nem akartuk olyan anyaggal lefedni, ami nem illik bele az általunk elképzelt képbe.
-A cserép lett megszavazva, de ez a súlya miatt okozott némi fejtörést.
+Az, hogy mi legyen majd a kiülő tetején, eléggé feladta a leckét... Nem akartuk olyan anyaggal lefedni, ami nem illik bele az általunk elképzelt képbe.
+Cserép lett megszavazva, de ez a súlya miatt okozott némi fejtörést.
 
-Először csak három pár szarufát tettünk fel, aztán inkább négy pár lett, nehogy a cserép súlya problémát okozzon.
+Először csak három pár szarufát tettünk fel, aztán inkább négy pár lett belőle, nehogy a cserép súlya problémát okozzon.
 
 
 ![kiülő](/assets/kertikiülő/4.jpg)
 
 
 
-
-
-
-
-
 ![kiülő](/assets/kertikiülő/8jav.jpg)
 
+Felkerültek a tetőlécek, indulhat a cserepezés
+
+![kiülő](/assets/kertikiülő/10.jpg)
 
 
 
+![kiülő](/assets/kertikiülő/11.jpg)
 
+
+
+![kiülő](/assets/kertikiülő/14.jpg)
+
+
+
+![kiülő](/assets/kertikiülő/15.jpg)
 
 **+ 1 gondolat:**   
 A fa védelméről gondoskodni kell. Mivel nem akartunk semmit színre festeni  (a hintaágyon kívül) a lenolaj lett az az anyag, amivel minden évben felületkezelek mindent. Van vele munka, de ha ez az ára, hogy sokáig örülhessünk neki, akkor nem szabad sajnálni a fától a védelmet.
