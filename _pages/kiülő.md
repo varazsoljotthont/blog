@@ -116,9 +116,14 @@ Ránézésre összeállt a dolog, de még volt vele feladat. Hogy stabil legyen 
 
 ![kiülő](/assets/kertikiülő/14.jpg)
 
+![kiülő](/assets/kertikiülő/oromdísz.jpg)
+
 Mikor ezzel elkészült a férjem, jöhetett a csinosítás.
 
-A kúpcserepet, ugyanúgy mint a régi házaknál fehér mésszel kente át Felkerült az oromdísz, és egy patkó, végül az egész megkapta a lenolajos kényeztetést.
+A kúpcserepet - ugyanúgy mint a régi házaknál - fehér mésszel kente át. Felkerült a bádog, az oromdísz, és egy patkó. Végül az egész megkapta a lenolajos kényeztetést.
+
+
+
 
 
 **Mi legyen a talpunk alatt?**
@@ -129,7 +134,7 @@ Egyrészt, ott nem is nő meg rendesen, másrészt ami megnő letapossuk, ahol p
 
 Szerettük volna téglával leburkolni, de az össszeset elhasználtuk (hogy hova, arról [ebben a posztban olvashatsz,](/2019-04-23/tegla)) így aztán muszáj volt valami ütős, de stílusban odaillő, és persze olcsó megoldást találnunk.
 
-
+![kiülő](/assets/kertikiülő/keret.jpg)
 
 
 **+ 1 gondolat:**   
