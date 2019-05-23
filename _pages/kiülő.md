@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Kerti kiülő gazdaságosan, sajátkezűleg"
+title: "Kerti kiülő sajátkezűleg, olcsón, stílusosan"
 permalink: /kiülő/
 cover: /assets/kiülő/cover2.jpg
 image:
