@@ -90,7 +90,7 @@ _A felhasznált anyagok kérgezésével indult a projekt_
 Az, hogy mi legyen majd a kiülő tetején, eléggé feladta a leckét... Nem akartuk olyan anyaggal lefedni, ami nem illik bele az általunk elképzelt képbe.
 Cserép lett megszavazva, de ez a súlya miatt okozott némi fejtörést.
 
-Először csak három pár szarufát tettünk fel, aztán inkább négy pár lett belőle, nehogy a cserép súlya problémát okozzon.
+Először csak három pár szarufát tettünk fel, aztán inkább négy pár lett belőle, hogy ne jelentsen problémát a cserép súlya.
 
 
 ![kiülő](/assets/kertikiülő/4.jpg)
