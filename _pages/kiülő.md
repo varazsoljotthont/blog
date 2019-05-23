@@ -116,11 +116,17 @@ Ránézésre összeállt a dolog, de még volt vele feladat. Hogy stabil legyen 
 
 ![kiülő](/assets/kertikiülő/14.jpg)
 
-![kiülő](/assets/kertikiülő/oromdísz.jpg)
 
 Mikor ezzel elkészült a férjem, jöhetett a csinosítás.
 
-A kúpcserepet - ugyanúgy mint a régi házaknál - fehér mésszel kente át. Felkerült a bádog, az oromdísz, és egy patkó. Végül az egész megkapta a lenolajos kényeztetést.
+A kúpcserepet - ugyanúgy mint a régi házaknál - fehér mésszel kente át. Felkerült a bádog, az oromdísz, az oromdeszka és egy patkó. Végül az egész megkapta a lenolajos kényeztetést.
+
+
+
+
+
+![kiülő](/assets/kertikiülő/oromdísz.jpg)
+
 
 
 
