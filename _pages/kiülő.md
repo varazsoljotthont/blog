@@ -103,7 +103,7 @@ Felkerültek a tetőlécek, indulhat a cserepezés.
 
 ![kiülő](/assets/kertikiülő/10.jpg)
 
-Ránézésre összeállt a dolog, de még volt vele feladat. Hogy stabil legyen sok merevítőt be kellett még építeni. 
+Ránézésre összeállt a dolog, de még volt vele feladat. Hogy stabil legyen, sok merevítőt be kellett még építeni. 
 
 
 
