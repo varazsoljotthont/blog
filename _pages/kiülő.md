@@ -119,7 +119,7 @@ Ránézésre összeállt a dolog, de még volt vele feladat. Hogy stabil legyen 
 
 Mikor ezzel elkészült a férjem, jöhetett a csinosítás.
 
-A kúpcserepet - ugyanúgy mint a régi házaknál - fehér mésszel kente át. Felkerült a bádog, az oromdísz, az oromdeszka és egy patkó. Végül az egész megkapta a lenolajos kényeztetést.
+A kúpcserepet - ugyanúgy mint a régi házaknál - fehér mésszel kente át. Felkerült a bádog, az oromdeszka, az oromdísz és egy patkó is. Végül az egész megkapta a lenolajos kényeztetést.
 
 
 
@@ -141,6 +141,14 @@ Egyrészt, ott nem is nő meg rendesen, másrészt ami megnő letapossuk, ahol p
 Szerettük volna téglával leburkolni, de az össszeset elhasználtuk (hogy hova, arról [ebben a posztban olvashatsz,](/2019-04-23/tegla)) így aztán muszáj volt valami ütős, de stílusban odaillő, és persze olcsó megoldást találnunk.
 
 ![kiülő](/assets/kertikiülő/keret.jpg)
+
+Tiborom ötlete volt az akácfa szegély, amivel én teljesen egyetértettem. Tökéletesen illik a házhoz, hisz az udvaron is ebből készültek az ágyásszegélyek és nem került semmibe.
+
+
+
+![kiülő](/assets/kertikiülő/kavics.jpg)
+
+A kiülő alá geotextíliát tettünk, és kb 1 m3 16 - 32-es kavicsot terített el a férjem, amit a közeli bányából hozattunk.
 
 
 **+ 1 gondolat:**   
