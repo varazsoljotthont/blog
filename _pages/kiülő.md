@@ -138,7 +138,7 @@ Sokat gondolkodtunk azon, hogy mit kezdjünk az aljával.
 Füvesnek nem akartuk meghagyni.  
 Egyrészt, ott nem is nő meg rendesen, másrészt ami megnő letapossuk, ahol pedig nem, ott meg nem lehet hozzáférni a fűnyíróval.
 
-Szerettük volna téglával leburkolni, de az össszeset elhasználtuk (hogy hova, arról [ebben a posztban olvashatsz,](/2019-04-23/tegla)) így aztán muszáj volt valami ütős, de stílusban odaillő, és persze olcsó megoldást találnunk.
+Szerettük volna téglával leburkolni, de az össszeset elhasználtuk, (hogy hova, arról [ebben a posztban olvashatsz,](/2019-04-23/tegla)) így aztán muszáj volt valami ütős, de stílusban odaillő, és persze olcsó megoldást találnunk.
 
 
 Tiborom ötlete volt az akácfa szegély, amivel én teljesen egyetértettem. Tökéletesen illik a házhoz, hisz az udvaron is ebből készültek az ágyásszegélyek és nem került semmibe.
@@ -163,7 +163,7 @@ Lassanként elkészültünk vele, és birtokba vehettük. Sütögetés, tárcsá
 Mikor elkészült a mű és használatba vettük, akkor jelentkezett részemről az igény egy párnatartó ládára. 
 
 Tavasszal, nyár végén már hűvösnek éreztük a padot mikor leültünk, és mindig a lakásból kellett kicipelni a párnákat.  
-Persze az én férjem ezt is megoldotta nekem. Egy nagy alkatrészes ládát alakított át erre célra, és nemcsak stílusos lett, hanem praktikus is. Nem ázik be, így tavasztól őszig  az udvaron is kéznél vannak a párnák.
+Persze, az én férjem ezt is megoldotta nekem. Egy nagy alkatrészes ládát alakított át erre célra, és nemcsak stílusos lett, hanem praktikus is. Nem ázik be, így tavasztól őszig  az udvaron is kéznél vannak a párnák.
 
 ![kiülő](/assets/kertikiülő/láda.jpg)
 
@@ -176,7 +176,7 @@ Azt hiszem, így már késznek nevezhetjük...
 
 
 **+ 1 gondolat:**   
-Ha a sok munkaórát nem számoljuk, akkor kevés kiadással lett egy szép, egyedi kiülőnk. Ilyet venni nem lehet. Az anyag itt volt. Persze, az akác deszakszélért fizettünk, de pluszban nem kellett venni semmit. Még a csavarok is azokból a kábeldobokból lettek kiszedve, amik már évekkel ezelőtt kerültek hozzánk. A cserép szintén meg volt. A geotextília és a kavics az, amiért pénzt adtunk,és így mondhatom, hogy ez a projekt nagyon megérte.
+Ha a sok munkaórát nem számoljuk, akkor kevés kiadással lett egy szép, egyedi kiülőnk. Persze, az akác deszakszélért fizettünk, de pluszban nem kellett venni semmit. Még a csavarok is azokból a kábeldobokból lettek kiszedve, amik már évekkel ezelőtt kerültek hozzánk. A cserép szintén meg volt. A geotextília és a kavics az, amiért pénzt adtunk, és így azt mondhatom, hogy ez a projekt nagyon megérte.
 
 
 <a href="https://www.facebook.com/Var%C3%A1zsolj-otthont-360330751226066/" target="_blank">Ha tetszett, kedveld a Facebook oldalt is</a> , itt még több érdekességet találsz a mindennapok varázslataiból.
