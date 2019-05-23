@@ -140,19 +140,43 @@ Egyrészt, ott nem is nő meg rendesen, másrészt ami megnő letapossuk, ahol p
 
 Szerettük volna téglával leburkolni, de az össszeset elhasználtuk (hogy hova, arról [ebben a posztban olvashatsz,](/2019-04-23/tegla)) így aztán muszáj volt valami ütős, de stílusban odaillő, és persze olcsó megoldást találnunk.
 
-![kiülő](/assets/kertikiülő/keret.jpg)
 
 Tiborom ötlete volt az akácfa szegély, amivel én teljesen egyetértettem. Tökéletesen illik a házhoz, hisz az udvaron is ebből készültek az ágyásszegélyek és nem került semmibe.
 
+![kiülő](/assets/kertikiülő/keret.jpg)
 
 
-![kiülő](/assets/kertikiülő/kavics.jpg)
 
 A kiülő alá geotextíliát tettünk, és kb 1 m3 16 - 32-es kavicsot terített el a férjem, amit a közeli bányából hozattunk.
 
 
+![kiülő](/assets/kertikiülő/kavics.jpg)
+
+Lassanként elkészültünk vele, és birtokba vehettük. Sütögetés, tárcsázás idején a legjobb hely. Árnyékos, kényelmes és ennél többre nincs is szükség.
+
+![kiülő](/assets/kertikiülő/IMG_20190523_154615.jpg)
+
+![kiülő](/assets/kertikiülő/IMG_20190523_155418.jpg)
+
+## Párnatartó láda
+
+Mikor elkészült a mű és használatba vettük, akkor jelentkezett részemről az igény egy párnatartó ládára. 
+
+Tavasszal, nyár végén már hűvösnek éreztük a padot mikor leültünk, és mindig a lakásból kellett kicipelni a párnákat.  
+Persze az én férjem ezt is megoldotta nekem. Egy nagy alkatrészes ládát alakított át erre célra, és nemcsak stílusos lett, hanem praktikus is. Nem ázik be, így tavasztól őszig  az udvaron is kéznél vannak a párnák.
+
+![kiülő](/assets/kertikiülő/láda.jpg)
+
+![kiülő](/assets/kertikiülő/láda1.jpg)
+
+![kiülő](/assets/kertikiülő/láda2.jpg)
+
+Azt hiszem, így már késznek nevezhetjük...
+
+
+
 **+ 1 gondolat:**   
-A fa védelméről gondoskodni kell. Mivel nem akartunk semmit színre festeni  (a hintaágyon kívül) a lenolaj lett az az anyag, amivel minden évben felületkezelek mindent. Van vele munka, de ha ez az ára, hogy sokáig örülhessünk neki, akkor nem szabad sajnálni a fától a védelmet.
+Ha a sok munkaórát nem számoljuk, akkor kevés kiadással lett egy szép, egyedi kiülőnk. Ilyet venni nem lehet. Az anyag itt volt. Persze, az akác deszakszélért fizettünk, de pluszban nem kellett venni semmit. Még a csavarok is azokból a kábeldobokból lettek kiszedve, amik már évekkel ezelőtt kerültek hozzánk. A cserép szintén meg volt. A geotextília és a kavics az, amiért pénzt adtunk,és így mondhatom, hogy ez a projekt nagyon megérte.
 
 
 <a href="https://www.facebook.com/Var%C3%A1zsolj-otthont-360330751226066/" target="_blank">Ha tetszett, kedveld a Facebook oldalt is</a> , itt még több érdekességet találsz a mindennapok varázslataiból.
