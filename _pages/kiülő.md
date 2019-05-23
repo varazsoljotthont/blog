@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Így lett a tüzifa az otthonunk dísze"
+title: "Kerti kiülő gazdaságosan, sajátkezűleg"
 permalink: /kiülő/
 cover: /assets/kiülő/cover2.jpg
 image:
@@ -11,14 +11,18 @@ image:
 
 
 
-**A családi ház tökéletes választás volt a részünkről. Az udvart és a kertet legalább akkorra lelkesedéssel alakítottuk ki, mint ahogy a  "Miházunkat" is felújítottuk. A szép kert pedig igazán megérdemelt egy stílusban passzoló kerti kiülőt is.**
+**A családi ház tökéletes választás volt a részünkről. Az udvart és a kertet legalább akkora lelkesedéssel alakítottuk ki, mint ahogy a  "Miházunkat" is felújítottuk. A szép kert pedig igazán megérdemelt egy stílusban passzoló kerti kiülőt is.**
  
 
 ## Előre tervezés
 
 A kerti kiülőnk a teljes egészében a férjemet dícséri.  
 
-Éveken keresztül, előrelátóan tette félre azokat deszkákat, faanyagokat amikről úgy gondolta, hogy beépíthető lesz majd az általunk megálmodott projektekbe.
+
+![idézet](/assets/kertikiülő/idézet.jpg)
+
+
+Éveken keresztül előrelátóan tette félre azokat deszkákat, faanyagokat, amikről úgy gondolta, hogy beépíthető lesz majd az általunk megálmodott projektekbe.
 
 Sok olyan faanyag is összegyűlt, amit kár lett volna hulladékként kezelni, és érdemes volt gyűjtögetni.
 
@@ -26,9 +30,7 @@ Sok olyan faanyag is összegyűlt, amit kár lett volna hulladékként kezelni, 
 
 A téli tüzelőnk egy részét évek óta akác deszkaszél képezi, és a férjem tudatosan mindig kiválogatta azokat a darabokat amiben volt fantázia. 
 
-A tervezett pihenő elkészítéséhez is jónak tűnt az akácdeszka.
-
-
+A tervezett pihenő elkészítéséhez is jónak tűnt az akácdeszka.  
 Több okból is ezt választotta a kiülő megépítéséhez:
 
 
@@ -38,7 +40,7 @@ Több okból is ezt választotta a kiülő megépítéséhez:
 * **kellően girbe - gurba**
 
 
-![idézet](/assets/kertikiülő/idézet.jpg)
+
 
 
 ## Inspirálódás
@@ -46,9 +48,9 @@ Több okból is ezt választotta a kiülő megépítéséhez:
 
 Azt megbeszéltük, hogy rusztikus hangulatú pihenőhelyet szeretnénk.
 
-Mivel a házunk is egy régi felújított ház, ahonnan "hiányzik"  a derékszög, a párhuzamos és a merőleges, udvarra sem akartunk túl szabályos gerendákat.
+Mivel a házunk is egy régi, felújított ház, ahonnan "hiányzik" a derékszög, a párhuzamos és a merőleges, az udvarra sem akartunk túl szabályos gerendákat.
 
-Sok képet megnéztünk, és kezdett kialakulni a kép az én férjuram fejében, hogy a mi alapanyagainkból mit lehet összehozni. 
+Sokat ötleteltünk, körbenéztünk a neten, és kezdett kialakulni a megvalósítás az én férjuram fejében, hogy a mi alapanyagainkból mit lehet összehozni. 
 
 
 ## A kiülő
@@ -61,7 +63,7 @@ Rendhagyó módon most egy képriport következik arról, ahogy kinőtt a földb
 
 **Az alapanyag**
 
-Két évi adagból lettek kiválogatva a megfelelő méretű deszka darabok. Fontos volt, hogy legyenek kellő hosszúságúak a padnak és az asztallapjának.
+Két évi adagból lettek kiválogatva a megfelelő méretű deszka darabok. Fontos volt, hogy legyen köztük kellő hosszúságú a padnak és az asztallapjának.
 
 ![kiülő](/assets/kertikiülő/IMG_20190417_065254.jpg)
 _Akác deszkaszél leszállítva, kezdődhet a válogatás_
@@ -70,11 +72,14 @@ _Akác deszkaszél leszállítva, kezdődhet a válogatás_
 
 **Kezdődik a "legózás"**
 
-Mivel nem szabályos deszkákból és gerendákból épült fel a kiülő, ezért elég sokat kellett tili-tolizni az anyagokkal.
 
+
+Mivel nem szabályos deszkákból és gerendákból épült fel a kiülő, ezért elég sokat kellett tili-tolizni az anyagokkal.  Épületfából lényegesen egyszerűbb lett volna, de nem akartunk sokat költeni. 
+
+...az olcsó legyen, de jó elvünkhöz itt is ragaszkodtunk.
 
 ![kiülő](/assets/kertikiülő/1.jpg)
-_A felhasználanyagok kérgezésével indult a projekt_
+_A felhasznált anyagok kérgezésével indult a projekt_
 
 
 
