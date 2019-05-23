@@ -36,7 +36,7 @@ Több okból is ezt választotta a kiülő megépítéséhez:
 
 * **ellenáll az időjárás viszontagságainak**
 * **nem kellett külön anyagot venni hozzá**
-* **az egyéb anyagok ott voltak a házkörül**
+* **az egyéb anyagok ott voltak a ház körül**
 * **kellően girbe - gurba**
 
 
