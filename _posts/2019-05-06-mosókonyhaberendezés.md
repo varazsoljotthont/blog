@@ -92,7 +92,7 @@ Csempét vagy hasonlót nem szerettünk volna.
 Fa mellett döntöttünk, de nem volt olyan széles deszka darabunk, ami elfedte volna. 
 Némi gondolkodás után megszületett az ötlet.
 
-Akác deszkából készítette a férjem, ami nagyszerűen rímel a megmentett gerendához is. Igaz, hogy ez is keskenyebb lett mint a párkány, de nagyon ötletes megoldása lett a dolognak.
+Akác deszkából készítette a férjem, ami nagyszerűen illik a megmentett gerendához is. Igaz, hogy ez is keskenyebb lett mint a párkány, de nagyon ötletes megoldása lett a dolognak.
 
 A hiányzó részt misunggal öntötte ki, én pedig lekentem mosható, fehér festékkel.
 
@@ -220,7 +220,7 @@ Felújítottuk őket, és tökéletesek lettek a mosókonyhába.
 
 ## Frau Zimmer
 
-...még a nevét is kaptuk a helyiségnek. Mi csak Frau Zimmerként emlegetjük, ezt kapta a névadón. 
+Még a nevét is kaptuk a helyiségnek...
 
 Szemben velünk egy osztrák házaspár lakik (férj csak keveset beszél magyarul), és mikor készült a mosókonyha, kérdezgette, hogy mi lesz ez... Mondtuk, hogy mosókonyha, ő meg, hogy: Ja, ja! Frau Zimmer! Nekünk pedig úgy megtetszett, hogy rajt is maradt.
 
