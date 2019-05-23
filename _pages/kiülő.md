@@ -171,7 +171,7 @@ Persze, az én férjem ezt is megoldotta nekem. Egy nagy alkatrészes ládát al
 
 ![kiülő](/assets/kertikiülő/láda3.jpg)
 
-Azt hiszem, így már késznek nevezhetjük...
+Azt hiszem, így már késznek nevezhetjük a pihenőhelyünket...
 
 
 
