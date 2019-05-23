@@ -163,13 +163,13 @@ Lassanként elkészültünk vele, és birtokba vehettük. Sütögetés, tárcsá
 Mikor elkészült a mű és használatba vettük, akkor jelentkezett részemről az igény egy párnatartó ládára. 
 
 Tavasszal, nyár végén már hűvösnek éreztük a padot mikor leültünk, és mindig a lakásból kellett kicipelni a párnákat.  
-Persze, az én férjem ezt is megoldotta nekem. Egy nagy alkatrészes ládát alakított át erre célra, és nemcsak stílusos lett, hanem praktikus is. Nem ázik be, így tavasztól őszig  az udvaron is kéznél vannak a párnák.
+Persze, az én férjem ezt is megoldotta nekem. Egy nagy alkatrészes ládát alakított át erre célra, és nemcsak stílusos lett, hanem praktikus is. Nem ázik be, így már tavasztól őszig  az udvaron is kéznél lesznek a párnák.
 
 ![kiülő](/assets/kertikiülő/láda.jpg)
 
-![kiülő](/assets/kertikiülő/láda1.jpg)
-
 ![kiülő](/assets/kertikiülő/láda2.jpg)
+
+![kiülő](/assets/kertikiülő/láda3.jpg)
 
 Azt hiszem, így már késznek nevezhetjük...
 
