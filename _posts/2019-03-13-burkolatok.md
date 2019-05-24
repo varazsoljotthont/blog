@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Eltűnt a beton, avagy burkolatok a házban"
+title: "Burkolatok az otthonunkban"
 cover: /assets/burkolatok/cover.JPG
 image:
   path: /assets/burkolatok/cover.JPG
