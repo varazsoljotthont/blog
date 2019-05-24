@@ -41,6 +41,10 @@ Több okból is ezt választotta a kiülő megépítéséhez:
 
 
 
+![kiülő](/assets/kertikiülő/IMG_20190524_085912.jpg)
+_A vidékies kertünk és a kiülőnk között teljes a harmónia_
+
+
 
 
 ## Inspirálódás
