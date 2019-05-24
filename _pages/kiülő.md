@@ -19,7 +19,7 @@ image:
 A kerti kiülőnk a teljes egészében a férjemet dícséri.  
 
 
-![idézet](/assets/kertikiülő/idézet.jpg)
+![idézet](/assets/kertikiülő/idézet2.jpg)
 
 
 Éveken keresztül előrelátóan tette félre azokat deszkákat, faanyagokat, amikről úgy gondolta, hogy beépíthető lesz majd az általunk megálmodott projektekbe.
