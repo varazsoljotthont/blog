@@ -19,10 +19,12 @@ image:
 A kerti kiülőnk a teljes egészében a férjemet dícséri.  
 
 
-![idézet](/assets/kertikiülő/idézet2.jpg)
+
 
 
 Éveken keresztül előrelátóan tette félre azokat deszkákat, faanyagokat, amikről úgy gondolta, hogy beépíthető lesz majd az általunk megálmodott projektekbe.
+
+![idézet](/assets/kertikiülő/idézet2.jpg)
 
 Sok olyan faanyag is összegyűlt, amit kár lett volna hulladékként kezelni, és érdemes volt gyűjtögetni.
 
@@ -78,9 +80,9 @@ _Akác deszkaszél leszállítva, kezdődhet a válogatás_
 
 
 
-Mivel nem szabályos deszkákból és gerendákból épült fel a kiülő, ezért elég sokat kellett tili-tolizni az anyagokkal.  Épületfából lényegesen egyszerűbb lett volna, de nem akartunk sokat költeni. 
+Mivel nem szabályos deszkákból és gerendákból épült fel a kiülő, ezért elég sokat kellett tili-tolizni az anyagokkal. Épületfából lényegesen egyszerűbb lett volna, de nem akartunk sokat költeni. 
 
-...az olcsó legyen, de jó elvünkhöz itt is ragaszkodtunk.
+Az olcsó legyen, de jó elvünkhöz itt is ragaszkodtunk.
 
 ![kiülő](/assets/kertikiülő/1.jpg)
 _A felhasznált anyagok kérgezésével indult a projekt_
@@ -140,7 +142,7 @@ A kúpcserepet - ugyanúgy mint a régi házaknál - fehér mésszel kente át. 
 
 Sokat gondolkodtunk azon, hogy mit kezdjünk az aljával.  
 Füvesnek nem akartuk meghagyni.  
-Egyrészt, ott nem is nő meg rendesen, másrészt ami megnő letapossuk, ahol pedig nem, ott meg nem lehet hozzáférni a fűnyíróval.
+Egyrészt ott nem is nő meg rendesen, másrészt ami megnő letapossuk, ahol pedig nem, ott meg nem lehet hozzáférni a fűnyíróval.
 
 Szerettük volna téglával leburkolni, de az össszeset elhasználtuk, (hogy hova, arról [ebben a posztban olvashatsz,](/2019-04-23/tegla)) így aztán muszáj volt valami ütős, de stílusban odaillő, és persze olcsó megoldást találnunk.
 
@@ -183,7 +185,7 @@ Azt hiszem, így már késznek nevezhetjük a pihenőhelyünket...
 Ha a sok munkaórát nem számoljuk, akkor kevés kiadással lett egy szép, egyedi kiülőnk. Persze, az akác deszakszélért fizettünk, de pluszban nem kellett venni semmit. Még a csavarok is azokból a kábeldobokból lettek kiszedve, amik már évekkel ezelőtt kerültek hozzánk. A cserép szintén meg volt. A geotextília és a kavics az, amiért pénzt adtunk, és így mondhatom, hogy ez a projekt nagyon megérte.
 
 
-<a href="https://www.facebook.com/Var%C3%A1zsolj-otthont-360330751226066/" target="_blank">Ha tetszett, kedveld a Facebook oldalt is</a> , itt még több érdekességet találsz a mindennapok varázslataiból.
+<a href="https://www.facebook.com/Var%C3%A1zsolj-otthont-360330751226066/" target="_blank">Ha tetszett, kedveld a Facebook oldalt is</a>, itt még több érdekességet találsz a mindennapok varázslataiból.
 
 <a href="https://www.instagram.com/varazsoljotthont/?hl=hu/" target="_blank">Kövess az Instagramon</a> is, és sok olyan fotót láthatsz, ami a blogról vagy a Facebook oldalról kimaradt.
 
