@@ -196,6 +196,6 @@ Ha a sok munkaórát nem számoljuk, akkor kevés kiadással lett egy szép, egy
 
 * [Így lett a tüzifa az otthonunk dísze](/2019-05-16/fábólkreatívan)
 * [Fontos lépések régi házunk állagmegóvásáért](/2019-04-03/állagmegóvás)
-* [Régi varrógép új élete!](/2019-02-12/varrogepasztal)
+* [Varrógépből kerti asztal? Mutatom, hogy lehet!](/2019-02-12/varrogepasztal)
 * [Hozzuk formába az otthonunkat!](/2019-03-26/dekoráció)
 
