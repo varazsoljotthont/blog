@@ -193,8 +193,9 @@ Ha a sok munkaórát nem számoljuk, akkor kevés kiadással lett egy szép, egy
 
 ## Kapcsolódó cikkek
 
+
+* [Így lett a tüzifa az otthonunk dísze](/2019-05-16/fábólkreatívan)
 * [Fontos lépések régi házunk állagmegóvásáért](/2019-04-03/állagmegóvás)
 * [Régi varrógép új élete!](/2019-02-12/varrogepasztal)
-* [Miházunk átváltozása](/2019-03-20/költözés)
-* [Találjuk ki a házunkat](/2019-02-11/találjuk_ki)
-* 
+* [Hozzuk formába az otthonunkat!](/2019-03-26/dekoráció)
+
