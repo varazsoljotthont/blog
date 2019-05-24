@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "A megfelelő burkolatok kiválasztása"
+title: "Legyen tökéletes burkolata a lakásunknak"
 cover: /assets/burkolatok/cover.JPG
 image:
   path: /assets/burkolatok/cover.JPG
