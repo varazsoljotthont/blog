@@ -16,7 +16,7 @@ image:
 
 ## Előre tervezés
 
-A kerti kiülőnk a teljes egészében a férjemet dícséri.  
+A kerti kiülőnk a teljes egészében a férjem érdeme.  
 
 
 
@@ -33,6 +33,7 @@ Sok olyan faanyag is összegyűlt, amit kár lett volna hulladékként kezelni, 
 A téli tüzelőnk egy részét évek óta akác deszkaszél képezi, és a férjem tudatosan mindig kiválogatta azokat a darabokat amiben volt fantázia. 
 
 A tervezett pihenő elkészítéséhez is jónak tűnt az akácdeszka.  
+
 Több okból is ezt választotta a kiülő megépítéséhez:
 
 
