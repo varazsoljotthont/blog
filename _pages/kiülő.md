@@ -22,25 +22,26 @@ A kerti kiülőnk a teljes egészében a férjem érdeme.
 
 
 
-Éveken keresztül előrelátóan tette félre azokat deszkákat, faanyagokat, amikről úgy gondolta, hogy beépíthető lesz majd az általunk megálmodott projektekbe.
+Éveken keresztül előrelátóan tette félre azokat deszkákat, faanyagokat, amikről úgy gondolta, hogy felhasználható lesz majd a későbbiekben.
+
 
 ![idézet](/assets/kertikiülő/idézet2.jpg)
 
 Sok olyan faanyag is összegyűlt, amit kár lett volna hulladékként kezelni, és érdemes volt gyűjtögetni.
 
-> [Az előző posztban](/2019-05-16/fábólkreatívan) már írtam a tűzrevaló kreatív felhasználásáról.
+> Az előző posztban már írtam a tűzrevaló [kreatív felhasználásáról](/2019-05-16/fábólkreatívan).
 
 A téli tüzelőnk egy részét évek óta akác deszkaszél képezi, és a férjem tudatosan mindig kiválogatta azokat a darabokat amiben volt fantázia. 
 
 A tervezett pihenő elkészítéséhez is jónak tűnt az akácdeszka.  
 
-Több okból is ezt választotta a kiülő megépítéséhez:
+**Több okból is ezt választotta a kiülő megépítéséhez:**
 
 
-* **ellenáll az időjárás viszontagságainak**
-* **nem kellett külön anyagot venni hozzá**
-* **az egyéb anyagok ott voltak a ház körül**
-* **kellően girbe - gurba**
+* ellenáll az időjárás viszontagságainak
+* nem kellett külön anyagot venni hozzá
+* az egyéb anyagok ott voltak a ház körül
+* kellően girbe - gurba
 
 
 
@@ -57,7 +58,7 @@ Azt megbeszéltük, hogy rusztikus hangulatú pihenőhelyet szeretnénk.
 
 Mivel a házunk is egy régi, felújított ház, ahonnan "hiányzik" a derékszög, a párhuzamos és a merőleges, az udvarra sem akartunk túl szabályos gerendákat.
 
-Sokat ötleteltünk, körbenéztünk a neten, és kezdett kialakulni a megvalósítás az én férjuram fejében, hogy a mi alapanyagainkból mit lehet összehozni. 
+Sokat ötleteltünk, körbenéztünk a neten, és kezdett kialakulni az én férjuram fejében, hogy a mi alapanyagainkból mit lehet összehozni. 
 
 
 ## A kiülő
@@ -101,6 +102,7 @@ Először csak három pár szarufát tettünk fel, aztán inkább négy pár let
 
 
 ![kiülő](/assets/kertikiülő/4.jpg)
+_Helyükön a szarufák_
 
 
 
