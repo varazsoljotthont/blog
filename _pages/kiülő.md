@@ -107,7 +107,7 @@ _Helyükre kerültek a szarufák_
 
 
 ![kiülő](/assets/kertikiülő/8jav.jpg)
-_Már jól látszik, hogy milyen lesz majd_
+_Alakul, épül_
 
 Felkerültek a tetőlécek, indulhat a cserepezés.
 
@@ -156,7 +156,7 @@ Szerettük volna téglával leburkolni, de az össszeset elhasználtuk, (hogy ho
 Tiborom ötlete volt az akácfa szegély, amivel én teljesen egyetértettem. Tökéletesen illik a házhoz, hisz az udvaron is ebből készültek az ágyásszegélyek és nem került semmibe.
 
 ![kiülő](/assets/kertikiülő/keret.jpg)
-_Az akácfa szegély mára helyén_
+_Az akácfa szegély már a helyén_
 
 
 
