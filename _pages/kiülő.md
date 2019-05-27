@@ -91,7 +91,7 @@ _A felhasznált anyagok kérgezésével indult a projekt_
 
 
 
-![kiülő](/assets/kváz.png)
+![kiülő](/assets/kertikiülő/váz.png)
 
 
 
@@ -101,7 +101,7 @@ Cserép lett megszavazva, de ez a súlya miatt okozott némi fejtörést.
 Először csak három pár szarufát tettünk fel, aztán inkább négy pár lett belőle, hogy ne jelentsen problémát a cserép súlya.
 
 
-![kiülő](/assets/Tibivel.png)
+![kiülő](/assets/kertikülő/Tibivel.png)
 _Helyükre kerültek a szarufák_
 
 
@@ -121,7 +121,7 @@ Ránézésre összeállt a dolog, de még volt vele feladat. Hogy stabil legyen,
 
 ![kiülő](/assets/kertikiülő/11jav.jpg)
 
-![kiülő](/assets/létrás.png)
+![kiülő](/assets/kertikülő/létrás.png)
 
 ![kiülő](/assets/kertikiülő/14.jpg)
 
