@@ -64,7 +64,7 @@ Sokat ötleteltünk, körbenéztünk a neten, és kezdett kialakulni az én fér
 ## A kiülő
 
 
-A kiülő készítéséről nem igazán tudok róla részleteiben írni, ezért rendhagyó módon most egy képriport következik...
+A kiülő készítéséről nem igazán tudok róla részleteiben írni, ezért rendhagyó módon most egy képriport következik.
 
 ( Sajnos néhány kép nem a legjobb minőségű, ezért elnézést kérek.)
 
