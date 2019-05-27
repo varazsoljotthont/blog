@@ -195,7 +195,7 @@ Azt hiszem, így már késznek nevezhetjük a pihenőhelyünket...
 
 
 **+ 1 gondolat:**   
-Ha a sok munkaórát nem számoljuk, akkor kevés kiadással lett egy szép, egyedi kiülőnk. Persze, az akác deszakszélért fizettünk, de pluszban nem kellett venni semmit. Még a csavarok is azokból a kábeldobokból lettek kiszedve, amik már évekkel ezelőtt kerültek hozzánk. A cserép szintén meg volt. A geotextília és a kavics az, amiért pénzt adtunk, és így mondhatom, hogy ez a projekt nagyon megérte.
+Ha a sok munkaórát nem számoljuk, akkor kevés kiadással lett egy szép, egyedi kiülőnk. Persze, az akácfáért fizettünk, de pluszban nem kellett venni semmit. Még a csavarok is azokból a kábeldobokból lettek kiszedve, amik már évekkel ezelőtt kerültek hozzánk. A cserép szintén meg volt. A geotextília és a kavics az, amiért pénzt adtunk, és így mondhatom, hogy ez a projekt nagyon megérte.
 
 
 Ha tetszett, kedveld a <a href="https://www.facebook.com/Var%C3%A1zsolj-otthont-360330751226066/" target="_blank">Facebook oldalt</a> is. Itt még több érdekességet találsz a mindennapok varázslataiból.
