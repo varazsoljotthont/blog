@@ -3,6 +3,7 @@ layout: post
 title: "Kerti kiülő sajátkezűleg, olcsón, stílusosan"
 permalink: /kiülő/
 cover: /assets/kiülő/cover2.jpg
+categories: [Kerti ötletek, Dekoráció]
 image:
   path: /assets/kiülő/cover2.jpg
   height: 300
@@ -179,7 +180,8 @@ _A tetőteraszról fényképezve_
 A használat során jött elő egy apró hiányosság. 
 
 Tavasszal, nyár végén már hűvösnek éreztük a padot mikor leültünk, és mindig a lakásból kellett kicipelni a párnákat.  
-Persze, az én férjem ezt a gondot is orvosolta nekem.  
+
+Ez kicsit macerás volt, ezért aztán a férjem ezt a gondot is orvosolta nekem.  
 Egy nagy alkatrészes ládát alakított át kültéri ládának, ami nemcsak stílusos lett, hanem praktikus is. Nem ázik be, így már tavasztól őszig  az udvaron is kéznél lesznek a párnák.
 
 ![kiülő](/assets/kertikiülő/láda.jpg)
