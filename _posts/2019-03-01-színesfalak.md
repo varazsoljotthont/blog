@@ -2,6 +2,7 @@
 layout: post
 title: "Életre kelnek a falak"
 cover: /assets/színesfalak/cover.JPG
+categories: Ház felújítás
 image:
   path: /assets/színesfalak/cover.JPG
   height: 300
