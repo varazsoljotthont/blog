@@ -14,10 +14,9 @@ title: Kerti ötletek
 
 
 <div class="catalogue">
-{% for post in site.categories.haz %}
-
+{% for post in site.categories.kert %}
   {% capture my_include %}{% include post_inc.md %}{% endcapture %}
 	{{ my_include | markdownify }}
-  {% endfor %}
+{% endfor %}
 </div>
 
