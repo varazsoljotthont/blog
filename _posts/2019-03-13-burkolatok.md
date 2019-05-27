@@ -2,7 +2,7 @@
 layout: post
 title: "Legyen tökéletes burkolata a lakásunknak"
 cover: /assets/burkolatok/cover.JPG
-categories: [Ház felújítás, Dekoráció]
+categories: [haz, dekor]
 image:
   path: /assets/burkolatok/cover.JPG
   height: 300
