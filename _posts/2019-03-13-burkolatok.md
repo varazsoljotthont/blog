@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Legyen tökéletes burkolata a lakásunknak"
+title: "Legyen tökéletes burkolata a lakásunknak!"
 cover: /assets/burkolatok/cover.JPG
 categories: [haz, dekor]
 image:
