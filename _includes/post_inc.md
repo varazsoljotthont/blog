@@ -26,7 +26,7 @@
 			{% if category == "dekor" %}
 				<a href="/dekor" style="padding:0; margin:0;">Dekoráció</a>  &nbsp;
 			{% endif %}
-			{% if category == "dekor" %}
+			{% if category == "kert" %}
 				<a href="/kert" style="padding:0; margin:0;">Kerti ötletek</a>  &nbsp;
 			{% endif %}
 		{% endfor %}
