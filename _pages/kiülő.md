@@ -27,7 +27,7 @@ A kerti kiülőnk a teljes egészében a férjem érdeme.
 
 ![idézet](/assets/kertikiülő/idézet2.jpg)
 
-Sok olyan faanyag is összegyűlt, amit kár lett volna hulladékként kezelni, és érdemes volt gyűjtögetni.
+
 
 > Az előző posztban már írtam a tűzrevaló [kreatív felhasználásáról](/2019-05-16/fábólkreatívan).
 
