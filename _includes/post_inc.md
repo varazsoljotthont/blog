@@ -19,14 +19,14 @@
 		<p style="float:right; padding:0; margin:0; ">
 		{% for category in post.categories %}
 			{% if category == "haz" %}
-				<a href="/haz" style="padding:0; margin:0;">Házfelújítás</a> &nbsp;
+				<a href="/haz" style="padding:0; margin:0;">Ház felújítás</a> &nbsp;
 			{% endif %}
 			
 			{% if category == "dekor" %}
 				<a href="/dekor" style="padding:0; margin:0;">Dekoráció</a>  &nbsp;
 			{% endif %}
 			{% if category == "dekor" %}
-				<a href="/kert" style="padding:0; margin:0;">Keti ötletek</a>  &nbsp;
+				<a href="/kert" style="padding:0; margin:0;">Kerti ötletek</a>  &nbsp;
 			{% endif %}
 		{% endfor %}
 		</p>
