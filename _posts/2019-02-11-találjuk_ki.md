@@ -2,7 +2,7 @@
 layout: post
 title: "Találjuk ki a házunkat!"
 cover: /assets/talaljuk_ki/coverjav.jpg
-categories: Ház felújítás
+categories: [Ház felújítás]
 image:
   path: /assets/talaljuk_ki/coverjav.jpg
   height: 300
