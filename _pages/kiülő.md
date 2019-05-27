@@ -176,10 +176,11 @@ _A tetőteraszról fényképezve_
 
 ## Párnatartó láda
 
-Mikor elkészült a mű és használatba vettük, akkor jelentkezett részemről az igény egy párnatartó ládára. 
+A használat során jött elő egy apró hiányosság. 
 
 Tavasszal, nyár végén már hűvösnek éreztük a padot mikor leültünk, és mindig a lakásból kellett kicipelni a párnákat.  
-Persze, az én férjem ezt is megoldotta nekem. Egy nagy alkatrészes ládát alakított át erre célra, és nemcsak stílusos lett, hanem praktikus is. Nem ázik be, így már tavasztól őszig  az udvaron is kéznél lesznek a párnák.
+Persze, az én férjem ezt a gondot is orvosolta nekem.  
+Egy nagy alkatrészes ládát alakított át kültéri ládának, ami nemcsak stílusos lett, hanem praktikus is. Nem ázik be, így már tavasztól őszig  az udvaron is kéznél lesznek a párnák.
 
 ![kiülő](/assets/kertikiülő/láda.jpg)
 _A vaslemez betét megvédi az esőtől a ládát_
