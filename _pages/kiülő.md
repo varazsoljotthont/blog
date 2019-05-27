@@ -3,7 +3,7 @@ layout: post
 title: "Kerti kiülő olcsón, stílusosan, sajátkezűleg"
 permalink: /kiülő/
 cover: /assets/kiülő/cover2.jpg
-categories: [Kerti ötletek, Dekoráció]
+categories: [kert, dekor]
 image:
   path: /assets/kiülő/cover2.jpg
   height: 300
