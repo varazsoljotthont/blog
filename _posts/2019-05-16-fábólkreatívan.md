@@ -17,7 +17,7 @@ image:
 ## A lehetőség mindenben ott van 
 
 
-A házátalakítás során végig arra törekedtünk, hogy természetes anyagokkal vegyük körbe magunkat.
+A ház átalakítás során végig arra törekedtünk, hogy természetes anyagokkal vegyük körbe magunkat.
 
 Az alapszabályunk szerint 3 féle alapanyagot használtunk, hogy elkerüljük a "mindenből egy kicsi" okozta káoszt.
 
