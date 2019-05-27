@@ -2,7 +2,7 @@
 layout: post
 title: "Kell egy ház... de hol, milyen, mennyiért?"
 cover: /assets/hazvasarlas/cover.jpg
-categories: [Ház felújítás]
+categories: [Haz]
 image:
   path: /assets/hazvasarlas/cover.jpg
   height: 300
