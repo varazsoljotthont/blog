@@ -31,9 +31,9 @@ Sok olyan faanyag is összegyűlt, amit kár lett volna hulladékként kezelni, 
 
 > Az előző posztban már írtam a tűzrevaló [kreatív felhasználásáról](/2019-05-16/fábólkreatívan).
 
-A téli tüzelőnk egy részét évek óta akác deszkaszél képezi, és a férjem tudatosan mindig kiválogatta azokat a darabokat amiben volt fantázia. 
+A téli tüzelőnk egy részét évek óta akác deszkaszél képezi, és a tervezett pihenő elkészítéséhez is jónak tűnt ez a faanyag.  
 
-A tervezett pihenő elkészítéséhez is jónak tűnt az akácdeszka.  
+
 
 **Több okból is ezt választotta a kiülő megépítéséhez:**
 
@@ -64,9 +64,9 @@ Sokat ötleteltünk, körbenéztünk a neten, és kezdett kialakulni az én fér
 ## A kiülő
 
 
-A kiülő elkészítése nem leírások, és szabályos faanyagok felhasználásával történt, épp ezért nem igazán tudok róla részleteiben írni.  
+A kiülő készítéséről nem igazán tudok róla részleteiben írni, ezért rendhagyó módon most egy képriport következik...
 
-Rendhagyó módon most egy képriport következik arról, ahogy kinőtt a földből a mi kerti pihenőhelyünk.
+( Sajnos néhány kép nem a legjobb minőségű, ezért elnézést kérek.)
 
 
 **Az alapanyag**
