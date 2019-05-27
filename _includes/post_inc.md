@@ -8,14 +8,15 @@
        <img class="post_cover_img" src="{{ site.cover }}" height="200px" width="200px" border="1px" style="border: 0px solid #ddd; padding-right:12px;padding-top:12px; margin-right: 12px;">
      {% endif %}
     </a>
-     <div class="catalogue-item post_box"> 
+    <div class="catalogue-item post_box"> 
        
-<a href="{{ post.url | prepend: site.baseurl }}" class="catalogue-item">
-       <h1 class="catalogue-title">{{ post.title }}</h1>
-       <div class="catalogue-line"></div>
-       <p> {{ post.content | strip_html | truncatewords: 30 }} </p>
-       </a>
-       <time datetime="{{ post.date }}" class="catalogue-time">{{ post.date | date: "%Y-%m-%d" }}</time>
+	<a href="{{ post.url | prepend: site.baseurl }}" class="catalogue-item" style="padding-bottom:12px;">
+	   <h1 class="catalogue-title">{{ post.title }}</h1>
+	   <div class="catalogue-line"></div>
+	   <p> {{ post.content | strip_html | truncatewords: 30 }} </p>
+   	</a>
+       
+   <time datetime="{{ post.date }}" class="catalogue-time">{{ post.date | date: "%Y-%m-%d" }}</time>
 		<p style="float:right; padding:0; margin:0; ">
 		{% for category in post.categories %}
 			{% if category == "haz" %}
