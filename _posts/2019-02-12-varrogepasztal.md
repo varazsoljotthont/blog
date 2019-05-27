@@ -2,7 +2,7 @@
 layout: post
 title: "Varrógépből kerti asztal? Mutatom, hogy lehet!"
 cover: /assets/varrogepasztal/cover.jpg
-categories: [Kerti ötletek, Dekoráció]
+categories: [kert, dekor]
 image:
   path: /assets/varrogepasztal/cover.jpg
   height: 300

@@ -2,7 +2,7 @@
 layout: post
 title: "Így lett a tüzifa az otthonunk dísze"
 cover: /assets/fábólkreatívan/cover2.jpg
-categories: [Kerti ötletek, Dekoráció]
+categories: [kert, dekor]
 image:
   path: /assets/fábólkreatívan/cover2.jpg
   height: 300

@@ -2,7 +2,7 @@
 layout: post
 title: "A földes szobákkal kezdtük a házfelújítást"
 cover: /assets/szobabetonozas/cover.jpg
-categories: Ház felújítás
+categories: [haz]
 image:
   path: /assets/szobabetonozas/cover.jpg
   height: 300
