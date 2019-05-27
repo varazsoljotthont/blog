@@ -2,6 +2,7 @@
 layout: post
 title: "Hangulatos mosókonyha, pénztárcabarát ötletekkel" 
 cover: /assets/mosokonyha/cover.JPG
+categories: [Ház felújítás, Dekoráció]
 image:
   path: /assets/mosokonyha/cover.JPG
   height: 300
