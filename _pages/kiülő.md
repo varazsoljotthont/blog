@@ -101,7 +101,7 @@ Cserép lett megszavazva, de ez a súlya miatt okozott némi fejtörést.
 Először csak három pár szarufát tettünk fel, aztán inkább négy pár lett belőle, hogy ne jelentsen problémát a cserép súlya.
 
 
-![kiülő](/assets/kertikülő/tibivel.png)
+![kiülő](/assets/kertikiülő/tibivel.png)
 _Helyükre kerültek a szarufák_
 
 
