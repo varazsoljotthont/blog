@@ -2,7 +2,7 @@
 layout: post
 title: "Minden háziasszony álma: a mosókonyha!"
 cover: /assets/mosokonyha/cover2.JPG
-categories: Ház felújítás
+categories: [Ház felújítás]
 image:
   path: /assets/mosokonyha/cover2.JPG
   height: 300
