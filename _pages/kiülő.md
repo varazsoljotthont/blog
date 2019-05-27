@@ -107,6 +107,7 @@ _Helyükre kerültek a szarufák_
 
 
 ![kiülő](/assets/kertikiülő/8jav.jpg)
+_Már jól látszik, hogy milyen lesz majd_
 
 Felkerültek a tetőlécek, indulhat a cserepezés.
 
@@ -121,7 +122,8 @@ Ránézésre összeállt a dolog, de még volt vele feladat. Hogy stabil legyen,
 
 ![kiülő](/assets/kertikiülő/11jav.jpg)
 
-![kiülő](/assets/kertikülő/létrás.png)
+![kiülő](/assets/kertikiülő/létrás.png)
+_A cserép illik hozzá a leginkább_
 
 ![kiülő](/assets/kertikiülő/14.jpg)
 
@@ -135,6 +137,7 @@ A kúpcserepet - ugyanúgy mint a régi házaknál - fehér mésszel kente át. 
 
 
 ![kiülő](/assets/kertikiülő/oromdísz.jpg)
+_Helyére került az oromdeszka, a dísz és egy patkó is_
 
 
 
@@ -153,6 +156,7 @@ Szerettük volna téglával leburkolni, de az össszeset elhasználtuk, (hogy ho
 Tiborom ötlete volt az akácfa szegély, amivel én teljesen egyetértettem. Tökéletesen illik a házhoz, hisz az udvaron is ebből készültek az ágyásszegélyek és nem került semmibe.
 
 ![kiülő](/assets/kertikiülő/keret.jpg)
+_Az akácfa szegély mára helyén_
 
 
 
@@ -160,12 +164,15 @@ A kiülő alá geotextíliát tettünk, és kb 1 m3 16 - 32-es kavicsot terítet
 
 
 ![kiülő](/assets/kertikiülő/kavics.jpg)
+_A kavics remek választás volt_
 
-Lassanként elkészültünk vele, és birtokba vehettük. Sütögetés, tárcsázás idején a legjobb hely. Árnyékos, kényelmes és ennél többre nincs is szükség.
+Lassanként elkészültünk vele, és birtokba vehettük. Sütögetés, tárcsázás idején a legjobb hely. Árnyékos, hangulatos és ennél többre nincs is szükség.
 
 ![kiülő](/assets/kertikiülő/IMG_20190523_154615.jpg)
+_Jól esik itt meginni a kávénkat_
 
 ![kiülő](/assets/kertikiülő/IMG_20190523_155418.jpg)
+_A tetőteraszról fényképezve_
 
 ## Párnatartó láda
 
@@ -175,8 +182,10 @@ Tavasszal, nyár végén már hűvösnek éreztük a padot mikor leültünk, és
 Persze, az én férjem ezt is megoldotta nekem. Egy nagy alkatrészes ládát alakított át erre célra, és nemcsak stílusos lett, hanem praktikus is. Nem ázik be, így már tavasztól őszig  az udvaron is kéznél lesznek a párnák.
 
 ![kiülő](/assets/kertikiülő/láda.jpg)
+_A vaslemez betét megvédi az esőtől a ládát_
 
 ![kiülő](/assets/kertikiülő/láda2.jpg)
+_Apró kis részletek a ládán: sarokdíszek, fa tulipán_
 
 ![kiülő](/assets/kertikiülő/láda3.jpg)
 
