@@ -20,14 +20,20 @@
 		<p style="float:right; padding:0; margin:0; ">
 		{% for category in post.categories %}
 			{% if category == "haz" %}
-				<a href="/haz" style="padding:0; margin:0;">Ház felújítás</a> &nbsp;
+				<a href="/haz" onMouseOver="this.style.opacity=1; this.style.textDecoration='underline';"
+                               onMouseOut="this.style.opacity=0.6;  this.style.textDecoration='none';" 
+                               style="padding:0; margin:0;color:#111; opacity:0.6;">Ház felújítás</a> &nbsp;
 			{% endif %}
 			
 			{% if category == "dekor" %}
-				<a href="/dekor" style="padding:0; margin:0;">Dekoráció</a>  &nbsp;
+				<a href="/dekor" onMouseOver="this.style.opacity=1; this.style.textDecoration='underline';"
+                                 onMouseOut="this.style.opacity=0.6;  this.style.textDecoration='none';" 
+                                 style="padding:0; margin:0;color:#111; opacity:0.6;">Dekoráció</a>  &nbsp;
 			{% endif %}
 			{% if category == "kert" %}
-				<a href="/kert" style="padding:0; margin:0;">Kerti ötletek</a>  &nbsp;
+				<a href="/kert" onMouseOver="this.style.opacity=1; this.style.textDecoration='underline';"
+                                onMouseOut="this.style.opacity=0.6;  this.style.textDecoration='none';" 
+                                style="padding:0; margin:0;color:#111; opacity:0.6;">Kerti ötletek</a>  &nbsp;
 			{% endif %}
 		{% endfor %}
 		</p>
