@@ -93,6 +93,7 @@ _A felhasznált anyagok kérgezésével indult a projekt_
 
 
 ![kiülő](/assets/kertikiülő/váz.png)
+_Készül a váza a kiülőnek_
 
 
 
