@@ -23,7 +23,7 @@ A kerti kiülőnk teljes egészében a férjem érdeme.
 
 
 
-Éveken keresztül előrelátóan tette félre azokat deszkákat, faanyagokat, amikről úgy gondolta, hogy felhasználható lesz majd a későbbiekben.
+Éveken keresztül előrelátóan tette félre azokat a deszkákat, faanyagokat, amikről úgy gondolta, hogy felhasználhatóak lesznek majd a későbbiekben.
 
 
 ![idézet](/assets/kertikiülő/idézet2.jpg)
@@ -36,7 +36,7 @@ A téli tüzelőnk egy részét évek óta akác deszkaszél képezi, és a terv
 
 
 
-**Több okból is ezt választotta a kiülő megépítéséhez:**
+**Több okból is ezt választottuk a kiülő megépítéséhez:**
 
 
 * ellenáll az időjárás viszontagságainak
@@ -57,15 +57,15 @@ _A vidékies kertünk és a kiülőnk között teljes lett a harmónia_
 
 Azt megbeszéltük, hogy rusztikus hangulatú pihenőhelyet szeretnénk.
 
-Mivel a házunk is egy régi, felújított ház, ahonnan "hiányzik" a derékszög, a párhuzamos és a merőleges, az udvarra sem akartunk túl szabályos gerendákat.
+Mivel a házunk is egy régi, felújított ház, ahonnan "hiányzik" a derékszög, a párhuzamos és a merőleges, az udvarra sem akartunk túl szabályos építményt.
 
-Sokat ötleteltünk, körbenéztünk a neten, és kezdett kialakulni az én férjuram fejében, hogy a mi alapanyagainkból mit lehet összehozni. 
+Sokat ötleteltünk, körbenéztünk a neten, és lassan kezdett kialakulni az én férjuram fejében, hogy a mi alapanyagainkból mit lehet összehozni. 
 
 
 ## A kiülő
 
 
-A kiülő készítéséről nem igazán tudok róla részleteiben írni, ezért rendhagyó módon most egy képriport következik.
+A kiülő készítéséről nem igazán tudok részleteiben írni, ezért rendhagyó módon most egy képriport következik.
 
 ( Sajnos néhány kép nem a legjobb minőségű, ezért elnézést kérek.)
 
@@ -93,7 +93,7 @@ _A felhasznált anyagok kérgezésével indult a projekt_
 
 
 ![kiülő](/assets/kertikiülő/váz.png)
-_Készül a váza a kiülőnek_
+_Készül a vázszerkezet_
 
 
 
@@ -162,7 +162,7 @@ _Az akácfa szegély már a helyén_
 
 
 
-A kiülő alá geotextíliát tettünk, és kb 1 m3 16 - 32-es kavicsot terített el a férjem, amit a közeli bányából hozattunk.
+A kiülő alá geotextíliát tettünk, és kb 1 m3 16 - 32-es mosott kavicsot terített el a férjem, amit a közeli bányából hozattunk.
 
 
 ![kiülő](/assets/kertikiülő/kavics.jpg)
@@ -198,7 +198,7 @@ Azt hiszem, így már késznek nevezhetjük a pihenőhelyünket...
 
 
 **+ 1 gondolat:**   
-Ha a sok munkaórát nem számoljuk, akkor kevés kiadással lett egy szép, egyedi kiülőnk. Persze, az akácfáért fizettünk, de pluszban nem kellett venni semmit. Még a csavarok is azokból a kábeldobokból lettek kiszedve, amik már évekkel ezelőtt kerültek hozzánk. A cserép szintén meg volt. A geotextília és a kavics az, amiért pénzt adtunk, és így mondhatom, hogy ez a projekt nagyon megérte.
+Ha a sok munkaórát nem számoljuk, akkor kevés kiadással lett egy szép, egyedi kiülőnk. Persze, az akácfáért fizettünk, de pluszban nem kellett venni semmit. Még a csavarok is azokból a kábeldobokból lettek kiszedve, amik már évekkel ezelőtt kerültek hozzánk. A cserép szintén adott volt. A geotextília és a kavics az, amiért pénzt adtunk, így mondhatom, hogy ez a projekt nagyon megérte.
 
 
 Ha tetszett, kedveld a <a href="https://www.facebook.com/Var%C3%A1zsolj-otthont-360330751226066/" target="_blank">Facebook oldalt</a> is. Itt még több érdekességet találsz a mindennapok varázslataiból.
