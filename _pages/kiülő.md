@@ -17,7 +17,7 @@ image:
 
 ## Előre tervezés
 
-A kerti kiülőnk a teljes egészében a férjem érdeme.  
+A kerti kiülőnk teljes egészében a férjem érdeme.  
 
 
 
