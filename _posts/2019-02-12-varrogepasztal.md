@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Régi varrógépből hangulatos kerti asztal? Mutatom, hogy lehet!"
+title: "Varrógépből mozaikos kerti asztal? Mutatom, hogy lehet!"
 cover: /assets/varrogepasztal/cover.jpg
 categories: [kert, dekor]
 image:
