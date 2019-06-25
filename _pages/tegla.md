@@ -100,6 +100,8 @@ _Így készült a járda, a kamra, a terasz_
 > Nagyon szeretem, hogy nem szabályosak, hogy kissé csorbák lettek előző életükben. Rusztikus hangulatot adnak a háznak, ezzel pedig megteremtik azt légkört, amire vágytunk.
 
 
+
+
 ![tégla](/assets/tégla/IMG_20190401_075603.jpg)
 _Járda, terasz, lábazat, ágyásszegély_
 
