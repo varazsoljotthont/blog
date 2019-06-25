@@ -33,7 +33,7 @@ Időben át kell gondolni, hogy a jövőben mihez szeretnénk kezdeni a terület
 
 Nem árt tisztában lenni azzal sem, hogy milyen a talaj az adott részen. Hiába vannak terveink, ha a föld minősége nem engedi azokat megvalósítani. ...és legalább ilyen fontos a telek tájolása. Jó tudni hol és mikor éri a legjobban a nap, mennyi árnyékos rész van az udvarban, a kertben.
 
-**Legfontosabb szempontok**
+**Amit tudni kellene**
 
 
 * tervezés, elképzelés
@@ -42,12 +42,18 @@ Nem árt tisztában lenni azzal sem, hogy milyen a talaj az adott részen. Hiáb
 * talaj minősége
 * melléképületek 
 
+
 ## Miházunk földje
 
 
-A fent felsoroltaknak mi nem néztünk utána, így néhányszor neki futottunk
+A fent felsoroltaknak mi nem néztünk utána. Így aztán, ahogy megismertük a terepet, úgy terveztük meg és alakítottuk át az udvarunkat, kertünket.
 
-Mikor a ház belső felújításával végeztünk, akkor kezdtünk el gondolkodni a külső "körleten". A ház nagy, közel 2000 m2 teleken fekszik
+A ház nagy, közel 2000 m2 telken fekszik, ahol egykor kaszáló és egy házi kavicsbánya is volt. Ebből adódóan, a föld jó része kavicsos, ami elvezeti a vizet, a kaszáló helyén pedig agyagos, ami megköti a vizet. Ráadásul a kis házi bánya megszűnésekor, a helyét mindenféle törmelékkel töltötték fel. A mai napig tégla, cserép, üvegdarabokat ásunk ki.
+A déli nap éri a legtöbbet
+
+Arra az első év próbálkozásai után rájöttünk, hogy nálunk nem lesz haszonkert, az biztos. 
+
+A borsó, bab, paprika csak szenvedett a földben, így erről a tervünkről letettünk.
 
 
 
