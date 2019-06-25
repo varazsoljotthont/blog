@@ -60,7 +60,7 @@ A déli, dél-nyugati nap éri a legtöbbet, így az öntözés megoldása a leg
 ![ház](/assets/kulsokorlet/kezdet.jpg)
 _Innen szép nyerni_
 
-![ház](/assets/kulsokorlet/DSCF0803.JPG)
+![ház](/assets/kulsokorlet/DSCF0803.jpg)
 
 ## Melléképületek
 
