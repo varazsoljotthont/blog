@@ -81,6 +81,8 @@ A telket három részre osztottuk fel:
 
 > Az Uradalom nevet én adtam a kertnek. Míg nem volt beültetve, csak lucerna volt benne, és így még nagyobbnak tűnt. Ekkor mondtam, hogy akkora ez a telek, mint egy Uradalom. És a név rajta is maradt.
 
+![felirat](/assets/kulsokorlet/IMG_20190625_193225.jpg)
+
 ## Pihenőhelyek
 
 A pihenőhelyek megtervezése is fontos feladat. 
@@ -89,7 +91,34 @@ A pihenőhelyek megtervezése is fontos feladat.
 
 > Bevallom, nálunk sok kiülő, leülő hely van, és mindegyiket használjuk. Hol ezt, hol azt, de kihasználatlanul egyik sincs.
 
+## Részletek
 
+A ház stílusához igazítottuk a kertet, udvart is, ehhez pedig a felhasznált anyagokat. 
+A tégla, a fa, a kavics lett az uralkodó hármas, és ezek tökéletesen kiegészítik a egymást a növényekkel.
+
+
+
+## Idő
+
+Azt hiszem az időt, mint egy nagyon fontos tényezőt, meg kell említenem.
+
+
+Ahhoz egy kert mindig a legszebb arcát mutassa, sok időt kell áldozni. Időtől, teherbírástól függ, hogy milyen növényeket ültetünk a kertünkbe.
+
+Az örökzöldeken át az egynyári virágokig, széles a választék. Az elsővel viszonylag kevés, míg az utóbbival minden évben sok munka van.
+
+Én az évelők mellett tettem le a voksomat. 
+
+Szerettem volna, szép, vidékies hangulatú kertet, de azt is tudtam, hogy nem akarom minden szabadidőmet a kertben munkával tölteni.
+Hisz azért (is) hoztuk létre, hogy élvezzük. Hogy itthon is olyan legyen körülöttünk minden, ahol feltöltődünk a mindennapok hajszája után.
+
+
+## Növényválasztás
+
+Sok időt, energiát fektettem abba, hogy megtanuljam, milyen virágok illenek a "Miházunk" kertjébe. A régi, egykor a falusi házaknál lévő virágokat akartam behozni hozzánk is. 
+
+Nem akartam egzotikus növényeket, és parkszerű kertet. Buja, az angolkertre hasonlító vidéki kertet hoztunk össze a semmiből. 
+Tavasztól őszig virágzik a kert. Ide csalogattuk a méheket, és a pillangókat. Igyekeztem illatos virágokat, cserjéket is ültetni, hogy az 
 
 ![tégla](/assets/tégla/IMG_20190423_174028.jpg)
 _Dekor fal a teraszon, természetesen bontott téglából_
