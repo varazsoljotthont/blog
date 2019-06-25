@@ -68,7 +68,8 @@ Szerencsések voltunk, mert a házhoz épp annyi melléképület  tartozott, ame
 
 Egy tyúkól, egy pajta féleség, és az istálló. Nem voltak túl jó állapotban, de érdemesek voltak a tovább gondolásra.
 
-![felirat](/assets/kulsokorlet/kezdet.jpg)
+![ház](/assets/kulsokorlet/IMG_20190623_165046.jpg)
+_A tyúkól az átalakítás után_
 
 
 ## Udvar, uradalom, hátsó kert
@@ -107,6 +108,15 @@ _A kertirom a sarokban van, így tökéletes "búvóhely" lett_
 
 A ház stílusához igazítottuk a kertet, udvart is, ehhez pedig a felhasznált anyagokat. 
 A tégla, a fa, a kavics lett az uralkodó hármas, és ezek tökéletesen kiegészítik a egymást a növényekkel.
+
+![ház](/assets/kulsokorlet/IMG_20190527_190819.jpg)
+_A téglajárda mellett levendula és rózsa_
+
+![ház](/assets/kulsokorlet/IMG_20190623_152830.jpg)
+_Szőlővenyigéből dekoráció_
+
+![ház](/assets/kulsokorlet/IMG_20190625_080206.jpg)
+_Régi vas ablakkeret a kertiromon_
 
 
 
