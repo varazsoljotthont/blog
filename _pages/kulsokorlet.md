@@ -104,6 +104,8 @@ _A nyáron is árnyékos kiülő_
 ![ház](/assets/kulsokorlet/IMG_20190623_152037.jpg)
 _A kertirom a sarokban van, így tökéletes "búvóhely" lett_
 
+![ház](/assets/kulsokorlet/08_3.jpg)
+_A hintaágy az én kedvencem_
 ## Részletek
 
 A ház stílusához igazítottuk a kertet, udvart is, ehhez pedig a felhasznált anyagokat. 
@@ -118,7 +120,7 @@ _Szőlővenyigéből dekoráció_
 ![ház](/assets/kulsokorlet/IMG_20190625_080206.jpg)
 _Régi vas ablakkeret a kertiromon_
 
-
+![ház](/assets/kulsokorlet/IMG_20190605_202106_048.jpg)
 
 ## Idő
 
