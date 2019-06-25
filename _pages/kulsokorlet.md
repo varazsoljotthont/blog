@@ -19,7 +19,7 @@ image:
 
 ## Előre gondolkodni
 
-Mikor 5 évvel ezelőtt kerestük a "Miházunknak valót" [még csak a házról volt elképzelésünk](/2019-02-09/hazvasarlas).
+Mikor 5 évvel ezelőtt kerestük a "Miházunknak valót" [még csak a házról](/2019-02-09/hazvasarlas) volt elképzelésünk.
 
 
 
