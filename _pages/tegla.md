@@ -1,17 +1,18 @@
 ---
 layout: post
 title: "Mire figyelj az udvar, a kert kialakításákor"
-permalink: /udvar/
-cover: /assets/udvar/cover.jpg
+permalink: /kulsokorlet/
+cover: /assets/kulsokorlet/cover.jpg
+categories: [kert, dekor]
 image:
-  path: /assets/udvar/cover.jpg
+  path: /assets/kulsokorlet/cover.jpg
   height: 300
   width: 300
 ---
 
 
 
-**A régen a vidéki, falusi házakhoz nagy telek tartozott, hisz a háztáji, az állattartás nagy helyet követelt. Ezek megszűnésével egy újabb feladat állt elő. A nagy udvart, kertet újra kellett gondolni és a ház stílusához igazítani.** 
+**A régen a vidéki, falusi házakhoz nagy telek tartozott, hisz a háztáji, az állattartás nagy helyet követelt. Ezek megszűnésével pedig egy újabb feladat állt elő. A nagy udvart, kertet újra kellett gondolni és a ház stílusához igazítani.** 
 
 
 
@@ -23,9 +24,10 @@ Mikor 5 évvel ezelőtt kerestük a "Miházunknak valót" még csak a házról v
 
 Az udvar, a kert akkoriban eszünkbe sem jutott. 
 Nem volt tervünk arra nézve, hogy mekkora legyen a telek, legyen-e melléképület, kialakított kert, stb... 
+
 ([erről itt olvashatsz](/2019-02-09/hazvasarlas))
 
-Ha van kert, akkor az veteményes, gyümölcsös, virágos, vagy csak füves legyen.
+Ha van kert a háznál, akkor az veteményes, gyümölcsös, virágos, vagy csak füves.
 
 ![idézet](/assets/tégla/idézet.jpg)
 
@@ -35,124 +37,56 @@ Nem árt tisztában lenni azzal sem, hogy milyen a talaj az adott részen. Hiáb
 
 **Amit tudni kellene**
 
-
-* tervezés, elképzelés
 * telek mérete
 * telek tájolása
 * talaj minősége
 * melléképületek 
+* mit szeretnénk
+
 
 
 ## Miházunk földje
 
 
-A fent felsoroltaknak mi nem néztünk utána. Így aztán, ahogy megismertük a terepet, úgy terveztük meg és alakítottuk át az udvarunkat, kertünket.
+A fent felsoroltaknak mi nem néztünk utána. Így aztán, ahogy megismertük a terepet, úgy terveztük meg és alakítottuk át az udvarunkat, a kertünket.
 
-A ház nagy, közel 2000 m2 telken fekszik, ahol egykor kaszáló és egy házi kavicsbánya is volt. Ebből adódóan, a föld jó része kavicsos, ami elvezeti a vizet, a kaszáló helyén pedig agyagos, ami megköti a vizet. Ráadásul a kis házi bánya megszűnésekor, a helyét mindenféle törmelékkel töltötték fel. A mai napig tégla, cserép, üvegdarabokat ásunk ki.
-A déli nap éri a legtöbbet
-
-Arra az első év próbálkozásai után rájöttünk, hogy nálunk nem lesz haszonkert, az biztos. 
-
-A borsó, bab, paprika csak szenvedett a földben, így erről a tervünkről letettünk.
+A ház nagy, közel 2000 m2 telken fekszik, ahol egykor kaszáló és egy házi kavicsbánya is működött. Ebből adódóan a föld jó része kavicsos, ami elvezeti a vizet, a kaszáló helyén pedig agyagos, ami megköti a vizet. Ráadásul miután a kis házi bánya megszűnést, a helyét mindenféle törmelékkel töltötték fel. A mai napig tégla, cserép, üvegdarabokat ásunk ki.
+A déli, dél-nyugati nap éri a legtöbbet, így az öntözés megoldása a legfontosabb feladatok egyike lett.
 
 
 
+## Melléképületek
+
+Szerencsések voltunk, mert a házhoz épp annyi melléképület  tartozott, amennyire nekünk is szükségünk volt.
+
+Egy tyúkól, egy pajta féleség, és az istálló. Nem voltak túl jó állapotban, de érdemesek voltak a tovább gondolásra.
 
 
 
-## Mindenhol tégla 
 
-A bontott tégla felhasználása mindenre és mindenhova kiterjed. A lakásban és az udvaron is a legkülönbözőbb módon hasznosítottuk az évek alatt összegyűjtött téglákat.
+## Udvar, uradalom, hátsó kert
 
-> Tényleg csak a fantáziánk szab határt, hogy miként gondoljuk újra a régi, bontott téglák sorsát. 
+A költözésünk utáni második évben kezdtük el megvalósítani azt a vidékies hangulatú külső teret, amit  elképzeltünk magunknak.
+
+A telket három részre osztottuk fel:
+
+* udvar 
+* kert ( Uradalom)
+* hátsó kert
+
+
+
+> Az Uradalom nevet én adtam a kertnek. Míg nem volt beültetve, csak a lucerna volt benne, és így még nagyobbnak tűnt. Ekkor mondtam, hogy akkora ez a telek, mint egy Uradalom. És a név rajt is maradt.
 
 
 ![tégla](/assets/tégla/IMG_20190423_174028.jpg)
 _Dekor fal a teraszon, természetesen bontott téglából_
 
 
-A "Miházunkban" ebből készült a(z):
-
-* konyhapult
-* pillérek
-* régi ajtó helyén a dekor fal 
-* nappali polcrendszere
-* kamra burkolata
-* terasz
-* terasz burkolata
-* lábazat
-* udvari pihenő rész
-* kerti rom
-* kerti rom alja
-* sufni külső burkolata
-* járdák
-* ágyás szegélyek
-* fatároló oldala
-* kút burkolata
-* ablak párkányok
-* ...még egy virágtartó is 
-
-...és még nincs vége...
-
-![tégla](/assets/tégla/DSCF2569jav.jpg)
-_Így készült a járda, a kamra, a terasz_
-
-
-
-![tégla](/assets/tégla/DSCF2400jav1.jpg)
-
-![tégla](/assets/tégla/DSCF0922jav.jpg)
-
-> Nagyon szeretem, hogy nem szabályosak, hogy kissé csorbák lettek előző életükben. Rusztikus hangulatot adnak a háznak, ezzel pedig megteremtik azt légkört, amire vágytunk.
 
 
 
 
-![tégla](/assets/tégla/IMG_20190401_075603.jpg)
-_Járda, terasz, lábazat, ágyásszegély_
-
-
-![tégla](/assets/tégla/IMG_20190226_201722.jpg)
-_A homlokzat dísz körül is szeletelt tégla van_
-
-
-Nem is gondolnánk, hogy milyen sok fajtája létezik a téglának... Különböznek hosszban, magasságban, színben. Vannak címeres, pecsétes téglák, amikre szinte "vadásztunk" és külön gyűjtögettük, hisz azokkal különleges tervünk volt.
-
-
-
-Nem állítom, hogy nincs velük tennivaló, de a szépségük kárpótol mindenért.
-
-
-**Meghatározza az otthonunk hangulatát**
-
-![tégla](/assets/tégla/IMG_20190321_121905jav.jpg)
-_Nappali, előtér, és konyha_
-
-![tégla](/assets/tégla/IMG_20190311_092455jav.jpg)
-
-
-![tégla](/assets/tégla/IMG_20190311_113801jav.jpg)
-_Mindenhol jelen van a bontott tégla_
-
-## Feladatok, hogy a bontott téglából látványelem legyen
-
-**Válogatás**
-
-
-A válogatással kezdődött a munka, attól függően, hogy mi volt a tervünk. 
-
-A nagyjából azonos méretűeket szedtük ki a téglarakásunkból, de ha friss bontásból származott a tégla, akkor azt még pucolni is kellett.  Nálunk ez a feladat mindig az enyém volt.  
-A férjem épített, én pedig segédmunkáskodtam...
-
-
-
-Amikor elkészült az éppen aktuális tégla mű, megint én következtem. 
-
-
-
-
-
-**Sósavazás**
 
 
 Sósavval átkentem a felületeket, hogy a rajt maradt maltert, és egyéb szennyeződéseket lemarja. Ahol szükségesnek láttam, egy kicsit spaklival is rásegítettem. 
