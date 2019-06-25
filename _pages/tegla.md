@@ -18,10 +18,10 @@ image:
 
 ## Előre gondolkodni
 
-Mikor kerestük a "Miházunknak valót" csak a házról volt elképzelésünk.
+Mikor 5 évvel ezelőtt kerestük a "Miházunknak valót" még csak a házról volt elképzelésünk.
 
 
-Az udvar, a kert (akkor még) eszünkbe sem jutott. 
+Az udvar, a kert akkoriban eszünkbe sem jutott. 
 Nem volt tervünk arra nézve, hogy mekkora legyen a telek, legyen-e melléképület, kialakított kert, stb... 
 ([erről itt olvashatsz](/2019-02-09/hazvasarlas))
 
