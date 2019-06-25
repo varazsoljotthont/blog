@@ -57,10 +57,10 @@ A fent felsoroltaknak mi nem néztünk utána. Így aztán, ahogy megismertük a
 A ház nagy, közel 2000 m2 telken fekszik, ahol egykor kaszáló és egy házi kavicsbánya is működött. Ebből adódóan a föld jó része kavicsos, ami elvezeti a vizet, a kaszáló helyén pedig agyagos, ami megköti a vizet. Ráadásul miután a kis házi bánya megszűnt, a helyét mindenféle törmelékkel töltötték fel. A mai napig tégla, cserép, üvegdarabokat ásunk ki.
 A déli, dél-nyugati nap éri a legtöbbet, így az öntözés megoldása a legfontosabb feladatok egyike lett.
 
-![felirat](/assets/kulsokorlet/kezdet.jpg)
-_Inne szép nyerni_
+![ház](/assets/kulsokorlet/kezdet.jpg)
+_Innen szép nyerni_
 
-![felirat](/assets/kulsokorlet/DSCF0803.JPG)
+![ház](/assets/kulsokorlet/DSCF0803.JPG)
 
 ## Melléképületek
 
@@ -98,7 +98,7 @@ A pihenőhelyek megtervezése is fontos feladat.
 _Tavassza, ősszel a legjobb hely egy kis szusszanásra_
 
 ![ház](/assets/kulsokorlet/IMG_20190625_192516.jpg)
-_Nyáron is árnyékos a kiülő_
+_A nyáron is árnyékos kiülő_
 
 ![ház](/assets/kulsokorlet/IMG_20190623_152037.jpg)
 _A kertirom a sarokban van, így tökéletes "búvóhely" lett_
