@@ -140,10 +140,10 @@ Hisz azért (is) hoztuk létre, hogy élvezzük. Hogy itthon is olyan legyen kö
 Sok időt, energiát fektettem abba, hogy megtanuljam, milyen virágok illenek a "Miházunk" kertjébe. A régi, egykor a falusi házaknál lévő virágokat akartam behozni hozzánk is. 
 
 Nem akartam egzotikus növényeket, és parkszerű kertet. Buja, az angolkertre hasonlító vidéki kertet hoztunk össze a semmiből. 
-Tavasztól őszig virágzik a kert. Ide csalogattuk a méheket, és a pillangókat. Igyekeztem illatos virágokat, cserjéket is ültetni, hogy az 
+Tavasztól őszig virágzik a kert. Igyekeztem illatos virágokat, cserjéket is ültetni, hogy a méheket, pillangókat ide csalogassuk. 
 
-![tégla](/assets/tégla/IMG_20190423_174028.jpg)
-_Dekor fal a teraszon, természetesen bontott téglából_
+![ház](/assets/kulsokorlet/IMG_20190623_152918.jpg)
+_Csupa-csupa virág_
 
 
 
