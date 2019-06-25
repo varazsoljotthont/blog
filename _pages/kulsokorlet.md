@@ -19,14 +19,14 @@ image:
 
 ## Előre gondolkodni
 
-Mikor 5 évvel ezelőtt kerestük a "Miházunknak valót" még csak a házról volt elképzelésünk.
+Mikor 5 évvel ezelőtt kerestük a "Miházunknak valót" ([még csak a házról volt elképzelésünk](/2019-02-09/hazvasarlas))
+
 
 
 Az udvar, a kert akkoriban eszünkbe sem jutott. 
 Nem volt tervünk arra nézve, hogy mekkora legyen a telek, legyen-e melléképület, kialakított kert, stb... 
 Ha van kert a háznál, akkor az veteményes, gyümölcsös, virágos, vagy csak füves.
 
-([erről itt olvashatsz](/2019-02-09/hazvasarlas))
 
 
 ![idézet](/assets/kulsokorlet/idézet.jpg)
