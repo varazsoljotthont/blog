@@ -29,7 +29,7 @@ Nem volt tervünk arra nézve, hogy mekkora legyen a telek, legyen-e mellékép�
 
 Ha van kert a háznál, akkor az veteményes, gyümölcsös, virágos, vagy csak füves.
 
-![idézet](/assets/tégla/idézet.jpg)
+![idézet](/assets/kulsokorlet/idézet.jpg)
 
 Időben át kell gondolni, hogy a jövőben mihez szeretnénk kezdeni a területtel.
 
