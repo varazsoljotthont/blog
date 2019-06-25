@@ -30,7 +30,7 @@ Ha van kert, akkor az veteményes, gyümölcsös, virágos, vagy csak füves leg
 ![idézet](/assets/tégla/idézet.jpg)
 
 Még időben kell átgondolni, hogy a jövőben mihez szeretnénk kezdeni a területtel.
-Nem árt tisztában lenni azzal sem, hogy milyen a talaj az adott részen. Lehetnek terveink, ha a föld minősége nem engedi azokat megvalósítani.
+Nem árt tisztában lenni azzal sem, hogy milyen a talaj az adott részen. Hiába vannak terveink, ha a föld minősége nem engedi azokat megvalósítani.
 
 
 
