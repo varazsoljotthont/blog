@@ -138,12 +138,20 @@ Az örökzöldeken át az egynyári virágokig, széles a választék. Az elsőv
 Szerettem volna, szép, vidékies hangulatú kertet, de azt is tudtam, hogy nem akarom minden szabadidőmet a kertben munkával tölteni.
 Hisz azért (is) hoztuk létre, hogy élvezzük. Hogy itthon is olyan legyen körülöttünk minden, ahol feltöltődünk a mindennapok hajszája után.
 
-![ház](/assets/kulsokorlet/IMG_20190623_152918.jpg)
+![ház](/assets/kulsokorlet/IMG_20190623_165255.jpg)
+
+![ház](/assets/kulsokorlet/IMG_20190623_172817.jpg)
+
+
+![ház](/assets/kulsokorlet/IMG_20190625_080320.jpg)
 
 
 ## Növényválasztás
 
 Sok időt, energiát fektettem abba, hogy megtanuljam, milyen virágok illenek a "Miházunk" kertjébe. A régi, egykor a falusi házaknál lévő virágokat akartam behozni hozzánk is. 
+
+
+![ház](/assets/kulsokorlet/IMG_20190625_080320.jpg)
 
 Nem akartam egzotikus növényeket, és parkszerű kertet. Buja, az angolkertre hasonlító vidéki kert volt az elképtelésem. 
 Egy éven át szereztem be az épp aktuális virágokat.Így sikerült elérnem, hogy tavasztól őszig folyamatosan virágzik a kert. Igyekeztem illatos virágokat, cserjéket is ültetni, hogy a méheket, pillangókat ide csalogassuk. 
