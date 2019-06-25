@@ -57,7 +57,10 @@ A fent felsoroltaknak mi nem néztünk utána. Így aztán, ahogy megismertük a
 A ház nagy, közel 2000 m2 telken fekszik, ahol egykor kaszáló és egy házi kavicsbánya is működött. Ebből adódóan a föld jó része kavicsos, ami elvezeti a vizet, a kaszáló helyén pedig agyagos, ami megköti a vizet. Ráadásul miután a kis házi bánya megszűnt, a helyét mindenféle törmelékkel töltötték fel. A mai napig tégla, cserép, üvegdarabokat ásunk ki.
 A déli, dél-nyugati nap éri a legtöbbet, így az öntözés megoldása a legfontosabb feladatok egyike lett.
 
+![felirat](/assets/kulsokorlet/kezdet.jpg)
+_Inne szép nyerni_
 
+![felirat](/assets/kulsokorlet/DSCF0803.JPG)
 
 ## Melléképületek
 
@@ -65,7 +68,7 @@ Szerencsések voltunk, mert a házhoz épp annyi melléképület  tartozott, ame
 
 Egy tyúkól, egy pajta féleség, és az istálló. Nem voltak túl jó állapotban, de érdemesek voltak a tovább gondolásra.
 
-![felirat](/assets/kulsokorlet/IMG_20190623_165117.jpg)
+![felirat](/assets/kulsokorlet/kezdet.jpg)
 
 
 ## Udvar, uradalom, hátsó kert
