@@ -11,28 +11,20 @@ image:
 
 
 
-**A régen a vidéki, falusi házakhoz nagy telek tartozott, hisz a háztáji, az állattartás nagy helyet követelt. Ezek megszűnésével egy újabb feladat állt elő. A nagy udvart, kertet újra kellett gondolni és a ház stílusához igazítani. 
+**A régen a vidéki, falusi házakhoz nagy telek tartozott, hisz a háztáji, az állattartás nagy helyet követelt. Ezek megszűnésével egy újabb feladat állt elő. A nagy udvart, kertet újra kellett gondolni és a ház stílusához igazítani.** 
 
 
 
 
-## Tervezés
+## Előre gondolkodni
 
+Mikor kerestük a "Miházunknak valót" csak a házról volt elképzelésünk.
 
-
-
-Még évekkel ezelőtt, mikor csak ábrándoztunk a "Miházunkról", tervezgettük, hogy milyen lesz majd az otthonunk hangulata. Azt már akkor is tudtuk, hogy nekünk nagy valószínűséggel nem lesz trendi, az épp divatos irányelveket követő házunk.
+Az udvar, a kert eszünkbe sem jutott. Nem volt tervünk, hogy mekkora legyen a telek, hogy legyen-e melléképület, hogy legyen-e kialakított kert, stb...
 
 ([erről itt olvashatsz](/2019-02-09/hazvasarlas))
 
 A modern, minimál stílusú házak a csupa króm, üveg, egyen berendezéssel egyikünknek sem tetszettek. 
-
-
-Mindketten vonzódunk a régi, újra hasznosított tárgyakhoz, szeretjük a természetes dolgokat magunk körül. 
-Mikor elkezdődött a ház átalakítása, adta magát az ötlet, hogy használjuk fel birtokunkban lévő téglákat. 
-Kéznél van, ingyen van, helyben van, időtálló és még szép is.  
-
-Mi kell még?
 
 ![idézet](/assets/tégla/idézet.jpg)
 
