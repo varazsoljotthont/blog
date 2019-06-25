@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Udvar építés, udvar szépítés 10 lépésben"
+title: "Mire figyelj az udvar, a kert kialakításákor"
 permalink: /udvar/
 cover: /assets/udvar/cover.jpg
 image:
@@ -20,13 +20,24 @@ image:
 
 Mikor kerestük a "Miházunknak valót" csak a házról volt elképzelésünk.
 
-Az udvar, a kert eszünkbe sem jutott. Nem volt tervünk, hogy mekkora legyen a telek, hogy legyen-e melléképület, hogy legyen-e kialakított kert, stb...
 
+Az udvar, a kert (akkor még) eszünkbe sem jutott. 
+Nem volt tervünk arra nézve, hogy mekkora legyen a telek, legyen-e melléképület, kialakított kert, stb... 
 ([erről itt olvashatsz](/2019-02-09/hazvasarlas))
 
-A modern, minimál stílusú házak a csupa króm, üveg, egyen berendezéssel egyikünknek sem tetszettek. 
+Ha van kert, akkor az veteményes, gyümölcsös, virágos, vagy csak füves legyen.
 
 ![idézet](/assets/tégla/idézet.jpg)
+
+Még időben kell átgondolni, hogy a jövőben mihez szeretnénk kezdeni a területtel.
+Nem árt tisztában lenni azzal sem, hogy milyen a talaj az adott részen. Lehetnek terveink, ha a föld minősége nem engedi azokat megvalósítani.
+
+
+
+
+
+
+
 
 
 
