@@ -24,16 +24,20 @@ Mikor 5 évvel ezelőtt kerestük a "Miházunknak valót" még csak a házról v
 
 Az udvar, a kert akkoriban eszünkbe sem jutott. 
 Nem volt tervünk arra nézve, hogy mekkora legyen a telek, legyen-e melléképület, kialakított kert, stb... 
+Ha van kert a háznál, akkor az veteményes, gyümölcsös, virágos, vagy csak füves.
 
 ([erről itt olvashatsz](/2019-02-09/hazvasarlas))
 
-Ha van kert a háznál, akkor az veteményes, gyümölcsös, virágos, vagy csak füves.
 
 ![idézet](/assets/kulsokorlet/idézet.jpg)
 
-Időben át kell gondolni, hogy a jövőben mihez szeretnénk kezdeni a területtel.
 
 Nem árt tisztában lenni azzal sem, hogy milyen a talaj az adott részen. Hiába vannak terveink, ha a föld minősége nem engedi azokat megvalósítani. ...és legalább ilyen fontos a telek tájolása. Jó tudni hol és mikor éri a legjobban a nap, mennyi árnyékos rész van az udvarban, a kertben.
+
+Időben át kell gondolni, hogy a jövőben mihez szeretnénk kezdeni a területtel.
+
+
+
 
 **Amit tudni kellene**
 
@@ -50,7 +54,7 @@ Nem árt tisztában lenni azzal sem, hogy milyen a talaj az adott részen. Hiáb
 
 A fent felsoroltaknak mi nem néztünk utána. Így aztán, ahogy megismertük a terepet, úgy terveztük meg és alakítottuk át az udvarunkat, a kertünket.
 
-A ház nagy, közel 2000 m2 telken fekszik, ahol egykor kaszáló és egy házi kavicsbánya is működött. Ebből adódóan a föld jó része kavicsos, ami elvezeti a vizet, a kaszáló helyén pedig agyagos, ami megköti a vizet. Ráadásul miután a kis házi bánya megszűnést, a helyét mindenféle törmelékkel töltötték fel. A mai napig tégla, cserép, üvegdarabokat ásunk ki.
+A ház nagy, közel 2000 m2 telken fekszik, ahol egykor kaszáló és egy házi kavicsbánya is működött. Ebből adódóan a föld jó része kavicsos, ami elvezeti a vizet, a kaszáló helyén pedig agyagos, ami megköti a vizet. Ráadásul miután a kis házi bánya megszűnt, a helyét mindenféle törmelékkel töltötték fel. A mai napig tégla, cserép, üvegdarabokat ásunk ki.
 A déli, dél-nyugati nap éri a legtöbbet, így az öntözés megoldása a legfontosabb feladatok egyike lett.
 
 
@@ -75,8 +79,12 @@ A telket három részre osztottuk fel:
 * hátsó kert
 
 
+> Az Uradalom nevet én adtam a kertnek. Míg nem volt beültetve, csak lucerna volt benne, és így még nagyobbnak tűnt. Ekkor mondtam, hogy akkora ez a telek, mint egy Uradalom. És a név rajt is maradt.
 
-> Az Uradalom nevet én adtam a kertnek. Míg nem volt beültetve, csak a lucerna volt benne, és így még nagyobbnak tűnt. Ekkor mondtam, hogy akkora ez a telek, mint egy Uradalom. És a név rajt is maradt.
+## Pihenőhelyek
+
+A pihenőhelyek megtervezése fontos feladat.
+
 
 
 ![tégla](/assets/tégla/IMG_20190423_174028.jpg)
@@ -89,7 +97,6 @@ _Dekor fal a teraszon, természetesen bontott téglából_
 
 
 
-Sósavval átkentem a felületeket, hogy a rajt maradt maltert, és egyéb szennyeződéseket lemarja. Ahol szükségesnek láttam, egy kicsit spaklival is rásegítettem. 
 
 **Fugázás**
 
