@@ -29,12 +29,25 @@ Ha van kert, akkor az veteményes, gyümölcsös, virágos, vagy csak füves leg
 
 ![idézet](/assets/tégla/idézet.jpg)
 
-Még időben kell átgondolni, hogy a jövőben mihez szeretnénk kezdeni a területtel.
-Nem árt tisztában lenni azzal sem, hogy milyen a talaj az adott részen. Hiába vannak terveink, ha a föld minősége nem engedi azokat megvalósítani.
+Időben át kell gondolni, hogy a jövőben mihez szeretnénk kezdeni a területtel.
+
+Nem árt tisztában lenni azzal sem, hogy milyen a talaj az adott részen. Hiába vannak terveink, ha a föld minősége nem engedi azokat megvalósítani. ...és legalább ilyen fontos a telek tájolása. Jó tudni hol és mikor éri a legjobban a nap, mennyi árnyékos rész van az udvarban, a kertben.
+
+**Legfontosabb szempontok**
 
 
+* tervezés, elképzelés
+* telek mérete
+* telek tájolása
+* talaj minősége
+* melléképületek 
+
+## Miházunk földje
 
 
+A fent felsoroltaknak mi nem néztünk utána, így néhányszor neki futottunk
+
+Mikor a ház belső felújításával végeztünk, akkor kezdtünk el gondolkodni a külső "körleten". A ház nagy, közel 2000 m2 teleken fekszik
 
 
 
