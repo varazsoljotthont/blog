@@ -151,7 +151,7 @@ Hisz azért (is) hoztuk létre, hogy élvezzük. Hogy itthon is olyan legyen kö
 Sok időt, energiát fektettem abba, hogy megtanuljam, milyen virágok illenek a "Miházunk" kertjébe. A régi, egykor a falusi házaknál lévő virágokat akartam behozni hozzánk is. 
 
 
-![ház](/assets/kulsokorlet/IMG_20190625_080320.jpg)
+![ház](/assets/kulsokorlet/IMG_20190623_152253.jpg)
 
 Nem akartam egzotikus növényeket, és parkszerű kertet. Buja, az angolkertre hasonlító vidéki kert volt az elképtelésem. 
 Egy éven át szereztem be az épp aktuális virágokat.Így sikerült elérnem, hogy tavasztól őszig folyamatosan virágzik a kert. Igyekeztem illatos virágokat, cserjéket is ültetni, hogy a méheket, pillangókat ide csalogassuk. 
@@ -159,7 +159,8 @@ Egy éven át szereztem be az épp aktuális virágokat.Így sikerült elérnem,
 ![ház](/assets/kulsokorlet/IMG_20190623_152918.jpg)
 _Csupa-csupa virág_
 
-
+![ház](/assets/kulsokorlet/IMG_20190623_172641.jpg)
+_Az árnyékos oldalra is sok féle virágot lehet ültetni_
 
 
 
