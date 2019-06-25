@@ -106,6 +106,8 @@ _A kertirom a sarokban van, így tökéletes "búvóhely" lett_
 
 ![ház](/assets/kulsokorlet/08_3.jpg)
 _A hintaágy az én kedvencem_
+
+
 ## Részletek
 
 A ház stílusához igazítottuk a kertet, udvart is, ehhez pedig a felhasznált anyagokat. 
@@ -136,13 +138,15 @@ Az örökzöldeken át az egynyári virágokig, széles a választék. Az elsőv
 Szerettem volna, szép, vidékies hangulatú kertet, de azt is tudtam, hogy nem akarom minden szabadidőmet a kertben munkával tölteni.
 Hisz azért (is) hoztuk létre, hogy élvezzük. Hogy itthon is olyan legyen körülöttünk minden, ahol feltöltődünk a mindennapok hajszája után.
 
+![ház](/assets/kulsokorlet/IMG_20190623_152918.jpg)
+
 
 ## Növényválasztás
 
 Sok időt, energiát fektettem abba, hogy megtanuljam, milyen virágok illenek a "Miházunk" kertjébe. A régi, egykor a falusi házaknál lévő virágokat akartam behozni hozzánk is. 
 
-Nem akartam egzotikus növényeket, és parkszerű kertet. Buja, az angolkertre hasonlító vidéki kertet hoztunk össze a semmiből. 
-Tavasztól őszig virágzik a kert. Igyekeztem illatos virágokat, cserjéket is ültetni, hogy a méheket, pillangókat ide csalogassuk. 
+Nem akartam egzotikus növényeket, és parkszerű kertet. Buja, az angolkertre hasonlító vidéki kert volt az elképtelésem. 
+Egy éven át szereztem be az épp aktuális virágokat.Így sikerült elérnem, hogy tavasztól őszig folyamatosan virágzik a kert. Igyekeztem illatos virágokat, cserjéket is ültetni, hogy a méheket, pillangókat ide csalogassuk. 
 
 ![ház](/assets/kulsokorlet/IMG_20190623_152918.jpg)
 _Csupa-csupa virág_
