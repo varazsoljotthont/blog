@@ -25,7 +25,7 @@ Mikor 5 évvel ezelőtt kerestük a "Miházunknak valót" [még csak a házról]
 
 Az udvar, a kert akkoriban eszünkbe sem jutott. 
 Nem volt tervünk arra nézve, hogy mekkora legyen a telek, legyen-e melléképület, kialakított kert, stb... 
-Ha van kert a háznál, akkor az veteményes, gyümölcsös, virágos, vagy csak füves.
+Ha van kert a háznál, akkor az veteményes, gyümölcsös, virágos, vagy csak fű nő rajta.
 
 
 
@@ -39,13 +39,13 @@ Időben át kell gondolni, hogy a jövőben mihez szeretnénk kezdeni a terület
 
 
 
-**Amit tudni kellene**
+**Amit tudni kell(kellene)**
 
 * telek mérete
 * telek tájolása
 * talaj minősége
 * melléképületek 
-* mit szeretnénk
+* mi az elképzelés
 
 
 
@@ -65,7 +65,7 @@ Szerencsések voltunk, mert a házhoz épp annyi melléképület  tartozott, ame
 
 Egy tyúkól, egy pajta féleség, és az istálló. Nem voltak túl jó állapotban, de érdemesek voltak a tovább gondolásra.
 
-
+![felirat](/assets/kulsokorlet/IMG_20190623_165117.jpg)
 
 
 ## Udvar, uradalom, hátsó kert
@@ -90,6 +90,15 @@ A pihenőhelyek megtervezése is fontos feladat.
 Évszaknak, napszaknak megfelelően kell őket elhelyezni. Ahol tavasszal, ősszel kellemes meginni egy kávét, az nyáron elviselhetetlenül meleg. Jó, ha van egy olyan helyünk is, ahol kényelmesen lehet ebédezni, vagy egy olyan sarok, ahol el lehet bújni a "világ szeme elől".
 
 > Bevallom, nálunk sok kiülő, leülő hely van, és mindegyiket használjuk. Hol ezt, hol azt, de kihasználatlanul egyik sincs.
+
+![ház](/assets/kulsokorlet/IMG_20190625_192344.jpg)
+_Tavassza, ősszel a legjobb hely egy kis szusszanásra_
+
+![ház](/assets/kulsokorlet/IMG_20190625_192516.jpg)
+_Nyáron is árnyékos a kiülő_
+
+![ház](/assets/kulsokorlet/IMG_20190623_152037.jpg)
+_A kertirom a sarokban van, így tökéletes "búvóhely" lett_
 
 ## Részletek
 
