@@ -1,22 +1,22 @@
 ---
 layout: post
-title: "Bontott tégla varázsa az otthonunkban"
-permalink: /tegla/
-cover: /assets/tégla/cover.jpg
+title: "Udvar építés, udvar szépítés 10 lépésben"
+permalink: /udvar/
+cover: /assets/udvar/cover.jpg
 image:
-  path: /assets/tégla/cover.jpg
+  path: /assets/udvar/cover.jpg
   height: 300
   width: 300
 ---
 
 
 
-**A bontott tégla napjainkban valódi reneszánszát éli, de a mi esetünkben nem a divat miatt került be a házba.  A szlogenem: "Téglából ház, lélekből otthon". Ha a téglához hozzáadjuk a lelkünkből jövő vágyat, akkor képesek leszünk megalkotni azt az otthont, amit elképzeltünk magunknak.**
+**A régen a vidéki, falusi házakhoz nagy telek tartozott, hisz a háztáji, az állattartás nagy helyet követelt. Ezek megszűnésével egy újabb feladat állt elő. A nagy udvart, kertet újra kellett gondolni és a ház stílusához igazítani. 
 
 
 
 
-## Miért tégla?
+## Tervezés
 
 
 
