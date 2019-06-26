@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Mire figyelj az udvar, a kert kialakításákor"
+title: "Amire figyelni kell, ha szép kertet, udvart szeretnél"
 permalink: /kulsokorlet/
 cover: /assets/kulsokorlet/cover.jpg
 categories: [kert, dekor]
@@ -117,7 +117,7 @@ A virágok mellett van itt némi eper, barackfa ( ami már az idén terem), mál
 Ez a rész még fejlesztés alatt van. 
 Itt működik a kis házi tüzépünk, ide van lerakva a vágni való tüzifa, de itt alakítottunk ki egy kicsi kis ágyást is, ahol némi földjavítás - csere után, krumplit, paprikát, paradicsomot ültettünk. És persze itt van a szeder, és több diófa is. 
 
-![felirat](/assets/kulsokorlet/IMG_20190625_193225.jpg)
+![kert](/assets/kulsokorlet/IMG_20190626_070808.jpg)
 
 ## Pihenőhelyek
 
@@ -206,7 +206,7 @@ A gazos, lucernás kertből díszkertet varázsolni nem volt könnyű. Rengeteg 
 ## Kapcsolódó cikkek
 
  
-* [Fontos lépések régi házunk állagmegóvásáért](/2019-04-03/állagmegóvás)
-* [Ez aztán a változás!](/2019-04-11/külsőfalak)
-* [Találjuk ki a házunkat](/2019-02-11/találjuk_ki)
-* [Kell egy ház... De hol, milyen, mennyiért?](/2019-02-09/hazvasarlas)
+* [Kerti kiülő olcsón, stílusosan, sajátkezűleg](/2019-05-29/kiülő.md)
+* [Így lett a tüzifa az otthonunk dísze](/2019-05-16/fábólkreatívan.md)
+* [Bontott tégla varázsa az otthonunkban](/2019-04-23/tegla.md)
+* [Hozzuk formába az otthonunkat!](/2019-03-26/dekoráció.md)
