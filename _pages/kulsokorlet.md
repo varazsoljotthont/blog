@@ -92,6 +92,8 @@ Hozzánk belépve az udvart látjuk először. Itt kapjuk az első impulzust, ho
 
 Épp ezért volt fontos a számomra, hogy már az utcaajtó környéke hangulatos legyen.
 
+Az udvaron van a hintaágy, mögötte pedig egy sor szőlő, ami  beton kerítést is eltakarja.
+
 
 
 ![ház](/assets/kulsokorlet/IMG_20190527_190819.jpg)
@@ -103,7 +105,7 @@ _A téglajárda mellett levendula és rózsa_
 Miután az udvari részt kitaláltuk, és "kijelöltük", még mindig ott volt a hatalmas kert. Egyben hagyva túl sok lett volna, így kerítéssel, kapuval ketté választottuk.
 
 Az első részből lett az Uradalom, amit rengeteg évelő virággal ültettem be. Ide került a kerti kiülő, és a kerti rom is. 
-A virágok mellett van itt némi eper, barackfa ( ami már az idén terem), málna és mézalmácska is.
+A virágok mellett van itt némi eper, barackfa ( ami már az idén terem), málna, mézalmácska, és szőlő is.
 
 Pihenésre, sütögetésre, baráti beszélgetésekhez tökéletes hely.
 
