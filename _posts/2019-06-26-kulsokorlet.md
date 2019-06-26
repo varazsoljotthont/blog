@@ -118,6 +118,7 @@ Pihenésre, sütögetésre, baráti beszélgetésekhez tökéletes hely.
 > Az Uradalom nevet én adtam a kertnek. Míg csak lucerna volt benne, még nagyobbnak tűnt. Ekkor mondtam, hogy akkora ez a telek, mint egy Uradalom. És a név rajta is maradt.
 
 ![felirat](/assets/kulsokorlet/IMG_20190625_193225.jpg)
+_A táblácska a virágok felé mutat_
 
 **Hátsó kert**
 
@@ -125,6 +126,7 @@ Ez a rész még fejlesztés alatt van.
 Itt működik a kis házi tüzépünk, ide van lerakva a vágni való tüzifa, de itt alakítottunk ki egy kicsi ágyást is, ahol némi földjavítás - csere után, krumplit, paprikát, paradicsomot ültettünk. Van még itt szeder, és több diófa is. 
 
 ![kert](/assets/kulsokorlet/IMG_20190626_070808.jpg)
+_A hátsókert lassanként alakul_
 
 
 ## Pihenőhelyek
