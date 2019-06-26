@@ -27,7 +27,7 @@ Az udvar, a kert akkoriban eszünkbe se jutott.
 Nem volt tervünk arra nézve, hogy mekkora legyen a telek, legyen-e melléképület, kialakított kert, stb...
 
 A melléképületek száma, állapota nem elhanyagolható. A mindenféle használhatatlan kis "kuszlikok" csak gondot jelentenek, ha nincs elképzelés velük kapcsolatban. 
-A kert milyensége szintén lényeges. Ha van, akkor az veteményes, gyümölcsös, virágos, vagy csak fű Vagy rossz esteben gaz) nő rajta.
+A kert milyensége szintén lényeges. Ha van, akkor az veteményes, gyümölcsös, virágos, vagy csak fű (vagy rossz esteben gaz) nő rajta.
 
 
 
