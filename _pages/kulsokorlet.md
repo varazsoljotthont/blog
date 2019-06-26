@@ -24,8 +24,10 @@ Mikor 5 évvel ezelőtt kerestük a "Miházunknak valót" [még csak a házról]
 
 
 Az udvar, a kert akkoriban eszünkbe se jutott. 
-Nem volt tervünk arra nézve, hogy mekkora legyen a telek, legyen-e melléképület, kialakított kert, stb... 
-Ha van kert a háznál, akkor az veteményes, gyümölcsös, virágos, vagy csak fű nő rajta.
+Nem volt tervünk arra nézve, hogy mekkora legyen a telek, legyen-e melléképület, kialakított kert, stb...
+
+A melléképületek száma, állapota nem elhanyagolható. A mindenféle használhatatlan kis "kuszlikok" csak gondot jelentenek, ha nincs elképzelés velük kapcsolatban. 
+A kert milyensége szintén lényeges. Ha van, akkor az veteményes, gyümölcsös, virágos, vagy csak fű Vagy rossz esteben gaz) nő rajta.
 
 
 
@@ -41,7 +43,7 @@ Időben át kell gondolni, hogy a jövőben mihez szeretnénk kezdeni a terület
 
 **Amit tudni kell(kellene)**
 
-* telek mérete
+* az udvar,a kert méretei külön - külön
 * telek tájolása
 * talaj minősége
 * melléképületek 
@@ -77,8 +79,9 @@ _A tyúkól az átalakítás után_
 A költözésünk utáni második évben kezdtük el megvalósítani azt a vidékies hangulatú külső teret, amit  elképzeltünk magunknak. 
 
 A férjemtől szabadkezet kaptam. Rám bízta, hogy igazítom hozzá a kopár területet az otthonunkhoz.
-A férjem csinálta a "pasis munkákat, én pedig miközben tanultam a kertészkedés fortélyait, folyamatosan alakítottam ki a kertet
-A telket három részre osztottuk fel:
+Ő csinálta a "pasis munkákat, én pedig - miközben tanultam a kertészkedés fortélyait -, folyamatosan alakítottam ki a kertet.
+
+A telket a mérete miatt három részre osztottuk fel:
 
 * udvar 
 * kert ( Uradalom)
@@ -87,12 +90,32 @@ A telket három részre osztottuk fel:
 
 **Udvar**
 
-Hozzánk belépve ez az első hely amit látunk. 
+Hozzánk belépve az udvart látjuk először. Itt kapjuk az első impulzust, hogy hova is érkeztünk. 
+
+Épp ezért volt fontos a számomra, hogy már az utcaajtó környéke hangulatos legyen.
+
+
 
 ![ház](/assets/kulsokorlet/IMG_20190527_190819.jpg)
 _A téglajárda mellett levendula és rózsa_
 
+
+**Uradalom**
+
+Miután az udvar részt kitaláltuk, és "kijelöltük", még mindig ott volt a hatalmas kert. Egyben hagyva túl sok lett volna, így kerítéssel, kapuval ketté vettük.
+
+Az első részből lett az Uradalom, amit rengeteg évelő virággal ültettem be. Ide került a kerti kiülő, és a kerti rom is. Pihenésre, sütögetésre, baráti beszélgetésekhez tökéletes.
+
+A virágok mellett van itt némi eper, barackfa ( ami már az idén terem), málna és mézalmácska.
+
 > Az Uradalom nevet én adtam a kertnek. Míg nem volt beültetve, csak lucerna volt benne, és így még nagyobbnak tűnt. Ekkor mondtam, hogy akkora ez a telek, mint egy Uradalom. És a név rajta is maradt.
+
+![felirat](/assets/kulsokorlet/IMG_20190625_193225.jpg)
+
+**Hátsó kert**
+
+Ez a rész még fejlesztés alatt van. 
+Itt működik a kis házi tüzépünk, ide van lerakva a vágni való tüzifa, de itt alakítottunk ki egy kicsi kis ágyást is, ahol némi földjavítás - csere után, krumplit, paprikát, paradicsomot ültettünk. És persze itt van a szeder, és több diófa is. 
 
 ![felirat](/assets/kulsokorlet/IMG_20190625_193225.jpg)
 
@@ -114,7 +137,7 @@ _A nyáron is árnyékos kiülő_
 _A kertirom a sarokban van, így tökéletes "búvóhely" lett_
 
 ![ház](/assets/kulsokorlet/08_3.jpg)
-_A hintaágy az én kedvencem_
+_A hintaágy az udvaron aZ én kedvencem_
 
 
 ## Részletek
@@ -177,35 +200,12 @@ _Az árnyékos oldalra is sok féle virágot lehet ültetni_
 
 
 
-
-
-
-**Ma már nem jelent gondot, hogy a fürdőszobába vagy a konyhába építsük be a bontott téglát. Az impregnáló anyagokkal mosható, szennyeződés taszító lesz a tégla, ráadásul elegendő egy alkalommal lekenni a kezelendő felületet. A Téglárium oldalán minden információ olvasható ami a bontott tégláról fontos lehet.** 
-([itt találod](https://www.facebook.com/Teglarium/?epa=SEARCH_BOX))
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 **+ 1 gondolat:**   
-A felületkezelést nem szabad elhanyagolni. Ha megadjuk a téglának azt a védelmet, ami jár neki, egész biztosan nem lesz vele probléma.
-
+A gazos, lucernás kertből díszkertet varázsolni nem volt könnyű. Rengeteg munka volt vele az első évben. A talaj előkészítésén, és a növényválasztáson nagyon sok múlik. Mostanra tartunk ott, hogy nagyjából önfenntartó lett a kert. De folyamatos odafigyelést igényel, és a napi szintű kisebb-nagyobb feladatokat elkell végezni.
 
 ## Kapcsolódó cikkek
 
-
+ 
 * [Fontos lépések régi házunk állagmegóvásáért](/2019-04-03/állagmegóvás)
 * [Ez aztán a változás!](/2019-04-11/külsőfalak)
 * [Találjuk ki a házunkat](/2019-02-11/találjuk_ki)
