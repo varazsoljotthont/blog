@@ -60,8 +60,7 @@ A ház nagy, közel 2000 m2 telken fekszik, ahol egykor kaszáló és egy házi 
 A déli, dél-nyugati nap éri a legtöbbet, így az öntözés megoldása a legfontosabb feladatok egyike lett.
 
 ![ház](/assets/kulsokorlet/kezdet.jpg)
-_Innen szép nyerni_
-
+_Innen szép nyerni. Csak egy kiszáradt körtefa, és pár tőke szőlő volt az egész telken_
 ![ház](/assets/kulsokorlet/DSCF0803.jpg)
 
 ## Melléképületek
