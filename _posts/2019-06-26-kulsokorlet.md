@@ -177,7 +177,7 @@ Az örökzöldeken át az egynyári virágokig, széles a választék. Az elsőv
 
 Én az évelők mellett tettem le a voksomat. 
 
-Szerettem volna, szép, vidékies hangulatú kertet, de azt is tudtam, hogy nem akarom minden szabadidőmet a kertben munkával tölteni.
+Szerettem volna szép, vidékies hangulatú kertet, de azt is tudtam, hogy nem akarom minden szabadidőmet a kertben munkával tölteni.
 Hisz azért (is) hoztuk létre, hogy élvezzük. Hogy itthon is olyan legyen körülöttünk minden, ahol feltöltődünk a mindennapok hajszája után.
 
 ![ház](/assets/kulsokorlet/IMG_20190623_165255.jpg)
