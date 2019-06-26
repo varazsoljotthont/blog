@@ -12,7 +12,7 @@ image:
 
 
 
-**A régen a vidéki, falusi házakhoz nagy telek tartozott, hisz a háztáji, az állattartás nagy helyet követelt. Ezek megszűnésével pedig egy újabb feladat állt elő. A nagy udvart, kertet újra kellett gondolni és a ház stílusához igazítani.** 
+**Régen a vidéki, falusi házakhoz nagy telek tartozott, hisz a háztáji, az állattartás nagy helyet követelt. Ezek megszűnésével pedig egy újabb feladat állt elő. A nagy udvart, kertet újra kellett gondolni és a ház stílusához igazítani.** 
 
 
 
@@ -53,7 +53,7 @@ Nem árt tisztában lenni azzal sem, hogy milyen a talaj az adott helyen. Hiába
 ## Miházunk földje
 
 
-A fent felsoroltaknak mi nem néztünk utána. Így aztán, ahogy megismertük a terepet, úgy terveztük meg és alakítottuk át az udvarunkat, a kertünket.
+Az imént felsoroltaknak mi nem néztünk utána. Így aztán, ahogy megismertük a terepet, úgy terveztük meg és alakítottuk át az udvarunkat, a kertünket.
 
 A ház nagy, közel 2000 m2 telken fekszik, ahol egykor kaszáló és egy házi kavicsbánya is működött. 
 
@@ -81,7 +81,7 @@ _A tyúkól az átalakítás után_
 
 A költözésünk utáni második évben kezdtük el megvalósítani azt a vidékies hangulatú külső teret, amit  elképzeltünk magunknak. 
 
-A férjemtől szabadkezet kaptam. Rám bízta, hogy igazítom hozzá a kopár területet az otthonunkhoz.
+A férjemtől szabad kezet kaptam. Rám bízta, hogy igazítom hozzá a kopár területet az otthonunkhoz.
 Ő csinálta a "pasis munkákat", mint pl: az ásás, én pedig - miközben tanultam a kertészkedés fortélyait -, folyamatosan alakítottam ki a kertet.
 
 A telket a mérete miatt három részre osztottuk fel:
@@ -95,9 +95,9 @@ A telket a mérete miatt három részre osztottuk fel:
 
 Hozzánk belépve az udvart látjuk először. Itt kapjuk az első impulzust, hogy hova is érkeztünk. 
 
-Épp ezért volt fontos a számomra, hogy már az utcaajtó környéke hangulatos legyen.
+Épp ezért volt fontos a számomra, hogy már az utcaajtó környéke is hangulatos legyen.
 
-Az udvaron van a hintaágy, mögötte pedig egy sor szőlő, ami  beton kerítést is eltakarja.
+Az udvaron van a hintaágy, mögötte pedig egy sor szőlő, ami a beton kerítést is eltakarja.
 
 
 
@@ -116,7 +116,7 @@ Pihenésre, sütögetésre, baráti beszélgetésekhez tökéletes hely.
 
 
 
-> Az Uradalom nevet én adtam a kertnek. Míg nem volt beültetve, csak lucerna volt benne, és így még nagyobbnak tűnt. Ekkor mondtam, hogy akkora ez a telek, mint egy Uradalom. És a név rajta is maradt.
+> Az Uradalom nevet én adtam a kertnek. Míg csak lucerna volt benne, még nagyobbnak tűnt. Ekkor mondtam, hogy akkora ez a telek, mint egy Uradalom. És a név rajta is maradt.
 
 ![felirat](/assets/kulsokorlet/IMG_20190625_193225.jpg)
 
@@ -132,7 +132,7 @@ Itt működik a kis házi tüzépünk, ide van lerakva a vágni való tüzifa, d
 
 A pihenőhelyek megtervezése is fontos feladat. 
 
-Évszaknak, napszaknak megfelelően kell őket elhelyezni. Ahol tavasszal, ősszel kellemes meginni egy kávét, az nyáron elviselhetetlenül meleg. Jó, ha van egy olyan helyünk is, ahol kényelmesen lehet ebédezni, vagy egy olyan sarok, ahol el lehet bújni a "világ szeme elől".
+Évszaknak, napszaknak megfelelően kell őket elhelyezni. Ahol tavasszal, ősszel kellemes meginni egy kávét, az nyáron elviselhetetlenül meleg lehet. Jó, ha van olyan helyünk is, ahol kényelmesen lehet ebédezni, vagy egy olyan sarok, ahol el lehet bújni a "világ szeme elől".
 
 > Bevallom, nálunk sok kiülő, leülő hely van, és mindegyiket használjuk. Hol ezt, hol azt, de kihasználatlanul egyik sincs.
 
@@ -152,7 +152,7 @@ _A hintaágy az udvaron az én kedvencem_
 ## A részletek
 
 A ház stílusához igazítottuk a kertet, udvart, ehhez pedig a felhasznált anyagokat. 
-A tégla, a fa, a kavics lett az uralkodó hármas, és ezek tökéletesen kiegészítik a egymást a növényekkel.
+A tégla, a fa, a kavics lett az uralkodó hármas, és ezek tökéletesen kiegészítik egymást a növényekkel.
 
 
 
@@ -170,7 +170,7 @@ _Talán egy-két év alatt befutja a kertiromot_
 Azt hiszem az időt, mint egy nagyon fontos tényezőt, meg kell említenem.
 
 
-Ahhoz egy kert mindig a legszebb arcát mutassa, sok időt kell áldozni. Időtől, teherbírástól függ, hogy milyen növényeket ültetünk a kertünkbe.
+Ahhoz, hogy egy kert mindig a legszebb arcát mutassa, sok időt kell áldozni. Időtől, teherbírástól függ, hogy milyen növényeket ültetünk a kertünkbe.
 
 Az örökzöldeken át az egynyári virágokig, széles a választék. Az elsővel viszonylag kevés, míg az utóbbival minden évben sok munka van.
 
