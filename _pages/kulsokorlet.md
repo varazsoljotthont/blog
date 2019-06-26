@@ -77,7 +77,7 @@ _A tyúkól az átalakítás után_
 A költözésünk utáni második évben kezdtük el megvalósítani azt a vidékies hangulatú külső teret, amit  elképzeltünk magunknak. 
 
 A férjemtől szabadkezet kaptam. Rám bízta, hogy igazítom hozzá a kopár területet az otthonunkhoz.
-Ő csinálta a "pasis munkákat, én pedig - miközben tanultam a kertészkedés fortélyait -, folyamatosan alakítottam ki a kertet.
+Ő csinálta a "pasis munkákat", mint pl: az ásás, én pedig - miközben tanultam a kertészkedés fortélyait -, folyamatosan alakítottam ki a kertet.
 
 A telket a mérete miatt három részre osztottuk fel:
 
