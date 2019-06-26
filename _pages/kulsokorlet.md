@@ -40,7 +40,7 @@ Nem árt tisztában lenni azzal sem, hogy milyen a talaj az adott részen. Hiáb
 
 
 
-**Amit tudni kell (kellene)**
+**Amire figyelni kell (kellene)**
 
 * az udvar,a kert méretei külön - külön
 * telek tájolása
@@ -199,6 +199,7 @@ _Az árnyékos oldalra is sok féle virágot lehet ültetni_
 
 
 Mivel a kertünk alkalmatlan volt veteményesnek (első évben próbálkoztunk, de minden csak szenvedett), próbáltuk kihozni belőle a legtöbbet. Nekünk ez így sikerült. 
+
 Színek, formák, illatok. 
 Öröm, boldogság, sikerélmény. 
 
