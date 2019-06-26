@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Gondoljuk újra a régi házunk udvarát"
+title: "Így lett a kaszálóból vidéki, romantikus kert"
 permalink: /kulsokorlet/
 cover: /assets/kulsokorlet/coverjav.jpg
 categories: [kert, dekor]
