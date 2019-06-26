@@ -27,7 +27,7 @@ Az udvar, a kert akkoriban eszünkbe se jutott.
 Nem volt tervünk arra nézve, hogy mekkora legyen a telek, legyen-e melléképület, kialakított kert, stb...
 
 > A melléképületek száma, állapota nem elhanyagolható. A mindenféle használhatatlan kis "kuszlikok" csak gondot jelentenek, ha nincs elképzelés velük kapcsolatban. 
-A kert milyensége szintén lényeges. Ha van, akkor az veteményes, gyümölcsös, virágos, vagy csak a fű (vagy rossz esteben a gaz) nő rajta.
+A kert milyensége szintén lényeges. Ha van, akkor az veteményes, gyümölcsös, virágos, vagy csak a fű (vagy rossz esetben a gaz) nő rajta.
 
 
 
@@ -36,7 +36,6 @@ A kert milyensége szintén lényeges. Ha van, akkor az veteményes, gyümölcs�
 
 Nem árt tisztában lenni azzal sem, hogy milyen a talaj az adott részen. Hiába vannak terveink, ha a föld minősége nem engedi azokat megvalósítani. És legalább ilyen fontos a telek tájolása. Jó tudni hol és mikor éri a legjobban a nap, mennyi árnyékos rész van az udvarban, a kertben.
 
-Időben át kell gondolni, hogy a jövőben mihez szeretnénk kezdeni a területtel.
 
 
 
@@ -101,11 +100,14 @@ _A téglajárda mellett levendula és rózsa_
 
 **Uradalom**
 
-Miután az udvar részt kitaláltuk, és "kijelöltük", még mindig ott volt a hatalmas kert. Egyben hagyva túl sok lett volna, így kerítéssel, kapuval ketté vettük.
+Miután az udvari részt kitaláltuk, és "kijelöltük", még mindig ott volt a hatalmas kert. Egyben hagyva túl sok lett volna, így kerítéssel, kapuval ketté választottuk.
 
-Az első részből lett az Uradalom, amit rengeteg évelő virággal ültettem be. Ide került a kerti kiülő, és a kerti rom is. Pihenésre, sütögetésre, baráti beszélgetésekhez tökéletes.
+Az első részből lett az Uradalom, amit rengeteg évelő virággal ültettem be. Ide került a kerti kiülő, és a kerti rom is. 
+A virágok mellett van itt némi eper, barackfa ( ami már az idén terem), málna és mézalmácska is.
 
-A virágok mellett van itt némi eper, barackfa ( ami már az idén terem), málna és mézalmácska.
+Pihenésre, sütögetésre, baráti beszélgetésekhez tökéletes hely.
+
+
 
 > Az Uradalom nevet én adtam a kertnek. Míg nem volt beültetve, csak lucerna volt benne, és így még nagyobbnak tűnt. Ekkor mondtam, hogy akkora ez a telek, mint egy Uradalom. És a név rajta is maradt.
 
@@ -114,9 +116,10 @@ A virágok mellett van itt némi eper, barackfa ( ami már az idén terem), mál
 **Hátsó kert**
 
 Ez a rész még fejlesztés alatt van. 
-Itt működik a kis házi tüzépünk, ide van lerakva a vágni való tüzifa, de itt alakítottunk ki egy kicsi kis ágyást is, ahol némi földjavítás - csere után, krumplit, paprikát, paradicsomot ültettünk. És persze itt van a szeder, és több diófa is. 
+Itt működik a kis házi tüzépünk, ide van lerakva a vágni való tüzifa, de itt alakítottunk ki egy kicsi kis ágyást is, ahol némi földjavítás - csere után, krumplit, paprikát, paradicsomot ültettünk. Van még itt szeder, és több diófa is. 
 
 ![kert](/assets/kulsokorlet/IMG_20190626_070808.jpg)
+
 
 ## Pihenőhelyek
 
@@ -139,7 +142,7 @@ _A kertirom a sarokban van, így tökéletes "búvóhely" lett_
 _A hintaágy az udvaron az én kedvencem_
 
 
-## Részletek
+## A részletek
 
 A ház stílusához igazítottuk a kertet, udvart is, ehhez pedig a felhasznált anyagokat. 
 A tégla, a fa, a kavics lett az uralkodó hármas, és ezek tökéletesen kiegészítik a egymást a növényekkel.
@@ -153,6 +156,7 @@ _Szőlővenyigéből dekoráció_
 _Régi vas ablakkeret a kertiromon_
 
 ![ház](/assets/kulsokorlet/IMG_20190605_202106_048.jpg)
+_Talán egy-két év alatt befutja a kertiromot_
 
 ## Idő
 
