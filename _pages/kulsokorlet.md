@@ -136,7 +136,7 @@ _A nyáron is árnyékos kiülő_
 _A kertirom a sarokban van, így tökéletes "búvóhely" lett_
 
 ![ház](/assets/kulsokorlet/08_3.jpg)
-_A hintaágy az udvaron aZ én kedvencem_
+_A hintaágy az udvaron az én kedvencem_
 
 
 ## Részletek
@@ -194,13 +194,15 @@ _Csupa-csupa virág_
 _Az árnyékos oldalra is sok féle virágot lehet ültetni_
 
 
-
+Mivel a kertünk alkalmatlan volt veteményesnek (első évben próbálkoztunk, de minden csak szenvedett), próbáltuk kihozni belőle a legtöbbet. Nekünk ez így sikerült. 
+Színek, formák, illatok. 
+Öröm, boldogság, sikerélmény. 
 
 
 
 
 **+ 1 gondolat:**   
-A gazos, lucernás kertből díszkertet varázsolni nem volt könnyű. Rengeteg munka volt vele az első évben. A talaj előkészítésén, és a növényválasztáson nagyon sok múlik. Mostanra tartunk ott, hogy nagyjából önfenntartó lett a kert. De folyamatos odafigyelést igényel, és a napi szintű kisebb-nagyobb feladatokat elkell végezni.
+A gazos, lucernás kertből díszkertet varázsolni nem volt könnyű. Rengeteg munka volt vele az első évben. A talaj előkészítésén, és a növényválasztáson nagyon sok múlik. Mostanra tartunk ott, hogy nagyjából önfenntartó lett a kert. De folyamatos odafigyelést igényel, és a napi szintű kisebb-nagyobb feladatokat el kell végezni.
 
 ## Kapcsolódó cikkek
 
