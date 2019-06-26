@@ -71,7 +71,7 @@ _Innen szép nyerni. Csak egy kiszáradt körtefa, és pár tőke szőlő volt a
 
 Szerencsések voltunk, mert a házhoz épp annyi melléképület  tartozott, amennyire nekünk is szükségünk volt.
 
-Egy tyúkól, egy pajta féleség, és az istálló. Nem voltak túl jó állapotban, de érdemesek voltak a tovább gondolásra.
+Egy tyúkól, egy pajta féleség, és az [istálló](/2019-04-11/külsőfalak). Nem voltak túl jó állapotban, de érdemesek voltak a tovább gondolásra.
 
 ![ház](/assets/kulsokorlet/IMG_20190623_165046.jpg)
 _A tyúkól az átalakítás után_
