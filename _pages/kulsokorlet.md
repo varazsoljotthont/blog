@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Gondoljuk újra a régi házak kertjét, udvarát"
+title: "Gondoljuk újra a régi házunk udvarát"
 permalink: /kulsokorlet/
 cover: /assets/kulsokorlet/coverjav.jpg
 categories: [kert, dekor]
