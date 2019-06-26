@@ -23,7 +23,7 @@ Mikor 5 évvel ezelőtt kerestük a "Miházunknak valót" [még csak a házról]
 
 
 
-Az udvar, a kert akkoriban eszünkbe sem jutott. 
+Az udvar, a kert akkoriban eszünkbe se jutott. 
 Nem volt tervünk arra nézve, hogy mekkora legyen a telek, legyen-e melléképület, kialakított kert, stb... 
 Ha van kert a háznál, akkor az veteményes, gyümölcsös, virágos, vagy csak fű nő rajta.
 
@@ -74,14 +74,23 @@ _A tyúkól az átalakítás után_
 
 ## Udvar, uradalom, hátsó kert
 
-A költözésünk utáni második évben kezdtük el megvalósítani azt a vidékies hangulatú külső teret, amit  elképzeltünk magunknak.
+A költözésünk utáni második évben kezdtük el megvalósítani azt a vidékies hangulatú külső teret, amit  elképzeltünk magunknak. 
 
+A férjemtől szabadkezet kaptam. Rám bízta, hogy igazítom hozzá a kopár területet az otthonunkhoz.
+A férjem csinálta a "pasis munkákat, én pedig miközben tanultam a kertészkedés fortélyait, folyamatosan alakítottam ki a kertet
 A telket három részre osztottuk fel:
 
 * udvar 
 * kert ( Uradalom)
 * hátsó kert
 
+
+**Udvar**
+
+Hozzánk belépve ez az első hely amit látunk. 
+
+![ház](/assets/kulsokorlet/IMG_20190527_190819.jpg)
+_A téglajárda mellett levendula és rózsa_
 
 > Az Uradalom nevet én adtam a kertnek. Míg nem volt beültetve, csak lucerna volt benne, és így még nagyobbnak tűnt. Ekkor mondtam, hogy akkora ez a telek, mint egy Uradalom. És a név rajta is maradt.
 
@@ -113,8 +122,7 @@ _A hintaágy az én kedvencem_
 A ház stílusához igazítottuk a kertet, udvart is, ehhez pedig a felhasznált anyagokat. 
 A tégla, a fa, a kavics lett az uralkodó hármas, és ezek tökéletesen kiegészítik a egymást a növényekkel.
 
-![ház](/assets/kulsokorlet/IMG_20190527_190819.jpg)
-_A téglajárda mellett levendula és rózsa_
+
 
 ![ház](/assets/kulsokorlet/IMG_20190623_152830.jpg)
 _Szőlővenyigéből dekoráció_
