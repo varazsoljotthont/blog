@@ -212,7 +212,7 @@ A gazos, lucernás kertből díszkertet varázsolni nem volt könnyű. Rengeteg 
 ## Kapcsolódó cikkek
 
  
-* [Kerti kiülő olcsón, stílusosan, sajátkezűleg](/2019-05-29/kiülő.md)
-* [Így lett a tüzifa az otthonunk dísze](/2019-05-16/fábólkreatívan.md)
-* [Bontott tégla varázsa az otthonunkban](/2019-04-23/tegla.md)
-* [Hozzuk formába az otthonunkat!](/2019-03-26/dekoráció.md)
+* [Kerti kiülő olcsón, stílusosan, sajátkezűleg](/2019-05-29/kiülő)
+* [Így lett a tüzifa az otthonunk dísze](/2019-05-16/fábólkreatívan)
+* [Bontott tégla varázsa az otthonunkban](/2019-04-23/tegla)
+* [Hozzuk formába az otthonunkat!](/2019-03-26/dekoráció)
