@@ -2,10 +2,10 @@
 layout: post
 title: "Gondoljuk újra a régi házak kertjét, udvarát"
 permalink: /kulsokorlet/
-cover: /assets/kulsokorlet/cover2.jpg
+cover: /assets/kulsokorlet/coverjav.jpg
 categories: [kert, dekor]
 image:
-  path: /assets/kulsokorlet/cover2.jpg
+  path: /assets/kulsokorlet/coverjav.jpg
   height: 300
   width: 300
 ---
