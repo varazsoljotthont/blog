@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Amire figyelni kell, ha szép kertet, udvart szeretnél"
+title: "Gondoljuk újra a régi házak kertjét, udvarát"
 permalink: /kulsokorlet/
 cover: /assets/kulsokorlet/cover.jpg
 categories: [kert, dekor]
