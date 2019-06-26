@@ -41,7 +41,7 @@ Időben át kell gondolni, hogy a jövőben mihez szeretnénk kezdeni a terület
 
 
 
-**Amit tudni kell(kellene)**
+**Amit tudni kell (kellene)**
 
 * az udvar,a kert méretei külön - külön
 * telek tájolása
