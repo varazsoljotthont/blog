@@ -42,7 +42,7 @@ Nem árt tisztában lenni azzal sem, hogy milyen a talaj az adott részen. Hiáb
 
 **Amire figyelni kell (kellene)**
 
-* az udvar,a kert méretei külön - külön
+* az udvar, a kert méretei külön - külön
 * telek tájolása
 * talaj minősége
 * melléképületek 
