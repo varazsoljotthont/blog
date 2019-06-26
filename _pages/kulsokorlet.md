@@ -27,14 +27,14 @@ Az udvar, a kert akkoriban eszünkbe se jutott.
 Nem volt tervünk arra nézve, hogy mekkora legyen a telek, legyen-e melléképület, kialakított kert, stb...
 
 > A melléképületek száma, állapota nem elhanyagolható. A mindenféle használhatatlan kis "kuszlikok" csak gondot jelentenek, ha nincs elképzelés velük kapcsolatban. 
-A kert milyensége szintén lényeges. Ha van, akkor az veteményes, gyümölcsös, virágos, vagy csak a fű (vagy rossz esetben a gaz) nő rajta.
+A kert milyensége szintén lényeges. Ha van, akkor az veteményes, gyümölcsös, virágos, vagy csak a fű (rossz esetben a gaz) nő rajta.
 
 
 
 ![idézet](/assets/kulsokorlet/idézet.jpg)
 
 
-Nem árt tisztában lenni azzal sem, hogy milyen a talaj az adott részen. Hiába vannak terveink, ha a föld minősége nem engedi azokat megvalósítani. És legalább ilyen fontos a telek tájolása. Jó tudni hol és mikor éri a legjobban a nap, mennyi árnyékos rész van az udvarban, a kertben.
+Nem árt tisztában lenni azzal sem, hogy milyen a talaj az adott helyen. Hiába vannak terveink, ha a föld minősége nem engedi azokat megvalósítani. És legalább ilyen fontos a telek tájolása. Jó tudni hol és mikor éri a legjobban a nap, mennyi árnyékos rész van az udvarban, a kertben.
 
 
 
@@ -58,7 +58,7 @@ A fent felsoroltaknak mi nem néztünk utána. Így aztán, ahogy megismertük a
 A ház nagy, közel 2000 m2 telken fekszik, ahol egykor kaszáló és egy házi kavicsbánya is működött. 
 
 ![ház](/assets/kulsokorlet/IMG_20190626_070509.jpg)
-
+_Ezzel a nagy területtel kellett valamit kezdeni_
 
 Ebből adódóan a föld jó része kavicsos, ami elvezeti a vizet, a kaszáló helyén pedig agyagos, ami megköti a vizet. Ráadásul miután a kis házi bánya megszűnt, a helyét mindenféle törmelékkel töltötték fel. A mai napig tégla, cserép, üvegdarabokat ásunk ki.
 A déli, dél-nyugati nap éri a legtöbbet, így az öntözés megoldása a legfontosabb feladatok egyike lett.
@@ -123,7 +123,7 @@ Pihenésre, sütögetésre, baráti beszélgetésekhez tökéletes hely.
 **Hátsó kert**
 
 Ez a rész még fejlesztés alatt van. 
-Itt működik a kis házi tüzépünk, ide van lerakva a vágni való tüzifa, de itt alakítottunk ki egy kicsi kis ágyást is, ahol némi földjavítás - csere után, krumplit, paprikát, paradicsomot ültettünk. Van még itt szeder, és több diófa is. 
+Itt működik a kis házi tüzépünk, ide van lerakva a vágni való tüzifa, de itt alakítottunk ki egy kicsi ágyást is, ahol némi földjavítás - csere után, krumplit, paprikát, paradicsomot ültettünk. Van még itt szeder, és több diófa is. 
 
 ![kert](/assets/kulsokorlet/IMG_20190626_070808.jpg)
 
@@ -142,7 +142,7 @@ _Tavassza, ősszel a legjobb hely egy kis szusszanásra_
 ![ház](/assets/kulsokorlet/IMG_20190625_192516.jpg)
 _A nyáron is árnyékos kiülő_
 
-![ház](/assets/kulsokorlet/IMG_20190623_152037.jpg)
+![ház](/assets/kulsokorlet/IMG_20190623_152037jav.jpg)
 _A kertirom a sarokban van, így tökéletes "búvóhely" lett_
 
 ![ház](/assets/kulsokorlet/08_3.jpg)
@@ -151,7 +151,7 @@ _A hintaágy az udvaron az én kedvencem_
 
 ## A részletek
 
-A ház stílusához igazítottuk a kertet, udvart is, ehhez pedig a felhasznált anyagokat. 
+A ház stílusához igazítottuk a kertet, udvart, ehhez pedig a felhasznált anyagokat. 
 A tégla, a fa, a kavics lett az uralkodó hármas, és ezek tökéletesen kiegészítik a egymást a növényekkel.
 
 
@@ -181,7 +181,7 @@ Hisz azért (is) hoztuk létre, hogy élvezzük. Hogy itthon is olyan legyen kö
 
 ![ház](/assets/kulsokorlet/IMG_20190623_165255.jpg)
 
-![ház](/assets/kulsokorlet/IMG_20190623_172817.jpg)
+![ház](/assets/kulsokorlet/IMG_20190626_071411.jpg)
 
 
 ![ház](/assets/kulsokorlet/IMG_20190625_080320.jpg)
