@@ -12,7 +12,7 @@ image:
 
 
 
-**Régen a vidéki, falusi házak nagy telekre épültek, hisz a háztáji, az állattartás nagy helyet követelt. Ezek megszűnésével pedig egy újabb feladat állt elő. A nagy udvart, kertet újra kellett gondolni és a ház stílusához igazítani.** 
+**Régen a vidéki, falusi házak nagy telekre épültek, hisz a háztáji, az állattartás nagy helyet követelt. Ezek megszűnésével pedig egy újabb feladat állt elő. A nagy udvart, kertet újra kell gondolni és a ház stílusához igazítani.** 
 
 
 
