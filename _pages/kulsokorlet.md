@@ -55,7 +55,12 @@ Nem árt tisztában lenni azzal sem, hogy milyen a talaj az adott részen. Hiáb
 
 A fent felsoroltaknak mi nem néztünk utána. Így aztán, ahogy megismertük a terepet, úgy terveztük meg és alakítottuk át az udvarunkat, a kertünket.
 
-A ház nagy, közel 2000 m2 telken fekszik, ahol egykor kaszáló és egy házi kavicsbánya is működött. Ebből adódóan a föld jó része kavicsos, ami elvezeti a vizet, a kaszáló helyén pedig agyagos, ami megköti a vizet. Ráadásul miután a kis házi bánya megszűnt, a helyét mindenféle törmelékkel töltötték fel. A mai napig tégla, cserép, üvegdarabokat ásunk ki.
+A ház nagy, közel 2000 m2 telken fekszik, ahol egykor kaszáló és egy házi kavicsbánya is működött. 
+
+![ház](/assets/kulsokorlet/IMG_20190626_070509.jpg)
+
+
+Ebből adódóan a föld jó része kavicsos, ami elvezeti a vizet, a kaszáló helyén pedig agyagos, ami megköti a vizet. Ráadásul miután a kis házi bánya megszűnt, a helyét mindenféle törmelékkel töltötték fel. A mai napig tégla, cserép, üvegdarabokat ásunk ki.
 A déli, dél-nyugati nap éri a legtöbbet, így az öntözés megoldása a legfontosabb feladatok egyike lett.
 
 ![ház](/assets/kulsokorlet/kezdet.jpg)
