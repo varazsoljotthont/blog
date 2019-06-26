@@ -133,7 +133,7 @@ _A hátsókert lassanként alakul_
 
 A pihenőhelyek megtervezése is fontos feladat. 
 
-Évszaknak, napszaknak megfelelően kell őket elhelyezni. Ahol tavasszal, ősszel kellemes meginni egy kávét, az nyáron elviselhetetlenül meleg lehet. Jó, ha van olyan helyünk is, ahol kényelmesen lehet ebédezni, vagy egy olyan sarok, ahol el lehet bújni a "világ szeme elől".
+Évszaknak, napszaknak megfelelően kell őket elhelyezni. Ahol tavasszal, ősszel kellemes meginni egy kávét, az nyáron elviselhetetlenül meleg lehet. Jó ha van olyan helyünk is, ahol kényelmesen lehet ebédezni, vagy egy olyan sarok, ahol el lehet bújni a "világ szeme elől".
 
 > Bevallom, nálunk sok kiülő, leülő hely van, és mindegyiket használjuk. Hol ezt, hol azt, de kihasználatlanul egyik sincs.
 
