@@ -115,7 +115,7 @@ Pihenésre, sütögetésre, baráti beszélgetésekhez tökéletes hely.
 
 
 
-> Az Uradalom nevet én adtam a kertnek. Míg csak lucerna volt benne, még nagyobbnak tűnt. Ekkor mondtam, hogy akkora ez a telek, mint egy Uradalom. És a név rajta is maradt.
+> Az Uradalom nevet én adtam a kertnek. Míg csak a lucerna volt benne, még nagyobbnak tűnt. Ekkor mondtam, hogy akkora ez a telek, mint egy Uradalom. És a név rajta is maradt.
 
 ![felirat](/assets/kulsokorlet/IMG_20190625_193225.jpg)
 _A táblácska a virágok felé mutat_
