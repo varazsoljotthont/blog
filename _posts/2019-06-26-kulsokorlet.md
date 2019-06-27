@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ilyen volt, ilyen lett: így lett a kaszálóból vidéki, romantikus kert"
+title: "Ilyen volt, ilyen lett: így lett a kaszálóból romantikus, vidéki kert"
 cover: /assets/kulsokorlet/coverjav.jpg
 categories: [kert, dekor]
 image:
