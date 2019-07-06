@@ -217,6 +217,11 @@ Színek, formák, illatok.
 **+ 1 gondolat:**   
 A gazos, lucernás kertből díszkertet varázsolni nem volt könnyű. Rengeteg munka volt vele az első évben. A talaj előkészítésén, és a növényválasztáson nagyon sok múlik. Mostanra tartunk ott, hogy nagyjából önfenntartó lett a kert. De folyamatos odafigyelést igényel, és a napi szintű kisebb-nagyobb feladatokat el kell végezni.
 
+Ha tetszett, kedveld a <a href="https://www.facebook.com/Var%C3%A1zsolj-otthont-360330751226066/" target="_blank">Facebook oldalt</a> is. Itt még több érdekességet találsz a mindennapok varázslataiból.
+
+<a href="https://www.instagram.com/varazsoljotthont/?hl=hu/" target="_blank">Kövess az Instagramon</a> is, és sok olyan fotót láthatsz, ami a blogról vagy a Facebook oldalról kimaradt.
+
+
 ## Kapcsolódó cikkek
 
  
