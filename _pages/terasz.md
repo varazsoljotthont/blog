@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Hangulatos mosókonyha, pénztárcabarát ötletekkel" 
-permalink: /mosókonyha/
-cover: /assets/mosokonyha/cover.JPG
+title: "Vidéki házunk tégla terasszal" 
+permalink: /terasz/
+cover: /assets/terasz/cover.JPG
 image:
-  path: /assets/mosokonyha/cover.JPG
+  path: /assets/terasz/cover.JPG
   height: 300
   width: 300
 ---
