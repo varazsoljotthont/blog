@@ -12,7 +12,7 @@ image:
 
 
 
-**A mosókonyha nem feltétlenül luxus. És ha figyelembe vesszük a praktikum, a funkcionalitás, és az esztétika szempontjait, nem kell zárt ajtó mögé sem rejteni. Éppúgy a része lehet az otthonunknak, mint a lakás többi helyisége.**
+**Terasz, gádor, veranda, tornác. Több féle elnevezéssel is illetik azt a falusi házakhoz épített részt, ami a ház folytatásaként működik. Ki ne szeretne elüldögélni, kávézgatni, halgatni a madarak csicsergését
 
 
 
