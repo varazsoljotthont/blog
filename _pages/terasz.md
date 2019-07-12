@@ -12,7 +12,7 @@ image:
 
 
 
-**A terasz talán a legkedveltebb hely egy családi ház esetében. Nincs is annál jobb, mint kiülni, hallgatni a madarakat csicsergését, és a csendben elmélázva meginni a reggeli kávénkat. A terasz sok esetben átmenetet képez a lakrész és az udvar között. Összeköti a lakrészt a kerttel, ezért fontos, hogy hangulatában, stílusában mindkettőt megidézze.**
+**A terasz talán a legkedveltebb hely egy családi ház esetében. Sok esetben átmenetet képez a lakrész és az udvar között. Összeköti a lakrészt a kerttel, ezért fontos, hogy hangulatában, stílusában mindkettőt megidézze. Nincs is annál jobb, mint kiülni egy hangulatos verandára, hallgatni a madarakat csicsergését, és a reggeli csendben elmélázva meginni a reggeli kávénkat.**
 
 
 
