@@ -12,11 +12,14 @@ image:
 
 
 
-**A terasz talán a legkedveltebb hely egy családi ház esetében. Sok esetben átmenetet képez a lakrész és az udvar között, összeköti a lakrészt a kerttel, ezért (is) fontos, hogy hangulatában, stílusában mindkettőt megidézze. Nincs is annál jobb, mint kiülni egy hangulatos verandára, hallgatni a madarakat csicsergését, és a reggeli csendben elmélázva meginni a reggeli kávénkat.**
+**Egy családi ház esetében terasz az egyik legkedveltebb hely. Sok esetben átmenetet képez a lakrész és az udvar között, szinte összeköti a két részt. Ezért (is) fontos, hogy hangulatában, stílusában mindkettőt megidézze. Mert nincs is annál jobb, mint kiülni egy hangulatos verandára, hallgatni a madarakat énekét és a reggeli csendben elmélázva meginni a reggeli kávénkat.**
 
 
 
-Az én mosókonyhám az istállóból készült ([erről itt olvashatsz](/2019-04-30/mosokonyha)), épp ezért nagyon örültem, mikor végre burkolatot kapott, és elkezdett hasonlítani ahhoz, amit megálmodtam magamnak. 
+A "Miházunknak" nem volt sem terasza, sem verandája, csak egy kicsi betonplacc volt a bejárati ajtó előtt.  
+
+A beköltözés után ezt neveztem ki [pihenőhelynek](/2019-02-12/varrogepasztal). Az akkori állapotokhoz nagyjából passzolt is, de az elképzelésemtől még nagyon messze állt.
+
 
 ## Berendezés
 
