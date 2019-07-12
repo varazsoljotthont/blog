@@ -18,10 +18,10 @@ image:
 
 A "Miházunknak" nem volt sem terasza, sem verandája, csak egy kicsi betonplacc volt a bejárati ajtó előtt.  
 
-A beköltözés után ezt neveztem ki [pihenőhelynek](/2019-02-12/varrogepasztal). Az akkori állapotokhoz nagyjából passzolt is, de az elképzelésemtől még nagyon messze állt.
+A költözés után ezt neveztem ki [pihenőhelynek](/2019-02-12/varrogepasztal). Az akkori állapotokhoz nagyjából passzolt is, de az elképzelésemtől még nagyon messze állt.
 
 
-## Berendezés
+## Milyen legyen, miből épüljön?
 
 Szerettük volna minél olcsóbban megoldani mosókonyha a berendezését. Ezt csak úgy tudtuk megvalósítani, hogy (megint) SK készítettünk mindent. Természetesen ebben a projektben is a férjem volt a kivitelező, én pedig egy személyben a dizájner és a segédmunkás.
 
