@@ -12,7 +12,7 @@ image:
 
 
 
-**Egy családi ház esetében terasz az egyik legkedveltebb hely. Sok esetben átmenetet képez a lakrész és az udvar között, szinte összeköti a két részt. Ezért (is) fontos, hogy hangulatában, stílusában mindkettőt megidézze. Mert nincs is annál jobb, mint kiülni egy hangulatos verandára, hallgatni a madarakat énekét és a reggeli csendben elmélázva meginni a reggeli kávénkat.**
+**Egy családi ház esetében a terasz az egyik legkedveltebb hely. Sok esetben átmenetet képez a lakrész és az udvar között, szinte összeköti a két teret. Ezért (is) fontos, hogy hangulatában, stílusában mindkettőt megidézze. Mert nincs is annál jobb, mint kiülni egy hangulatos verandára, hallgatni a madarakat énekét és a reggeli csendben elmélázva meginni a reggeli kávénkat.**
 
 
 
@@ -23,10 +23,10 @@ A költözés után ezt neveztem ki [pihenőhelynek](/2019-02-12/varrogepasztal)
 
 ## Milyen legyen, miből épüljön?
 
-Szerettük volna minél olcsóbban megoldani mosókonyha a berendezését. Ezt csak úgy tudtuk megvalósítani, hogy (megint) SK készítettünk mindent. Természetesen ebben a projektben is a férjem volt a kivitelező, én pedig egy személyben a dizájner és a segédmunkás.
+A teraszunk sem volt kivétel az olcsó legyen, de jó elvünk alól. 
+És figyelembe véve a [hármas szabályt](/2019-03-26/dekoráció), leszűkült a kör az alapanyagokat illetően.
 
 
-Több szempontunk is volt, mikor elkezdtük megtervezni, hogy hova mi kerüljön.
 
 **Fontos volt, hogy a bútorzat legyen:**
 
