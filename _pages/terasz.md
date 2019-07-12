@@ -12,9 +12,7 @@ image:
 
 
 
-**Terasz, gádor, veranda, tornác. Több féle elnevezéssel is illetik azt a falusi házakhoz épített részt, ami a ház folytatásaként működik. Ki ne szeretne elüldögélni, kávézgatni, halgatni a madarak csicsergését
-
-
+**A terasz talán a legkedveltebb hely egy családi ház esetében. Nincs is annál jobb, mint kiülni, hallgatni a madarakat csicsergését, és a csendben elmélázva meginni a reggeli kávénkat. A terasz sok esetben átmenetet képez a lakrész és az udvar között. Összeköti a lakrészt a kerttel, ezért fontos, hogy hangulatában, stílusában mindkettőt megidézze.**
 
 
 
