@@ -20,7 +20,7 @@ A "Miházunknak" nem volt sem terasza, sem verandája, csak egy kicsi betonplacc
 
 A költözés után ezt neveztem ki [pihenőhelynek](/2019-02-12/varrogepasztal). Az akkori állapotokhoz nagyjából passzolt is, de az elképzelésemtől még nagyon messze állt.
 
-![idézet](/assets/terasz/idézet2.png)
+![idézet](/assets/terasz/idezet.png)
 
 
 ## Milyen legyen, miből épüljön?
