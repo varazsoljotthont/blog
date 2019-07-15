@@ -64,10 +64,10 @@ Téglánk, két kezünk meg volt.
 
 
 
-> A fából készült terasz is tetszett volna, de egy ekkora munkához komolyabb szerszámok szükségesek, nekünk pedig csak barkácsgépeink vannak.
+> A fából készült terasz is tetszett volna, de egy ekkora munkához komolyabb szerszámokra lett volna szükségünk, nekünk pedig csak barkácsgépeink voltak-vannak.
 
 ![terasz](/assets/terasz/DSCF0871j.JPG)
-_Mint mindig, most is férjem volt a kőműves, és pedig a segésmunkás_
+_Mint mindig, most is férjem volt a kőműves, és pedig a segédmunkás_
 
  
 # Találjuk ki
@@ -76,7 +76,7 @@ Azt, hogy mi egy régi házat újítottunk fel, soha nem bántuk meg. De be kell
 
 A mi esetünkben az ablakok mennyisége az, ami leginkább zavaró.
 
-> Az előző házamnál rengeteg ablak volt. Élveztem, hogy napkeltétől napnyugtáig körbe süti a házat nap. (Igaz, az ablakok pucolása már nem volt ekkora élmény...)
+> Az előző házamnál rengeteg ablak volt. Nagyon jó volt, hogy napkeltétől napnyugtáig körbe süti a házat nap. (Igaz, az ablakok pucolása már nem volt ekkora élmény...)
 
 A "Miházunknál" több nyílászáró beépítésére sajnos nem volt lehetőség, így a terasz megtervezése nagy odafigyelést igényelt. 
 
@@ -87,7 +87,7 @@ Az az ablak, ami a teraszon van, a nappalinkba (is) adja a fényt. Így az az el
 **Pillérek**
 
 
-A pilléreken sokáig gondolkodtunk. A stabilitás miatt három mindenképpen kellett, de így a középső épp az ablak vonalába esett volna, ami a mi esetünkben nem lett volna szerencsés.
+A pilléreken sokáig gondolkodtunk. A stabilitás miatt három mindenképpen kellett, de így a középső épp az ablak vonalába esett volna, ami nem lett volna szerencsés.
 
 A tervezgetések, méricskélesek után végül négy tartóoszlop lett, így sikerült kikerülni az ablakot.
 
@@ -98,6 +98,10 @@ _A négy pillérrel sikerült szabadon hagyni az ablakot_
 
 
 ![terasz](/assets/terasz/DSCF0922.JPG)
+
+**Terasz bejárat
+
+
 
 **Tető**
 
@@ -116,6 +120,18 @@ Az elképzelt házunkba egyszerűen nem illett be más.
 
 
 # Tető készítése
+
+Első lépésként egy "futót" rögzített a férjem a ház falára,és egy gerendát a négy pillérre.
+
+> A gerendát a szomszédtól kaptuk, és körülbelül 200 éves lehet. Nagyon szeretem-szeretjük, hogy olyan patinás, rusztikus hangulatot áraszt.
+
+Ezekre kerültek a szarufák. Szintén "ajándék" a szomszédoktól. 
+
+![terasz](/assets/terasz/DSCF0988.JPG)
+
+![terasz](/assets/terasz/DSCF0987.JPG)
+
+
 
 
 
