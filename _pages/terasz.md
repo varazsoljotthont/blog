@@ -18,13 +18,13 @@ image:
 
 A "Miházunknak" nem volt sem terasza, sem verandája, csak egy kicsi betonplacc volt a bejárati ajtó előtt.  
 
-![terasz](/assets/terasz/DSCF9925.jpg)
+![terasz](/assets/terasz/DSCF9925.JPG)
 _A kezdetek_
 
 
-![terasz](/assets/terasz/DSCF0804.jpg)
+![terasz](/assets/terasz/DSCF0804.JPG)
 
-![terasz](/assets/terasz/DSCF0835.jpg)
+![terasz](/assets/terasz/DSCF0835.JPG)
 
 A költözés után ezt neveztem ki [pihenőhelynek](/2019-02-12/varrogepasztal) és az akkori állapotokhoz nagyjából passzolt is, de az elképzelésemtől még nagyon messze állt.
 
