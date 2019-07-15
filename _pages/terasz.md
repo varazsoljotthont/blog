@@ -19,6 +19,8 @@ image:
 
 
 A "Miházunknak" nem volt sem terasza, sem verandája, csak egy kicsi betonplacc a bejárati ajtó előtt. Arra tökéletes volt, hogy az ajtó előtt ne kelljen a sárban állni, de másra nem igazán lehetett használni.
+
+
 ![terasz](/assets/terasz/DSCF0008.JPG)
 _A kezdetek_
 
