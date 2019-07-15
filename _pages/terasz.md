@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Így építs rusztikus hangulatú teraszt sajátkezűleg" 
+title: "Így építs rusztikus hangulatú teraszt" 
 permalink: /terasz/
 cover: /assets/terasz/cover.JPG
 image:
@@ -100,6 +100,8 @@ _A négy pillérrel sikerült szabadon hagyni az ablakot_
 
 **A terasz bejárata**
 
+Én valamiért úgy gondoltam, hogy csak egy módon tudunk majd bejutni a teraszra, ha a a bejárati ajtóval szemben hagyjuk meg ennek a helyét.
+
 
 
 
@@ -122,11 +124,11 @@ Az elképzelt házunkba egyszerűen nem illett be más.
 
 # Tető készítése
 
-Első lépésként egy "futót" rögzített a férjem a ház falára,és egy gerendát a négy pillérre.
+Első lépésként egy "futót" rögzített a férjem a ház falára, majd egy gerendát a négy pillérre.
 
 > A gerendát a szomszédtól kaptuk, és körülbelül 200 éves lehet. Nagyon szeretem-szeretjük, hogy olyan patinás, rusztikus hangulatot áraszt.
 
-Ezekre kerültek a szarufák. Szintén "ajándék" a szomszédoktól. 
+Ezekre kerültek a szarufák, szintén "ajándék" volt a szomszédoktól. 
 
 ![terasz](/assets/terasz/DSCF0988.JPG)
 
