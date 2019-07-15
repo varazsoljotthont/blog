@@ -56,9 +56,11 @@ Szóba került:
  
 
 
-Több okból is a [bontott téglára](2019-04-23/tegla) esett a választásunk. 
+A mi választásunk több okból is a [bontott téglára](2019-04-23/tegla)esett . 
 
-A terv az volt, hogy ezt a projektet is ketten csináljuk meg, és ezt csak a téglával tudtuk megvalósítani. 
+Téglánk, két kezünk meg volt. 
+.. és biztosak voltunk abban, hogy ezt is meg tudjuk csinálni mesterember bevonása nélkül.
+
 
 
 > A fából készült terasz is tetszett volna, de egy ekkora munkához komolyabb szerszámok szükségesek, nekünk pedig csak barkácsgépeink vannak.
