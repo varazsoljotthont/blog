@@ -66,7 +66,7 @@ Téglánk, két kezünk meg volt.
 
 > A fából készült terasz is tetszett volna, de egy ekkora munkához komolyabb szerszámok szükségesek, nekünk pedig csak barkácsgépeink vannak.
 
-![terasz](/assets/terasz/DSCF0922.JPG)
+![terasz](/assets/terasz/DSCF0871j.JPG)
 
  
 # Találjuk ki
@@ -92,7 +92,7 @@ A tervezgetések, méricskélesek után végül négy tartóoszlop lett, így si
 
 
 
-
+![terasz](/assets/terasz/DSCF0922.JPG)
 
 
 Azzal, hogy a terasz megépült, sikerült kizárni a világosság egyrészét, 
