@@ -78,6 +78,8 @@ A "Miházunknál" a sok ablakra sajnos nem volt lehetőség, így a terasz megte
 
 Az az ablak, ami a teraszon is van, a nappalinkba adja a fényt, így az hogy fedett teraszt szerettünk volna alapos fejtörést okozott.
 
+![terasz](/assets/terasz/DSCF0871j.JPG)
+
 
 **Pillérek**
 
@@ -86,7 +88,7 @@ A pilléreken sokáig gondolkodtunk. A stabilitás miatt három mindenképpen ke
 
 A tervezgetések, méricskélesek után végül négy tartóoszlop lett, így sikerült kikerülni az ablakot.
 
-![terasz](/assets/terasz/DSCF0871j.JPG)
+![terasz](/assets/terasz/DSCF0922.JPG)
 
 
 
