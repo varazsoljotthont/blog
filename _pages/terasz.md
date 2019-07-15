@@ -65,6 +65,9 @@ Téglánk, két kezünk meg volt.
 
 
 > A fából készült terasz is tetszett volna, de egy ekkora munkához komolyabb szerszámok szükségesek, nekünk pedig csak barkácsgépeink vannak.
+
+![terasz](/assets/terasz/DSCF0922.JPG)
+
  
 # Találjuk ki
 
@@ -78,8 +81,6 @@ A "Miházunknál" a sok nyílászáróra sajnos nem volt lehetőség, így a ter
 
 Az az ablak, ami a teraszon is van, a nappalinkba adja a fényt. Így az az elképzelésünk, hogy fedett teraszunk legyen, alapos fejtörést okozott.
 
-![terasz](/assets/terasz/DSCF0871j.JPG)
-_Minz mindig, most a férjem volt a kőműves, és pedig a segédmunkás_
 
 
 **Pillérek**
@@ -89,7 +90,6 @@ A pilléreken sokáig gondolkodtunk. A stabilitás miatt három mindenképpen ke
 
 A tervezgetések, méricskélesek után végül négy tartóoszlop lett, így sikerült kikerülni az ablakot.
 
-![terasz](/assets/terasz/DSCF0922.JPG)
 
 
 
