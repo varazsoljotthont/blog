@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Építsünk rusztikus hangulatú terasz sajátkezűleg" 
+title: "Építsünk rusztikus hangulatú teraszt sajátkezűleg" 
 permalink: /terasz/
 cover: /assets/terasz/cover.JPG
 image:
