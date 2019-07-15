@@ -26,7 +26,7 @@ _A kezdetek_
 
 
 ![terasz](/assets/terasz/DSCF0804.JPG)
-_Már ennek a kis teraszanak is nagyon örültünk_
+_Már ennek a kis terasznak is nagyon örültünk_
 
 
 A jobb híján ezt neveztem ki [pihenőhelynek](/2019-02-12/varrogepasztal) és az akkori állapotokhoz nagyjából passzolt is, de az elképzelésemtől még nagyon messze állt.
