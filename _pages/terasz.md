@@ -74,11 +74,12 @@ A mi esetünkben az ablakok mennyisége az, ami leginkább zavaró.
 
 > Az előző háznál rengeteg ablak volt. Élveztem, hogy napkeltétől napnyugtáig körbe süti a házat nap. (Igaz, az ablakok pucolása már nem volt ekkora élmény...)
 
-A "Miházunknál" a sok ablakra sajnos nem volt lehetőség, így a terasz megtervezése nagy odafigyelést igényelt. 
+A "Miházunknál" a sok nyílászáróra sajnos nem volt lehetőség, így a terasz megtervezése nagy odafigyelést igényelt. 
 
-Az az ablak, ami a teraszon is van, a nappalinkba adja a fényt, így az hogy fedett teraszt szerettünk volna alapos fejtörést okozott.
+Az az ablak, ami a teraszon is van, a nappalinkba adja a fényt. Így az az elképzelésünk, hogy fedett teraszunk legyen, alapos fejtörést okozott.
 
 ![terasz](/assets/terasz/DSCF0871j.JPG)
+_Minz mindig, most a férjem volt a kőműves, és pedig a segédmunkás_
 
 
 **Pillérek**
