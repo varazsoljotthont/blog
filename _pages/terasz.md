@@ -135,7 +135,8 @@ Első lépésként egy "futót" rögzített a férjem a ház falára, majd egy g
 
 > A gerendát a szomszédtól kaptuk, és körülbelül 200 éves lehet. Nagyon szeretem-szeretjük, hogy olyan patinás, rusztikus hangulatot áraszt.
 
-Ezekre kerültek a szarufák, szintén "ajándék" volt a szomszédoktól. 
+Erre kerültek a szarufák.  
+Ezek egy része még a hajópadlók alatt párnafaként voltak használatban, de az átalakítás során megmentettük őket.
 
 ![terasz](/assets/terasz/DSCF0988.JPG)
 
