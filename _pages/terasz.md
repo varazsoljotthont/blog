@@ -59,7 +59,7 @@ Szóba került:
 
 A mi választásunk több okból is a [bontott téglára](2019-04-23/tegla) esett . 
 
-Téglánk, a két kezünk adott volt. Így biztosak voltunk abban, hogy ezt is meg tudjuk csinálni mesterember bevonása nélkül.
+A tégla, a két kezünk adott volt. Így biztosak voltunk abban, hogy ezt is meg tudjuk csinálni mesterember bevonása nélkül.
 
 
 
