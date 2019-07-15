@@ -82,7 +82,7 @@ A "Miházunknál" a sok nyílászáróra sajnos nem volt lehetőség, így a ter
 
 Az az ablak, ami a teraszon is van, a nappalinkba adja a fényt. Így az az elképzelésünk, hogy fedett teraszunk legyen, alapos fejtörést okozott.
 
-![terasz](/assets/terasz/DSCF0871j.JPG)
+![terasz](/assets/terasz/DSCF0843.jpg)
 
 **Pillérek**
 
