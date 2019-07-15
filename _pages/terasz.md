@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Vidéki házunk tégla terasszal" 
+title: "Építsünk rusztikus hangulatú teraszt" 
 permalink: /terasz/
 cover: /assets/terasz/cover.JPG
 image:
@@ -98,11 +98,13 @@ _A négy pillérrel sikerült szabadon hagyni az ablakot_
 
 ![terasz](/assets/terasz/DSCF0922.JPG)
 
-**Terasz bejárat
+**A terasz bejárata**
 
 
 
-**Tető**
+
+
+**A tető**
 
 Már a tervezés során szóba került, hogy a terasz tetejére milyen megoldások jöhetnek szóba.
 
