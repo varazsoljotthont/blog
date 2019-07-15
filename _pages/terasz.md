@@ -30,7 +30,7 @@ _Már ennek a kis teraszanak is nagyon örültünk_
 
 A jobb híján ezt neveztem ki [pihenőhelynek](/2019-02-12/varrogepasztal) és az akkori állapotokhoz nagyjából passzolt is, de az elképzelésemtől még nagyon messze állt.
 
-![terasz](/assets/terasz/DSCF0835jav.JPG)
+![terasz](/assets/terasz/DSCF0835j.JPG)
 _Kizsaluzva a terasz bővítésnek_
 
 Az átalakításkor a bejárati ajtót is áthelyeztük. Már akkor hozzá betonoztunk a az ajtó előtti betonos részhez, de így is kicsinek bizonyult az alapterület. 
@@ -86,7 +86,7 @@ A pilléreken sokáig gondolkodtunk. A stabilitás miatt három mindenképpen ke
 
 A tervezgetések, méricskélesek után végül négy tartóoszlop lett, így sikerült kikerülni az ablakot.
 
-![terasz](/assets/terasz/DSCF0871.JPG)
+![terasz](/assets/terasz/DSCF0871j.JPG)
 
 
 
