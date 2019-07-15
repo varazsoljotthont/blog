@@ -18,23 +18,22 @@ image:
 
 
 
-A "Miházunknak" nem volt sem terasza, sem verandája, csak egy kicsi betonplacc volt a bejárati ajtó előtt.  
+A "Miházunknak" nem volt sem terasza, sem verandája, csak egy kicsi betonplacc a bejárati ajtó előtt.  
 
 ![terasz](/assets/terasz/DSCF9925.JPG)
 _A kezdetek_
 
 
 ![terasz](/assets/terasz/DSCF0804.JPG)
+_Már ennek a kis teraszanak is nagyon örültünk_
 
 
-
-
-A költözés után ezt neveztem ki [pihenőhelynek](/2019-02-12/varrogepasztal) és az akkori állapotokhoz nagyjából passzolt is, de az elképzelésemtől még nagyon messze állt.
+A jobb híján ezt neveztem ki [pihenőhelynek](/2019-02-12/varrogepasztal) és az akkori állapotokhoz nagyjából passzolt is, de az elképzelésemtől még nagyon messze állt.
 
 ![terasz](/assets/terasz/DSCF0835jav.JPG)
 _Kizsaluzva a terasz bővítésnek_
 
-Az átalakításkor a bejárati ajtót is áthelyeztük. Már akkor hozzá betonoztunk a az ajtó előtti betonos részhez, de így is kicsinek bizonyult a tervezett terasznak. 
+Az átalakításkor a bejárati ajtót is áthelyeztük. Már akkor hozzá betonoztunk a az ajtó előtti betonos részhez, de így is kicsinek bizonyult az alapterület. 
 
 
 
@@ -49,13 +48,21 @@ Figyelembe véve a [hármas szabályt](/2019-03-26/dekoráció), leszűkült a k
 
 Szóba került:
 
-*a fa
+a fa
 
-*a tégla
+a tégla
 
-*a vakolt fal
+a vakolt fal
  
- A [tégla](/2019-04-23/tegla) mellett 
+
+
+Több okból is a [bontott téglára](2019-04-23/tegla) esett a választásunk. 
+
+A terv az volt, hogy ezt a projektet is ketten csináljuk meg, és ezt csak a téglával tudtuk megvalósítani. 
+
+
+> A fából készült terasz is tetszett volna, de egy ekkora munkához komolyabb szerszámok szükségesek, nekünk pedig csak barkácsgépeink vannak.
+ 
 
 
 
