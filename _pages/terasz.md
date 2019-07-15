@@ -24,7 +24,7 @@ _A kezdetek_
 
 ![terasz](/assets/terasz/DSCF0804.JPG)
 
-![terasz](/assets/terasz/DSCF0835.JPG)
+![terasz](/assets/terasz/DSCF0835jav.JPG)
 
 A költözés után ezt neveztem ki [pihenőhelynek](/2019-02-12/varrogepasztal) és az akkori állapotokhoz nagyjából passzolt is, de az elképzelésemtől még nagyon messze állt.
 
