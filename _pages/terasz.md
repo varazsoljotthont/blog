@@ -108,6 +108,7 @@ Egy barátos, beszélgetős délutánon született meg a kérdésünkre a válas
 Az utcaajtóval szemben lett a terasz bejárata, és a másik oldalon is ugyanígy építettük meg.
 
 ![terasz](/assets/terasz/DSCF0988.JPG)
+_Az utcáról, udvarról is könnyen a teraszon lehetünk_
 
 ![terasz](/assets/terasz/DSCF0990.JPG)
 
@@ -144,7 +145,6 @@ Ezekre kerültek a szarufák, szintén "ajándék" volt a szomszédoktól.
 
 
 
-Azzal, hogy a terasz megépült, sikerült kizárni a világosság egyrészét, 
 
 
 
@@ -154,8 +154,7 @@ Azzal, hogy a terasz megépült, sikerült kizárni a világosság egyrészét,
 
 
 **+ 1 gondolat:**  
-Hogy a mosókonyhában a penészt elkerüljük, telente egy nagy teljesítményű páramentesítőt használunk. Mellette gyorsan leszáradnak a ruhák, penésznek nyoma sincs, és a fogyasztása sem jelentős.
-
+Azzal, hogy a terasz megépült, sikerült kizárni a világosság egyrészét.
 
 <a href="https://www.facebook.com/Var%C3%A1zsolj-otthont-360330751226066/" target="_blank">Ha tetszett, kedveld a Facebook oldalt is</a> , itt még több érdekességet találsz a mindennapok varázslataiból.
 
