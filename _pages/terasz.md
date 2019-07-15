@@ -76,9 +76,9 @@ Azt, hogy mi egy régi házat újítottunk fel, soha nem bántuk meg. De be kell
 
 A mi esetünkben az ablakok mennyisége az, ami leginkább zavaró.
 
-> Az előző háznál rengeteg ablak volt. Élveztem, hogy napkeltétől napnyugtáig körbe süti a házat nap. (Igaz, az ablakok pucolása már nem volt ekkora élmény...)
+> Az előző házamnál rengeteg ablak volt. Élveztem, hogy napkeltétől napnyugtáig körbe süti a házat nap. (Igaz, az ablakok pucolása már nem volt ekkora élmény...)
 
-A "Miházunknál" a sok nyílászáróra sajnos nem volt lehetőség, így a terasz megtervezése nagy odafigyelést igényelt. 
+A "Miházunknál" több nyílászáró beépítésére sajnos nem volt lehetőség, így a terasz megtervezése nagy odafigyelést igényelt. 
 
 Az az ablak, ami a teraszon van, a nappalinkba (is) adja a fényt. Így az az elképzelésünk, hogy fedett teraszunk legyen, alapos fejtörést okozott.
 
@@ -98,6 +98,24 @@ _A négy pillérrel sikerült szabadon hagyni az ablakot_
 
 
 ![terasz](/assets/terasz/DSCF0922.JPG)
+
+**Tető**
+
+Már a tervezés során szóba került, hogy a terasz tetejére milyen megoldások jöhetnek szóba.
+
+Lehetett volna:
+
+* bitumen zsindely
+* cserepes lemez 
+* polikarbonát lemez
+* cserép
+
+A legpraktikusabb az átlátszó műanyag lett volna, de annyira idegennek éreztük, hogy lemondtunk róla. Annak ellenére döntöttünk a cserép mellett, hogy tudtuk gondot jelenthet majd, hogy elfogja a fényt. 
+
+Az elképzelt házunkba egyszerűen nem illett be más. 
+
+
+# Tető készítése
 
 
 
