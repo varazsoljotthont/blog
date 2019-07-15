@@ -57,9 +57,7 @@ Szóba került:
 
 A mi választásunk több okból is a [bontott téglára](2019-04-23/tegla) esett . 
 
-Téglánk, két kezünk meg volt. 
-
-... és biztosak voltunk abban, hogy ezt is meg tudjuk csinálni mesterember bevonása nélkül.
+Téglánk, a két kezünk adott volt. Így biztosak voltunk abban, hogy ezt is meg tudjuk csinálni mesterember bevonása nélkül.
 
 
 
@@ -75,7 +73,7 @@ Azt, hogy mi egy régi házat újítottunk fel, soha nem bántuk meg. De be kell
 
 A mi esetünkben az ablakok mennyisége az, ami leginkább zavaró.
 
-> Az előző házamnál rengeteg ablak volt. Nagyon jó volt, hogy napkeltétől napnyugtáig körbe süti a házat nap. (Igaz, az ablakok pucolása már nem volt ekkora élmény...)
+> Az előző házamnál rengeteg ablak volt. Nagyon jó volt, hogy napkeltétől napnyugtáig körbe sütötte a házat nap. (Igaz, az ablakok pucolása már nem volt ekkora élmény...)
 
 A "Miházunknál" több nyílászáró beépítésére sajnos nem volt lehetőség, így a terasz megtervezése nagy odafigyelést igényelt. 
 
