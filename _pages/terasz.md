@@ -107,7 +107,7 @@ Egy barátos, beszélgetős délutánon született meg a kérdésünkre a válas
 
 Az utcaajtóval szemben lett a terasz bejárata, és a másik oldalon is ugyanígy építettük meg.
 
-![terasz](/assets/terasz/DSCF0989.JPG)
+![terasz](/assets/terasz/DSCF0988.JPG)
 _Az utcáról, udvarról is könnyen a teraszon lehetünk_
 
 ![terasz](/assets/terasz/DSCF0990.JPG)
@@ -138,9 +138,9 @@ Első lépésként egy "futót" rögzített a férjem a ház falára, majd egy g
 Erre kerültek a szarufák.  
 Ezek egy része még a hajópadlók alatt párnafaként voltak használatban, de az átalakítás során megmentettük őket.
 
-![terasz](/assets/terasz/DSCF0988.JPG)
+![terasz](/assets/terasz/DSCF0989.JPG)
 
-![terasz](/assets/terasz/DSCF0987.JPG)
+
 
 
 
