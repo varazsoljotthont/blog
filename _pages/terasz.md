@@ -101,10 +101,15 @@ _A négy pillérrel sikerült szabadon hagyni az ablakot_
 
 **A terasz bejárata**
 
-Én valamiért úgy gondoltam, hogy csak egy módon tudunk majd bejutni a teraszra, ha a a bejárati ajtóval szemben hagyjuk meg ennek a helyét.
+Az első gondolatunk az volt, hogy a bejárati ajtóval szemben legyen a terasz bejárata is. Tetszett is, nem is az ötlet, mert azt hiszem mutatós lett volna így, de nem lett volna igazán praktikus.
 
+Egy barátos, beszélgetős délutánon született meg a kérdésünkre a válasz...
 
+Az utcaajtóval szemben lett a terasz bejárata, és a másik oldalon is ugyanígy építettük meg.
 
+![terasz](/assets/terasz/DSCF0988.JPG)
+
+![terasz](/assets/terasz/DSCF0990.JPG)
 
 
 **A tető**
