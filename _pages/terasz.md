@@ -48,11 +48,11 @@ Figyelembe véve a [hármas szabályt](/2019-03-26/dekoráció), leszűkült a k
 
 Szóba került:
 
-a fa
+* a fa
 
-a tégla
+* a tégla
 
-a vakolt fal
+* a vakolt fal
  
 
 
