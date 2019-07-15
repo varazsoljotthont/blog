@@ -12,7 +12,7 @@ image:
 
 
 
-**Egy családi ház lakóinak életében talán a terasz az egyik legkedveltebb hely. Sok esetben átmenetet képez a lakórész és az udvar, a kert között, szinte összeköti a két teret. Ezért (is) fontos, hogy hangulatában, stílusában mindkettőt megidézze. Mert nincs is annál jobb, mint kiülni egy hangulatos verandára, hallgatni a madarakat énekét és a reggeli csendben elmélázva meginni a kávénkat.**
+**Egy családi ház lakóinak életében talán a terasz az egyik legkedveltebb hely. Sok esetben átmenetet képez a lakórész és a kert között, szinte összeköti a két teret. Ezért (is) fontos, hogy hangulatában, stílusában mindkettőt megidézze. Mert nincs is annál jobb, mint kiülni egy hangulatos verandára, hallgatni a madarakat énekét és a reggeli csendben elmélázva meginni a kávénkat.**
 
 ![idézet](/assets/terasz/kave.png)
 
