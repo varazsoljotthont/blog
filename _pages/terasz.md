@@ -14,6 +14,8 @@ image:
 
 **Egy családi ház lakóinak életében talán a terasz az egyik legkedveltebb hely. Sok esetben átmenetet képez a lakórész és az udvar között, szinte összeköti a két teret. Ezért (is) fontos, hogy hangulatában, stílusában mindkettőt megidézze. Mert nincs is annál jobb, mint kiülni egy hangulatos verandára, hallgatni a madarakat énekét és a reggeli csendben elmélázva meginni a kávénkat.**
 
+![idézet](/assets/terasz/kave.png)
+
 
 
 A "Miházunknak" nem volt sem terasza, sem verandája, csak egy kicsi betonplacc volt a bejárati ajtó előtt.  
@@ -24,17 +26,38 @@ _A kezdetek_
 
 ![terasz](/assets/terasz/DSCF0804.JPG)
 
-![terasz](/assets/terasz/DSCF0835jav.JPG)
+
+
 
 A költözés után ezt neveztem ki [pihenőhelynek](/2019-02-12/varrogepasztal) és az akkori állapotokhoz nagyjából passzolt is, de az elképzelésemtől még nagyon messze állt.
 
-![idézet](/assets/terasz/kave.png)
+![terasz](/assets/terasz/DSCF0835jav.JPG)
+_Kizsaluzva a terasz bővítésnek_
+
+Az átalakításkor a bejárati ajtót is áthelyeztük. Már akkor hozzá betonoztunk a az ajtó előtti betonos részhez, de így is kicsinek bizonyult a tervezett terasznak. 
+
+
+
+
+
 
 
 ## Milyen legyen, miből épüljön?
 
 A teraszunk sem volt kivétel az olcsó legyen, de jó elvünk alól. 
-És figyelembe véve a [hármas szabályt](/2019-03-26/dekoráció), leszűkült a kör az alapanyagokat illetően.
+Figyelembe véve a [hármas szabályt](/2019-03-26/dekoráció), leszűkült a kör az alapanyagokat illetően.
+
+Szóba került:
+
+*a fa
+
+*a tégla
+
+*a vakolt fal
+ 
+ A [tégla](/2019-04-23/tegla) mellett 
+
+
 
 
 
