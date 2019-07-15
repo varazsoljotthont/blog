@@ -80,7 +80,7 @@ A mi esetünkben az ablakok mennyisége az, ami leginkább zavaró.
 
 A "Miházunknál" a sok nyílászáróra sajnos nem volt lehetőség, így a terasz megtervezése nagy odafigyelést igényelt. 
 
-Az az ablak, ami a teraszon is van, a nappalinkba adja a fényt. Így az az elképzelésünk, hogy fedett teraszunk legyen, alapos fejtörést okozott.
+Az az ablak, ami a teraszon van, a nappalinkba (is) adja a fényt. Így az az elképzelésünk, hogy fedett teraszunk legyen, alapos fejtörést okozott.
 
 ![terasz](/assets/terasz/DSCF0843.jpg)
 
