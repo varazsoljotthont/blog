@@ -86,7 +86,7 @@ A pilléreken sokáig gondolkodtunk. A stabilitás miatt három mindenképpen ke
 
 A tervezgetések, méricskélesek után végül négy tartóoszlop lett, így sikerült kikerülni az ablakot.
 
-
+![terasz](/assets/terasz/DSCF0871.JPG)
 
 
 
