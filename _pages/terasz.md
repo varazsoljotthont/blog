@@ -94,6 +94,11 @@ A tervezgetések, méricskélesek után végül négy tartóoszlop lett, így si
 
 
 ![terasz](/assets/terasz/DSCF0876.JPG)
+_A négy pillérrel sikerült szabadon hagyni az ablakot_
+
+
+![terasz](/assets/terasz/DSCF0922.JPG)
+
 
 
 Azzal, hogy a terasz megépült, sikerült kizárni a világosság egyrészét, 
