@@ -12,13 +12,21 @@ image:
 
 
 
-**Egy családi ház esetében a terasz az egyik legkedveltebb hely. Sok esetben átmenetet képez a lakrész és az udvar között, szinte összeköti a két teret. Ezért (is) fontos, hogy hangulatában, stílusában mindkettőt megidézze. Mert nincs is annál jobb, mint kiülni egy hangulatos verandára, hallgatni a madarakat énekét és a reggeli csendben elmélázva meginni a kávénkat.**
+**Egy családi ház lakóinak életében talán a terasz az egyik legkedveltebb hely. Sok esetben átmenetet képez a lakórész és az udvar között, szinte összeköti a két teret. Ezért (is) fontos, hogy hangulatában, stílusában mindkettőt megidézze. Mert nincs is annál jobb, mint kiülni egy hangulatos verandára, hallgatni a madarakat énekét és a reggeli csendben elmélázva meginni a kávénkat.**
 
 
 
 A "Miházunknak" nem volt sem terasza, sem verandája, csak egy kicsi betonplacc volt a bejárati ajtó előtt.  
 
-A költözés után ezt neveztem ki [pihenőhelynek](/2019-02-12/varrogepasztal). Az akkori állapotokhoz nagyjából passzolt is, de az elképzelésemtől még nagyon messze állt.
+![terasz](/assets/terasz/DSCF9925.jpg
+_A kezdetek_
+
+
+![terasz](/assets/terasz/DSCF0804.jpg
+
+![terasz](/assets/terasz/DSCF0835.jpg
+
+A költözés után ezt neveztem ki [pihenőhelynek](/2019-02-12/varrogepasztal) és az akkori állapotokhoz nagyjából passzolt is, de az elképzelésemtől még nagyon messze állt.
 
 ![idézet](/assets/terasz/kave.png)
 
@@ -30,15 +38,6 @@ A teraszunk sem volt kivétel az olcsó legyen, de jó elvünk alól.
 
 
 
-**Fontos volt, hogy a bútorzat legyen:**
-
-* **olcsó**
-
-* **méretre készült**
-
-* **mutatós**
-
-* **egyedi**
 
 
 ![tulipán](/assets/mosokonyha/IMG_20190430_195350.jpg)
