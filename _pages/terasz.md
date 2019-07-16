@@ -174,7 +174,7 @@ Az alja betonos maradt, ami nem volt se szép, se jó. Nem lehetett rendesen fel
 
 Kellett valamiféle megoldás, amit a hideg időben is meg lehetett csinálni, és mivel ideiglenes, nem is kerül sokba.
 
-> A nagy vágyam az volt, hogy téglával burkoljuk le az aljzatot is, de ezt a munkát télen nem lehetett elvégezni.
+> A nagy vágyam az volt, hogy téglával burkoljuk le az aljzatot is, de ezt a munkát télen nem tudtuk elvégezni.
 
 A megoldás a felújítás során felszedett hajópadló lett. Könnyen tudtunk vele dolgozni, és ingyen volt. Egyszerű volt a takarítása, olyan jó kis kultúrházas hangulata volt. Átmenetileg tökéletesen megfelelt.
 
