@@ -105,7 +105,7 @@ Az első gondolatunk az volt, hogy a bejárati ajtóval szemben legyen a terasz 
 
 Egy barátos, beszélgetős délutánon született meg a kérdésünkre a válasz...
 
-Az utcaajtóval szemben lett a terasz bejárata, és a másik oldalon is ugyanígy építettük meg.
+Végül az utcaajtóval szemben lett a terasz bejárata, de a jó használhatóság miatt az udvar felől is nyitottan hagytuk az terasz oldalát.
 
 ![terasz](/assets/terasz/DSCF0988.JPG)
 _Az utcáról, udvarról is könnyen a teraszon lehetünk_
