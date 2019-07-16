@@ -203,9 +203,9 @@ Egy régi ház felújítása, átalakítása mindig kompromisszumokkal jár. Az,
 ## Kapcsolódó cikkek
 
 
-* [Ez aztán a változás!](/2019-04-11-külsőfalak)
-* [Életre kelnek a falak](/2019-03-01-színesfalak)
-* [Faljavítás itt, falazás ott!](/2019-02-18/afalak)
+* [Ilyen volt, ilyen lett: így lett a kaszálóból romantikus, vidéki kert](/2019-06-26/kulsokorlet)
+* [A Miházunk átváltozása](/2019-03-20/költözés)
+* [Így lett a tüzifa az otthonunk dísze](/2019-05-16/fábólkreatívan)
 * [Találjuk ki a házunkat](/2019-02-11/találjuk_ki)
 
 
