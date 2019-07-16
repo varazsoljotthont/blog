@@ -187,7 +187,7 @@ _Hajópadló a teraszon_
 
 A teraszunk szerves részét képezi az otthonunknak. Olyan, mint egy kültéri nappali. Szeretem "öltöztetni", dekorálni évszakhoz, ünnephez illően. Szeretünk kint kávézni, reggel csak kikukkantani, hogy milyen is az idő. 
 
-Úgy érzem sikerült megvalósítani azt, amit elképzeltünk. A terasz folytatása lett lakásnak, de harmónizál az udvarral, a kerttel is. 
+Úgy érzem sikerült megvalósítani azt, amit elképzeltünk. A terasz folytatása lett lakásnak, de harmonizál az udvarral és a kerttel is. 
 
 
 
