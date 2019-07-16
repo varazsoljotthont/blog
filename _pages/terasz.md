@@ -151,11 +151,13 @@ Ezek egy része még a hajópadlók alatt párnafaként voltak használatban, de
 
 
 ![terasz](/assets/terasz/DSCF0986.JPG)
+_Kőműves, ács, tetőfedő... 3:1_
 
 
 A tetőlécezés után következett a cserepezés, majd az ereszcsatornák felrakása.
 
 ![terasz](/assets/terasz/DSCF1773.JPG)
+_ Folyamatban az ereszek átfestése_
 
 
 
