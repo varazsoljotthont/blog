@@ -94,7 +94,7 @@ Azon az ablakon át jut be a fény a nappalinkba ami a teraszon van. Így az elk
 
 A pilléreken sokáig gondolkodtunk. A stabilitás miatt három mindenképpen kellett, de így a középső épp az ablak vonalába került volna, ami nem igazán szerencsés.
 
-A tervezgetések, méricskélesek után végül négy tartóoszlop lett, így sikerült kikerülni az ablakot.
+A tervezgetések, méricskélések után végül négy tartóoszlop lett, így sikerült kikerülni az ablakot.
 
 ![terasz](/assets/terasz/DSCF0922.JPG)
 _A négy pillérrel sikerült szabadon hagyni az ablakot_
@@ -102,7 +102,7 @@ _A négy pillérrel sikerült szabadon hagyni az ablakot_
 
 **Zárt vagy nyitott?**
 
-A ház vidékies jellege miatt szerettük volna, ha a parasztházak tornácos, gádoros hangulata megjelenik nálunk is. Ezért úgy döntöttünk, hogy az oszlopok között parapet magasságig felfalazunk. Így lett igazán hangulatos, és a port sem tekeri be annyira az ajtó elé.
+A ház vidékies jellege miatt szerettük volna, ha a parasztházak tornácos, gádoros hangulata megjelenik nálunk is. Ezért úgy döntöttünk, hogy az oszlopok között parapet magasságig felfalazunk. Így lett igazán hangulatos, és a port sem tekeri be annyira az ajtó elé a szél.
 
 ![terasz](/assets/terasz/DSCF1126.JPG)
 _Alakul a veranda_
@@ -113,7 +113,7 @@ Az első gondolatunk az volt, hogy a bejárati ajtóval szemben legyen a terasz 
 
 Egy barátos, beszélgetős délutánon született meg a kérdésünkre a válasz...
 
-A jól használhatóság miatt végül az utcaajtóval szemben lett a terasz bejárata. Aztán tovább gondoltuk az ötletet, és az udvar felől is nyitottan hagytuk az terasz oldalát.
+A jól használhatóság miatt végül az utcaajtóval szemben lett a terasz bejárata. Aztán tovább gondoltuk az ötletet, és az udvar felől is nyitottan hagytuk a terasz oldalát.
 Így nem kell kerülni, jobbról - balról is egyszerű a közlekedés.
 
 ![terasz](/assets/terasz/DSCF0990.JPG)
@@ -141,7 +141,7 @@ Az elképzelt házunkba egyszerűen nem illett be más.
 
 Tudtuk, hogy sok fényt "ellop" majd tőlünk a terasz cserepes teteje, és ezt a problémát már az ácsolásnál is figyelembe vettük. Kis lejtést kapott a tető, így ezzel a megoldással valamicskét tudtunk javítani a helyzeten.
 
-> Hogy a kicsi lejtés miatt ne ázzon be a terasz, az én drága férjuram impregnálta a cserepeket. Olajjal átkente őket, és ezt két évente megismétli.  
+> Hogy a kicsi lejtés és a bontott cserép minősége miatt ne ázzon be a terasz, az én drága férjuram impregnálta a cserepeket. Olajjal átkente őket, és ezt két évente megismétli.  
 Ragaszkodtunk a cseréphez, és ennek ez volt az ára. Meg persze a kevesebb fény... De hát valamit valamiért... 
 
 
@@ -168,13 +168,13 @@ Lezárásként a régi hajópadlóból lettek elkészítve a szegőlécek és az
 
 A teraszt ősszel kezdtük el megépíteni, ezért nem is tudtuk teljesen befejezni.
 
-Az alja betonos maradt, ami nem volt se szép, se praktikus. Nem lehetett rendesen feltakarítani, a napi használat során koptattuk a betont és hordtuk be a lakásba.
+Az alja betonos maradt, ami nem volt se szép, se jó. Nem lehetett rendesen feltakarítani, a napi használat során koptattuk a betont és hordtuk be a lakásba.
 
-Kellett valamiféle megoldás, amit a hideg időben is meg lehet csinálni, és mivel ideiglenes, nem is kerül sokba.
+Kellett valamiféle megoldás, amit a hideg időben is meg lehetett csinálni, és mivel ideiglenes, nem is kerül sokba.
 
 > A nagy vágyam az volt, hogy téglával burkoljuk le az aljzatot is, de ezt télen nem lehetett lerakni.
 
-A megoldás a felújítás során felszedett hajópadló lett. Könnyen tudtunk vele dolgozni, és ingyen volt. Egyszerű volt a takarítása,olyan jó kis kultúrházas hangulata volt. Átmenetileg tökéletesen funkcionált.
+A megoldás a felújítás során felszedett hajópadló lett. Könnyen tudtunk vele dolgozni, és ingyen volt. Egyszerű volt a takarítása, olyan jó kis kultúrházas hangulata volt. Átmenetileg tökéletesen megfelelt.
 
 ![terasz](/assets/terasz/DSCF1001j.JPG)
 
@@ -183,19 +183,17 @@ _Hajópadló a teraszon_
 
 ![terasz](/assets/terasz/DSCF1128.JPG)
 
+# A ház része lett a terasz
 
+A teraszunk szerves részét képezi az otthonunknak. Olyan, mint egy kültéri nappali. Szeretem "öltöztetni", dekorálni évszakhoz, ünnephez illően. 
 
-
-
-
-
-
+Úgy érzem sikerült megvalósítani azt, amit elképzeltünk. A terasz folytatása lett lakásnak, de harmónizál az udvarral, a kerttel is.
 
 
 
 
 **+ 1 gondolat:**  
-Egy régi ház felújítása, átalakítása mindig kompromisszumokkal jár. Az, hogy kinek mi az elsődleges, mi a fontos, nagyon egyéni. Persze,mi is örülnénk a több fénynek, a nagyobb világosságnak, de az, hogy sikerült megőriznünk a házunk parasztházas "egyéniségét" nekünk fontosabb volt.
+Egy régi ház felújítása, átalakítása mindig kompromisszumokkal jár. Az, hogy kinek mi az elsődleges, mi a fontos, nagyon egyéni. Persze, mi is örülnénk a több fénynek, a nagyobb világosságnak, de az, hogy sikerült megőriznünk a házunk parasztházas "egyéniségét" nekünk fontosabb volt.
 
 <a href="https://www.facebook.com/Var%C3%A1zsolj-otthont-360330751226066/" target="_blank">Ha tetszett, kedveld a Facebook oldalt is</a> , itt még több érdekességet találsz a mindennapok varázslataiból.
 
