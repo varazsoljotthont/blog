@@ -13,7 +13,7 @@ image:
 
 
 
-**Egy családi ház lakóinak életében talán a terasz az egyik legkedveltebb hely. Sok esetben átmenetet képez a lakórész és a kert között, szinte összeköti a két teret. Ezért (is) fontos, hogy hangulatában, stílusában mindkettőt megidézze. Mert nincs is annál jobb, mint kiülni egy hangulatos verandára, hallgatni a madarakat énekét és a reggeli csendben elmélázva meginni a kávénkat.**
+**Egy családi ház lakói életében talán a terasz az egyik legkedveltebb hely. Sok esetben átmenetet képez a lakórész és a kert között, szinte összeköti a két teret. Ezért (is) fontos, hogy hangulatában, stílusában mindkettőt megidézze. Mert nincs is annál jobb, mint kiülni egy hangulatos verandára, hallgatni a madarakat énekét és a reggeli csendben elmélázva meginni a kávénkat.**
 
 ![idézet](/assets/terasz/kave.png)
 
@@ -30,10 +30,12 @@ _A kezdetek_
 _Már ennek a kis terasznak is nagyon örültünk_
 
 
-Jobb híján ezt neveztem ki [pihenőhelynek](/2019-02-12/varrogepasztal) és az akkori állapotokhoz nagyjából passzolt is, de az elképzelésemtől még nagyon messze állt.
+Jobb híján ezt neveztem ki [pihenőhelynek](/2019-02-12/varrogepasztal) és az akkori állapotokhoz nagyjából passzolt is. 
+
+...de az elképzelésemtől még nagyon messze állt.
 
 ![terasz](/assets/terasz/DSCF0835j.JPG)
-_Kizsaluzva a terasz bővítésnek_
+_Kizsaluzva a terasz a bővítésnek_
 
 Az átalakításkor a bejárati ajtót is áthelyeztük. Már akkor hozzá betonoztunk a az ajtó előtti betonos részhez, de így is kicsinek bizonyult az alapterület. 
 
@@ -60,11 +62,11 @@ Szóba került:
 
 A mi választásunk több okból is a [bontott téglára](2019-04-23/tegla) esett . 
 
-A tégla, a két kezünk adott volt. Így biztosak voltunk abban, hogy ezt is meg tudjuk csinálni mesterember bevonása nélkül.
+A tégla, a két kezünk adott volt. Biztosak voltunk abban, hogy ezt is meg tudjuk csinálni mesterember bevonása nélkül.
 
 
 
-> A fából készült terasz is tetszett volna, de egy ekkora munkához komolyabb szerszámokra lett volna szükségünk, nekünk pedig csak barkácsgépeink voltak-vannak.
+> A fából készült terasz is tetszett volna, de egy ekkora munkához komoly szerszámokra lett volna szükségünk, nekünk pedig csak barkácsgépeink voltak-vannak.
 
 ![terasz](/assets/terasz/DSCF0871j.JPG)
 _Mint mindig, most is férjem volt a kőműves, én pedig a segédmunkás_
@@ -72,13 +74,13 @@ _Mint mindig, most is férjem volt a kőműves, én pedig a segédmunkás_
  
 # Találjuk ki
 
-Azt, hogy mi egy régi házat újítottunk fel, soha nem bántuk meg. De be kell vallani, hogy vannak hiányosságai egy újjal szemben.
+Azt, hogy mi egy régi házat újítottunk fel, soha nem bántuk meg. De be kell vallani, hogy vannak hiányosságai az újjal szemben.
 
 A mi esetünkben az ablakok mennyisége az, ami leginkább zavaró.
 
 > Az előző házamnál rengeteg ablak volt. Nagyon jó volt, hogy napkeltétől napnyugtáig körbe sütötte a házat nap. (Igaz, az ablakok pucolása már nem volt ekkora élmény...)
 
-A "Miházunknál" több nyílászáró beépítésére sajnos nem volt lehetőség, így a terasz megtervezése nagy odafigyelést igényelt. 
+A "Miházunknál" több nyílászáró beépítésére nem volt lehetőség, így a terasz megtervezése nagy odafigyelést igényelt. 
 
 Azon az ablakon át jut be a fény a nappalinkba ami a teraszon van. Így az elképzelésünk, hogy fedett teraszunk legyen, alapos fejtörést okozott.
 
@@ -100,9 +102,9 @@ _A négy pillérrel sikerült szabadon hagyni az ablakot_
 
 **Zárt vagy nyitott?**
 
-A ház vidékies jellege miatt szerettük volna, ha a parasztházak tornácos, gádoros hangulata megjelenik nálunk is. Ezért úgy döntöttünk, hogy az oszlopok között parapet magasságig felfalazzuk.
+A ház vidékies jellege miatt szerettük volna, ha a parasztházak tornácos, gádoros hangulata megjelenik nálunk is. Ezért úgy döntöttünk, hogy az oszlopok között parapet magasságig felfalazzuk. Így lett igazán hangulatos, és a port sem tekeri be annyira az ajtó elé.
 
-
+![terasz](/assets/terasz/DSCF1126.JPG)
 
 **A terasz bejárata**
 
@@ -136,14 +138,24 @@ Az elképzelt házunkba egyszerűen nem illett be más.
 
 # Tető készítése
 
-Első lépésként egy "futót" rögzített a férjem a ház falára, majd egy gerendát a négy pillérre.
+Tudtuk, hogy sok fényt "ellop" majd tőlünk a terasz cserepes teteje, és ezt a problémát már az ácsolásnál is figyelembe vettük. Kis lejtést kapott a tető, így ezzel a megoldással valamicskét tudtunk javítani a helyzeten.
+
+> Hogy a kicsi lejtés miatt ne ázzon be a terasz, az én drága férjuram impregnálta a cserepeket. Olajjal átkente őket, és ezt két évente megismétli.  
+Ragaszkodtunk a cseréphez, és ennek ez volt az ára. Meg persze a kevesebb fény... De hát valamit valamiért... 
+
+
+Első lépésként egy "futót" rögzített a férjem a ház falára, majd egy gerendát a négy pillérre. Erre a gerendára kerültek a szarufák.  
+Ezek egy része még a hajópadlók alatt párnafaként voltak használatban, de az [átalakítás során](/2019-02-12/szobabetonozas) megmentettük őket.
 
 > A gerendát a szomszédtól kaptuk, és körülbelül 200 éves lehet. Nagyon szeretem-szeretjük, hogy olyan patinás, rusztikus hangulatot áraszt.
 
-Erre kerültek a szarufák.  
-Ezek egy része még a hajópadlók alatt párnafaként voltak használatban, de az [átalakítás során](/2019-02-12/szobabetonozas) megmentettük őket.
 
 ![terasz](/assets/terasz/DSCF0986.JPG)
+
+
+A tetőlécezés után következett a cserepezés, majd az ereszcsatornák felrakása.
+
+![terasz](/assets/terasz/DSCF1773.JPG)
 
 
 
@@ -160,7 +172,7 @@ Ezek egy része még a hajópadlók alatt párnafaként voltak használatban, de
 
 
 **+ 1 gondolat:**  
-Azzal, hogy a terasz megépült, sikerült kizárni a világosság egyrészét.
+Egy régi ház felújítása, átalakítása mindig kompromisszumokkal jár. Az, hogy kinek mi az elsődleges, mi a fontos, nagyon egyéni. Persze,mi is örülnénk a több fénynek, a nagyobb világosságnak, de az, hogy sikerült megőriznünk a házunk parasztházas "egyéniségét" nekünk fontosabb volt.
 
 <a href="https://www.facebook.com/Var%C3%A1zsolj-otthont-360330751226066/" target="_blank">Ha tetszett, kedveld a Facebook oldalt is</a> , itt még több érdekességet találsz a mindennapok varázslataiból.
 
