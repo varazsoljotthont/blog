@@ -141,6 +141,9 @@ Az elképzelt házunkba egyszerűen nem illett be más.
 
 Tudtuk, hogy sok fényt "ellop" majd tőlünk a terasz cserepes teteje, és ezt a problémát már az ácsolásnál is figyelembe vettük. Kis lejtést kapott a tető, így ezzel a megoldással valamicskét tudtunk javítani a helyzeten.
 
+![terasz](/assets/terasz/DSCF0986.JPG)
+_Kőműves, ács, tetőfedő... 3:1_
+
 > Hogy a kicsi lejtés és a bontott cserép minősége miatt ne ázzon be a terasz, az én drága férjuram impregnálta a cserepeket. Olajjal átkente őket, és ezt két évente megismétli.  
 Ragaszkodtunk a cseréphez, és ennek ez volt az ára. Meg persze a kevesebb fény... De hát valamit valamiért... 
 
@@ -151,8 +154,7 @@ Ezek egy része még a hajópadlók alatt párnafaként voltak használatban, de
 > A gerendát a szomszédtól kaptuk, és körülbelül 200 éves lehet. Nagyon szeretem-szeretjük, hogy olyan patinás, rusztikus hangulatot áraszt.
 
 
-![terasz](/assets/terasz/DSCF0986.JPG)
-_Kőműves, ács, tetőfedő... 3:1_
+
 
 
 A tetőlécezés után következett a cserepezés, majd az ereszcsatornák felrakása.
