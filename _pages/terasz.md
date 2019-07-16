@@ -92,7 +92,7 @@ Azon az ablakon át jut be a fény a nappalinkba ami a teraszon van. Így az elk
 **Pillérek**
 
 
-A pilléreken sokáig gondolkodtunk. A stabilitás miatt három mindenképpen kellett, de így a középső épp az ablak vonalába került volna, ami nem igazán szerencsés helyzet.
+A pilléreken sokáig gondolkodtunk. A stabilitás miatt három mindenképpen kellett, de így a középső épp az ablak vonalába került volna, ami nem igazán szerencsés.
 
 A tervezgetések, méricskélesek után végül négy tartóoszlop lett, így sikerült kikerülni az ablakot.
 
