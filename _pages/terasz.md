@@ -67,7 +67,7 @@ A tégla, a két kezünk adott volt. Így biztosak voltunk abban, hogy ezt is me
 > A fából készült terasz is tetszett volna, de egy ekkora munkához komolyabb szerszámokra lett volna szükségünk, nekünk pedig csak barkácsgépeink voltak-vannak.
 
 ![terasz](/assets/terasz/DSCF0871j.JPG)
-_Mint mindig, most is férjem volt a kőműves, és pedig a segédmunkás_
+_Mint mindig, most is férjem volt a kőműves, én pedig a segédmunkás_
 
  
 # Találjuk ki
