@@ -104,7 +104,8 @@ Az első gondolatunk az volt, hogy a bejárati ajtóval szemben legyen a terasz 
 
 Egy barátos, beszélgetős délutánon született meg a kérdésünkre a válasz...
 
-Végül az utcaajtóval szemben lett a terasz bejárata, de a jó használhatóság miatt az udvar felől is nyitottan hagytuk az terasz oldalát.
+A jól használhatóság miatt végül az utcaajtóval szemben lett a terasz bejárata. Aztán tovább gondoltuk az ötletet, és az udvar felől is nyitottan hagytuk az terasz oldalát.
+Így nem kell kerülni, jobbról - balról is egyszerű a közlekedés.
 
 ![terasz](/assets/terasz/DSCF0988.JPG)
 _Az utcáról, udvarról is könnyen a teraszon lehetünk_
