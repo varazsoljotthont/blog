@@ -13,7 +13,7 @@ image:
 
 
 
-**Egy családi ház lakói életében talán a terasz az egyik legkedveltebb hely. Sok esetben átmenetet képez a lakórész és a kert között, szinte összeköti a két teret. Ezért (is) fontos, hogy hangulatában, stílusában mindkettőt megidézze. Mert nincs is annál jobb, mint kiülni egy hangulatos verandára, hallgatni a madarakat énekét és a reggeli csendben elmélázva meginni a kávénkat.**
+**Egy családi ház lakói életében talán a terasz az egyik legkedveltebb hely. Sok esetben átmenetet képez a lakórész és a kert között, szinte összeköti a két teret. Ezért (is) fontos, hogy hangulatában, stílusában mindkettőt megidézze. Mert nincs is annál jobb, mint kiülni egy hangulatos verandára, hallgatni a madarak énekét és a reggeli csendben elmélázva meginni a kávénkat.**
 
 ![idézet](/assets/terasz/kave.png)
 
@@ -35,9 +35,9 @@ Jobb híján ezt neveztem ki [pihenőhelynek](/2019-02-12/varrogepasztal) és az
 ...de az elképzelésemtől még nagyon messze állt.
 
 ![terasz](/assets/terasz/DSCF0835j.JPG)
-_Kizsaluzva a terasz a bővítésnek_
+_Kizsaluzva a terasz a bővítéshez_
 
-Az átalakításkor a bejárati ajtót is áthelyeztük. Már akkor hozzá betonoztunk a az ajtó előtti betonos részhez, de így is kicsinek bizonyult az alapterület. 
+Az átalakításkor a bejárati ajtót is áthelyeztük. Már akkor hozzá betonoztunk az ajtó előtti részhez, de így is kicsinek bizonyult az alapterület. 
 
 
 
@@ -62,11 +62,11 @@ Szóba került:
 
 A mi választásunk több okból is a [bontott téglára](2019-04-23/tegla) esett . 
 
-A tégla, a két kezünk adott volt. Biztosak voltunk abban, hogy ezt is meg tudjuk csinálni mesterember bevonása nélkül.
+A tégla, és a két kezünk adott volt. Biztosak voltunk abban, hogy ezt is meg tudjuk csinálni mesterember bevonása nélkül.
 
 
 
-> A fából készült terasz is tetszett volna, de egy ekkora munkához komoly szerszámokra lett volna szükségünk, nekünk pedig csak barkácsgépeink voltak-vannak.
+
 
 ![terasz](/assets/terasz/DSCF0871j.JPG)
 _Mint mindig, most is férjem volt a kőműves, én pedig a segédmunkás_
