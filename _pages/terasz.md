@@ -91,9 +91,10 @@ A pilléreken sokáig gondolkodtunk. A stabilitás miatt három mindenképpen ke
 
 A tervezgetések, méricskélesek után végül négy tartóoszlop lett, így sikerült kikerülni az ablakot.
 
-
 ![terasz](/assets/terasz/DSCF0922.JPG)
 _A négy pillérrel sikerült szabadon hagyni az ablakot_
+
+
 
 
 
@@ -107,10 +108,9 @@ Egy barátos, beszélgetős délutánon született meg a kérdésünkre a válas
 A jól használhatóság miatt végül az utcaajtóval szemben lett a terasz bejárata. Aztán tovább gondoltuk az ötletet, és az udvar felől is nyitottan hagytuk az terasz oldalát.
 Így nem kell kerülni, jobbról - balról is egyszerű a közlekedés.
 
-![terasz](/assets/terasz/DSCF0988.JPG)
+![terasz](/assets/terasz/DSCF0990.JPG)
 _Az utcáról, udvarról is könnyen a teraszon lehetünk_
 
-![terasz](/assets/terasz/DSCF0990.JPG)
 
 
 **A tető**
