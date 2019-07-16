@@ -30,7 +30,7 @@ _A kezdetek_
 _Már ennek a kis terasznak is nagyon örültünk_
 
 
-A jobb híján ezt neveztem ki [pihenőhelynek](/2019-02-12/varrogepasztal) és az akkori állapotokhoz nagyjából passzolt is, de az elképzelésemtől még nagyon messze állt.
+Jobb híján ezt neveztem ki [pihenőhelynek](/2019-02-12/varrogepasztal) és az akkori állapotokhoz nagyjából passzolt is, de az elképzelésemtől még nagyon messze állt.
 
 ![terasz](/assets/terasz/DSCF0835j.JPG)
 _Kizsaluzva a terasz bővítésnek_
@@ -84,6 +84,9 @@ Azon az ablakon át jut be a fény a nappalinkba ami a teraszon van. Így az elk
 
 ![terasz](/assets/terasz/DSCF0843.jpg)
 
+
+
+
 **Pillérek**
 
 
@@ -95,7 +98,9 @@ A tervezgetések, méricskélesek után végül négy tartóoszlop lett, így si
 _A négy pillérrel sikerült szabadon hagyni az ablakot_
 
 
+**Zárt vagy nyitott?**
 
+A ház vidékies jellege miatt szerettük volna, ha a parasztházak tornácos, gádoros hangulata megjelenik nálunk is. Ezért úgy döntöttünk, hogy az oszlopok között parapet magasságig felfalazzuk.
 
 
 
