@@ -176,7 +176,7 @@ Kellett valamiféle megoldás, amit a hideg időben is meg lehet csinálni, és 
 
 A megoldás a felújítás során felszedett hajópadló lett. Könnyen tudtunk vele dolgozni, és ingyen volt. Egyszerű volt a takarítása,olyan jó kis kultúrházas hangulata volt. Átmenetileg tökéletesen funkcionált.
 
-![terasz](/assets/terasz/DSCF1008.JPG)
+![terasz](/assets/terasz/DSCF1007j.JPG)
 _Hajópadló a teraszon_
 
 ![terasz](/assets/terasz/DSCF1128.JPG)
