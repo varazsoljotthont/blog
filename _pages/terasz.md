@@ -69,7 +69,7 @@ A tégla, és a két kezünk adott volt. Biztosak voltunk abban, hogy ezt is meg
 
 
 ![terasz](/assets/terasz/DSCF0871j.JPG)
-_Mint mindig, most is férjem volt a kőműves, én pedig a segédmunkás_
+_Mint mindig, most is a férjem volt a kőműves, én pedig a segédmunkás_
 
  
 # Találjuk ki
@@ -78,7 +78,7 @@ Azt, hogy mi egy régi házat újítottunk fel, soha nem bántuk meg. De be kell
 
 A mi esetünkben az ablakok mennyisége az, ami leginkább zavaró.
 
-> Az előző házamnál rengeteg ablak volt. Nagyon jó volt, hogy napkeltétől napnyugtáig körbe sütötte a házat nap. (Igaz, az ablakok pucolása már nem volt ekkora élmény...)
+> Az előző házamnál rengeteg ablak volt. Nagyon jó volt, hogy napkeltétől napnyugtáig körbe sütötte a nap. (Igaz, az ablakok pucolása már nem volt ekkora élmény...)
 
 A "Miházunknál" több nyílászáró beépítésére nem volt lehetőség, így a terasz megtervezése nagy odafigyelést igényelt. 
 
@@ -92,7 +92,7 @@ Azon az ablakon át jut be a fény a nappalinkba ami a teraszon van. Így az elk
 **Pillérek**
 
 
-A pilléreken sokáig gondolkodtunk. A stabilitás miatt három mindenképpen kellett, de így a középső épp az ablak vonalába esett volna, ami nem lett volna szerencsés.
+A pilléreken sokáig gondolkodtunk. A stabilitás miatt három mindenképpen kellett, de így a középső épp az ablak vonalába került volna, ami nem igazán szerencsés helyzet.
 
 A tervezgetések, méricskélesek után végül négy tartóoszlop lett, így sikerült kikerülni az ablakot.
 
