@@ -158,7 +158,7 @@ _Kőműves, ács, tetőfedő... 3:1_
 A tetőlécezés után következett a cserepezés, majd az ereszcsatornák felrakása.
 
 ![terasz](/assets/terasz/DSCF1773.JPG)
-_ Folyamatban az ereszek átfestése_
+_Átfestettük az ereszt is_
 
 Lezárásként a régi hajópadlóból lettek elkészítve a szegőlécek és az oromdeszkák.
 
