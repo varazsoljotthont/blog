@@ -102,9 +102,10 @@ _A négy pillérrel sikerült szabadon hagyni az ablakot_
 
 **Zárt vagy nyitott?**
 
-A ház vidékies jellege miatt szerettük volna, ha a parasztházak tornácos, gádoros hangulata megjelenik nálunk is. Ezért úgy döntöttünk, hogy az oszlopok között parapet magasságig felfalazzuk. Így lett igazán hangulatos, és a port sem tekeri be annyira az ajtó elé.
+A ház vidékies jellege miatt szerettük volna, ha a parasztházak tornácos, gádoros hangulata megjelenik nálunk is. Ezért úgy döntöttünk, hogy az oszlopok között parapet magasságig felfalazunk. Így lett igazán hangulatos, és a port sem tekeri be annyira az ajtó elé.
 
 ![terasz](/assets/terasz/DSCF1126.JPG)
+_Alakul a veranda_
 
 **A terasz bejárata**
 
@@ -120,7 +121,7 @@ _Az utcáról, udvarról is könnyen a teraszon lehetünk_
 
 
 
-**A tető**
+# A tető
 
 Már a tervezés során szóba került, hogy a terasz tetejére milyen megoldások jöhetnek szóba.
 
@@ -159,8 +160,26 @@ A tetőlécezés után következett a cserepezés, majd az ereszcsatornák felra
 ![terasz](/assets/terasz/DSCF1773.JPG)
 _ Folyamatban az ereszek átfestése_
 
+Lezárásként a régi hajópadlóból lettek elkészítve a szegőlécek és az oromdeszkák.
 
 
+
+# A terasz aljának burkolása
+
+A teraszt ősszel kezdtük el megépíteni, ezért nem is tudtuk teljesen befejezni.
+
+Az alja betonos maradt, ami nem volt se szép, se praktikus. Nem lehetett rendesen feltakarítani, a napi használat során koptattuk a betont és hordtuk be a lakásba.
+
+Kellett valamiféle megoldás, amit a hideg időben is meg lehet csinálni, és mivel ideiglenes, nem is kerül sokba.
+
+> A nagy vágyam az volt, hogy téglával burkoljuk le az aljzatot is, de ezt télen nem lehetett lerakni.
+
+A megoldás a felújítás során felszedett hajópadló lett. Könnyen tudtunk vele dolgozni, és ingyen volt. Egyszerű volt a takarítása,olyan jó kis kultúrházas hangulata volt. Átmenetileg tökéletesen funkcionált.
+
+![terasz](/assets/terasz/DSCF1007.JPG)
+_Hajópadló a teraszon_
+
+![terasz](/assets/terasz/DSCF1128.JPG)
 
 
 
