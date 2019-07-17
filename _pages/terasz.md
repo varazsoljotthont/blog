@@ -152,8 +152,9 @@ Tudtuk, hogy sok fényt "ellop" majd tőlünk a terasz cserepes teteje, és ezt 
 ![terasz](/assets/terasz/DSCF0986.JPG)
 _Kőműves, ács, tetőfedő... 3:1_
 
-> Hogy a kicsi lejtés és a bontott cserép minősége miatt ne ázzon be a terasz, az én drága férjuram impregnálta a cserepeket. Olajjal átkente őket, és ezt két évente megismétli.  
-Ragaszkodtunk a cseréphez, és ennek ez volt az ára. Meg persze a kevesebb fény... De hát valamit valamiért... 
+> Hogy a kicsi lejtés és a bontott cserép minősége miatt ne ázzon be a terasz, az én drága férjuram impregnálta a cserepeket. Olajjal átkente őket, és ezt két évente megismétli. 
+Ragaszkodtunk a cseréphez, és ennek ez az ára.  
+Meg persze a kevesebb fény... De hát valamit valamiért... 
 
 
 Első lépésként egy "futót" rögzített a férjem a ház falára, majd egy gerendát a négy pillérre. Erre a gerendára kerültek a szarufák.  
@@ -165,7 +166,7 @@ Ezek egy része még a hajópadlók alatt párnafaként voltak használatban, de
 
 
 
-A tetőlécezés után következett a cserepezés, majd az ereszcsatornák felrakása.
+A tetőlécezés után következett a cserepezés (üveg cserepeket is tettünk fel, hogy becsalogasuk a fényt házba), majd az ereszcsatornák felrakása.
 
 ![terasz](/assets/terasz/DSCF1773.JPG)
 _Átfestettük az ereszt is_
@@ -178,7 +179,7 @@ Lezárásként a régi hajópadlóból lettek elkészítve a szegőlécek és az
 
 A teraszt ősszel kezdtük el megépíteni, ezért nem is tudtuk teljesen befejezni.
 
-Az alja betonos maradt, ami nem volt se szép, se jó. Nem lehetett rendesen feltakarítani, a napi használat során koptattuk a betont és hordtuk be a lakásba.
+Az alja betonos maradt, ami nem volt se szép, se jó. Nem lehetett rendesen takarítani, a napi használat során koptattuk a betont és hordtuk be a lakásba.
 
 Kellett valamiféle megoldás, amit a hideg időben is meg lehetett csinálni, és mivel ideiglenes, nem is kerül sokba.
 
