@@ -68,7 +68,7 @@ Szóba került:
  
 
 
-A mi választásunk több okból is a [bontott téglára](2019-04-23/tegla) esett . 
+A választásunk több okból is a [bontott téglára](2019-04-23/tegla) esett . 
 
 A tégla, és a két kezünk adott volt. Biztosak voltunk abban, hogy ezt is meg tudjuk csinálni mesterember bevonása nélkül.
 
