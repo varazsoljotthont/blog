@@ -2,10 +2,10 @@
 layout: post
 title: "Így építs rusztikus hangulatú teraszt" 
 permalink: /terasz/
-cover: /assets/terasz/cover.JPG
+cover: /assets/terasz/coverj.JPG
 categories: [haz, kert, dekor]
 image:
-  path: /assets/terasz/cover.JPG
+  path: /assets/terasz/coverj.JPG
   height: 300
   width: 300
 ---
