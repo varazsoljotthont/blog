@@ -25,19 +25,23 @@ A "Miházunknak" nem volt sem terasza, sem verandája, csak egy kicsi betonplacc
 ![terasz](/assets/terasz/DSCF0008.JPG)
 _A kezdetek_
 
+Jobb híján ezt neveztem ki [pihenőhelynek](/2019-02-12/varrogepasztal) és az akkori állapotokhoz nagyjából passzolt is. 
+
+...de az elképzelésemtől még nagyon messze állt.  
+Az átalakításkor a bejárati ajtót is áthelyeztük. Már akkor hozzá betonoztunk az ajtó előtti részhez, de így is kicsinek bizonyult az alapterület. 
+
+
 
 ![terasz](/assets/terasz/DSCF0804.JPG)
 _Már ennek a kis terasznak is nagyon örültünk_
 
 
-Jobb híján ezt neveztem ki [pihenőhelynek](/2019-02-12/varrogepasztal) és az akkori állapotokhoz nagyjából passzolt is. 
 
-...de az elképzelésemtől még nagyon messze állt.
 
 ![terasz](/assets/terasz/DSCF0835j.JPG)
 _Kizsaluzva a terasz a bővítéshez_
 
-Az átalakításkor a bejárati ajtót is áthelyeztük. Már akkor hozzá betonoztunk az ajtó előtti részhez, de így is kicsinek bizonyult az alapterület. 
+
 
 
 
