@@ -189,7 +189,7 @@ _Hajópadló a teraszon_
 
 # A ház részévé vált a terasz
 
-A teraszunk beleolvadt az otthonunkba. Olyan, mint egy kültéri nappali. Szeretem "öltöztetni", dekorálni évszakhoz, ünnephez illően. Szeretünk kint kávézni, reggel csak kikukkantani, hogy milyen is az idő. 
+A teraszunk beolvadt az otthonunkba. Olyan, mint egy kültéri nappali. Szeretem "öltöztetni", dekorálni évszakhoz, ünnephez illően. Szeretünk kint kávézni, reggel csak kikukkantani, hogy milyen is az idő. 
 
 Úgy érzem sikerült megvalósítani azt, amit elképzeltünk. A terasz folytatása lett lakásnak, de harmonizál az udvarral és a kerttel is. 
 
