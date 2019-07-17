@@ -39,7 +39,7 @@ Jobb híján ezt neveztem ki [pihenőhelynek](/2019-02-12/varrogepasztal) és az
 Ahhoz, hogy még inkább használható legyen újra betonzonunk kellett. Kibővítettük amennyire csak lehetett, így lett a terasz alapterülete 13 m2.
 
 ![terasz](/assets/terasz/DSCF0835j.JPG)
-_Kizsaluzva a terasz a bővítéshez_
+_Kizsaluzva a bővítéshez_
 
 
 
