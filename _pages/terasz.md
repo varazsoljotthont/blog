@@ -46,13 +46,6 @@ _Kizsaluzva a bővítéshez_
 
 
 
-
-
-
-
-
-
-
 ## Milyen legyen, miből épüljön?
 
 A teraszunk sem volt kivétel az olcsó legyen, de jó elvünk alól. 
