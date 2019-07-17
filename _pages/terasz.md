@@ -205,8 +205,9 @@ A teraszunk szerves részét képezi az otthonunknak. Olyan, mint egy kültéri 
 **+ 1 gondolat:**  
 Egy régi ház felújítása, átalakítása mindig kompromisszumokkal jár. Az, hogy kinek mi az elsődleges, mi a fontos, nagyon eltérő. Persze, mi is örülnénk a több fénynek, a nagyobb világosságnak, de az, hogy sikerült megőriznünk a házunk parasztházas "egyéniségét" nekünk fontosabb volt.
 
-<a href="https://www.facebook.com/Var%C3%A1zsolj-otthont-360330751226066/" target="_blank">Ha tetszett, kedveld a Facebook oldalt is</a> , itt még több érdekességet találsz a mindennapok varázslataiból.
+Ha tetszett, kedveld a <a href="https://www.facebook.com/Var%C3%A1zsolj-otthont-360330751226066/" target="_blank">Facebook oldalt</a> is. Itt még több érdekességet találsz a mindennapok varázslataiból.
 
+<a href="https://www.instagram.com/varazsoljotthont/?hl=hu/" target="_blank">Kövess az Instagramon</a> is, és sok olyan fotót láthatsz, ami a blogról vagy a Facebook oldalról kimaradt.
 
 
 ## Kapcsolódó cikkek
