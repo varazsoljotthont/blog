@@ -194,7 +194,7 @@ _Hajópadló a teraszon_
 
 ![terasz](/assets/terasz/DSCF1128.JPG)
 
-# A ház része lett a terasz
+# A ház részévé vált a terasz
 
 A teraszunk szerves részét képezi az otthonunknak. Olyan, mint egy kültéri nappali. Szeretem "öltöztetni", dekorálni évszakhoz, ünnephez illően. Szeretünk kint kávézni, reggel csak kikukkantani, hogy milyen is az idő. 
 
