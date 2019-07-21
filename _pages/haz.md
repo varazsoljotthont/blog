@@ -8,7 +8,7 @@ title: Házfelújítás
 <p align="right" style="color:#880015"><strong>Téglából ház, lélekből otthon!</strong></p>
 
 
-<h2 style="text-align:center; padding-top: 48px; padding-bottom:48px; line-height:48px;">Egy régi ház vásárlásának, tervezésének, felújításának, átalakításának története leírásokkal, képekkel, tapasztalatokkal, ötletekkel... <br>
+<h2 style="text-align:center; padding-top: 48px; padding-bottom:48px; line-height:48px;">Egy régi ház vásárlásának, tervezésének, felújításának, átalakításának története leírásokkal, képekkel, tapasztalatokkal... <br>
 Ötletek, inspriációk a házunk tájáról
  </h2>
 
