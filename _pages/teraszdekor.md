@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Tároló dobozok sajátkezűleg, vidéki stílusban" 
+title: "Hangulatos terasz, hogy otthon is nyaraljunk" 
 permalink: /teraszdekor/
 cover: /assets/teraszdekor/cover.JPG
 image:
@@ -10,8 +10,7 @@ image:
 ---
 
 
- **A terasz az a hely, amit évszaktól függetlenül szeretünk. Az időjárás változásával a teraszunk funkciója változhat. Mást nyújt télen, és más lehetőségéket biztosít számunkra tavasztól - őszig. Ahhoz, hogy egész évben örömmel töltsük itt a szabadidőnket, a terasz berendezése épp olyan fontos feladat, mint a beltéri helyiségeké. A terasz nem raktár. 
-
+ **Szerencsés helyzetben vagyunk, ha az otthonunk részét terasz is képezi. Tavasztól - őszig tökéletes színtere a pihenésnek, ahogy a  családi, baráti összejöveteleknek is. Hogy az itt eltöltött idő minél kellemesebb legyen, érdemes kiemelt figyelmet szánni a berendezésének. A terasz az otthonunk meghosszabítása, így hangulatában jó ha követi azt a stílust, amit a házunknál, udvarunknál már megvalósítottunk.**
 
 
 ## Az örök kérdés: hová tegyem?
