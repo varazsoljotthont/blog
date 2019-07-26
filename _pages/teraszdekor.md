@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Legyen hangulatos teraszunk, hogy otthon is nyaraljunk" 
+title: "Rusztikus terasz kreatív megoldásokkal, hangulatos dekorációkkal" 
 permalink: /teraszdekor/
 cover: /assets/teraszdekor/cover.JPG
 image:
