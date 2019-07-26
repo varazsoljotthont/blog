@@ -10,7 +10,7 @@ image:
 ---
 
 
- **A házunk egyik legvonzóbb része lett a terasz. A házból kilépve ideérkezünk, így nem volt mindegy, hogy milyen hangulatot teremtünk magunk köré. a vidéki nyugalom azonnal megérinti a szívet-lelket. ** 
+ **A terasz az a hely, amit évszaktól függetlenül szeretünk. Az időjárás változásával a teraszunk funkciója változhat. Mást nyújt télen, és más lehetőségéket biztosít számunkra tavasztól - őszig. Ahhoz, hogy egész évben örömmel töltsük itt a szabadidőnket, a terasz berendezése épp olyan fontos feladat, mint a beltéri helyiségeké. A terasz nem raktár. 
 
 
 
