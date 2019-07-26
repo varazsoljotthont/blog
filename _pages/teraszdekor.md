@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Hangulatos terasz, hogy otthon is nyaraljunk" 
+title: "Legyen hangulatos teraszunk, hogy otthon is nyaraljunk" 
 permalink: /teraszdekor/
 cover: /assets/teraszdekor/cover.JPG
 image:
@@ -10,7 +10,7 @@ image:
 ---
 
 
- **Szerencsés helyzetben vagyunk, ha az otthonunk részét terasz is képezi. Tavasztól - őszig tökéletes színtere a pihenésnek, ahogy a  családi, baráti összejöveteleknek is. Hogy az itt eltöltött idő minél kellemesebb legyen, érdemes kiemelt figyelmet szánni a berendezésének. A terasz az otthonunk meghosszabítása, így hangulatában jó ha követi azt a stílust, amit a házunknál, udvarunknál már megvalósítottunk.**
+ **Szerencsés helyzetben vagyunk, ha az otthonunk részét terasz is képezi. Tavasztól - őszig tökéletes színtere a pihenésnek, ahogy a  családi, baráti összejöveteleknek is. Hogy az itt eltöltött idő minél kellemesebb legyen, érdemes kiemelt figyelmet szánni a berendezésének. A terasz az otthonunk meghosszabítása, így hangulatában jó ha követi azt a stílust, amit a házunknál, kertünknél már megvalósítottunk.**
 
 
 ## Az örök kérdés: hová tegyem?
