@@ -1,16 +1,16 @@
 ---
 layout: post
 title: "Tároló dobozok sajátkezűleg, vidéki stílusban" 
-permalink: /tárolók/
-cover: /assets/tárolók/cover.JPG
+permalink: /teraszdekor/
+cover: /assets/teraszdekor/cover.JPG
 image:
-  path: /assets/tárolók/cover.JPG
+  path: /assets/teraszdekor/cover.JPG
   height: 300
   width: 300
 ---
 
 
- **Minden háztartásban szükség van tárolódobozokra, felhasználasuk az otthonunk egészére kiterjed. A stílusos otthonhoz stílusos tároló jár, és ez 3+1 hozzávalóból el is készíthető. Kartondoboz, spárga, ragasztó és egy kis varázslat. Csak ennyi kell.** 
+ **A házunk egyik legvonzóbb része lett a terasz. A házból kilépve ideérkezünk, így nem volt mindegy, hogy milyen hangulatot teremtünk magunk köré. a vidéki nyugalom azonnal megérinti a szívet-lelket. ** 
 
 
 
