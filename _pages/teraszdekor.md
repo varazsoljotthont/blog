@@ -18,15 +18,15 @@ image:
 
 
 
-A bejárati ajtónk a teraszról nyílik, innen indulunk és ide érkezünk haza. Ide jönnek először az ismerősök, és az első benyomás is - az udvaron kívül - itt ér mindenkit. 
+A bejárati ajtónk a teraszról nyílik. Innen indulunk és ide érkezünk haza. Ide jönnek először az ismerősök, és az első benyomás is - az udvaron kívül - itt ér mindenkit. 
 
 Számomra nagyon fontos volt, hogy olyan "kisugárzása" legyen a terasznak ami bennünket is, és a hozzánk látogatókat is jó érzéssel tölt el.  
 Igen, minket is. A fáradt mindennapok után nem mindegy, hogy a haza érkezés milyen környezetbe történik.  
 
 > Azt hiszem nem vagyok egyedül azzal a gondolattal, hogy az otthonunk nem csak arra szolgál, hogy tető legyen a fejünk felett...
-Az otthon számomra az a hely, ahol erőt gyűjtök, feltöltődöm és belépve az ajtón azt mondom, de jó itthon lenni... És ez csak úgy megy, ha a környezet ahová érkezem, rendben van. 
+Az otthon számomra az a hely, ahol erőt gyűjtök, feltöltődöm, és belépve az ajtón azt mondom, de jó itthon lenni... És ez csak úgy megy, ha a környezet ahová érkezem, rendben van. 
 
-A vidékies stílust választottam a házunkhoz, így nem volt kérdés, hogy a teraszunkra is ezt a hangulatot fogom "kivinni".
+A vidéki stílust választottam a házunkhoz, így nem volt kérdés, hogy a teraszunkra is ezt a hangulatot fogom "kivinni".
 
 ![tulipán](/assets/tárolók/IMG_20190416_095143.jpg)
 
