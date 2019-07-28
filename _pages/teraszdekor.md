@@ -21,7 +21,6 @@ A bejárati ajtónk a teraszról nyílik. Innen indulunk és ide érkezünk haza
 
 
 ![idézet](/assets/teraszdekor/Nevtelen.png)
-_Ide érkezünk haza_
 
 
 
@@ -35,6 +34,8 @@ A felújítás során a vidéki stílust választottam a házunkhoz, így nem vo
 
 
 ![tégla](/assets/teraszdekor/IMG_20190722_124455.jpg)
+_Ide érkezünk haza_
+
 
 
 ## Tégla itt is, ott is
