@@ -2,10 +2,9 @@
 layout: post
 title: "Rusztikus terasz kreatív megoldásokkal, hangulatos dekorációkkal" 
 permalink: /teraszdekor/
-cover: /assets/teraszdekor/cover.JPG
-categories: [haz, kert, dekor]
+cover: /assets/teraszdekor/cover.jpg
 image:
-  path: /assets/teraszdekor/cover.JPG
+  path: /assets/teraszdekor/cover.jpg
   height: 300
   width: 300
 ---
@@ -56,45 +55,7 @@ _Megfelelő fuga hézaggol kell lerakni a téglát_
 
 
 
-**Ragasztó**
 
-Két oldalú ragasztót használtam, ezt barkácsboltokban meg lehet vásárolni.
-
-**Szék**
-
-Több ülőalkalmatosság tesztelése után egy gyerekszék lett a befutó, amit én "fellépőként" használok a mindennapokban. Az alacsonysága miatt  lett jobb, mint a többi. Ezen ülve a doboz leért a földre, és nem kellett megtartani.
-
-**Zene**
-
-Nem túlzok, mikor azt mondom (írom), hogy meditatív tevékenységgé vált a spárgázás. Olyan jellegű munka volt ez, ami közben elcsitult az agy. Nem is igazán gondolkodtam közben, csak csináltam. Szólt a meditációs zene, és azt vettem észre, hogy végeztem.
-
-Ez külön ajándék még a dobozok mellé.
-
-
-## Spárgázzunk, tekerjünk
-
-
-* **első lépés:** a dobozok felesleges részeit levágtam, majd a hiányzó helyekre toldásként beragasztottam. Ezzel a lépéssel elértem, hogy "rendes" dobozunk legyen.
-
-![doboz](/assets/tárolók/IMG_20190416_213033.jpg)
-_A hiányzó rész kiegészítve, és beragasztva_
-
-
-
-![doboz](/assets/tárolók/IMG_20190416_172619jav.jpg)
-
-
-
-* **második lépés:** a dobozok sarkaihoz, és az oldalakra 2-3 centinként felragasztottam a kétoldalú ragasztót.
-
-
-![doboz](/assets/tárolók/IMG_20190416_173226jav.jpg)
-
-
-* **harmadik lépés:** a doboz aljánál indítottam a spárgát. A doboz oldalára 2-3 cm magasságban odaragasztottam, majd visszakanyarítva elkezdtem tekerni.
-
-
-![doboz](/assets/tárolók/IMG_20190416_173404.jpg)
 
 
 
