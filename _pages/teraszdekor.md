@@ -24,9 +24,9 @@ Számomra nagyon fontos volt, hogy olyan "kisugárzása" legyen a terasznak ami 
 Igen, minket is. A fáradt mindennapok után nem mindegy, hogy a haza érkezés milyen környezetbe történik.  
 
 > Azt hiszem nem vagyok egyedül azzal a gondolattal, hogy az otthonunk nem csak arra szolgál, hogy tető legyen a fejünk felett...
-Az otthon számomra az a hely, ahol erőt gyűjtök, feltöltődöm és belépve az ajtón azt mondom, de jó itthon lenni... És ez csak úgy megy, ha a környezet, ahová érkezem rendben van. 
+Az otthon számomra az a hely, ahol erőt gyűjtök, feltöltődöm és belépve az ajtón azt mondom, de jó itthon lenni... És ez csak úgy megy, ha a környezet ahová érkezem, rendben van. 
 
-A vidékies hangulatú házunkhoz igazodva rendeztem be a teraszunkat is. 
+A vidékies stílust választottam a házunkhoz, így nem volt kérdés, hogy a teraszunkra is ezt a hangulatot fogom "kivinni".
 
 ![tulipán](/assets/tárolók/IMG_20190416_095143.jpg)
 
