@@ -19,8 +19,12 @@ image:
 
 A bejárati ajtónk a teraszról nyílik. Innen indulunk és ide érkezünk haza. Ide jönnek először az ismerősök, és az első benyomás is - az udvaron kívül - itt ér mindenkit. 
 
+
 ![idézet](/assets/teraszdekor/Nevtelen.png)
 _Ide érkezünk haza_
+
+
+
 
 Számomra nagyon fontos volt, hogy olyan "kisugárzása" legyen a terasznak ami bennünket is, és a hozzánk látogatókat is jó érzéssel tölt el.  
 Igen, minket is. A fáradt mindennapok után nem mindegy, hogy a haza érkezés milyen környezetbe történik.  
