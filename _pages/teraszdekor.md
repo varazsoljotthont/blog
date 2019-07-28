@@ -14,13 +14,19 @@ image:
  **Szerencsés helyzetben vagyunk, ha az otthonunk részét terasz is képezi. Tavasztól - őszig tökéletes színtere a pihenésnek, ahogy a  családi, baráti összejöveteleknek is. Hogy az itt eltöltött idő minél kellemesebb legyen, érdemes kiemelt figyelmet szánni a berendezésének. A terasz az otthonunk meghosszabítása, így hangulatában jó ha követi azt a stílust, amit a házunknál, kertünknél már megvalósítottunk.**
 
 
-## Az örök kérdés: hová tegyem?
+## Az első benyomás
 
 
-Nagyon szeretem "kiöltöztetni" a házunkat. Ünnepek előtt, évszakok váltásakor, és csak úgy is. Sok dekort készítettünk sajátkezűleg, és sok alapanyag össze is gyűlt az évek alatt. Apró kis csecsebecsék, méterárú, és az épp használaton kívüli kincsek várták, hogy szabadságuk alatt méltó helyen pihenhessenek.
 
-Egyre erősebben jelentkezett részemről az igény, hogy rendszerezve, esztétikusan tároljam a dolgaimat. Mikor a mosókonyha (is) elkészült, lehetőségem és helyem lett elpakolni a sok-sok  mindent.
+A bejárati ajtónk a teraszról nyílik, innen indulunk és ide érkezünk haza. Ide jönnek először az ismerősök, és az első benyomás is - az udvaron kívül - itt ér mindenkit. 
 
+Számomra nagyon fontos volt, hogy olyan "kisugárzása" legyen a terasznak ami bennünket is, és a hozzánk látogatókat is jó érzéssel tölt el.  
+Igen, minket is. A fáradt mindennapok után nem mindegy, hogy a haza érkezés milyen környezetbe történik.  
+
+> Azt hiszem nem vagyok egyedül azzal a gondolattal, hogy az otthonunk nem csak arra szolgál, hogy tető legyen a fejünk felett...
+Az otthon számomra az a hely, ahol erőt gyűjtök, feltöltődöm és belépve az ajtón azt mondom, de jó itthon lenni... És ez csak úgy megy, ha a környezet, ahová érkezem rendben van. 
+
+A vidékies hangulatú házunkhoz igazodva rendeztem be a teraszunkat is. 
 
 ![tulipán](/assets/tárolók/IMG_20190416_095143.jpg)
 
