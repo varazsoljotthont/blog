@@ -40,28 +40,18 @@ A felújítás során a vidéki stílust választottam a házunkhoz, így nem vo
 
 A teraszt csupa [téglából építettük](2019-07-21/terasz) meg.  
 
-Bomtott téglából készültek a pillérek és köztük a parapet falak is. Ötlet szintjén felmerült, hogy be is vakolhatnánk falazás után, de aztán kitartottunk az eredeti téglás tervünk mellett. Egyrészt, nagyon tetszik így is. Másrészt, nem koszolódik, nem omlik le a pucolás, és így nincs vele semmi tennivaló.
+Bomtott téglából készültek a pillérek és köztük a parapet falak is. Ötlet szintjén felmerült, hogy be is vakolhatnánk falazás után, de aztán kitartottunk az eredeti téglás tervünk mellett. Egyrészt, így "csupaszon" is nagyon tetszik. Másrészt nem koszolódik, nem omlik le a pucolás, és így nincs vele semmi tennivaló.
 
 **Az aljzat burkolás**
 
-**Karton**
+A terasz elkészültekor ideiglenesen a régi [hajópadlót](2019-02-12/szobabetonozas) tettük le. Átmenetileg jó szolgálatot tett, de ahogy az időjárás engedte lecseréltük tégla burkolatra.
 
-Szinte kínálta magát a lehetőség a mindennapi bevásárlások során. A legtöbb üzletben a kasszák környékére kirakják a kiürült kartondobozokat, amiket szabadon el lehet vinni.
+Kiválogattuk a szép, formás téglákat, és a misungos aljzatra elkezdtük lerakni. Széles fugahézagokat hagytunk az egyes darabok között, hogy könnyen ki tudjuk önteni a réseket.
 
-> Biztos vagyok benne, hogy sokan vittük már haza ilyenekben a napi vásárlásunkat. 
+ 
 
-A dobozok különböző méretűek. Erős, kemény falú, tárolásra alkalmas darabokat is találhatunk ha szerencsénk van. 
-
-![dobozok](/assets/tárolók/IMG_20190416_071347.jpg)
-_Nagy karton, kis karton, cipősdoboz... Mindegyik megfelelő alap lehet_
-
-
-**Spárga**
-
-Még régebbről őrizgettünk - valamire biztos jó lesz, alapon - néhány guriga spárgát. Adott volt hát a második alapanyag is. 
-
-![doboz](/assets/tárolók/DSCF2347.JPG)
-_A kellékek: karton, ragasztó, spárga. Kezünkben pedig a varázslat_
+![tégla](/assets/teraszdekor/DSCF2570.JPG)
+_Megfelelő fuga hézaggol kell lerakni a téglát_
 
 
 
