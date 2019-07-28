@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Rusztikus terasz kreatív megoldásokkal, hangulatos dekorációkkal" 
+title: "Rusztikus terasz ötletes megoldásokkal, hangulatos dekorációkkal" 
 permalink: /teraszdekor/
 cover: /assets/teraszdekor/cover.jpg
 image:
@@ -45,10 +45,11 @@ Bomtott téglából készültek a pillérek és köztük a parapet falak is. Öt
 
 A terasz elkészültekor ideiglenesen a régi [hajópadlóval](2019-02-12/szobabetonozas) burkoltunk. Átmenetileg jó szolgálatot tett, de ahogy az időjárás engedte már le is cseréltük tégla burkolatra.
 
+
+
 A kis házi tüzép telepümkön kiválogattuk a szép, formás bontott téglákat, és a misungos aljzatra elkezdtük lerakni. Széles fugahézagokat hagytunk az egyes darabok között, hogy könnyen ki tudjuk önteni a réseket.
 
  
-
 ![tégla](/assets/teraszdekor/DSCF2570.JPG)
 _Megfelelő fuga hézaggol kell lerakni a téglát_
 
@@ -57,73 +58,6 @@ _Megfelelő fuga hézaggol kell lerakni a téglát_
 
 
 
-
-* **negyedik lépés:** ...tekerni, tekerni... Feszesen tartottam a spárgát, és egymáshoz szorosan igazgattam a sorokat. A ragasztó csíkokhoz folymatosan erősen hozzányomtam a spárgát, hogy el ne engedjen.
-
-![doboz](/assets/tárolók/IMG_20190416_175359.jpg)
-
-
-
-![doboz](/assets/tárolók/DSCF2342.JPG)
-
-Miután körbeértem a dobozon, ragaszót pisztollyal megerősítettem a spárgát.
-
-
-
-
-## A bélés
-
-Nem vagyok varrónő, de valamicskét értek hozzá. Sok mindent varrtam már a "Miházunkba", ezért bátran álltam neki a dobozok bélését is elkészíteni.
-
-**Szabás**
-
-
-Az oldalakat lemértem, és 2 cm varrás szélességet valamint a magasságához 2cm szegést, és a visszahajtás magasságát ráhagyva kiszabtam az anyagot.
-Az aljánál is 1-1 cm volt oldalanként ráhagyás.
-
-![anyag](/assets/tárolók/IMG_20190417_072226.jpg)
-_Szeretem a vidékies stílusú anyagokat_
-
-
-**Varrás**
-
-Először az oldalakat varrtam össze. Színt színre fordítva, egy hosszú oldalt, egy röviddel, aztán a rövidhez a hosszút, majd végül a rövidet.
-
-Ezzel összeállt a textil bélés négy oldala. Az alját és az oldalát a sarkoknál összeillesztettem és körbe varrtam.  
-Mikor elkészült, belepróbáltam a dobozba és gyönyörködtem egy kicsit.
-
-Végül a tetejét beszegtem, és rávarrtam a diszítő szalagot. 
-
-Ezzel el is készült az olcsó, dekoratív, természetes hatású tárolónk.
-
-**Jó tanács:** A bélés anyagát varrás előtt érdemes beavatni. 
-
-
-## Gombhoz a kabátot
-
-Mivel mindent magunk csinálunk, készítünk, abban a szerencsés helyzetben voltam, hogy meg tudtam szabni a polcok magasságát. A dobozokhoz készítette a polcot a férjem a mosókonyhában, konyhában, és még a hálószobában is. A hálóban a szekrény festése, átalakítása már úgy történt, hogy meg voltak a tárolók, így tökéletesen passzolnak egymáshoz.
-
-> A mosókonyhában a polc az átalakítás során felszedett hajópadlóból készült, és nagyon-nagyon jó lett. A konyhai polcok régi ablakkeretből, amit raklap tetejéről leszedett fából polcozott be a férjem. Az elvünk maradt a régi: olcsó legyen, de jó! 
-(A mosókonyha külön posztot érdemel, hamarosan hozom) 
-
-
-
-![doboz](/assets/tárolók/DSCF2659.JPG)
-
-
-
-
-![doboz](/assets/tárolók/IMG_20190416_074241.jpg)
-
-
-
-
-
-![doboz](/assets/tárolók/IMG_20190416_223800.jpg)
-
-
-
-![doboz](/assets/tárolók/IMG_20190417_073705.jpg)
 
 
 
