@@ -43,18 +43,16 @@ Bomtott téglából készültek a pillérek és köztük a parapet falak is. Öt
 
 **Az aljzat burkolás**
 
-A terasz elkészültekor ideiglenesen a régi [hajópadlót](2019-02-12/szobabetonozas) tettük le. Átmenetileg jó szolgálatot tett, de ahogy az időjárás engedte lecseréltük tégla burkolatra.
+A terasz elkészültekor ideiglenesen a régi [hajópadlóval](2019-02-12/szobabetonozas) burkoltunk. Átmenetileg jó szolgálatot tett, de ahogy az időjárás engedte már le is cseréltük tégla burkolatra.
 
-Kiválogattuk a szép, formás téglákat, és a misungos aljzatra elkezdtük lerakni. Széles fugahézagokat hagytunk az egyes darabok között, hogy könnyen ki tudjuk önteni a réseket.
+A kis házi tüzép telepümkön kiválogattuk a szép, formás bontott téglákat, és a misungos aljzatra elkezdtük lerakni. Széles fugahézagokat hagytunk az egyes darabok között, hogy könnyen ki tudjuk önteni a réseket.
 
  
 
 ![tégla](/assets/teraszdekor/DSCF2570.JPG)
 _Megfelelő fuga hézaggol kell lerakni a téglát_
 
-
-
-
+![tégla](/assets/teraszdekor/DSCF2400.JPG)
 
 
 
