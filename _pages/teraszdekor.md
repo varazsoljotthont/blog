@@ -20,26 +20,29 @@ image:
 
 A bejárati ajtónk a teraszról nyílik. Innen indulunk és ide érkezünk haza. Ide jönnek először az ismerősök, és az első benyomás is - az udvaron kívül - itt ér mindenkit. 
 
+![idézet](/assets/teraszdekor/IMG_20190728_113930.jpg)
+_Ide érkezünk haza_
+
 Számomra nagyon fontos volt, hogy olyan "kisugárzása" legyen a terasznak ami bennünket is, és a hozzánk látogatókat is jó érzéssel tölt el.  
 Igen, minket is. A fáradt mindennapok után nem mindegy, hogy a haza érkezés milyen környezetbe történik.  
 
-> Azt hiszem nem vagyok egyedül azzal a gondolattal, hogy az otthonunk nem csak arra szolgál, hogy tető legyen a fejünk felett...
-Az otthon számomra az a hely, ahol erőt gyűjtök, feltöltődöm, és belépve az ajtón azt mondom, de jó itthon lenni... És ez csak úgy megy, ha a környezet ahová érkezem, rendben van. 
+> Azt hiszem nem vagyok egyedül azzal a gondolattal, hogy az otthonunk nem csak arra szolgál, hogy tető legyen a fejünk felett. Az otthon számomra az a hely, ahol erőt gyűjtök, feltöltődöm, és belépve az ajtón azt mondom, de jó itthon lenni...! Ez csak úgy megy, ha a környezet ahová érkezem rendezett, tiszta, hívogató.
 
-A vidéki stílust választottam a házunkhoz, így nem volt kérdés, hogy a teraszunkra is ezt a hangulatot fogom "kivinni".
-
-![tulipán](/assets/tárolók/IMG_20190416_095143.jpg)
+A felújítás során a vidéki stílust választottam a házunkhoz, így nem volt kérdés, hogy a teraszunkra is ezt a hangulatot fogom "kivinni".
 
 
 
-## Az ötlet, és a hozzávalók
 
 
-**Inspiráció**
+## Tégla itt is, ott is
 
-Jómagam is szeretek inspirálódni, nyitott szemmel járni, ötleteket szerezni. 
-Még valahol, valamikor láttam egy fotót egy bespárgázott üvegről, ami elindította a gondolatot a tárolókkal kapcsolatban.
+**Pillérek, falak**
 
+A teraszt csupa [téglából építettük](2019-07-21/terasz) meg.  
+
+Bomtott téglából készültek a pillérek és köztük a parapet falak is. Ötlet szintjén felmerült, hogy be is vakolhatnánk falazás után, de aztán kitartottunk az eredeti téglás tervünk mellett. Egyrészt, nagyon tetszik így is. Másrészt, nem koszolódik, nem omlik le a pucolás, és így nincs vele semmi tennivaló.
+
+**Az aljzat burkolás**
 
 **Karton**
 
