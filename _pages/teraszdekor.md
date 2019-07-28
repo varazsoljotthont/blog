@@ -30,7 +30,7 @@ Igen, minket is. A fáradt mindennapok után nem mindegy, hogy a haza érkezés 
 A felújítás során a vidéki stílust választottam a házunkhoz, így nem volt kérdés, hogy a teraszunkra is ezt a hangulatot fogom "kivinni".
 
 
-![tégla](/assets/teraszdekor/IMG_20190722_124455.JPG)
+![tégla](/assets/teraszdekor/IMG_20190722_124455.jpg)
 
 
 ## Tégla itt is, ott is
