@@ -44,7 +44,7 @@ _Ide érkezünk haza_
 
 A teraszt csupa [téglából építettük](2019-07-21/terasz) meg.  
 
-Bomtott téglából készültek a pillérek és köztük a parapet falak is. Ötlet szintjén felmerült, hogy be is vakolhatnánk falazás után, de aztán kitartottunk az eredeti téglás tervünk mellett. Egyrészt, így "csupaszon" is nagyon tetszik. Másrészt nem koszolódik, nem omlik le a pucolás, és így nincs vele semmi tennivaló.
+Bontott téglából készültek a pillérek és köztük a parapet falak is. Ötlet szintjén felmerült, hogy be is vakolhatnánk falazás után, de aztán kitartottunk az eredeti téglás tervünk mellett. Egyrészt, így "csupaszon" is nagyon tetszik. Másrészt nem koszolódik, nem omlik le a pucolás, és így nincs vele semmi tennivaló.
 
 **Az aljzat burkolás**
 
@@ -52,18 +52,20 @@ A terasz elkészültekor ideiglenesen a régi [hajópadlóval](2019-02-12/szobab
 
 
 
-A kis házi tüzép telepümkön kiválogattuk a szép, formás bontott téglákat, és a misungos aljzatra elkezdtük lerakni. Széles fugahézagokat hagytunk az egyes darabok között, hogy könnyen ki tudjuk önteni a réseket.
+A kis házi tüzép telepünkön kiválogattuk a szép, formás bontott téglákat, és misungos aljzatra elkezdtük lerakni. Széles fugahézagokat hagytunk az egyes darabok között, hogy könnyen ki tudjuk önteni a réseket.
 
  
+> Erre célra nekem a konyhában használatos csőrös kancsó (tejkiöntő kanna) vált be. Könnyű, és egész pontosan be lehetett vele önteni a téglák réseit.
+
 ![tégla](/assets/teraszdekor/DSCF2570.JPG)
 _Megfelelő fuga hézaggol kell lerakni a téglát_
 
 ![tégla](/assets/teraszdekor/DSCF2400.JPG)
 
+Száradás után cenettejjel kikentem a fugákat, majd átmostam a téglákat is. Legvégül kőbalzsamot kapott az egész felület. A lábazat és a küszöb szeletelt téglával lett kirakva, ez nem vett el helyet a teraszból, és megtudtuk tartani téglás egységet.
 
 
-
-
+**Berendezési tárgyak**
 
 
 
