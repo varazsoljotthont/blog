@@ -140,7 +140,7 @@ _Isten hozott kedves vendég_
 A dekorfalon és a gerendán is ott vannak a kiskancsók, tálak.
 
 
-![tégla](/assets/teraszdekor/IMG_20181212_181952_069.jpg)
+![tégla](/assets/teraszdekor/IMG_20181212_181952_069j.jpg)
 _A kis kancsók kirándulásaink alkalmával vásárolt emklékek_
 
 
