@@ -127,6 +127,19 @@ Addig rakosgattuk míg felkerült, de csak dísz lett az ablak mellett. Kamu zsa
 ![tégla](/assets/teraszdekor/IMG_20190408_073747.jpg)
 
 
+
+# Dekorációk
+
+**Kerámia**
+
+Komoly vonzódásom van a kézműves kerámiák iránt. A lakásban és kint a teraszon is van belőlük néhány. A legkedvesebb a bejárati ajtónál köszönti a belépőket.
+
+![tégla](/assets/teraszdekor/istenhozott.jpg)
+_Isten hozott kedves vendég_
+
+A dekorfalon és a gerendán is ott vannak a kiskancsók, tálak
+
+
 **+ 1 gondolat:**  
 A képek nem egy doboz spárgázását mutatják be. Sokat spárgáztam, és nem mindegyiknél fotóztam. A fázis képeket a napokban csináltam, ezért térnek el a kész dobozoktól.
 
