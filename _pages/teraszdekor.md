@@ -137,8 +137,15 @@ Komoly vonzódásom van a kézműves kerámiák iránt. A lakásban és kint a t
 ![tégla](/assets/teraszdekor/istenhozott.jpg)
 _Isten hozott kedves vendég_
 
-A dekorfalon és a gerendán is ott vannak a kiskancsók, tálak
+A dekorfalon és a gerendán is ott vannak a kiskancsók, tálak.
 
+![tégla](/assets/teraszdekor/iIMG_20181212_181952_069.jpg)
+_A kis kancsók kirándulásaink alkalmával vásárolt emklékek_
+
+
+![tégla](/assets/teraszdekor/IMG_20181212_214916_331.jpg)
+
+![tégla](/assets/teraszdekor/IMG_20190728_170121.jpg)
 
 **+ 1 gondolat:**  
 A képek nem egy doboz spárgázását mutatják be. Sokat spárgáztam, és nem mindegyiknél fotóztam. A fázis képeket a napokban csináltam, ezért térnek el a kész dobozoktól.
