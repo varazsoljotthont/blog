@@ -71,7 +71,6 @@ Száradás után cenettejjel kikentem a fugákat, majd átmostam a téglákat is
 
 A terasz elkészülte után tűnt fel, hogy a fal mennyire üres. Nem akartam így hagyni, éreztem, hogy valami nagyon odakívánkozik. Ötleteltünk egy keveset, aztán jó sokat tervezgettünk, rajzoltunk, majd a férjuram odavarázsolta nekem ezt a kemencét megidéző tégla dekorációt.
 
-A boltívet szeletelt téglából rakta ki az én ügyeskezű férjem, 
 
 
 ![tégla](/assets/terasz/DSCF1002.JPG)
@@ -80,9 +79,12 @@ _Ugye, milyen üres így?_
 
 
 ![tégla](/assets/teraszdekor/dekorfal.png)
+_Készül a dísz fal_
+
+A boltívet szeletelt téglából rakta ki az én ügyeskezű férjem, és hirtelen ötlettől vezérelve három pici mélyedés is része lett a falnak.
 
 ![tégla](/assets/teraszdekor/kemence.jpg)
-_
+_Még mindig kedvenc_
 _
 
 # A berendezési tárgyak
@@ -96,10 +98,14 @@ Nem akartam tele zsúfolni bútorokkal, csecse-becsékkel. A terasz átjárható
 **Bútorok**
  
 Apránként alakult ki a mostani berendezés.
-Még nem volt kész a terasz, mikor egy barátnőmtől kaptunk, két fából készült kerti széket. Neki feleslegessé vált, nekünk pedig épp kellett valami ülőalkalmatosság. Zöldre festettem - mint a nyílászárókat -, kicsit koptattam, és tökéletes lett. 
+Még nem volt kész a terasz, mikor egy barátnőmtől kaptunk két fából készült kerti széket. Neki feleslegessé vált, nekünk pedig épp kellett valami ülőalkalmatosság. Zöldre festettem - mint a nyílászárókat -, kicsit koptattam, és máris tudtunk ülve kávézni...
 A következő lépés a [varrógépasztal](2019-02-12/varrogepasztal) volt. A mozaikok színeit a már meglévő két székhez, és a mégcsak gondolataimban látott képhez választottam.
 
 ![tégla](/assets/teraszdekor/asztaljav.jpg)
+_Az első saját készítésű munkám volt ez az asztal_
+
+
+A pad egy másik barátnőm ajándéka volt. Az ő modern sítlusú otthonába nem illett, hát elhozta nekem
 
 
 
