@@ -118,6 +118,14 @@ Van még egy kisebb méretű asztal a teraszon, amit mindig az épp aktuális é
 ![tégla](/assets/teraszdekor/25289550_1401721193260579_8440611239654005265_n.jpg)
 _Ünnepi díszben a terasz_
 
+**Zsalugáter**
+
+A terasz ablakot annak idején bontott ablakként vettük, és nagy szomorúságomra nem volt hozzá zsalugáter. Nem adtam fel a vágyamat, és folyamatosan érdeklődtem az ismerősöktől, bízva a szerencsémben. Persze, a kitartó álmodozás most is eredményre vezetett, mert sikerült "bevonzani" a zsalukat, egy szépséghibával...
+Kicsit kisebbek, mint ami nekünk jó lett volna. 
+Addig rakosgattuk míg felkerült, de csak dísz lett az ablak mellett. Kamu zsalugáternek hívjuk, hisz' nem fukcionál, de azt a szerepet amit én szántam neki, tökéltesen betölti.
+
+![tégla](/assets/teraszdekor/IMG_20190408_073747.jpg)
+
 
 **+ 1 gondolat:**  
 A képek nem egy doboz spárgázását mutatják be. Sokat spárgáztam, és nem mindegyiknél fotóztam. A fázis képeket a napokban csináltam, ezért térnek el a kész dobozoktól.
