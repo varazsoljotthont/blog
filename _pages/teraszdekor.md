@@ -115,6 +115,10 @@ Van még egy kisebb méretű asztal a teraszon, amit mindig az épp aktuális é
 
 > A szezonális dekorációk jó részét is mi készítettük. Egyedi darabok, és nekem sokkal inkább tetszenek, mint a műanyagból kapható tucat dolgok.
 
+![tégla](/assets/teraszdekor/25289550_1401721193260579_8440611239654005265_n.jpg)
+_Ünnepi díszben a terasz_
+
+
 **+ 1 gondolat:**  
 A képek nem egy doboz spárgázását mutatják be. Sokat spárgáztam, és nem mindegyiknél fotóztam. A fázis képeket a napokban csináltam, ezért térnek el a kész dobozoktól.
 
