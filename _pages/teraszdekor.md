@@ -62,16 +62,22 @@ _Megfelelő fuga hézaggol kell lerakni a téglát_
 
 ![tégla](/assets/teraszdekor/DSCF2400.JPG)
 
-Száradás után cenettejjel kikentem a fugákat, majd átmostam a téglákat is. Legvégül kőbalzsamot kapott az egész felület. A lábazat és a küszöb szeletelt téglával lett kirakva, ez nem vett el helyet a teraszból, és megtudtuk tartani téglás egységet.
+Száradás után cenettejjel kikentem a fugákat, majd átmostam a téglákat is. Legvégül kőbalzsamot kapott az egész felület. A lábazatot és a küszböt szeletelt téglával rakta ki a férjem, ez nem vett el helyet a teraszból, és megtudtuk tartani téglás egységet.
 
 
-**Berendezési tárgyak**
+# A berendezési tárgyak
+
+A mi teraszunk 13 m2. Nem túl nagy, de nem is aprócska.
+
+Nem akartam tele zsúfolni bútorokkal, csecse-becsékkel. A terasz átjárhatóságát meg akartam tartani. Kettőnknek így is bőven van hely, de hat-hét ember is körbe tudja ülni az asztalt. 
 
 
 
-
-
-
+**Bútorok**
+ 
+Apránként alakult ki a mostani berendezés.
+Még nem volt kész a terasz, mikor egy barátnőmtől kaptunk, két fából készült kerti széket. Neki feleslegessé vált, nekünk pedig épp kellett valami ülőalkalmatosság. Zöldre festettem - mint a nyílászárókat -, kicsit koptattam, és tökéletes lett. 
+A következő lépés a [varrógépasztal](2019-02-12/varrogepasztal) volt. A mozaikok színeit a már meglévő két székhez választottam
 
 
  **+ 1 gondolat:**  
