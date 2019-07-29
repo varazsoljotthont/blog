@@ -65,7 +65,7 @@ _Megfelelő fuga hézaggol kell lerakni a téglát_
 
 ![tégla](/assets/teraszdekor/DSCF2400.JPG)
 
-Száradás után cenettejjel kikentem a fugákat, majd átmostam a téglákat is. Legvégül kőbalzsamot kapott az egész felület. A lábazatot és a küszböt szeletelt téglával rakta ki a férjem, ez nem vett el helyet a teraszból, és megtudtuk tartani téglás egységet.
+Száradás után cementtejjel kikentem a fugákat, majd átmostam a téglákat is. Legvégül kőbalzsamot kapott az egész felület. A lábazatot és a küszböt szeletelt téglával rakta ki a férjem, ez nem vett el helyet a teraszból, és megtudtuk tartani téglás egységet.
 
 # Dekorfal
 
