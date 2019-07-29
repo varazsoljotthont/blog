@@ -99,24 +99,27 @@ Nem akartam tele zsúfolni bútorokkal, csecse-becsékkel. A terasz átjárható
  
 Apránként alakult ki a mostani berendezés.
 Még nem volt kész a terasz, mikor egy barátnőmtől kaptunk két fából készült kerti széket. Neki feleslegessé vált, nekünk pedig épp kellett valami ülőalkalmatosság. Zöldre festettem - mint a nyílászárókat -, kicsit koptattam, és máris letudtunk ülni kávézni...
-A következő lépés a [varrógépasztal](/2019-02-12/varrogepasztal) volt. A mozaikok színeit a már meglévő két székhez, és a mégcsak gondolataimban látott képhez választottam.
+A következő lépés a [varrógépasztal](/2019-02-12/varrogepasztal) volt. A mozaikok színeit a már meglévő székekhez, és a mégcsak gondolataimban látott képhez választottam.
 
 ![tégla](/assets/teraszdekor/asztaljav.jpg)
 _Az első saját készítésű munkám volt ez az asztal_
 
 
-A pad egy másik barátnőm ajándéka volt. Az ő modern sítlusú otthonába nem illett, hát elhozta nekem. A pad felsőrészét a férjem gondolta tovább, és megcsinálta rá az íves, tulipános diszítést.
+A pad egy másik barátnőm ajándéka volt. Az ő modern sítlusú otthonába nem illett, hát elhozta nekem. A pad felsőrészét a férjem gondolta tovább, és megcsinálta rá az íves, tulipános díszítést.
 
 A kis polc szintén feleslegessé vált egy jó barátunknál, és kidobás helyett felajánlotta nekünk.
 
 Van még egy kisebb méretű asztal a teraszon, amit mindig az épp aktuális évszak, ünnep szerint öltözetek fel. 
 
 ![tégla](/assets/teraszdekor/IMG_20181216_092905.jpg)
+_Ünnepi díszben a terasz_
+
 
 > A szezonális dekorációk jó részét is mi készítettük. Egyedi darabok, és nekem sokkal inkább tetszenek, mint a műanyagból kapható tucat dolgok.
 
 ![tégla](/assets/teraszdekor/25289550_1401721193260579_8440611239654005265_n.jpg)
-_Ünnepi díszben a terasz_
+_Nagyon szeretem a szőlővenyigéből készült karácsonyfánkat_
+
 
 **Zsalugáter**
 
