@@ -64,6 +64,9 @@ _Megfelelő fuga hézaggol kell lerakni a téglát_
 
 Száradás után cenettejjel kikentem a fugákat, majd átmostam a téglákat is. Legvégül kőbalzsamot kapott az egész felület. A lábazatot és a küszböt szeletelt téglával rakta ki a férjem, ez nem vett el helyet a teraszból, és megtudtuk tartani téglás egységet.
 
+# Dekorfal
+
+
 
 # A berendezési tárgyak
 
@@ -77,10 +80,14 @@ Nem akartam tele zsúfolni bútorokkal, csecse-becsékkel. A terasz átjárható
  
 Apránként alakult ki a mostani berendezés.
 Még nem volt kész a terasz, mikor egy barátnőmtől kaptunk, két fából készült kerti széket. Neki feleslegessé vált, nekünk pedig épp kellett valami ülőalkalmatosság. Zöldre festettem - mint a nyílászárókat -, kicsit koptattam, és tökéletes lett. 
-A következő lépés a [varrógépasztal](2019-02-12/varrogepasztal) volt. A mozaikok színeit a már meglévő két székhez választottam
+A következő lépés a [varrógépasztal](2019-02-12/varrogepasztal) volt. A mozaikok színeit a már meglévő két székhez, és a mégcsak gondolataimban látott képhez választottam.
+
+![tégla](/assets/teraszdekor/asztal2.jpg)
 
 
- **+ 1 gondolat:**  
+
+
+**+ 1 gondolat:**  
 A képek nem egy doboz spárgázását mutatják be. Sokat spárgáztam, és nem mindegyiknél fotóztam. A fázis képeket a napokban csináltam, ezért térnek el a kész dobozoktól.
 
 
