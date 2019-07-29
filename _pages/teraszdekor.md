@@ -169,9 +169,9 @@ _Kora tavasszal már virág van az asztalon_
 ![tégla](/assets/teraszdekor/IMG_20190728_160433.jpg)
 _Kék és fehér hortenzia vana teraszon_
 
-A fenti képeken látható, hogy van még egy kedves dolog, amit előszeretettel használok kint is,és bent a házban is. 
+A fenti képeken látható, hogy van még egy kedves dolog, amit előszeretettel használok kint is és bent a házban is. 
 
-Igen, a lámpásokat nagyon kedvelem. Időzítős mécses van mindegyikben, így nem problémás a ki, ill. be kapcsolgatásuk. Az egyikük az ablakpárkányon van, és esténként az ablakon kinézve csuda hangulatot áraszt.
+Igen, a lámpásokat nagyon kedvelem. Időzítős mécses van mindegyikben, így nem problémás a ki, ill. bekapcsolgatásuk. Az egyikük az ablakpárkányon van, és esténként az ablakon kinézve csuda hangulatot áraszt.
 
 **+ 1 gondolat:**  
 A képek nem egy doboz spárgázását mutatják be. Sokat spárgáztam, és nem mindegyiknél fotóztam. A fázis képeket a napokban csináltam, ezért térnek el a kész dobozoktól.
