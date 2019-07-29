@@ -71,7 +71,9 @@ Száradás után cenettejjel kikentem a fugákat, majd átmostam a téglákat is
 
 A terasz elkészülte után tűnt fel, hogy a fal mennyire üres. Nem akartam így hagyni, éreztem, hogy valami nagyon odakívánkozik. Ötleteltünk egy keveset, aztán jó sokat tervezgettünk, rajzoltunk, majd a férjuram odavarázsolta nekem ezt a kemencét megidéző tégla dekorációt.
 
-A boltívet szeletelt téglából rakta ki
+A boltívet szeletelt téglából rakta ki az én ügyeskezű férjem, 
+
+
 ![tégla](/assets/terasz/DSCF1002.JPG)
 _Ugye, milyen üres így?_
 
