@@ -68,6 +68,9 @@ Száradás után cenettejjel kikentem a fugákat, majd átmostam a téglákat is
 
 ![tégla](/assets/terasz/DSCF1002.JPG)
 
+
+
+![tégla](/assets/teraszdekor/dekorfal.png)
 # A berendezési tárgyak
 
 A mi teraszunk 13 m2. Nem túl nagy, de nem is aprócska.
