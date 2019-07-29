@@ -44,7 +44,7 @@ _Ide érkezünk haza_
 
 A teraszt csupa [téglából építettük](2019-07-21/terasz) meg.  
 
-Bontott téglából készültek a pillérek és köztük a parapet falak is. Ötlet szintjén felmerült, hogy be is vakolhatnánk falazás után, de aztán kitartottunk az eredeti téglás tervünk mellett. Egyrészt, így "csupaszon" is nagyon tetszik. Másrészt nem koszolódik, nem omlik le a pucolás, és így nincs vele semmi tennivaló.
+Bontott téglából készültek a pillérek és köztük a parapet magasságú falak is. Ötlet szintjén felmerült, hogy be is vakolhatnánk falazás után, de aztán kitartottunk az eredeti téglás tervünk mellett. Egyrészt, így "csupaszon" is nagyon tetszik. Másrészt nem koszolódik, nem omlik le a pucolás, és így nincs vele semmi tennivaló.
 
 ![tégla](/assets/teraszdekor/udvarfeloljav.jpg)
 
