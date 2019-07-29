@@ -26,7 +26,7 @@ A bejárati ajtónk a teraszról nyílik. Innen indulunk és ide érkezünk haza
 
 
 Számomra nagyon fontos volt, hogy olyan "kisugárzása" legyen a terasznak ami bennünket is, és a hozzánk látogatókat is jó érzéssel tölt el.  
-Igen, minket is. A fáradt mindennapok után nem mindegy, hogy a haza érkezés milyen környezetbe történik.  
+Igen, minket is. A szorgos mindennapok után nem mindegy, hogy a haza érkezés milyen környezetbe történik.  
 
 > Azt hiszem nem vagyok egyedül azzal a gondolattal, hogy az otthonunk nem csak arra szolgál, hogy tető legyen a fejünk felett. Az otthon számomra az a hely, ahol erőt gyűjtök, feltöltődöm, és belépve az ajtón azt mondom, de jó itthon lenni...! Ez csak úgy megy, ha a környezet ahová érkezem rendezett, tiszta, hívogató.
 
