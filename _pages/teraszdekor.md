@@ -66,7 +66,7 @@ Száradás után cenettejjel kikentem a fugákat, majd átmostam a téglákat is
 
 # Dekorfal
 
-
+![tégla](/assets/terasz/DSCF1002.JPG)
 
 # A berendezési tárgyak
 
