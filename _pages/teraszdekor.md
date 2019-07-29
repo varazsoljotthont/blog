@@ -99,6 +99,8 @@ Nem akartam tele zsúfolni bútorokkal, csecse-becsékkel. A terasz átjárható
  
 Apránként alakult ki a mostani berendezés.
 Még nem volt kész a terasz, mikor egy barátnőmtől kaptunk két fából készült kerti széket. Neki feleslegessé vált, nekünk pedig épp kellett valami ülőalkalmatosság. Zöldre festettem - mint a nyílászárókat -, kicsit koptattam, és máris letudtunk ülni kávézni...
+
+
 A következő lépés a [varrógépasztal](/2019-02-12/varrogepasztal) volt. A mozaikok színeit a már meglévő székekhez, és a mégcsak gondolataimban látott képhez választottam.
 
 ![tégla](/assets/teraszdekor/asztaljav.jpg)
@@ -124,6 +126,8 @@ _Nagyon szeretem a szőlővenyigéből készült karácsonyfánkat_
 **Zsalugáter**
 
 A terasz ablakot annak idején bontott ablakként vettük, és nagy szomorúságomra nem volt hozzá zsalugáter. Nem adtam fel a vágyamat, és folyamatosan érdeklődtem az ismerősöktől, bízva a szerencsémben. Persze, a kitartó álmodozás most is eredményre vezetett, mert sikerült "bevonzani" a zsalukat, egy szépséghibával...
+
+
 Kicsit kisebbek, mint ami nekünk jó lett volna. 
 Addig rakosgattuk míg felkerült, de csak dísz lett az ablak mellett. Kamu zsalugáternek hívjuk, hisz' nem fukcionál, de azt a szerepet amit én szántam neki, tökéltesen betölti.
 
@@ -151,6 +155,23 @@ _A kis kancsók kirándulásaink alkalmával vásárolt emklékek_
 
 ![tégla](/assets/teraszdekor/IMG_20190728_170121.jpg)
 _Kerámiák vannak az öreg gerendán is_
+
+**Virágok, lámpások**
+
+Ami nem hiányozhat a teraszunkról az virág. 
+
+Tavasszal hagymások, nyáron árnyliliom, hortenzia, ősszel pedig a krizantém közel a természetet.
+
+
+![tégla](/assets/teraszdekor/IMG_20190215_165226.jpg)
+_Kora tavasszal már virág van az asztalon_
+
+![tégla](/assets/teraszdekor/IMG_20190728_160433.jpg)
+_Kék és fehér hortenzia vana teraszon_
+
+A fenti képeken látható, hogy van még egy kedves dolog, amit előszeretettel használok kint is,és bent a házban is. 
+
+Igen, a lámpásokat nagyon kedvelem. Időzítős mécses van mindegyikben, így nem problémás a ki, ill. be kapcsolgatásuk. Az egyikük az ablakpárkányon van, és esténként az ablakon kinézve csuda hangulatot áraszt.
 
 **+ 1 gondolat:**  
 A képek nem egy doboz spárgázását mutatják be. Sokat spárgáztam, és nem mindegyiknél fotóztam. A fázis képeket a napokban csináltam, ezért térnek el a kész dobozoktól.
