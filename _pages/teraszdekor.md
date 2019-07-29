@@ -69,11 +69,20 @@ Száradás után cenettejjel kikentem a fugákat, majd átmostam a téglákat is
 
 # Dekorfal
 
+A terasz elkészülte után tűnt fel, hogy a fal mennyire üres. Nem akartam így hagyni, éreztem, hogy valami nagyon odakívánkozik. Ötleteltünk egy keveset, aztán jó sokat tervezgettünk, rajzoltunk, majd a férjuram odavarázsolta nekem ezt a kemencét megidéző tégla dekorációt.
+
+A boltívet szeletelt téglából rakta ki
 ![tégla](/assets/terasz/DSCF1002.JPG)
+_Ugye, milyen üres így?_
 
 
 
 ![tégla](/assets/teraszdekor/dekorfal.png)
+
+![tégla](/assets/teraszdekor/kemence.jpg)
+_
+_
+
 # A berendezési tárgyak
 
 A mi teraszunk 13 m2. Nem túl nagy, de nem is aprócska.
