@@ -105,10 +105,15 @@ A következő lépés a [varrógépasztal](2019-02-12/varrogepasztal) volt. A mo
 _Az első saját készítésű munkám volt ez az asztal_
 
 
-A pad egy másik barátnőm ajándéka volt. Az ő modern sítlusú otthonába nem illett, hát elhozta nekem
+A pad egy másik barátnőm ajándéka volt. Az ő modern sítlusú otthonába nem illett, hát elhozta nekem. A pad felsőrészét a férjem gondolta tovább, és megcsinálta rá az íves, tulipános diszítést.
 
+A kis polc szintén feleslegessé vált egy jó barátunknál, és kidobás helyett felajánlotta nekünk.
 
+Van még egy kisebb méretű asztal a teraszon, amit mindig az épp aktuális évszak, ünnep szerint öltözetek fel. 
 
+![tégla](/assets/teraszdekor/IMG_20181216_092905.jpg)
+
+> A szezonális dekorációk jó részét is mi készítettük. Egyedi darabok, és nekem sokkal inkább tetszenek, mint a műanyagból kapható tucat dolgok.
 
 **+ 1 gondolat:**  
 A képek nem egy doboz spárgázását mutatják be. Sokat spárgáztam, és nem mindegyiknél fotóztam. A fázis képeket a napokban csináltam, ezért térnek el a kész dobozoktól.
