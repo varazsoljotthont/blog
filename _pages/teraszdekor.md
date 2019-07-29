@@ -42,7 +42,7 @@ _Ide érkezünk haza_
 
 **Pillérek, falak**
 
-A teraszt csupa [téglából építettük](2019-07-21/terasz) meg.  
+A teraszt csupa [téglából építettük](/2019-07-21/terasz) meg.  
 
 Bontott téglából készültek a pillérek és köztük a parapet magasságú falak is. Ötlet szintjén felmerült, hogy be is vakolhatnánk falazás után, de aztán kitartottunk az eredeti téglás tervünk mellett. Egyrészt, így "csupaszon" is nagyon tetszik. Másrészt nem koszolódik, nem omlik le a pucolás, és így nincs vele semmi tennivaló.
 
@@ -51,7 +51,7 @@ Bontott téglából készültek a pillérek és köztük a parapet magasságú f
 
 **Az aljzat burkolás**
 
-A terasz elkészültekor ideiglenesen a régi [hajópadlóval](2019-02-12/szobabetonozas) burkoltunk. Átmenetileg jó szolgálatot tett, de ahogy az időjárás engedte már le is cseréltük tégla burkolatra.
+A terasz elkészültekor ideiglenesen a régi [hajópadlóval](/2019-02-12/szobabetonozas) burkoltunk. Átmenetileg jó szolgálatot tett, de ahogy az időjárás engedte már le is cseréltük tégla burkolatra.
 
 
 
@@ -98,8 +98,8 @@ Nem akartam tele zsúfolni bútorokkal, csecse-becsékkel. A terasz átjárható
 **Bútorok**
  
 Apránként alakult ki a mostani berendezés.
-Még nem volt kész a terasz, mikor egy barátnőmtől kaptunk két fából készült kerti széket. Neki feleslegessé vált, nekünk pedig épp kellett valami ülőalkalmatosság. Zöldre festettem - mint a nyílászárókat -, kicsit koptattam, és máris tudtunk ülve kávézni...
-A következő lépés a [varrógépasztal](2019-02-12/varrogepasztal) volt. A mozaikok színeit a már meglévő két székhez, és a mégcsak gondolataimban látott képhez választottam.
+Még nem volt kész a terasz, mikor egy barátnőmtől kaptunk két fából készült kerti széket. Neki feleslegessé vált, nekünk pedig épp kellett valami ülőalkalmatosság. Zöldre festettem - mint a nyílászárókat -, kicsit koptattam, és máris letudtunk ülni kávézni...
+A következő lépés a [varrógépasztal](/2019-02-12/varrogepasztal) volt. A mozaikok színeit a már meglévő két székhez, és a mégcsak gondolataimban látott képhez választottam.
 
 ![tégla](/assets/teraszdekor/asztaljav.jpg)
 _Az első saját készítésű munkám volt ez az asztal_
