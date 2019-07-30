@@ -181,7 +181,7 @@ Igen, a lámpásokat nagyon kedvelem. Időzítős mécses van mindegyikben, így
 Az, hogy nem lett zsúfolt a teraszunk annak köszönhető, hogy az itt lévő tárgyak mind-mind harmonizálnak egymással. A kiegészítők, virágok színe, stílusa egységet alkot a lakással is, és a kerttel is.
 
 **+ 1 gondolat:**  
-Egy terasz, egy erkély nagy ajándék, és bennük rengeteg lehetőség van. Ennek ellenére sokan csak lomtárként használják. Itt tárolják a felmosóvödröt, az üres kartonokdobozokat, diszperzites vödörben a zöldséget, stb... Ne tegyük, csak a kreativitásunkon múlik, hogy mit hozunk ki belőle. Nem kell sokat költeni arra, hogy raktárból csinos pihenőhely legyen. Megéri!
+Egy terasz, egy erkély nagy ajándék, és bennük rengeteg lehetőség van. Ennek ellenére sokan csak lomtárként használják. Itt tárolják a felmosóvödröt, az üres kartonokdobozokat, diszperzites vödörben a zöldséget, stb... Ne tegyük! Csak a kreativitásunkon múlik, hogy mit hozunk ki belőle. Nem kell sokat költeni arra, hogy raktárból csinos pihenőhely legyen. Megéri!
 
 
 Ha tetszett, kedveld a <a href="https://www.facebook.com/Var%C3%A1zsolj-otthont-360330751226066/" target="_blank">Facebook oldalt</a> is. Itt még több érdekességet találsz a mindennapok varázslataiból.
