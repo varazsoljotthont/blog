@@ -171,13 +171,17 @@ _Kék és fehér hortenzia van a teraszon_
 
 A fenti képeken látható, hogy van még egy kedves dolog, amit előszeretettel használok kint is és bent a házban is. 
 
-![tégla](/assets/teraszdekor/lampas.jpg)
+
 
 
 Igen, a lámpásokat nagyon kedvelem. Időzítős mécses van mindegyikben, így nem problémás a ki, ill. bekapcsolgatásuk. Az egyikük az ablakpárkányon van, és esténként az ablakon kinézve csuda hangulatot áraszt.
 
+![tégla](/assets/teraszdekor/lampas.jpg)
+
+Az, hogy nem lett zsúfolt a teraszunk annak köszönhető, hogy az itt lévő tárgyak mind-mind harmonizálnak egymással. A kiegészítők, virágok színe, stílusa egységet alkot a lakással is, és a kerttel is.
+
 **+ 1 gondolat:**  
-A képek nem egy doboz spárgázását mutatják be. Sokat spárgáztam, és nem mindegyiknél fotóztam. A fázis képeket a napokban csináltam, ezért térnek el a kész dobozoktól.
+Egy terasz, egy erkély nagy ajándék, és bennük rengeteg lehetőség van. Ennek ellenére sokan csak lomtárként használják. Itt tárolják a felmosóvödröt, az üres kartonokdobozokat, diszperzites vödörben a zöldséget, stb... Ne tegyük, csak a kreativitásunkon múlik, hogy mit hozunk ki belőle. Nem kell sokat költeni arra, hogy raktárból csinos pihenőhely legyen. Megéri!
 
 
 Ha tetszett, kedveld a <a href="https://www.facebook.com/Var%C3%A1zsolj-otthont-360330751226066/" target="_blank">Facebook oldalt</a> is. Itt még több érdekességet találsz a mindennapok varázslataiból.
