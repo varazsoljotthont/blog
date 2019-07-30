@@ -120,7 +120,7 @@ _Ünnepi díszben a terasz_
 
 > A szezonális dekorációk jó részét is mi készítettük. Egyedi darabok, és nekem sokkal inkább tetszenek, mint a műanyagból kapható tucat dolgok.
 
-![tégla](/assets/teraszdekor/25289550_1401721193260579_8440611239654005265_n.jpg)
+![tégla](/assets/teraszdekor/szolofenyo.jpg)
 _Nagyon szeretem a szőlővenyigéből készült karácsonyfánkat_
 
 
