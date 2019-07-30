@@ -11,7 +11,7 @@ image:
 ---
 
 
- **Szerencsés helyzetben vagyunk, ha az otthonunk részét terasz is képezi. Tavasztól - őszig tökéletes színtere a pihenésnek, ahogy a  családi, baráti összejöveteleknek is. Hogy az itt eltöltött idő minél kellemesebb legyen, érdemes kiemelt figyelmet szánni a berendezésének. A terasz az otthonunk meghosszabítása, így hangulatában jó ha követi azt a stílust, amit a házunknál, kertünknél már megvalósítottunk.**
+ **Szerencsés helyzetben vagyunk, ha az otthonunk részét terasz is képezi. Tavasztól - őszig tökéletes színtere a pihenésnek, ahogy a  családi, baráti összejöveteleknek is. Hogy az itt eltöltött idő minél kellemesebb legyen, érdemes kiemelt figyelmet szánni a berendezésének. A terasz az otthonunk meghosszabítása, így hangulatában jó ha követi azt a stílust, amit a házunknál és a környezetünknél már megvalósítottunk.**
 
 
 ## Az első benyomás
@@ -45,7 +45,8 @@ _Ide érkezünk haza_
 
 A teraszt csupa [téglából építettük](/2019-07-21/terasz) meg.  
 
-Bontott téglából készültek a pillérek és köztük a parapet magasságú falak is. Ötlet szintjén felmerült, hogy be is vakolhatnánk falazás után, de aztán kitartottunk az eredeti téglás tervünk mellett. Egyrészt, így "csupaszon" is nagyon tetszik. Másrészt nem koszolódik, nem omlik le a pucolás, és így nincs vele semmi tennivaló.
+Bontott téglából készültek a pillérek és köztük a parapet magasságú falak is. Ötlet szintjén felmerült, hogy be is vakolhatnánk falazás után, de aztán kitartottunk az eredeti téglás tervünk mellett.  
+Egyrészt, így "csupaszon" is szép, másrészt nem koszolódik, nem omlik le a pucolás, és így nincs vele semmi tennivaló.
 
 ![tégla](/assets/teraszdekor/udvarfeloljav.jpg)
 
@@ -70,7 +71,7 @@ Száradás után cementtejjel kikentem a fugákat, majd átmostam a téglákat i
 
 # Dekorfal
 
-A terasz elkészülte után tűnt fel, hogy a fal mennyire üres. Nem akartam így hagyni, éreztem, hogy valami nagyon odakívánkozik. Ötleteltünk egy keveset, aztán jó sokat tervezgettünk, rajzoltunk, majd a férjuram odavarázsolta nekem ezt a kemencét megidéző tégla dekorációt.
+A terasz elkészülte után tűnt fel, hogy a fal mennyire üres. Nem akartuk így hagyni, éreztem, hogy valami nagyon odakívánkozik. Ötleteltünk egy keveset, aztán jó sokat tervezgettünk, rajzoltunk, majd a férjuram odavarázsolta nekem ezt a kemencét megidéző tégla dekorációt.
 
 
 
@@ -99,7 +100,7 @@ Nem akartam tele zsúfolni, a terasz átjárhatóságát meg akartam tartani. Ke
 **Bútorok**
  
 Apránként alakult ki a mostani berendezés.
-Még nem volt kész a terasz, mikor egy barátnőmtől kaptunk két fából készült kerti széket. Neki feleslegessé vált, nekünk pedig épp kellett valami ülőalkalmatosság. Zöldre festettem - mint a nyílászárókat -, kicsit koptattam, és máris le tudtunk ülni kávézni...
+Még nem volt kész a terasz, mikor egy barátnőmtől kaptunk két fából készült kerti széket. Neki feleslegessé vált, nekünk pedig épp kellett valami ülőalkalmatosság. Zöldre festettem - mint a nyílászárókat -, kicsit koptattam, és már le is tudtunk ülni kávézni...
 
 
 A következő lépés a [varrógépasztal](/2019-02-12/varrogepasztal) volt. A mozaikok színeit a már meglévő székekhez, és a mégcsak gondolataimban látott képhez választottam.
@@ -110,9 +111,9 @@ _Az első saját készítésű munkám volt ez az asztal_
 
 A pad egy másik barátnőm ajándéka volt. Az ő modern sítlusú otthonába nem illett, hát elhozta nekem. A pad felsőrészét a férjem gondolta tovább, és megcsinálta rá az íves, tulipános díszítést.
 
-A kis polc szintén feleslegessé vált egy jó barátunknál, és kidobás helyett felajánlotta nekünk.
+A kis polc szintén feleslegessé vált egy jó barátunknál és kidobás helyett felajánlotta nekünk.
 
-Van még egy kisebb méretű asztal a teraszon, amit mindig az épp aktuális évszak, ünnep szerint öltözetek fel. 
+Még egy kisebb méretű asztal van a teraszon, amit mindig az épp aktuális évszak, ünnep szerint öltözetek fel. 
 
 ![tégla](/assets/teraszdekor/IMG_20181216_092905.jpg)
 _Ünnepi díszben a terasz_
@@ -126,7 +127,9 @@ _Nagyon szeretem a szőlővenyigéből készült karácsonyfánkat_
 
 **Zsalugáter**
 
-A terasz ablakot annak idején bontott ablakként vettük, és nagy szomorúságomra nem volt hozzá zsalugáter. Nem adtam fel a vágyamat, és folyamatosan érdeklődtem az ismerősöktől, bízva a szerencsémben. Persze, a kitartó álmodozás most is eredményre vezetett, mert sikerült "bevonzani" a zsalukat, egy szépséghibával...
+A terasz ablakot annak idején bontott ablakként vettük, és nagy szomorúságomra nem volt hozzá zsalugáter. 
+
+Nem adtam fel a vágyamat, és folyamatosan érdeklődtem az ismerősöktől, bízva a szerencsémben. Persze, a kitartó álmodozás most is eredményre vezetett, mert sikerült "bevonzani" a zsalukat, egy szépséghibával...
 
 
 Kicsit kisebbek, mint ami nekünk jó lett volna. 
@@ -173,11 +176,11 @@ _Kék és fehér hortenzia van a teraszon_
 A fenti képeken látható, hogy van még egy kedves dolog, amit előszeretettel használok kint is és bent a házban is. 
 
 
+![tégla](/assets/teraszdekor/lampas.jpg)
 
 
 Igen, a lámpásokat nagyon kedvelem. Időzítős mécses van mindegyikben, így nem problémás a be, ill. kikapcsolgatásuk. Az egyikük az ablakpárkányon van, és esténként az ablakon kinézve csuda hangulatot áraszt.
 
-![tégla](/assets/teraszdekor/lampas.jpg)
 
 Az, hogy nem lett zsúfolt a teraszunk annak köszönhető, hogy az itt lévő tárgyak mind-mind harmonizálnak egymással. A kiegészítők, virágok színe, stílusa egységet alkotnak a lakással is, és a kerttel is.
 
