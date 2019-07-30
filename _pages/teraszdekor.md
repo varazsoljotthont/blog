@@ -160,16 +160,19 @@ _Kerámiák vannak az öreg gerendán is_
 
 Ami nem hiányozhat a teraszunkról az virág. 
 
-Tavasszal hagymások, nyáron árnyliliom, hortenzia, ősszel pedig a krizantém közel a természetet.
+Tavasszal hagymások, nyáron árnyliliom, hortenzia, ősszel pedig a krizantém hozza közel a természetet.
 
 
 ![tégla](/assets/teraszdekor/IMG_20190215_165226.jpg)
 _Kora tavasszal már virág van az asztalon_
 
 ![tégla](/assets/teraszdekor/IMG_20190728_160433.jpg)
-_Kék és fehér hortenzia vana teraszon_
+_Kék és fehér hortenzia van a teraszon_
 
 A fenti képeken látható, hogy van még egy kedves dolog, amit előszeretettel használok kint is és bent a házban is. 
+
+![tégla](/assets/teraszdekor/lampas.jpg)
+
 
 Igen, a lámpásokat nagyon kedvelem. Időzítős mécses van mindegyikben, így nem problémás a ki, ill. bekapcsolgatásuk. Az egyikük az ablakpárkányon van, és esténként az ablakon kinézve csuda hangulatot áraszt.
 
@@ -177,13 +180,19 @@ Igen, a lámpásokat nagyon kedvelem. Időzítős mécses van mindegyikben, így
 A képek nem egy doboz spárgázását mutatják be. Sokat spárgáztam, és nem mindegyiknél fotóztam. A fázis képeket a napokban csináltam, ezért térnek el a kész dobozoktól.
 
 
+Ha tetszett, kedveld a <a href="https://www.facebook.com/Var%C3%A1zsolj-otthont-360330751226066/" target="_blank">Facebook oldalt</a> is. Itt még több érdekességet találsz a mindennapok varázslataiból.
+
+<a href="https://www.instagram.com/varazsoljotthont/?hl=hu/" target="_blank">Kövess az Instagramon</a> is, és sok olyan fotót láthatsz, ami a blogról vagy a Facebook oldalról kimaradt.
+
+
 ## Kapcsolódó cikkek
 
-
-* [Ez aztán a változás!](/2019-04-11/külsőfalak)
+ 
+* [Kerti kiülő olcsón, stílusosan, sajátkezűleg](/2019-05-29/kiülő)
+* [Így lett a tüzifa az otthonunk dísze](/2019-05-16/fábólkreatívan)
+* [Bontott tégla varázsa az otthonunkban](/2019-04-23/tegla)
 * [Hozzuk formába az otthonunkat!](/2019-03-26/dekoráció)
-* [Régi varrógép új élete](/2019-02-12/varrogepasztal)
-* [A Miházunk átváltozása](/2019-03-20/költözés)
+
 
 
 
