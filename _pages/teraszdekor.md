@@ -99,7 +99,7 @@ Nem akartam tele zsúfolni bútorokkal, csecse-becsékkel. A terasz átjárható
 **Bútorok**
  
 Apránként alakult ki a mostani berendezés.
-Még nem volt kész a terasz, mikor egy barátnőmtől kaptunk két fából készült kerti széket. Neki feleslegessé vált, nekünk pedig épp kellett valami ülőalkalmatosság. Zöldre festettem - mint a nyílászárókat -, kicsit koptattam, és máris letudtunk ülni kávézni...
+Még nem volt kész a terasz, mikor egy barátnőmtől kaptunk két fából készült kerti széket. Neki feleslegessé vált, nekünk pedig épp kellett valami ülőalkalmatosság. Zöldre festettem - mint a nyílászárókat -, kicsit koptattam, és máris le tudtunk ülni kávézni...
 
 
 A következő lépés a [varrógépasztal](/2019-02-12/varrogepasztal) volt. A mozaikok színeit a már meglévő székekhez, és a mégcsak gondolataimban látott képhez választottam.
