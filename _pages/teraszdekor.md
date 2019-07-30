@@ -92,7 +92,7 @@ _
 
 A mi teraszunk 13 m2. Nem túl nagy, de nem is aprócska.
 
-Nem akartam tele zsúfolni bútorokkal, csecse-becsékkel. A terasz átjárhatóságát meg akartam tartani. Kettőnknek így is bőven van hely, de hat-hét ember is körbe tudja ülni az asztalt. 
+Nem akartam tele zsúfolni, a terasz átjárhatóságát meg akartam tartani. Kettőnknek bőven van hely, de hat-hét ember is körbe tudja ülni az asztalt. 
 
 
 
@@ -175,11 +175,11 @@ A fenti képeken látható, hogy van még egy kedves dolog, amit előszeretettel
 
 
 
-Igen, a lámpásokat nagyon kedvelem. Időzítős mécses van mindegyikben, így nem problémás a ki, ill. bekapcsolgatásuk. Az egyikük az ablakpárkányon van, és esténként az ablakon kinézve csuda hangulatot áraszt.
+Igen, a lámpásokat nagyon kedvelem. Időzítős mécses van mindegyikben, így nem problémás a be, ill. kikapcsolgatásuk. Az egyikük az ablakpárkányon van, és esténként az ablakon kinézve csuda hangulatot áraszt.
 
 ![tégla](/assets/teraszdekor/lampas.jpg)
 
-Az, hogy nem lett zsúfolt a teraszunk annak köszönhető, hogy az itt lévő tárgyak mind-mind harmonizálnak egymással. A kiegészítők, virágok színe, stílusa egységet alkot a lakással is, és a kerttel is.
+Az, hogy nem lett zsúfolt a teraszunk annak köszönhető, hogy az itt lévő tárgyak mind-mind harmonizálnak egymással. A kiegészítők, virágok színe, stílusa egységet alkotnak a lakással is, és a kerttel is.
 
 **+ 1 gondolat:**  
 Egy terasz, egy erkély nagy ajándék, és bennük rengeteg lehetőség van. Ennek ellenére sokan csak lomtárként használják. Itt tárolják a felmosóvödröt, az üres kartonokdobozokat, diszperzites vödörben a zöldséget, stb... Ne tegyük! Csak a kreativitásunkon múlik, hogy mit hozunk ki belőle. Nem kell sokat költeni arra, hogy raktárból csinos pihenőhely legyen. Megéri!
