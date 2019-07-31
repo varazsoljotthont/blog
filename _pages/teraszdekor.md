@@ -134,7 +134,7 @@ A terasz ablakot annak idején bontott ablakként vettük, de nagy szomorúságo
 
 Nem adtam fel a vágyamat, és folyamatosan érdeklődtem az ismerősöktől, bízva a szerencsémben. A kitartó álmodozás eredményre vezetett, mert sikerült "bevonzani" az áhított zsalukat.
 
-Eg szépséghibával...
+Egy szépséghibával...
 
 Kicsit kisebbek, mint ami nekünk jó lenne, de addig próbálgattuk míg felkerült. "Kamuzsalugáternek" hívjuk, hisz' nem fukcionál, de azt a szerepet amit én szántam neki, tökéletesen betölti.
 
@@ -182,7 +182,7 @@ A fenti képeken látható, hogy van még egy kedves dolog, amit előszeretettel
 ![tégla](/assets/teraszdekor/lampas.jpg)
 
 
-Igen, a lámpásokat nagyon kedvelem. Időzítős mécses van mindegyikben, így nem problémás a ki- bekapcsolgatásuk. Az egyikük az ablakpárkány kapott helyet. Esténként pedig a nappaliból kinézve, csuda hangulatot áraszt.
+Igen, a lámpásokat nagyon kedvelem. Időzítős mécses van mindegyikben, így nem problémás a ki- bekapcsolgatásuk. Az egyikük az ablakpárkány kapott helyet. Esténként a nappaliból kinézve, csuda hangulatot áraszt.
 
 
 Az, hogy nem lett zsúfolt a teraszunk annak köszönhető, hogy az itt lévő tárgyak mind-mind harmonizálnak egymással. A kiegészítők, virágok színe és stílusa egységet alkot úgy a beltérrel, mint kerttel.
