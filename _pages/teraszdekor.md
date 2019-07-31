@@ -11,7 +11,7 @@ image:
 ---
 
 
- **Szerencsés helyzetben vagyunk, ha az otthonunk részét terasz is képezi. Tavasztól - őszig tökéletes színtere a pihenésnek, ahogy a  családi, baráti összejöveteleknek is. Hogy az itt eltöltött idő minél kellemesebb legyen, érdemes kiemelt figyelmet szánni a berendezésének. A terasz az otthonunk meghosszabítása, így hangulatában jó ha követi azt a stílust, amit a házunknál és a környezetünknél már megvalósítottunk.**
+ **Szerencsés helyzetben vagyunk, ha az otthonunkhoz terasz is tartozik. Tavasztól őszig tökéletes színtere a pihenésnek, ahogy a  családi, baráti összejöveteleknek is. Hogy az itt eltöltött idő minél kellemesebb legyen, érdemes kiemelt figyelmet szánni a berendezésének. A terasz az otthonunk meghosszabítása, így hangulatában jó ha követi azt a stílust, amit a házunknál és a környezetünknél már megvalósítottunk.**
 
 
 ## Az első benyomás
@@ -26,12 +26,12 @@ A bejárati ajtónk a teraszról nyílik. Innen indulunk és ide érkezünk haza
 
 
 
-Számomra nagyon fontos volt, hogy olyan "kisugárzása" legyen a terasznak ami bennünket is, és a hozzánk látogatókat is jó érzéssel tölt el.  
-Igen, minket is. A szorgos mindennapok után nem mindegy, hogy a haza érkezés milyen környezetbe történik.  
+Számomra nagyon fontos volt, hogy olyan "kisugárzása" legyen a terasznak ami bennünket is és a hozzánk látogatókat is jó érzéssel tölti el.  
+Igen, minket is. Szerintem a szorgos mindennapok után nem mindegy, hogy a haza érkezés milyen környezetbe történik.  
 
-> Azt hiszem nem vagyok egyedül azzal a gondolattal, hogy az otthonunk nem csak arra szolgál, hogy tető legyen a fejünk felett. Az otthon számomra az a hely, ahol erőt gyűjtök, feltöltődöm, és belépve az ajtón azt mondom, de jó itthon lenni...! Ez csak úgy megy, ha a környezet ahová érkezem rendezett, tiszta, hívogató.
+> Azt hiszem nem vagyok egyedül azzal a gondolattal, hogy az otthonunk nem csak arra szolgál, hogy tető legyen a fejünk felett. Az otthon számomra az a hely, ahol erőt gyűjtök, feltöltődöm, és belépve az ajtón azt mondom, de jó itthon lenni! Ez csak úgy megy, ha az  otthon, ahová érkezem rendezett, tiszta, hívogató.
 
-A felújítás során a vidéki stílust választottam a házunkhoz, így nem volt kérdés, hogy a teraszunkra is ezt a hangulatot fogom "kivinni".
+A felújítás során a vidéki stílust választottam a házunkhoz, így nem volt kérdés, hogy a teraszunkra is ezt a hangulatot fogom kivinni.
 
 
 ![tégla](/assets/teraszdekor/IMG_20190722_124455.jpg)
@@ -51,19 +51,22 @@ Egyrészt, így "csupaszon" is szép, másrészt nem koszolódik, nem omlik le a
 ![tégla](/assets/teraszdekor/udvarfeloljav.jpg)
 
 
-**Az aljzat burkolás**
+**Aljzat burkolás**
 
-A terasz elkészültekor ideiglenesen a régi [hajópadlóval](/2019-02-12/szobabetonozas) burkoltunk. Átmenetileg jó szolgálatot tett, de ahogy az időjárás engedte már le is cseréltük tégla burkolatra.
+A terasz elkészültekor ideiglenesen a régi [hajópadlóval](/2019-02-12/szobabetonozas) burkoltunk. Átmenetileg jó szolgálatot tett, de ahogy az időjárás engedte, már le is cseréltük tégla burkolatra.
 
 
 
-A kis házi tüzép telepünkön kiválogattuk a szép, formás bontott téglákat, és misungos aljzatra elkezdtük lerakni. Széles fugahézagokat hagytunk az egyes darabok között, hogy könnyen ki tudjuk önteni a réseket.
+A kis házi tüzép telepünkön kiválogattuk a szép, formás bontott téglákat, és misungos aljzatra kezdtük lerakni.  
+
+Széles fugahézakokat hagytunk az egyes darabok között, hogy könnyen ki tudjuk önteni a réseket.
+
 
  
-> Erre célra nekem a konyhában használatos csőrös kancsó (tejkiöntő kanna) vált be. Könnyű, és egész pontosan be lehetett vele önteni a téglák réseit.
+> Tipp: erre célra nekem a konyhában használatos csőrös kancsó (tejkiöntő kanna) vált be. Könnyű, és egész pontosan be lehetett vele önteni a téglák réseit.
 
 ![tégla](/assets/teraszdekor/DSCF2570.JPG)
-_Megfelelő fuga hézaggol kell lerakni a téglát_
+_Megfelelő fuga hézaggal kell lerakni a téglát_
 
 ![tégla](/assets/teraszdekor/DSCF2400.JPG)
 
@@ -71,7 +74,7 @@ Száradás után cementtejjel kikentem a fugákat, majd átmostam a téglákat i
 
 # Dekorfal
 
-A terasz elkészülte után tűnt fel, hogy a fal mennyire üres. Nem akartuk így hagyni, éreztem, hogy valami nagyon odakívánkozik. Ötleteltünk egy keveset, aztán jó sokat tervezgettünk, rajzoltunk, majd a férjuram odavarázsolta nekem ezt a kemencét megidéző tégla dekorációt.
+A terasz elkészülte után tűnt fel, hogy a fal mennyire üres. Nem akartam így hagyni... éreztem, hogy valami nagyon odakívánkozik. Ötleteltünk egy keveset, aztán jó sokat tervezgettünk, rajzoltunk, majd a férjuram odavarázsolta nekem ezt a kemencét megidéző tégla dekorációt.
 
 
 
@@ -91,9 +94,9 @@ _
 
 # A berendezési tárgyak
 
-A mi teraszunk 13 m2. Nem túl nagy, de nem is aprócska.
+A teraszunk 13 m2. Nem túl nagy, de nem is aprócska.
 
-Nem akartam tele zsúfolni, a terasz átjárhatóságát meg akartam tartani. Kettőnknek bőven van hely, de hat-hét ember is körbe tudja ülni az asztalt. 
+Nem akartam túlzsúfolni; a terasz átjárhatóságát meg akartam tartani. Kettőnknek bőven van hely, de hat-hét ember is körbe tudja ülni az asztalt. 
 
 
 
@@ -103,7 +106,7 @@ Apránként alakult ki a mostani berendezés.
 Még nem volt kész a terasz, mikor egy barátnőmtől kaptunk két fából készült kerti széket. Neki feleslegessé vált, nekünk pedig épp kellett valami ülőalkalmatosság. Zöldre festettem - mint a nyílászárókat -, kicsit koptattam, és már le is tudtunk ülni kávézni...
 
 
-A következő lépés a [varrógépasztal](/2019-02-12/varrogepasztal) volt. A mozaikok színeit a már meglévő székekhez, és a mégcsak gondolataimban látott képhez választottam.
+A következő lépés a [varrógépasztal](/2019-02-12/varrogepasztal) volt. A mozaikok színeit a már meglévő székekhez és a szemem előtt lebegő összképhez választottam.
 
 ![tégla](/assets/teraszdekor/asztaljav.jpg)
 _Az első saját készítésű munkám volt ez az asztal_
@@ -127,13 +130,13 @@ _Nagyon szeretem a szőlővenyigéből készült karácsonyfánkat_
 
 **Zsalugáter**
 
-A terasz ablakot annak idején bontott ablakként vettük, és nagy szomorúságomra nem volt hozzá zsalugáter. 
+A terasz ablakot annak idején bontott ablakként vettük, de nagy szomorúságomra nem volt hozzá zsalugáter. 
 
-Nem adtam fel a vágyamat, és folyamatosan érdeklődtem az ismerősöktől, bízva a szerencsémben. Persze, a kitartó álmodozás most is eredményre vezetett, mert sikerült "bevonzani" a zsalukat, egy szépséghibával...
+Nem adtam fel a vágyamat, és folyamatosan érdeklődtem az ismerősöktől, bízva a szerencsémben. A kitartó álmodozás eredményre vezetett, mert sikerült "bevonzani" az áhított zsalukat.
 
+Eg szépséghibával...
 
-Kicsit kisebbek, mint ami nekünk jó lett volna. 
-Addig rakosgattuk míg felkerült, de csak dísz lett az ablak mellett. Kamu zsalugáternek hívjuk, hisz' nem fukcionál, de azt a szerepet amit én szántam neki, tökéltesen betölti.
+Kicsit kisebbek, mint ami nekünk jó lenne, de addig próbálgattuk míg felkerült. "Kamuzsalugáternek" hívjuk, hisz' nem fukcionál, de azt a szerepet amit én szántam neki, tökéletesen betölti.
 
 ![tégla](/assets/teraszdekor/IMG_20190408_073747.jpg)
 
@@ -146,7 +149,7 @@ Addig rakosgattuk míg felkerült, de csak dísz lett az ablak mellett. Kamu zsa
 Komoly vonzódásom van a kézműves kerámiák iránt. A lakásban és kint a teraszon is van belőlük néhány. A legkedvesebb a bejárati ajtónál köszönti a belépőket.
 
 ![tégla](/assets/teraszdekor/istenhozott.jpg)
-_Isten hozott kedves vendég_
+_Isten hozott, kedves vendég!_
 
 A dekorfalon és a gerendán is ott vannak a kiskancsók, tálak.
 
@@ -158,11 +161,11 @@ _A kis kancsók kirándulásaink alkalmával vásárolt emklékek_
 ![tégla](/assets/teraszdekor/IMG_20181212_214916_331.jpg)
 
 ![tégla](/assets/teraszdekor/IMG_20190728_170121.jpg)
-_Kerámiák vannak az öreg gerendán is_
+_Kerámiák vannak a terasz öreg gerendáján is_
 
 **Virágok, lámpások**
 
-Ami nem hiányozhat a teraszunkról az virág. 
+Ami nem hiányozhat a teraszunkról, az a virág. 
 
 Tavasszal hagymások, nyáron árnyliliom, hortenzia, ősszel pedig a krizantém hozza közel a természetet.
 
@@ -171,7 +174,7 @@ Tavasszal hagymások, nyáron árnyliliom, hortenzia, ősszel pedig a krizantém
 _Kora tavasszal már virág van az asztalon_
 
 ![tégla](/assets/teraszdekor/IMG_20190728_160433.jpg)
-_Kék és fehér hortenzia van a teraszon_
+_Kék és fehér hortenzia is van a teraszon_
 
 A fenti képeken látható, hogy van még egy kedves dolog, amit előszeretettel használok kint is és bent a házban is. 
 
@@ -179,13 +182,17 @@ A fenti képeken látható, hogy van még egy kedves dolog, amit előszeretettel
 ![tégla](/assets/teraszdekor/lampas.jpg)
 
 
-Igen, a lámpásokat nagyon kedvelem. Időzítős mécses van mindegyikben, így nem problémás a be, ill. kikapcsolgatásuk. Az egyikük az ablakpárkányon van, és esténként az ablakon kinézve csuda hangulatot áraszt.
+Igen, a lámpásokat nagyon kedvelem. Időzítős mécses van mindegyikben, így nem problémás a ki- bekapcsolgatásuk. Az egyikük az ablakpárkány kapott helyet. Esténként pedig a nappaliból kinézve, csuda hangulatot áraszt.
 
 
-Az, hogy nem lett zsúfolt a teraszunk annak köszönhető, hogy az itt lévő tárgyak mind-mind harmonizálnak egymással. A kiegészítők, virágok színe, stílusa egységet alkotnak a lakással is, és a kerttel is.
+Az, hogy nem lett zsúfolt a teraszunk annak köszönhető, hogy az itt lévő tárgyak mind-mind harmonizálnak egymással. A kiegészítők, virágok színe és stílusa egységet alkot úgy a beltérrel, mint kerttel.
 
 **+ 1 gondolat:**  
-Egy terasz, egy erkély nagy ajándék, és bennük rengeteg lehetőség van. Ennek ellenére sokan csak lomtárként használják. Itt tárolják a felmosóvödröt, az üres kartonokdobozokat, diszperzites vödörben a zöldséget, stb... Ne tegyük! Csak a kreativitásunkon múlik, hogy mit hozunk ki belőle. Nem kell sokat költeni arra, hogy raktárból csinos pihenőhely legyen. Megéri!
+Egy terasz, egy erkély nagy ajándék, rengeteg lehetőség van bennük. Ennek ellenére az a tapasztalatom, hogy sokan csak lomtárként használják. Itt tárolják a felmosóvödröt, az üres kartonokdobozokat, diszperzites vödörben a zöldséget, stb... 
+
+Ne tegyük! 
+
+Csak a kreativitásunkon múlik, hogy mit hozunk ki belőle. Nem kell sokat költeni arra, hogy raktárból csinos pihenőhely legyen. Megéri!
 
 
 Ha tetszett, kedveld a <a href="https://www.facebook.com/Var%C3%A1zsolj-otthont-360330751226066/" target="_blank">Facebook oldalt</a> is. Itt még több érdekességet találsz a mindennapok varázslataiból.
