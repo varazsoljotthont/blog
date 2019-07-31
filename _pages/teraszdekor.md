@@ -203,7 +203,7 @@ Ha tetszett, kedveld a <a href="https://www.facebook.com/Var%C3%A1zsolj-otthont-
 ## Kapcsolódó cikkek
 
  
-* [Kerti kiülő olcsón, stílusosan, sajátkezűleg](/2019-05-29/kiülő)
+* [Ilyen volt, ilyen lett: így lett a kaszálóból romantikus, vidéki kert](/2019-06-26/kulsokorlet)
 * [Így lett a tüzifa az otthonunk dísze](/2019-05-16/fábólkreatívan)
 * [Bontott tégla varázsa az otthonunkban](/2019-04-23/tegla)
 * [Hozzuk formába az otthonunkat!](/2019-03-26/dekoráció)
