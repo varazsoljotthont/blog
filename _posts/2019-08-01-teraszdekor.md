@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Rusztikus terasz ötletes megoldásokkal, hangulatos dekorációkkal" 
-cover: /assets/teraszdekor/cover.jpg
+cover: /assets/teraszdekor/coverj.jpg
 categories: [haz, kert, dekor]
 image:
-  path: /assets/teraszdekor/cover.jpg
+  path: /assets/teraszdekor/coverj.jpg
   height: 300
   width: 300
 ---
