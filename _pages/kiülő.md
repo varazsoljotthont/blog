@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Kerti kiülő olcsón, stílusosan, sajátkezűleg"
+title: "A szerszámtároló házikó is lehet ízléses "
 permalink: /kiülő/
 cover: /assets/kiülő/cover2.jpg
 categories: [kert, dekor]
@@ -12,7 +12,7 @@ image:
 
 
 
-**A családi ház tökéletes választás volt a részünkről. Az udvart és a kertet legalább akkora lelkesedéssel alakítottuk ki, mint ahogy a  "Miházunkat" is felújítottuk. A szép kert pedig igazán megérdemelt egy stílusban passzoló kerti kiülőt is.**
+**A kert szerető emberek tavasztól őszig örömmel töltik az időt a növényeik társaságában. A szép kert sok odafigyelést igényel és sok feladattal  is jár az ültetés, gondozás, metszés. Megfelelő kerti szerszámok nélkül nem lehet a kertet ápolni. Hogy minden kéznél legyen kell egy olyan tárolóhely, ahol minden szükséges eszközt együtt tudunk tárolni, közel van a növényekhez, de stílusában is beillik a kert hangulatába.**
  
 
 ## Előre tervezés
