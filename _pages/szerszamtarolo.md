@@ -21,6 +21,9 @@ A mi szerszámosunk története egy jó barátunk ház felújításával kezdőd
 
 ![idézet](/assets/szerszamtarolo/IMG_20190811_174334.jpg)
 
+![idézet](/assets/szerszamtarolo/idezet.jpg)
+
+
 
 Egy nagyobb feladathoz készültek, amihez szükség volt segítségre is. Az én férjuram is ment már reggel. Elvégezték amit el kellett, én pedig délután mentem érte, és jól "megcsodálkoztam", hogy milyen sokat dolgozott a csapat.
 
