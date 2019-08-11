@@ -34,7 +34,7 @@ Nem először láttam, de most valahogy másként néztem rá.
 
 Gyorsan átfutattam, hogy vajon miért is tetszik ez nekem, hisz' ebben a formájában nekünk semmire sem jó.
 
-A legfőbb hiányossága az volt, hogy mikor a faltól elvették hátulja hiányzott...
+A legfőbb hiányossága az volt, hogy mikor a faltól elbontották hiányzott a hátulja.
 
 ...és mégis, láttam benne valamit...
 
@@ -61,13 +61,13 @@ Jó barátunk gondolkodott: ideje nincs túl sok, hely sincs igazán, a munka is
 
 A szállítás nem kis átgondolást igényelt.
 
-A mérete és a sok üveg ablak miatt nem volt egyszerű.
+A mérete és a sok ablak miatt nem volt egyszerű.
 
 A tetején bitumenzsindely volt, azt leszedték a fiúk, majd az egészből kiverték az üveget, hogy szállítás közben ne okozzanak gondot. Végül az egészet kettévágták, hogy felférjen az utánfutóra.
 
 A felrakás és az alapos rögzítés után kb: 25 km/h sebességgel elhoztuk haza.
 
-Itthon a lepakolás és következett részemről a gyönyörködés, férjem részéről a gondolkodás, hogy hogy lesz ebből szerszámos?
+Itthon a lepakolás és következett részemről a gyönyörködés, férjem részéről pedig a gondolkodás, hogy hogy lesz ebből szerszámos?
 
 
 
