@@ -24,11 +24,15 @@ A mi szerszámosunk története egy jó barátunk ház felújításával kezdőd
 
 
 
-Egy nagyobb feladathoz készültek, amihez szükség volt segítségre is. Az én férjuram is ment már reggel. Elvégezték amit el kellett, én pedig délután mentem érte, és jól "megcsodálkoztam", hogy milyen sokat dolgozott a csapat.
+Épp egy nagyobb feladathoz készültek, amihez szükség volt még pár ember segítségére. Az én férjuram is ment már reggel.  
 
-Ahogy az lenni szokott, haza indulás előtt még volt egy kis beszélgetés, és én eközben megláttam ŐT... A kis építményt, ami a barátunknál szélfogóként működött, de az átépítéssel megszűnni látszott a szerepe.
+Elvégezték amit el kellett, én pedig délután mentem érte, és jól "megcsodálkoztam", hogy milyen sokat dolgozott a csapat.
+
+Ahogy az lenni szokott, haza indulás előtt még volt egy kis beszélgetés, és én közben megláttam ŐT...  
+A kis építményt, ami a barátunknál szélfogóként működött, de az átépítéssel megszűnni látszott a szerepe.
 
 Nem először láttam, de most valahogy másként néztem rá.
+
 
 **Belelátni az újat**
 
@@ -36,13 +40,14 @@ Gyorsan átfutattam, hogy vajon miért is tetszik ez nekem, hisz' ebben a formá
 
 A legfőbb hiányossága az volt, hogy mikor a faltól elbontották hiányzott a hátulja.
 
-...és mégis, láttam benne valamit...
+...és mégis... láttam benne valamit...
 
 Tudtam, hogy náluk feleslegessé vált, így gyorsan meg is kérdeztem a házigazdát, hogy mi a szándéka az elbontás után. 
 
-- Hát, a fiúkkal elvisszük hátra, és majd csinálok belőle valamit - mondta a barátunk, és én el is szomorodtam...
+"Hát, a fiúkkal elvisszük hátra, és majd csinálok belőle valamit" - mondta a barátunk, és én el is szomorodtam...
 
-Na, jó, akkor ez itt marad...   
+Na jó, akkor ez itt marad, és én ezt el is könyveltem magamban.
+
 De a barát azért barát mert ismer bennünket, így aztán vissza is kérdezett, hogy miért érdeklődöm... 
 Tán' lenne valami ötletem?
 
@@ -67,7 +72,7 @@ A tetején bitumenzsindely volt, azt leszedték a fiúk, majd az egészből kive
 
 A felrakás és az alapos rögzítés után kb: 25 km/h sebességgel elhoztuk haza.
 
-Itthon a lepakolás és következett részemről a gyönyörködés, férjem részéről pedig a gondolkodás, hogy hogy lesz ebből szerszámos?
+Itthon a lepakolás, és következett részemről a gyönyörködés, férjem részéről pedig a gondolkodás, hogy hogy lesz ebből szerszámos?
 
 
 
