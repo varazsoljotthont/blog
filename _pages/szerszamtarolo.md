@@ -46,7 +46,7 @@ Tudtam, hogy náluk feleslegessé vált, így gyorsan meg is kérdeztem a házig
 
 "Hát, a fiúkkal elvisszük hátra, és majd csinálok belőle valamit" - mondta a barátunk, és én el is szomorodtam...
 
-Na jó, akkor ez itt marad, és én ezt el is könyveltem magamban.
+Na jó, akkor ez itt marad, és ezt el is könyveltem magamban.
 
 De a barát azért barát mert ismer bennünket, így aztán vissza is kérdezett, hogy miért érdeklődöm... 
 Tán' lenne valami ötletem?
@@ -66,13 +66,13 @@ Jó barátunk gondolkodott: ideje nincs túl sok, hely sincs igazán, a munka is
 
 A szállítás nem kis átgondolást igényelt.
 
-A mérete és a sok ablak miatt nem volt egyszerű.
+A méret és a sok ablak miatt nem volt egyszerű.
 
 A tetején bitumenzsindely volt, azt leszedték a fiúk, majd az egészből kiverték az üveget, hogy szállítás közben ne okozzanak gondot. Végül az egészet kettévágták, hogy felférjen az utánfutóra.
 
 A felrakás és az alapos rögzítés után kb: 25 km/h sebességgel elhoztuk haza.
 
-Itthon a lepakolás, és következett részemről a gyönyörködés, férjem részéről pedig a gondolkodás, hogy hogy lesz ebből szerszámos?
+Itthon a lepakolás után következett részemről a gyönyörködés, férjem részéről pedig a gondolkodás, hogy hogy lesz ebből szerszámos?
 
 
 
