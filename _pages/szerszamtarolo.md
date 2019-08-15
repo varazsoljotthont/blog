@@ -76,7 +76,7 @@ A szállítás nem kis átgondolást igényelt.
 
 A méret és a sok ablak miatt nem volt egyszerű.
 
-A tetején bitumenzsindely volt, azt leszedték a fiúk, majd az egészből kiverték az üveget, hogy szállítás közben ne okozzanak gondot. Végül az egészet kettévágták, hogy felférjen az utánfutóra.
+A bitumenzsindely tetőt leszedték a fiúk, majd az egészből kiverték az üveget, hogy szállítás közben ne okozzanak gondot. Végül az egészet kettévágták, hogy felférjen az utánfutóra.
 
 ![szelfogo](/assets/szerszamtarolo/20180916_141558j.jpg)
 
