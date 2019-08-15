@@ -47,7 +47,6 @@ A legfőbb hiányossága az volt, hogy mikor a faltól elbontották hiányzott a
 
 Tudtam, hogy náluk feleslegessé vált, így gyorsan meg is kérdeztem a házigazdát, hogy mi a szándéka az elbontás után. 
 
-![szelfogo](/assets/szerszamtarolo/20180916_141605.jpg)
 
 "Hát, a fiúkkal elvisszük hátra, és majd csinálok belőle valamit" - mondta a barátunk, és én el is szomorodtam...
 
@@ -61,6 +60,9 @@ Tán' lenne valami ötletem?
 Újjászületve, tökéletes szerszámtároló lehetne az Uradalomban.
 
 Jó barátunk gondolkodott: ideje nincs túl sok, hely sincs igazán, a munka is sok lenne vele, vigyük el, ha nekünk tetszik!
+
+![szelfogo](/assets/szerszamtarolo/20180916_141605.jpg)
+
 
 > Azért, azt el kell mondanom, hogy a férjem eközben csak kapkodta a fejét. Nincs elég feladat és lom otthon, én pedig rászervezek a dolgokra. De ismer engem, én pedig őt. Tudja, hogy megbízhat az ötleteimben, én pedig teljesen megbízom benne, hogy a kigondolt dolgokat kitűnően meg tudja valósítani.
 
