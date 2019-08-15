@@ -19,11 +19,6 @@ image:
 
 A mi szerszámosunk története egy jó barátunk ház felújításával kezdődött.
 
-
-![idézet](/assets/szerszamtarolo/javitottidezet.jpg)
-
-
-
 Épp egy nagyobb feladathoz készültek, amihez szükség volt még pár ember segítségére. Az én férjuram is ment már reggel.  
 
 Elvégezték amit el kellett, én pedig délután mentem érte, és jól "megcsodálkoztam", hogy milyen sokat dolgozott a csapat.
@@ -33,8 +28,15 @@ A kis építményt, ami a barátunknál szélfogóként működött, de az áté
 
 Nem először láttam, de most valahogy másként néztem rá.
 
+
 ![szelfogo](/assets/szerszamtarolo/69276037_1244988145661837_7814371276251725824_n.jpg)
 _Itt még eredeti szerepét betöltve állt a szélfogó_
+
+
+
+
+
+
 
 
 **Belelátni az újat**
@@ -54,6 +56,9 @@ Na jó, akkor ez itt marad, és ezt el is könyveltem magamban.
 
 De a barát azért barát mert ismer bennünket, így aztán vissza is kérdezett, hogy miért érdeklődöm... 
 Tán' lenne valami ötletem?
+
+![idézet](/assets/szerszamtarolo/javitottidezet.jpg)
+
 
 És akkor, abban a pillanatban bevillant a kép, hogy miért tetszik nekem ez a szélfogó.
 
