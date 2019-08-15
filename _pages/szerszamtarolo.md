@@ -47,7 +47,7 @@ A legfőbb hiányossága az volt, hogy mikor a faltól elbontották hiányzott a
 
 Tudtam, hogy náluk feleslegessé vált, így gyorsan meg is kérdeztem a házigazdát, hogy mi a szándéka az elbontás után. 
 
-![szelfogo](/assets/szerszamtarolo/20180916_141558.jpg)
+![szelfogo](/assets/szerszamtarolo/20180916_141558j.jpg)
 
 "Hát, a fiúkkal elvisszük hátra, és majd csinálok belőle valamit" - mondta a barátunk, és én el is szomorodtam...
 
