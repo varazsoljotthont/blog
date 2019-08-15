@@ -20,7 +20,7 @@ image:
 A mi szerszámosunk története egy jó barátunk ház felújításával kezdődött.
 
 
-![idézet](/assets/szerszamtarolo/idezet.jpg)
+![idézet](/assets/szerszamtarolo/javitottidezet.jpg)
 
 
 
