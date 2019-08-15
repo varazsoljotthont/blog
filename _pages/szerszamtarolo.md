@@ -45,7 +45,9 @@ Gyorsan átfutattam, hogy vajon miért is tetszik ez nekem, hisz' ebben a formá
 
 A legfőbb hiányossága az volt, hogy mikor a faltól elbontották hiányzott a hátulja.
 
-...és mégis... láttam benne valamit...
+...és mégis... 
+
+...láttam benne valamit...
 
 Tudtam, hogy náluk feleslegessé vált, így gyorsan meg is kérdeztem a házigazdát, hogy mi a szándéka az elbontás után. 
 
@@ -58,7 +60,7 @@ Tudtam, hogy náluk feleslegessé vált, így gyorsan meg is kérdeztem a házig
 
 Na jó, akkor ez itt marad, és ezt el is könyveltem magamban.
 
-De a barát azért barát mert ismer bennünket, így aztán vissza is kérdezett, hogy miért érdeklődöm... 
+De a barát azért barát mert ismer bennünket, így aztán vissza is kérdezett, hogy miért érdeklődöm.
 Tán' lenne valami ötletem?
 
 
@@ -95,6 +97,14 @@ Itthon a lepakolás után következett részemről a gyönyörködés, férjem r
 
 
 ## Összeállítás
+
+Mikor hazahoztuk, letettük a kertben, és napokig csak úgy el volt. 
+
+Tervezgettük, hogy hova kellene felépíteni, merre nézzen, milyen legyen.
+
+Aztán apránként elkezdte az én férjem lépésről - lépésre újra összerakni.
+
+> Erről a fázisról nem készült fénykép. Ő a munka hevében megfeledkezett róla, én pedig vagy dolgoztam és nem voltam itthon, hogy lefotózzam az egyes szakaszokat, vagy pedig segítettem én is a 
 
 
 
