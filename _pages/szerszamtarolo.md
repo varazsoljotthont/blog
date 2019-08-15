@@ -71,7 +71,7 @@ Tán' lenne valami ötletem?
 
 Jó barátunk gondolkodott: ideje nincs túl sok, hely sincs igazán, a munka is sok lenne vele, vigyük el, ha nekünk tetszik!
 
-![szelfogo](/assets/szerszamtarolo/20180916_141605.jpg)
+![szelfogo](/assets/szerszamtarolo/javitotthokusz.png)
 _Helyéről elbontva és nekem ajándékozva_
 
 
