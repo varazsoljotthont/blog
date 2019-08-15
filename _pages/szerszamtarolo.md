@@ -19,9 +19,9 @@ image:
 
 A mi szerszámosunk története egy jó barátunk ház felújításával kezdődött.
 
-Épp egy nagyobb feladathoz készültek, amihez szükség volt még pár ember segítségére. Az én férjuram is ment már reggel.  
+Épp egy nagyobb feladathoz készültek, amihez szükség volt még pár ember segítségére, és az én férjuram is ment már kora reggel.  
 
-Elvégezték amit el kellett, én pedig délután mentem érte, és jól "megcsodálkoztam", hogy milyen sokat dolgozott a csapat.
+A nap folyamán elvégezték amit el kellett, én pedig délután mentem érte, és jól "megcsodálkoztam", hogy milyen sokat dolgozott a csapat.
 
 Ahogy az lenni szokott, haza indulás előtt még volt egy kis beszélgetés, és én közben megláttam ŐT...  
 A kis építményt, ami a barátunknál szélfogóként működött, de az átépítéssel megszűnni látszott a szerepe.
@@ -49,6 +49,10 @@ A legfőbb hiányossága az volt, hogy mikor a faltól elbontották hiányzott a
 
 Tudtam, hogy náluk feleslegessé vált, így gyorsan meg is kérdeztem a házigazdát, hogy mi a szándéka az elbontás után. 
 
+![idézet](/assets/szerszamtarolo/javitottidezet.jpg)
+
+
+
 
 "Hát, a fiúkkal elvisszük hátra, és majd csinálok belőle valamit" - mondta a barátunk, és én el is szomorodtam...
 
@@ -57,7 +61,6 @@ Na jó, akkor ez itt marad, és ezt el is könyveltem magamban.
 De a barát azért barát mert ismer bennünket, így aztán vissza is kérdezett, hogy miért érdeklődöm... 
 Tán' lenne valami ötletem?
 
-![idézet](/assets/szerszamtarolo/javitottidezet.jpg)
 
 
 És akkor, abban a pillanatban bevillant a kép, hogy miért tetszik nekem ez a szélfogó.
