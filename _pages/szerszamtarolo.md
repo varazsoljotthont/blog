@@ -62,6 +62,7 @@ Tán' lenne valami ötletem?
 Jó barátunk gondolkodott: ideje nincs túl sok, hely sincs igazán, a munka is sok lenne vele, vigyük el, ha nekünk tetszik!
 
 ![szelfogo](/assets/szerszamtarolo/20180916_141605.jpg)
+_Helyéről elbontva és nekem ajándékozva_
 
 
 > Azért, azt el kell mondanom, hogy a férjem eközben csak kapkodta a fejét. Nincs elég feladat és lom otthon, én pedig rászervezek a dolgokra. De ismer engem, én pedig őt. Tudja, hogy megbízhat az ötleteimben, én pedig teljesen megbízom benne, hogy a kigondolt dolgokat kitűnően meg tudja valósítani.
@@ -85,7 +86,7 @@ Itthon a lepakolás után következett részemről a gyönyörködés, férjem r
 
 
 
-##
+## Összeállítás
 
 
 
@@ -99,174 +100,28 @@ Itthon a lepakolás után következett részemről a gyönyörködés, férjem r
 
 
 
-![idézet](/assets/kertikiülő/idézet2.jpg)
 
 
 
-> Az előző posztban már írtam a tűzrevaló [kreatív felhasználásáról](/2019-05-16/fábólkreatívan).
 
-A téli tüzelőnk egy részét évek óta akác deszkaszél képezi, és a tervezett pihenő elkészítéséhez is jónak tűnt ez a faanyag.  
 
 
 
-**Több okból is ezt választottuk a kiülő megépítéséhez:**
 
 
-* ellenáll az időjárás viszontagságainak
-* nem kellett külön anyagot venni hozzá
-* az egyéb anyagok ott voltak a ház körül
-* kellően girbe - gurba
 
 
 
-![kiülő](/assets/kertikiülő/IMG_20190524_085912.jpg)
-_A vidékies kertünk és a kiülőnk között teljes lett a harmónia_
 
 
 
 
-## Inspirálódás
 
 
-Azt megbeszéltük, hogy rusztikus hangulatú pihenőhelyet szeretnénk.
 
-Mivel a házunk is egy régi, felújított ház, ahonnan "hiányzik" a derékszög, a párhuzamos és a merőleges, az udvarra sem akartunk túl szabályos építményt.
 
-Sokat ötleteltünk, körbenéztünk a neten, és lassan kezdett kialakulni az én férjuram fejében, hogy a mi alapanyagainkból mit lehet összehozni. 
 
 
-## A kiülő
-
-
-A kiülő készítéséről nem igazán tudok részleteiben írni, ezért rendhagyó módon most egy képriport következik.
-
-( Sajnos néhány kép nem a legjobb minőségű, ezért elnézést kérek.)
-
-
-**Az alapanyag**
-
-Két évi adagból lettek kiválogatva a megfelelő méretű deszka darabok. Fontos volt, hogy legyen köztük kellő hosszúságú a padnak és az asztallapjának.
-
-![kiülő](/assets/kertikiülő/IMG_20190417_065254.jpg)
-_Akác deszkaszél leszállítva, kezdődhet a válogatás_
-
-
-
-**Kezdődik a "legózás"**
-
-
-
-Mivel nem szabályos deszkákból és gerendákból épült fel a kiülő, ezért elég sokat kellett tili-tolizni az anyagokkal. Épületfából lényegesen egyszerűbb lett volna, de nem akartunk sokat költeni. 
-
-Az olcsó legyen, de jó elvünkhöz itt is ragaszkodtunk.
-
-![kiülő](/assets/kertikiülő/1.jpg)
-_A felhasznált anyagok kérgezésével indult a projekt_
-
-
-
-![kiülő](/assets/kertikiülő/váz.png)
-_Készül a vázszerkezet_
-
-
-
-Az, hogy mi legyen majd a kiülő tetején, eléggé feladta a leckét... Nem akartuk olyan anyaggal lefedni, ami nem illik bele az általunk elképzelt képbe.
-Cserép lett megszavazva, de ez a súlya miatt okozott némi fejtörést.
-
-Először csak három pár szarufát tettünk fel, aztán inkább négy pár lett belőle, hogy ne jelentsen problémát a cserép súlya.
-
-
-![kiülő](/assets/kertikiülő/tibivel.png)
-_Helyükre kerültek a szarufák_
-
-
-
-![kiülő](/assets/kertikiülő/8jav.jpg)
-_Alakul, épül_
-
-Felkerültek a tetőlécek, indulhat a cserepezés.
-
-![kiülő](/assets/kertikiülő/10.jpg)
-
-Ránézésre összeállt a dolog, de még volt vele feladat. Hogy stabil legyen, sok merevítőt be kellett még építeni. 
-
-
-
-
-
-
-![kiülő](/assets/kertikiülő/11jav.jpg)
-
-![kiülő](/assets/kertikiülő/létrás.png)
-_A cserép illik hozzá a leginkább_
-
-![kiülő](/assets/kertikiülő/14.jpg)
-
-
-Mikor ezzel elkészült a férjem, jöhetett a csinosítás.
-
-A kúpcserepet - ugyanúgy mint a régi házaknál - fehér mésszel kente át. Felkerült a bádog, az oromdeszka, az oromdísz és egy patkó is. Végül az egész megkapta a lenolajos kényeztetést.
-
-
-
-
-
-![kiülő](/assets/kertikiülő/oromdísz.jpg)
-_Helyére került az oromdeszka, a dísz és egy patkó is_
-
-
-
-
-
-
-**Mi legyen a talpunk alatt?**
-
-Sokat gondolkodtunk azon, hogy mit kezdjünk az aljával.  
-Füvesnek nem akartuk meghagyni.  
-Egyrészt ott nem is nő meg rendesen, másrészt ami megnő letapossuk, ahol pedig nem, ott meg nem lehet hozzáférni a fűnyíróval.
-
-Szerettük volna téglával leburkolni, de az össszeset elhasználtuk, (hogy hova, arról [ebben a posztban olvashatsz,](/2019-04-23/tegla)) így aztán muszáj volt valami ütős, de stílusban odaillő, és persze olcsó megoldást találnunk.
-
-
-Tiborom ötlete volt az akácfa szegély, amivel én teljesen egyetértettem. Tökéletesen illik a házhoz, hisz az udvaron is ebből készültek az ágyásszegélyek és nem került semmibe.
-
-![kiülő](/assets/kertikiülő/keret.jpg)
-_Az akácfa szegély már a helyén_
-
-
-
-A kiülő alá geotextíliát tettünk, és kb 1 m3 16 - 32-es mosott kavicsot terített el a férjem, amit a közeli bányából hozattunk.
-
-
-![kiülő](/assets/kertikiülő/kavics.jpg)
-_A kavics remek választás volt_
-
-Lassanként elkészültünk vele, és birtokba vehettük. Sütögetés, tárcsázás idején a legjobb hely. Árnyékos, hangulatos és ennél többre nincs is szükség.
-
-![kiülő](/assets/kertikiülő/IMG_20190523_154615.jpg)
-_Jól esik itt meginni a kávénkat_
-
-![kiülő](/assets/kertikiülő/IMG_20190523_155418.jpg)
-_A tetőteraszról fényképezve_
-
-## Párnatartó láda
-
-A használat során jött elő egy apró hiányosság. 
-
-Tavasszal, nyár végén már hűvösnek éreztük a padot mikor leültünk, és mindig a lakásból kellett kicipelni a párnákat.  
-
-Ez kicsit macerás volt, ezért aztán a férjem ezt a gondot is orvosolta nekem.  
-Egy nagy alkatrészes ládát alakított át kültéri ládának, ami nemcsak stílusos lett, hanem praktikus is. Nem ázik be, így már tavasztól őszig  az udvaron is kéznél lesznek a párnák.
-
-![kiülő](/assets/kertikiülő/láda.jpg)
-_A vaslemez betét megvédi az esőtől a ládát_
-
-![kiülő](/assets/kertikiülő/láda2.jpg)
-_Apró kis részletek a ládán: sarokdíszek, fa tulipán_
-
-![kiülő](/assets/kertikiülő/láda3.jpg)
-
-Azt hiszem, így már késznek nevezhetjük a pihenőhelyünket...
 
 
 
