@@ -47,7 +47,7 @@ A legfőbb hiányossága az volt, hogy mikor a faltól elbontották hiányzott a
 
 Tudtam, hogy náluk feleslegessé vált, így gyorsan meg is kérdeztem a házigazdát, hogy mi a szándéka az elbontás után. 
 
-![szelfogo](/assets/szerszamtarolo/20180916_141558j.jpg)
+![szelfogo](/assets/szerszamtarolo/20180916_141605.jpg)
 
 "Hát, a fiúkkal elvisszük hátra, és majd csinálok belőle valamit" - mondta a barátunk, és én el is szomorodtam...
 
@@ -74,6 +74,8 @@ A szállítás nem kis átgondolást igényelt.
 A méret és a sok ablak miatt nem volt egyszerű.
 
 A tetején bitumenzsindely volt, azt leszedték a fiúk, majd az egészből kiverték az üveget, hogy szállítás közben ne okozzanak gondot. Végül az egészet kettévágták, hogy felférjen az utánfutóra.
+
+![szelfogo](/assets/szerszamtarolo/20180916_141558j.jpg)
 
 A felrakás és az alapos rögzítés után kb: 25 km/h sebességgel elhoztuk haza.
 
