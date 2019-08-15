@@ -58,7 +58,7 @@ Tudtam, hogy náluk feleslegessé vált, így gyorsan meg is kérdeztem a házig
 
 "Hát, a fiúkkal elvisszük hátra, és majd csinálok belőle valamit" - mondta a barátunk, és én el is szomorodtam...
 
-Na jó, akkor ez itt marad, és ezt el is könyveltem magamban.
+Na jó, akkor ez itt marad, könyveltem el magamban.
 
 De a barát azért barát mert ismer bennünket, így aztán vissza is kérdezett, hogy miért érdeklődöm.
 Tán' lenne valami ötletem?
@@ -102,14 +102,21 @@ Mikor hazahoztuk, letettük a kertben, és napokig csak úgy el volt.
 
 Tervezgettük, hogy hova kellene felépíteni, merre nézzen, milyen legyen.
 
-Aztán apránként elkezdte az én férjem lépésről - lépésre újra összerakni.
-
-> Erről a fázisról nem készült fénykép. Ő a munka hevében megfeledkezett róla, én pedig vagy dolgoztam és nem voltam itthon, hogy lefotózzam az egyes szakaszokat, vagy pedig segítettem én is a 
+Mikor megtalálta a helyét a férjem apránként elkezdte újra összerakni.
 
 
 
+**Az újjáépítés lépései**
 
 
+
+
+> Erről a fázisról nem készült fénykép. Egész egyszerűen megfeledkeztünk a fotózásról.
+
+
+
+
+## Funkcióváltás
 
 
 
