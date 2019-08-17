@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Szerszámtároló ízlésesen "
+title: "Átalakult a szélfogó, avagy így lett kisházunk a kertben"
 permalink: /szerszamtarolo/
 cover: /assets/szerszamtarolo/cover2.jpg
 categories: [kert, dekor]
@@ -97,7 +97,7 @@ _Darabolásra előkészítve_
 
 A felrakás és az alapos rögzítés után kb: 25 km/h sebességgel elhoztuk haza.
 
-Itthon a lepakolás után következett részemről a gyönyörködés, férjem részéről pedig a gondolkodás, hogy hogy lesz ebből szerszámos?
+Itthon a lepakolás után következett részemről a gyönyörködés, férjem részéről pedig a gondolkodás, hogy hogy lesz ebből kerti ház?
 
 
 
@@ -156,13 +156,15 @@ Ahogy a kis házikó ott állt a növények között, el is veszítette a szélf
 
 
 Egy hibája volt csak a dolognak. Azon a helyen amit kiválasztottunk eper volt, de én körben színes virágokkal képzeltem el.
-Így aztán nem maradt más választásom, mint áttelepíteni az epret, és elkezdtem beültetni a házikó elejét mindenféle növénnyel.
+Így aztán nem maradt más választásom, mint áttelepíteni az epret, és utána elkezdtem beültetni a házikó elejét mindenféle növénnyel.
 
 ![szelfogo](/assets/szerszamtarolo/IMG_20190408_172607.jpg)
 _Még ősszel elültettem a hagymás virágokat_
 
 
-## Kis szépítgetések
+
+
+## Kis szépítések
 
 Ahhoz, hogy teljes legyen a kép, szükség volt még pár apróságra.
 
@@ -186,7 +188,7 @@ _Már csak festeni kell_
 
 **Dekorációk**
 
-Mióta elkészült volt már egy karácsony és egy húsvét. Szerettem a házikót feldiszíteni, ezekkel a házilag készült koszorúkkal a kertbe is kicsalogattam az ünnepet.
+Mióta elkészült volt már egy karácsony és egy húsvét. Szerettem a házikót feldiszíteni, és ezekkel a házilag készült koszorúkkal a kertbe is kicsalogattam az ünnepet.
 
 
 
@@ -212,7 +214,7 @@ _A csuhéból készült dekor éven át a házikóban van_
 
 Nagyon megkedveltem a kis tárolónkat. Igaz, sok  feladat volt vele, hogy a szélfogó átalakuljon kerti szerszámossá, de ez megint csak egy olyan projektünk lett, amit nem bántunk meg. Nagy segítség, hogy egy helyen tudom tartani a virágföldet, tápoldatokat, cserepeket, a kerti szerszámaimat. De elférnek itt a téli kerti dekorációk is, és az már csak a bónusz, hogy az épületet magát is lehet csinosítani.
 
-![szelfogo](/assets/szerszamtarolo/IMG_20190815_120527.jpg)
+![szelfogo](/assets/szerszamtarolo/IMG_20190817_190539.jpg)
 _Pár nappal ezelőtt készítettem ezt a képet_
 
 
@@ -223,6 +225,8 @@ _Pár nappal ezelőtt készítettem ezt a képet_
 
 **+ 1 gondolat:**   
 Azt hiszem, hogy a kerti szerszámosunk / házikónk egy újabb jó példa arra, hogy nem minden pénz kérdése. Ötlettel, munkával, kreativitással, a régi - esetleg kidobásra szánt - dolgokból is lehet még használhatót készíteni.
+
+
 
 Ha tetszett, kedveld a <a href="https://www.facebook.com/Var%C3%A1zsolj-otthont-360330751226066/" target="_blank">Facebook oldalt</a> is. Itt még több érdekességet találsz a mindennapok varázslataiból.
 
