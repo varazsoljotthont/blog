@@ -188,13 +188,14 @@ _Már csak festeni kell_
 Mióta elkészült volt már egy karácsony és egy húsvét. Szerettem a házikót feldiszíteni, ezekkel a házilag készült koszorúkkal a kertbe is kicsalogattam az ünnepet.
 
 
-![szelfogo](/assets/szerszamtarolo/IMG_20190105_091209_484.jpg)
+
+![szelfogo](/assets/szerszamtarolo/IMG_20181219_183053_207.jpg)
 _Karácsonyi hangulatban_
 
 
 
-![szelfogo](/assets/szerszamtarolo/IMG_20181219_183053_207.jpg)
-_A koszorúk szőlővenyigébő készültek_
+![szelfogo](/assets/szerszamtarolo/IMG_20190105_091209_484.jpg)
+_A koszorúk szőlővenyigébl készültek_
 
 
 
@@ -203,7 +204,7 @@ _Húsvéti díszben_
 
 
 ![szelfogo](/assets/szerszamtarolo/IMG_20181218_212257_024.jpg)
-_A csuhéból készült dekor éven át a házikóban van-
+_A csuhéból készült dekor éven át a házikóban van_
 
 
 ## Jó ötlet volt
