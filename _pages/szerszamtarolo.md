@@ -141,6 +141,10 @@ _Itt már a helyén. Újra lécezve, lefestve, de még üveg és tető nélkül_
 
 A kis tárolónkat belülről még körberakta a férjem hungarocellel, így tavaszonként már itt is elő tudom nevelni a növényeket.
 
+![szelfogo](/assets/szerszamtarolo/IMG_20190409_094737.jpg)
+_Nem is tudom, hogy eddig hol fértek el a dolgaim_
+
+
 ![szelfogo](/assets/szerszamtarolo/56913218_379139989345142_7750835395545268224_n.jpg)
 
 ## Funkcióváltás
@@ -151,7 +155,7 @@ Ahogy a kis házikó ott állt a növények között, el is veszítette a szélf
 
 
 Egy hibája volt csak a dolognak. Azon a helyen, amit kiválasztottunk eper volt, de én virágokkal körbevéve képzeltem el.
-Így aztán nem maradt  más választásom, áttelepítettem az epret, és elkezdtem beültetni a házikó elejét mindenféle növénnyel.
+Így aztán nem maradt más választásom, mint áttelepíteni az epret, és elkezdtem beültetni a házikó elejét mindenféle növénnyel.
 
 És volt még egy dolog, ami talán nem megszokott a szerszámosok esetében. 
 
