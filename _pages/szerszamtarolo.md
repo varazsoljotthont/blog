@@ -19,11 +19,11 @@ image:
 
 A mi szerszámosunk története egy jó barátunk ház felújításával kezdődött.
 
-Épp egy nagyobb feladathoz készültek, amihez szükség volt még pár ember segítségére, és az én férjuram is ment már kora reggel.  
+Épp egy nagyobb feladathoz készültek, amihez szükség volt még pár emberre, és az én férjuram is ment segíteni már kora reggel.  
 
-A nap folyamán elvégezték amit el kellett, én pedig délután mentem érte, és jól "megcsodálkoztam", hogy milyen sokat dolgozott a csapat.
+A nap folyamán elvégezték amit el kellett, én pedig délután mentem érte és jól "megcsodálkoztam", hogy milyen sokat dolgozott a csapat.
 
-Ahogy az lenni szokott, haza indulás előtt még volt egy kis beszélgetés, és én közben megláttam ŐT...  
+Ahogy az lenni szokott, a haza indulás előtt még volt egy kis beszélgetés, és én közben megláttam ŐT...  
 A kis építményt, ami a barátunknál szélfogóként működött, de az átépítéssel megszűnni látszott a szerepe.
 
 Nem először láttam, de most valahogy másként néztem rá.
@@ -43,11 +43,11 @@ _Itt még eredeti szerepét betöltve állt a szélfogó_
 
 Gyorsan átfutattam, hogy vajon miért is tetszik ez nekem, hisz' ebben a formájában nekünk semmire sem jó.
 
-A legfőbb hiányossága az volt, hogy mikor a faltól elbontották hiányzott a hátulja.
+A legfőbb hiányossága az volt, hogy nem volt hátulja.
 
 ...és mégis... 
 
-...láttam benne valamit...
+...láttam benne valamit.
 
 Tudtam, hogy náluk feleslegessé vált, így gyorsan meg is kérdeztem a házigazdát, hogy mi a szándéka az elbontás után. 
 
@@ -56,7 +56,7 @@ Tudtam, hogy náluk feleslegessé vált, így gyorsan meg is kérdeztem a házig
 
 
 
-"Hát, a fiúkkal elvisszük hátra, és majd csinálok belőle valamit" - mondta a barátunk, és én el is szomorodtam...
+"Hát, a fiúkkal elvisszük hátra, és majd csinálok belőle valamit" - mondta a barátunk, és én el is szomorodtam.
 
 Na jó, akkor ez itt marad, könyveltem el magamban.
 
@@ -69,7 +69,7 @@ Tán' lenne valami ötletem?
 
 Újjászületve, tökéletes szerszámtároló lehetne az Uradalomban.
 
-Jó barátunk gondolkodott: ideje nincs túl sok, hely sincs igazán, a munka is sok lenne vele, vigyük el, ha nekünk tetszik!
+Jó barátunk gondolkodott: ideje nincs túl sok, hely sincs igazán, a munka is sok lenne vele, hát vigyük, ha nekünk tetszik!
 
 
 
@@ -92,7 +92,7 @@ A méret és a sok ablak miatt nem volt egyszerű.
 Még a helyén kitörték az üvegeket, hogy szállítás közben ne okozzonak gondot, majd a bitumenzsindelyt is lebontották a fiúk. Végül az egészet kettévágták, hogy felférjen az utánfutóra.
 
 ![szelfogo](/assets/szerszamtarolo/20180916_141508jav.jpg)
-_Feldarabolásra előkészítve_
+_Darabolásra előkészítve_
 
 A felrakás és az alapos rögzítés után kb: 25 km/h sebességgel elhoztuk haza.
 
@@ -141,7 +141,7 @@ _Itt már a helyén. Újra lécezve, lefestve, de még üveg és tető nélkül_
 
 A kis tárolónkat belülről még körberakta a férjem hungarocellel, így tavaszonként már itt is elő tudom nevelni a növényeket.
 
-
+![szelfogo](/assets/szerszamtarolo/56913218_379139989345142_7750835395545268224_n.jpg)
 
 ## Funkcióváltás
 
