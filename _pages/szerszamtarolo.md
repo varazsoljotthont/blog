@@ -71,8 +71,12 @@ Tán' lenne valami ötletem?
 
 Jó barátunk gondolkodott: ideje nincs túl sok, hely sincs igazán, a munka is sok lenne vele, vigyük el, ha nekünk tetszik!
 
+
+
 ![szelfogo](/assets/szerszamtarolo/javitotthokusz.png)
 _Helyéről elbontva és nekem ajándékozva_
+
+
 
 
 Azért azt el kell mondanom, hogy a férjem eközben csak kapkodta a fejét. Nincs elég feladat és lom otthon, én pedig rászervezek a dolgokra. De ismer engem, én pedig őt. Tudja, hogy megbízhat az ötleteimben, én pedig teljesen megbízom benne, hogy a kigondolt dolgokat kitűnően meg tudja valósítani.
@@ -91,6 +95,7 @@ A méret és a sok ablak miatt nem volt egyszerű.
 A bitumenzsindely tetőt leszedték a fiúk, majd az egészből kiverték az üveget, hogy szállítás közben ne okozzanak gondot. Végül az egészet kettévágták, hogy felférjen az utánfutóra.
 
 ![szelfogo](/assets/szerszamtarolo/20180916_141508jav.jpg)
+_Feldarabolásra előkészítve_
 
 A felrakás és az alapos rögzítés után kb: 25 km/h sebességgel elhoztuk haza.
 
