@@ -25,8 +25,7 @@ A nap folyamán elvégezték amit el kellett, én pedig délután mentem érte �
 
 Ahogy az lenni szokott, a haza indulás előtt még volt egy kis beszélgetés, és én közben megláttam ŐT...  
 
-A kis építményt, ami a barátunknál szélfogóként működött, de az átépítéssel megszűnni látszott a szerepe.
-
+A kis építményt, ami a barátunknál szélfogóként működött, de az átépítéssel megszűnni látszott a szerepe. 
 Nem először láttam, de most valahogy másként néztem rá.
 
 
@@ -59,16 +58,15 @@ Tudtam, hogy náluk feleslegessé vált, így gyorsan meg is kérdeztem a házig
 
 "Hát, a fiúkkal elvisszük hátra, és majd csinálok belőle valamit" - mondta a barátunk, és én el is szomorodtam.
 
-Na jó, akkor ez itt marad, könyveltem el magamban.
+Na jó, akkor ez itt marad. - könyveltem el magamban.
 
 De a barát azért barát mert ismer bennünket, így aztán vissza is kérdezett, hogy miért érdeklődöm.
 Tán' lenne valami ötletem?
 
 
 
-És akkor, abban a pillanatban bevillant a kép, hogy miért tetszik nekem ez a szélfogó.
-
-Újjászületve, tökéletes szerszámtároló, kerti házikó lehetne az Uradalomban.
+És akkor, abban a pillanatban bevillant a kép, hogy miért tetszik nekem ez a szélfogó. 
+Újjászületve tökéletes szerszámtároló, kerti házikó lehetne az Uradalomban.
 
 Jó barátunk gondolkodott: ideje nincs túl sok, hely sincs igazán, a munka is sok lenne vele, hát vigyük, ha nekünk tetszik!
 
