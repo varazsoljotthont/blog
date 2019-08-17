@@ -95,17 +95,17 @@ _Darabolásra előkészítve_
 
 A felrakás és az alapos rögzítés után kb: 25 km/h sebességgel elhoztuk haza.
 
-Itthon a lepakolás után következett részemről a gyönyörködés, férjem részéről pedig a gondolkodás, hogy hogy lesz ebből kerti ház?
+Itthon a lepakolás után következett részemről az örömködés, férjem részéről pedig a gondolkodás, hogy hogy lesz ebből kerti ház?
 
 
 
 ## Összeállítás
 
-Mikor hazahoztuk, letettük a kertben, és napokig csak úgy el volt. 
+Mikor hazahoztuk letettük a kertben, és napokig csak úgy el volt. 
 
 Tervezgettük, hogy hova kellene felépíteni, merre nézzen, milyen legyen.
 
-Mikor megtalálta a helyét a férjem apránként elkezdte újra összerakni.
+Mikor megtaláltuk a helyét a férjem apránként elkezdte újra összerakni.
 
 
 
