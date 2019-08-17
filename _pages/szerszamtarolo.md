@@ -195,7 +195,7 @@ _Karácsonyi hangulatban_
 
 
 ![szelfogo](/assets/szerszamtarolo/IMG_20190105_091209_484.jpg)
-_A koszorúk szőlővenyigébl készültek_
+_A koszorúk szőlővenyigéből készültek_
 
 
 
