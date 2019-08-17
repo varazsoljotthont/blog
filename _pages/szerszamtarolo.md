@@ -12,7 +12,7 @@ image:
 
 
 
-**A kertet szerető emberek tavasztól őszig örömmel töltik az időt a növényeik társaságában. A szép kert időt, odafigyelést igényel. Sok  munkával jár az ültetés, gondozás, metszés, és megfelelő kerti szerszámok nélkül nem lehet a kertet ápolni. Hogy minden kéznél legyen kell egy olyan hely, ahol minden szükséges eszközt együtt tudunk tárolni, közel van a növényekhez, de stílusában is beillik a kert hangulatába.**
+**A kertet szerető emberek tavasztól őszig örömmel töltik az időt a növényeik társaságában. A szép kert időt, odafigyelést és jó munka eszközöket igényel. Hogy minden kéznél legyen kell egy olyan hely, ahol minden szükséges szerszámot együtt tudunk tárolni, közel van a növényekhez, de stílusában is beillik a kert hangulatába.**
  
 
 ## Meglátni és megszeretni...
