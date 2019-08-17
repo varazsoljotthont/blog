@@ -72,7 +72,11 @@ Tán' lenne valami ötletem?
 Jó barátunk gondolkodott: ideje nincs túl sok, hely sincs igazán, a munka is sok lenne vele, vigyük el, ha nekünk tetszik!
 
 
-![szelfogo](/assets/szerszamtarolo/javitotthokusz.png)_Elbontva, és nekem ajándékozva_ Azért azt el kell mondanom, hogy a férjem eközben csak kapkodta a fejét. Nincs elég feladat és lom otthon, én pedig rászervezek a dolgokra. De ismer engem, én pedig őt. Tudja, hogy megbízhat az ötleteimben, én pedig teljesen megbízom benne, hogy a kigondolt dolgokat kitűnően meg tudja valósítani.
+
+![szelfogo](/assets/szerszamtarolo/20180916_141558j.jpg)
+_Elbontva, és nekem ajándékozva_   
+
+Azért azt el kell mondanom, hogy a férjem eközben csak kapkodta a fejét. Nincs elég feladat és lom otthon, én pedig rászervezek a dolgokra. De ismer engem, én pedig őt. Tudja, hogy megbízhat az ötleteimben, én pedig teljesen megbízom benne, hogy a kigondolt dolgokat kitűnően meg tudja valósítani.
 
 
 
