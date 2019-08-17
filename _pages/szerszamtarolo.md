@@ -215,7 +215,7 @@ Igaz, sok feladat volt, hogy a szélfogó átalakuljon kerti szerszámossá, de 
 ![szelfogo](/assets/szerszamtarolo/IMG_20190817_190539j.jpg)
 _Pár nappal ezelőtt készítettem ezeket a képeket_
 
-![szelfogo](/assets/szerszamtarolo/IMG_20190817_191008j.jpg)
+![szelfogo](/assets/szerszamtarolo/j.jpg)
 
 
 
