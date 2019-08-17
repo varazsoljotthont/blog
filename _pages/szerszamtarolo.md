@@ -209,7 +209,8 @@ _A csuhéból készült dekor éven át a házikóban van_
 
 ## Jó ötlet volt
 
-Nagyon megkedveltem a kis tárolónkat. Igaz, sok  feladat volt vele, hogy a szélfogó átalakuljon kerti szerszámossá, de ez megint csak egy olyan projektünk lett, amit nem bántunk meg. Nagy segítség, hogy egy helyen tudom tartani a virágföldet, tápoldatokat, cserepeket, a kerti szerszámaimat. De elférnek itt a téli kerti dekorációk is, és az már csak a bónusz, hogy az épületet magát is lehet csinosítani.
+Nagyon megkedveltem a kis tárolónkat.  
+Igaz, sok  feladat volt vele, hogy a szélfogó átalakuljon kerti szerszámossá, de ez megint csak egy olyan projektünk lett, amit nem bántunk meg. Nagy segítség, hogy egy helyen tudom tartani a virágföldet, tápoldatokat, cserepeket, a kerti szerszámaimat. De elférnek itt a téli kerti dekorációk is, és az már csak a bónusz, hogy az épületet magát is lehet csinosítani.
 
 ![szelfogo](/assets/szerszamtarolo/IMG_20190817_190539.jpg)
 _Pár nappal ezelőtt készítettem ezeket a képeket_
@@ -234,9 +235,13 @@ Ha tetszett, kedveld a <a href="https://www.facebook.com/Var%C3%A1zsolj-otthont-
 
 ## Kapcsolódó cikkek
 
-
+* [Ilyen volt, ilyen lett: így lett a kaszálóból romantikus, vidéki kert](/2019-06-26/kulsokorlet)
 * [Így lett a tüzifa az otthonunk dísze](/2019-05-16/fábólkreatívan)
-* [Fontos lépések régi házunk állagmegóvásáért](/2019-04-03/állagmegóvás)
-* [Varrógépből kerti asztal? Mutatom, hogy lehet!](/2019-02-12/varrogepasztal)
+* [Bontott tégla varázsa az otthonunkban](/2019-04-23/tegla)
 * [Hozzuk formába az otthonunkat!](/2019-03-26/dekoráció)
+
+
+
+
+
 
