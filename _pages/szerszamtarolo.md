@@ -75,7 +75,7 @@ Jó barátunk gondolkodott: ideje nincs túl sok, hely sincs igazán, a munka is
 _Helyéről elbontva és nekem ajándékozva_
 
 
-> Azért azt el kell mondanom, hogy a férjem eközben csak kapkodta a fejét. Nincs elég feladat és lom otthon, én pedig rászervezek a dolgokra. De ismer engem, én pedig őt. Tudja, hogy megbízhat az ötleteimben, én pedig teljesen megbízom benne, hogy a kigondolt dolgokat kitűnően meg tudja valósítani.
+Azért azt el kell mondanom, hogy a férjem eközben csak kapkodta a fejét. Nincs elég feladat és lom otthon, én pedig rászervezek a dolgokra. De ismer engem, én pedig őt. Tudja, hogy megbízhat az ötleteimben, én pedig teljesen megbízom benne, hogy a kigondolt dolgokat kitűnően meg tudja valósítani.
 
 
 
