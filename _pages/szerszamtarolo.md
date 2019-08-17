@@ -111,10 +111,26 @@ Mikor megtalálta a helyét a férjem apránként elkezdte újra összerakni.
 
 * A kiválasztott hely felszabadítása
 
+* A szélfogó darabjainak odacipelése a helyre
+
+* Összehegesztés
+
+* Az aljzat lerakása bontott téglával
+
+* Régi lambéria kiváltása új lécekre
+
+* Tető átalakítása
+
+* Cserepezés
+
+* Festés, üvegezés
+
+* Járda lerakása, hogy sár mentesen tudjuk megközelíteni
+
+![szelfogo](/assets/szerszamtarolo/20181008_153630.jpg)
 
 
-
-> Erről a fázisról nem készült fénykép. Egész egyszerűen megfeledkeztünk a fotózásról.
+> Sajnos, nem készültek fázis fotók. Egész egyszerűen megfeledkeztünk róla.
 
 
 
