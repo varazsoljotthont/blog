@@ -122,6 +122,8 @@ Mikor megtalálta a helyét a férjem apránként elkezdte újra összerakni.
 
 * Összehegesztés
 
+* A nyitott oldal "becsinálása"
+
 * Az aljzat lerakása bontott téglával
 
 * Régi lambéria kiváltása új lécekre
@@ -145,6 +147,8 @@ A kis tárolónkat belülről még körberakta a férjem hungarocellel, így tav
 
 
 ## Funkcióváltás
+
+
 
 
 
