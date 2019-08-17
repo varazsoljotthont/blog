@@ -89,7 +89,7 @@ A méret és a sok ablak miatt nem volt egyszerű.
 
 ![szelfogo](/assets/szerszamtarolo/20180916_141558j.jpg)
 
-A bitumenzsindely tetőt leszedték a fiúk, majd az egészből kiverték az üveget, hogy szállítás közben ne okozzanak gondot. Végül az egészet kettévágták, hogy felférjen az utánfutóra.
+Még a helyén kitörték az üvegeket, hogy szállítás közben ne okozzonak gondot, majd a bitumenzsindelyt is lebontották a fiúk. Végül az egészet kettévágták, hogy felférjen az utánfutóra.
 
 ![szelfogo](/assets/szerszamtarolo/20180916_141508jav.jpg)
 _Feldarabolásra előkészítve_
@@ -134,16 +134,36 @@ Mikor megtalálta a helyét a férjem apránként elkezdte újra összerakni.
 * Járda lerakása, hogy sár mentesen tudjuk megközelíteni
 
 ![szelfogo](/assets/szerszamtarolo/20181008_153630j.jpg)
-_Itt már a helyén. Újra lécezve, lefestve, de még üvegés tető nélkül
+_Itt már a helyén. Újra lécezve, lefestve, de még üveg és tető nélkül
 
 
 > Sajnos, nem készültek fázis fotók. Egész egyszerűen megfeledkeztünk róla.
 
-A kis tárolónkat belülről még körberakta a férjem hungarocellel, így tavasszal már itt is elő tudöm nevelni a növényeket.
+A kis tárolónkat belülről még körberakta a férjem hungarocellel, így tavaszonként már itt is elő tudom nevelni a növényeket.
 
 
 
 ## Funkcióváltás
+
+
+Ahogy a kis házikó ott állt a növények között, el is veszítette a szélfogó jellegét. Szinte teljesen bepasszolt a kertünk hangulatába.
+
+
+
+Egy hibája volt csak a dolognak. Azon a helyen, amit kiválasztottunk eper volt, de én virágokkal körbevéve képzeltem el.
+Így aztán nem maradt  más választásom, áttelepítettem az epret, és elkezdtem beültetni a házikó elejét mindenféle növénnyel.
+
+És volt még egy dolog, ami talán nem megszokott a szerszámosok esetében. 
+
+A függöny.
+
+Olyan csupasz volt szegényke, hogy muszáj volt felöltözetenem. 
+A neki való anyagot régóta őrizgettem. Kereste a helyét, és ide tökéletesenk bizonyult, Pár óra alatt megvarrtam, felraktam, és ezzel az apró kiegészítéssel teljesen átváltozott.
+
+
+
+
+
 
 
 
@@ -180,7 +200,7 @@ A kis tárolónkat belülről még körberakta a férjem hungarocellel, így tav
 
 
 **+ 1 gondolat:**   
-Ha a sok munkaórát nem számoljuk, akkor kevés kiadással lett egy szép, egyedi kiülőnk. Persze, az akácfáért fizettünk, de pluszban nem kellett venni semmit. Még a csavarok is azokból a kábeldobokból lettek kiszedve, amik már évekkel ezelőtt kerültek hozzánk. A cserép szintén adott volt. A geotextília és a kavics az, amiért pénzt adtunk, így mondhatom, hogy ez a projekt nagyon megérte.
+Nagyon megkedveltem a kis tárolónkat. Igaz, sok  feladat volt vele, hogy a szélfogó átalakuljon kerti szerszámossá, de nagyon praktikus lett az udvar, a kert közepén. Egy helyen tudom tartani a virágföldet, tápoldatokat, cserepeket, kerti szerszámaimat. De elférnek itt a téli kerti dekorációk is, és az már csak a bónusz, hogy az épületet magát is lehet csinosítani.
 
 
 Ha tetszett, kedveld a <a href="https://www.facebook.com/Var%C3%A1zsolj-otthont-360330751226066/" target="_blank">Facebook oldalt</a> is. Itt még több érdekességet találsz a mindennapok varázslataiból.
