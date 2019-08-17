@@ -109,6 +109,9 @@ Mikor megtalálta a helyét a férjem apránként elkezdte újra összerakni.
 **Az újjáépítés lépései**
 
 
+* A kiválasztott hely felszabadítása
+
+
 
 
 > Erről a fázisról nem készült fénykép. Egész egyszerűen megfeledkeztünk a fotózásról.
