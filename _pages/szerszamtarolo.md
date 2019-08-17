@@ -168,7 +168,8 @@ Ahhoz, hogy teljes legyen a kép, szükség volt még pár apróságra.
 **Függöny**
 
 Olyan csupasz volt szegényke, hogy muszáj volt felöltözetenem. 
-A neki való anyagot régóta őrizgettem. Kereste a helyét, és ide tökéletesenk bizonyult, Pár óra alatt megvarrtam, felraktam, és ezzel az apró kiegészítéssel teljesen átváltozott.
+A neki való anyagot régóta őrizgettem. Kereste a helyét, és ide tökéletesenk bizonyult.  
+Pár óra alatt megvarrtam, felraktam és ezzel az apró kiegészítéssel teljesen átváltozott.
 
 
 
@@ -193,6 +194,7 @@ _Karácsonyi hangulatban_
 
 
 ![szelfogo](/assets/szerszamtarolo/IMG_20181219_183053_207.jpg)
+_
 
 
 
