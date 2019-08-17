@@ -129,7 +129,7 @@ Mikor megtalálta a helyét a férjem apránként elkezdte újra összerakni.
 
 * Járda lerakása, hogy sár mentesen tudjuk megközelíteni
 
-![szelfogo](/assets/szerszamtarolo/20181008_153630.jpg)
+![szelfogo](/assets/szerszamtarolo/20181008_153630j.jpg)
 
 
 > Sajnos, nem készültek fázis fotók. Egész egyszerűen megfeledkeztünk róla.
