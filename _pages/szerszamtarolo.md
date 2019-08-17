@@ -105,7 +105,7 @@ Mikor hazahoztuk letettük a kertben, és napokig csak úgy el volt.
 
 Tervezgettük, hogy hova kellene felépíteni, merre nézzen, milyen legyen.
 
-Mikor megtaláltuk a helyét a férjem apránként elkezdte újra összerakni.
+Mikor megtaláltuk a helyét, a férjem apránként elkezdte újra összerakni.
 
 
 
@@ -114,8 +114,7 @@ Mikor megtaláltuk a helyét a férjem apránként elkezdte újra összerakni.
 
 * A kiválasztott hely felszabadítása
 
-* A szélfogó darabjainak odacipelése a leendő helyére
-
+* A szélfogó darabjainak odacipelése az új helyre
 * Összehegesztés
 
 * A nyitott oldal lezárása
@@ -186,7 +185,7 @@ _Már csak festeni kell_
 
 **Dekorációk**
 
-Mióta elkészült volt már egy karácsony és egy húsvét. Szerettem a házikót feldiszíteni, és ezekkel a házilag készült koszorúkkal a kertbe is kicsalogattam az ünnepet.
+Mióta elkészült volt már egy karácsony és egy húsvét. Szerettem a házikót feldíszíteni, és ezekkel a házilag készült koszorúkkal a kertbe is kicsalogattam az ünnepet.
 
 
 
