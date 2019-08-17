@@ -12,18 +12,19 @@ image:
 
 
 
-**A kertet szerető emberek tavasztól őszig örömmel töltik az időt a növényeik társaságában. A szép kert sok odafigyelést igényel. Sok  munkával jár az ültetés, gondozás, metszés, és megfelelő kerti szerszámok nélkül nem lehet a kertet ápolni. Hogy minden kéznél legyen kell egy olyan hely, ahol minden szükséges eszközt együtt tudunk tárolni, közel van a növényekhez, de stílusában is beillik a kert hangulatába.**
+**A kertet szerető emberek tavasztól őszig örömmel töltik az időt a növényeik társaságában. A szép kert időt, odafigyelést igényel. Sok  munkával jár az ültetés, gondozás, metszés, és megfelelő kerti szerszámok nélkül nem lehet a kertet ápolni. Hogy minden kéznél legyen kell egy olyan hely, ahol minden szükséges eszközt együtt tudunk tárolni, közel van a növényekhez, de stílusában is beillik a kert hangulatába.**
  
 
 ## Meglátni és megszeretni...
 
 A mi szerszámosunk története egy jó barátunk ház felújításával kezdődött.
 
-Épp egy nagyobb feladathoz készültek, amihez szükség volt még pár emberre, és az én férjuram is ment segíteni már kora reggel.  
+Épp egy nagyobb feladathoz készültek, amihez szükség volt pár emberre, és az én férjuram is ment segíteni már kora reggel.  
 
 A nap folyamán elvégezték amit el kellett, én pedig délután mentem érte és jól "megcsodálkoztam", hogy milyen sokat dolgozott a csapat.
 
 Ahogy az lenni szokott, a haza indulás előtt még volt egy kis beszélgetés, és én közben megláttam ŐT...  
+
 A kis építményt, ami a barátunknál szélfogóként működött, de az átépítéssel megszűnni látszott a szerepe.
 
 Nem először láttam, de most valahogy másként néztem rá.
@@ -67,7 +68,7 @@ Tán' lenne valami ötletem?
 
 És akkor, abban a pillanatban bevillant a kép, hogy miért tetszik nekem ez a szélfogó.
 
-Újjászületve, tökéletes szerszámtároló lehetne az Uradalomban.
+Újjászületve, tökéletes szerszámtároló, kerti házikó lehetne az Uradalomban.
 
 Jó barátunk gondolkodott: ideje nincs túl sok, hely sincs igazán, a munka is sok lenne vele, hát vigyük, ha nekünk tetszik!
 
