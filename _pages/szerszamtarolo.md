@@ -74,7 +74,7 @@ Jó barátunk gondolkodott: ideje nincs túl sok, hely sincs igazán, a munka is
 
 
 ![szelfogo](/assets/szerszamtarolo/javitotthokusz.png)
-_Helyéről elbontva és nekem ajándékozva_
+
 
 
 
