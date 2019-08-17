@@ -29,7 +29,7 @@ A kis építményt, ami a barátunknál szélfogóként működött, de az áté
 Nem először láttam, de most valahogy másként néztem rá.
 
 
-![szelfogo](/assets/szerszamtarolo/69276037_1244988145661837_7814371276251725824_n.jpg)
+![szelfogo](/assets/szerszamtarolo/69276037_1244988145661837_7814371276251725824_nj.jpg)
 _Itt még eredeti szerepét betöltve állt a szélfogó_
 
 
