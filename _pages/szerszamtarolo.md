@@ -114,11 +114,11 @@ Mikor megtaláltuk a helyét a férjem apránként elkezdte újra összerakni.
 
 * A kiválasztott hely felszabadítása
 
-* A szélfogó darabjainak odacipelése a tároló leendő helyére
+* A szélfogó darabjainak odacipelése a leendő helyére
 
 * Összehegesztés
 
-* A nyitott oldal "becsinálása"
+* A nyitott oldal lezárása
 
 * Az aljzat lerakása bontott téglával
 
