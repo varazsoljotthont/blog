@@ -71,11 +71,14 @@ Tán' lenne valami ötletem?
 
 Jó barátunk gondolkodott: ideje nincs túl sok, hely sincs igazán, a munka is sok lenne vele, vigyük el, ha nekünk tetszik!
 
+
+
+
 ![szelfogo](/assets/szerszamtarolo/javitotthokusz.png)
 _Helyéről elbontva és nekem ajándékozva_
 
 
-> Azért, azt el kell mondanom, hogy a férjem eközben csak kapkodta a fejét. Nincs elég feladat és lom otthon, én pedig rászervezek a dolgokra. De ismer engem, én pedig őt. Tudja, hogy megbízhat az ötleteimben, én pedig teljesen megbízom benne, hogy a kigondolt dolgokat kitűnően meg tudja valósítani.
+> Azért azt el kell mondanom, hogy a férjem eközben csak kapkodta a fejét. Nincs elég feladat és lom otthon, én pedig rászervezek a dolgokra. De ismer engem, én pedig őt. Tudja, hogy megbízhat az ötleteimben, én pedig teljesen megbízom benne, hogy a kigondolt dolgokat kitűnően meg tudja valósítani.
 
 
 
@@ -113,7 +116,7 @@ Mikor megtalálta a helyét a férjem apránként elkezdte újra összerakni.
 
 * A kiválasztott hely felszabadítása
 
-* A szélfogó darabjainak odacipelése a helyre
+* A szélfogó darabjainak odacipelése a tároló leendő helyére
 
 * Összehegesztés
 
@@ -130,10 +133,12 @@ Mikor megtalálta a helyét a férjem apránként elkezdte újra összerakni.
 * Járda lerakása, hogy sár mentesen tudjuk megközelíteni
 
 ![szelfogo](/assets/szerszamtarolo/20181008_153630j.jpg)
+_Itt már a helyén. Újra lécezve, lefestve, de még üvegés tető nélkül
 
 
 > Sajnos, nem készültek fázis fotók. Egész egyszerűen megfeledkeztünk róla.
 
+A kis tárolónkat belülről még körberakta a férjem hungarocellel, így tavasszal már itt is elő tudöm nevelni a növényeket.
 
 
 
