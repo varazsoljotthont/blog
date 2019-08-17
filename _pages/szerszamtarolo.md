@@ -143,7 +143,7 @@ A kis tárolónkat belülről még körberakta a férjem hungarocellel, így tav
 _Nem is tudom, hogy eddig hol fértek el a dolgaim_
 
 
-![szelfogo](/assets/szerszamtarolo/56913218_379139989345142_7750835395545268224_n.jpg)
+![szelfogo](/assets/szerszamtarolo/56913218_379139989345142_7750835395545268224_nj.jpg)
 
 ## Funkcióváltás
 
