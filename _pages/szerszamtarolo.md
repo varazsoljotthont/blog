@@ -90,7 +90,7 @@ A méret és a sok ablak miatt nem volt egyszerű.
 
 Még a helyén kitörték az üvegeket, hogy szállítás közben ne okozzonak gondot, majd a bitumenzsindelyt is lebontották a fiúk. Végül az egészet kettévágták, hogy felférjen az utánfutóra.
 
-![szelfogo](/assets/szerszamtarolo/20180916_141508jav.jpg)
+![szelfogo](/assets/szerszamtarolo/20180916_141508ja.jpg)
 _Darabolásra előkészítve_
 
 A felrakás és az alapos rögzítés után kb: 25 km/h sebességgel elhoztuk haza.
