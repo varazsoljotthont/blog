@@ -71,9 +71,6 @@ Tán' lenne valami ötletem?
 
 Jó barátunk gondolkodott: ideje nincs túl sok, hely sincs igazán, a munka is sok lenne vele, vigyük el, ha nekünk tetszik!
 
-
-
-
 ![szelfogo](/assets/szerszamtarolo/javitotthokusz.png)
 _Helyéről elbontva és nekem ajándékozva_
 
@@ -93,7 +90,7 @@ A méret és a sok ablak miatt nem volt egyszerű.
 
 A bitumenzsindely tetőt leszedték a fiúk, majd az egészből kiverték az üveget, hogy szállítás közben ne okozzanak gondot. Végül az egészet kettévágták, hogy felférjen az utánfutóra.
 
-![szelfogo](/assets/szerszamtarolo/20180916_141508 jav.jpg)
+![szelfogo](/assets/szerszamtarolo/20180916_141508jav.jpg)
 
 A felrakás és az alapos rögzítés után kb: 25 km/h sebességgel elhoztuk haza.
 
