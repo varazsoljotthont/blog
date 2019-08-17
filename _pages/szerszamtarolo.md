@@ -179,7 +179,7 @@ Pár óra alatt megvarrtam, felraktam és ezzel az apró kiegészítéssel telje
 A tető lezárásaként elkészült az oromdeszka, és felkerült rá a dísz is. Így lett befejezett az új cseréptető.
 
 
-![szelfogo](/assets/szerszamtarolo/IMG-20190414-WA0000.jpg)
+![szelfogo](/assets/szerszamtarolo/IMG-20190414-WA0000j.jpg)
 _Már csak festeni kell_
 
 
