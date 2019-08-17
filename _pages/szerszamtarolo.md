@@ -214,7 +214,7 @@ Nagyon megkedveltem a kis tárolónkat. Igaz, sok  feladat volt vele, hogy a sz�
 ![szelfogo](/assets/szerszamtarolo/IMG_20190817_190539.jpg)
 _Pár nappal ezelőtt készítettem ezeket a képeket_
 
-![szelfogo](/assets/szerszamtarolo/IMG_20190817_191008.jpg)
+![szelfogo](/assets/szerszamtarolo/IMG_20190817_191008j.jpg)
 
 
 
