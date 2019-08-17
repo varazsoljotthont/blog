@@ -210,7 +210,7 @@ _A csuhéból készült dekor éven át a házikóban van_
 ## Jó ötlet volt
 
 Nagyon megkedveltem a kis tárolónkat.  
-Igaz, sok  feladat volt vele, hogy a szélfogó átalakuljon kerti szerszámossá, de ez megint csak egy olyan projektünk lett, amit nem bántunk meg. Nagy segítség, hogy egy helyen tudom tartani a virágföldet, tápoldatokat, cserepeket, a kerti szerszámaimat. De elférnek itt a téli kerti dekorációk is, és az már csak a bónusz, hogy az épületet magát is lehet csinosítani.
+Igaz, sok feladat volt, hogy a szélfogó átalakuljon kerti szerszámossá, de ez megint csak egy olyan projektünk lett, amit nem bántunk meg. Nagy segítség, hogy egy helyen tudom tartani a virágföldet, tápoldatokat, cserepeket, a kerti szerszámaimat. De elférnek itt a téli kerti dekorációk is, és az már csak a bónusz, hogy az épületet magát is lehet csinosítani.
 
 ![szelfogo](/assets/szerszamtarolo/IMG_20190817_190539.jpg)
 _Pár nappal ezelőtt készítettem ezeket a képeket_
