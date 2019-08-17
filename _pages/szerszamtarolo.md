@@ -194,12 +194,17 @@ _Karácsonyi hangulatban_
 
 
 ![szelfogo](/assets/szerszamtarolo/IMG_20181219_183053_207.jpg)
-_
+_A koszorúk szőlővenyigébő készültek_
 
 
 
 ![szelfogo](/assets/szerszamtarolo/IMG_20190410_232244_807.jpg)
 _Húsvéti díszben_
+
+
+![szelfogo](/assets/szerszamtarolo/IMG_20181218_212257_024.jpg)
+_A csuhéból készült dekor éven át a házikóban van-
+
 
 ## Jó ötlet volt
 
