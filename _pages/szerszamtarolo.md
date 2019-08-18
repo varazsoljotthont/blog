@@ -12,12 +12,12 @@ image:
 
 
 
-**A kertet szerető emberek tavasztól őszig örömmel töltik az időt a növényeik társaságában. A szép kert időt, odafigyelést és jó munka eszközöket igényel. Hogy minden kéznél legyen kell egy olyan hely, ahol minden szükséges szerszámot együtt tudunk tárolni, közel van a növényekhez, de stílusában is beillik a kert hangulatába.**
+**A kertet szerető emberek tavasztól őszig örömmel töltik az időt növényeik társaságában. A szép kert időt, odafigyelést és jó munka eszközöket igényel. Hogy minden kéznél legyen kell egy olyan hely, ahol minden szükséges szerszámot együtt tudunk tárolni, közel van a növényekhez, de stílusában is beillik a kert hangulatába.**
  
 
 ## Meglátni és megszeretni...
 
-A mi szerszámosunk története egy jó barátunk ház felújításával kezdődött.
+A mi szerszámosunk története egy jó barátunk házfelújításával kezdődött.
 
 Épp egy nagyobb feladathoz készültek, amihez szükség volt pár emberre, és az én férjuram is ment segíteni már kora reggel.  
 
@@ -54,7 +54,7 @@ Tudtam, hogy náluk feleslegessé vált, így gyorsan meg is kérdeztem a házig
 
 
 
-"Hát, a fiúkkal elvisszük hátra, és majd csinálok belőle valamit" - mondta a barátunk. Talán látszott rajtam valami csalódottság féle, mert a barátunk hamarosan visszakérdezett, hogy miért érdeklődöm.
+"Hát, a fiúkkal elvisszük hátra, és majd csinálok belőle valamit" - mondta a barátunk. Talán látszott rajtam valami csalódottság féle, mert hamarosan visszakérdezett, hogy miért érdeklődöm.
 Tán' lenne valami ötletem?
 
 
@@ -159,7 +159,7 @@ Ahhoz, hogy teljes legyen a kép, szükség volt még pár apróságra.
 
 **Függöny**
 
-Olyan csupasz volt szegényke, hogy muszáj volt felöltözetenem. 
+Olyan csupasz volt szegényke, hogy muszáj volt felöltöztetnem. 
 A neki való anyagot régóta őrizgettem. Kereste a helyét, és ide tökéletesenk bizonyult.  
 Pár óra alatt megvarrtam, felraktam és ezzel az apró kiegészítéssel teljesen átváltozott.
 
@@ -202,7 +202,7 @@ _A csuhéból készült dekor éven át a házikóban van_
 ## Jó ötlet volt
 
 Nagyon megkedveltem a kis tárolónkat.  
-Igaz, sok feladat volt, hogy a szélfogó átalakuljon kerti szerszámossá, de ez megint csak egy olyan projektünk lett, amit nem bántunk meg. Nagy segítség, hogy egy helyen tudom tartani a virágföldet, tápoldatokat, cserepeket, a kerti szerszámaimat. De elférnek itt a téli kerti dekorációk is, és az már csak a bónusz, hogy az épületet magát is lehet csinosítani.
+Igaz, sok feladat volt, hogy a szélfogó átalakuljon kerti szerszámossá, de ez megint csak egy olyan projektünk lett, amit nem bántunk meg. Nagy segítség, hogy egy helyen tudom tartani a virágföldet, tápoldatokat, cserepeket, a kerti szerszámaimat. De elférnek itt a téli kerti dekorációk is, és az már csak bónusz, hogy az épületet magát is lehet csinosítani.
 
 ![szelfogo](/assets/szerszamtarolo/IMG_20190817_190539jjj.jpg)
 _Pár nappal ezelőtt készítettem ezeket a képeket_
