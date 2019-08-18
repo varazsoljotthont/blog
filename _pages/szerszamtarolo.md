@@ -21,11 +21,9 @@ A mi szerszámosunk története egy jó barátunk ház felújításával kezdőd
 
 Épp egy nagyobb feladathoz készültek, amihez szükség volt pár emberre, és az én férjuram is ment segíteni már kora reggel.  
 
-A nap folyamán elvégezték amit el kellett, én pedig délután mentem érte és jól "megcsodálkoztam", hogy milyen sokat dolgozott a csapat.
+A nap folyamán elvégezték amit el kellett, én pedig délután mentem érte és jól "megcsodálkoztam", hogy milyen sokat dolgozott a csapat. Haza indulás előtt - ahogy az lenni szokott - még volt egy kis beszélgetés, egy utolsó körbenézés, és én eközben megláttam ŐT...  
 
-Ahogy az lenni szokott, a haza indulás előtt még volt egy kis beszélgetés, és én közben megláttam ŐT...  
-
-A kis építményt, ami a barátunknál szélfogóként működött, de az átépítéssel megszűnni látszott a szerepe. 
+A kis építményt, ami a barátunknál szélfogóként működött, de az átépítéssel megszűnni látszott a szerepe.  
 Nem először láttam, de most valahogy másként néztem rá.
 
 
