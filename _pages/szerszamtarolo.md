@@ -76,9 +76,7 @@ Azért azt el kell mondanom, hogy a férjem eközben csak kapkodta a fejét. Nin
 ## Hogy lesz ez elszállítva?
 
 
-A szállítás nem kis átgondolást igényelt.
-
-A méret és a sok ablak miatt nem volt egyszerű.
+A szállítás nem kis átgondolást igényelt. A méret és a sok ablak miatt nem volt egyszerű.
 
 ![szelfogo](/assets/szerszamtarolo/20180916_141558j.jpg)
 
