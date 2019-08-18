@@ -21,7 +21,7 @@ A mi szerszámosunk története egy jó barátunk ház felújításával kezdőd
 
 Épp egy nagyobb feladathoz készültek, amihez szükség volt pár emberre, és az én férjuram is ment segíteni már kora reggel.  
 
-A nap folyamán elvégezték amit el kellett, én pedig délután mentem érte és jól "megcsodálkoztam", hogy milyen sokat dolgozott a csapat. Haza indulás előtt - ahogy az lenni szokott - még volt egy kis beszélgetés, egy utolsó körbenézés, és én eközben megláttam ŐT...  
+A nap folyamán elvégezték amit el kellett, én pedig délután mentem érte és jól "megcsodálkoztam", hogy milyen sokat dolgozott a csapat. Haza indulás előtt - ahogy az lenni szokott - még volt egy kis beszélgetés, egy utolsó körbenézés és én közben megláttam ŐT...  
 
 A kis építményt, ami a barátunknál szélfogóként működött, de az átépítéssel megszűnni látszott a szerepe.  
 Nem először láttam, de most valahogy másként néztem rá.
@@ -54,11 +54,7 @@ Tudtam, hogy náluk feleslegessé vált, így gyorsan meg is kérdeztem a házig
 
 
 
-"Hát, a fiúkkal elvisszük hátra, és majd csinálok belőle valamit" - mondta a barátunk, és én el is szomorodtam.
-
-Na jó, akkor ez itt marad. - könyveltem el magamban.
-
-De a barát azért barát mert ismer bennünket, így aztán vissza is kérdezett, hogy miért érdeklődöm.
+"Hát, a fiúkkal elvisszük hátra, és majd csinálok belőle valamit" - mondta a barátunk. Talán látszott rajtam valami csalódottság féle, mert a barátunk hamarosan visszakérdezett, hogy miért érdeklődöm.
 Tán' lenne valami ötletem?
 
 
