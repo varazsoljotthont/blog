@@ -209,7 +209,8 @@ _Pár nappal ezelőtt készítettem ezeket a képeket_
 
 ![szelfogo](/assets/szerszamtarolo/j.jpg)
 
-
+![szelfogo](/assets/szerszamtarolo/IMG_20190818_080258.jpg)
+_Szeretem, hogy a kertiszerszámos teteje olyan mint egy háztető_
 
 
 
