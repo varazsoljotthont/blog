@@ -91,7 +91,7 @@ Itthon a lepakolás után következett részemről az örömködés, férjem ré
 
 
 ## Összeállítás
-Mikor hazahaztuk, letettük a kertben és napokig csak kerülgettük. Tervezgettük, hogy hova kellene felépíteni, merre nézzen, milyen legyen.
+Mikor hazahoztuk, letettük a kertben és napokig csak kerülgettük. Tervezgettük, hogy hova kellene felépíteni, merre nézzen, milyen legyen.
 
 Mikor megtaláltuk a helyét, a férjem apránként elkezdte újra összerakni.
 
@@ -104,7 +104,7 @@ Mikor megtaláltuk a helyét, a férjem apránként elkezdte újra összerakni.
 
 * A szélfogó darabjainak odacipelése az új helyre
 
-* Összehegesztés
+* Heggesztés
 
 * A nyitott oldal lezárása
 
