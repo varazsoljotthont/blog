@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Átalakult a szélfogó, avagy így lett kisházunk a kertben"
+title: "Az átalakult a szélfogó története, avagy így lett kisházunk a kertben"
 permalink: /szerszamtarolo/
 cover: /assets/szerszamtarolo/cover.jpg
 categories: [kert, dekor]
