@@ -94,10 +94,7 @@ Itthon a lepakolás után következett részemről az örömködés, férjem ré
 
 
 ## Összeállítás
-
-Mikor hazahoztuk letettük a kertben, és napokig csak úgy el volt. 
-
-Tervezgettük, hogy hova kellene felépíteni, merre nézzen, milyen legyen.
+Mikor hazahaztuk, letettük a kertben és napokig csak kerülgettük. Tervezgettük, hogy hova kellene felépíteni, merre nézzen, milyen legyen.
 
 Mikor megtaláltuk a helyét, a férjem apránként elkezdte újra összerakni.
 
