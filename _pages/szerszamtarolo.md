@@ -106,6 +106,7 @@ Mikor megtaláltuk a helyét, a férjem apránként elkezdte újra összerakni.
 * A kiválasztott hely felszabadítása
 
 * A szélfogó darabjainak odacipelése az új helyre
+
 * Összehegesztés
 
 * A nyitott oldal lezárása
