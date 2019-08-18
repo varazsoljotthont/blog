@@ -209,7 +209,7 @@ _Pár nappal ezelőtt készítettem ezeket a képeket_
 
 ![szelfogo](/assets/szerszamtarolo/j.jpg)
 
-![szelfogo](/assets/szerszamtarolo/IMG_20190818_083724.jpg.jpg)
+![szelfogo](/assets/szerszamtarolo/IMG_20190818_083724.jpg)
 _Szeretem, ahogy megbújik a kertben_
 
 
