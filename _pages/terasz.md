@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "Így építs rusztikus hangulatú teraszt" 
-permalink: /terasz/
-cover: /assets/terasz/coverj.JPG
+title: "A kerti rom, a legjobb búvóhely" 
+permalink: /kertirom/
+cover: /assets/kertirom/coverj.JPG
 categories: [haz, kert, dekor]
 image:
-  path: /assets/terasz/coverj.JPG
+  path: /assets/kertirom/coverj.JPG
   height: 300
   width: 300
 ---
@@ -13,13 +13,15 @@ image:
 
 
 
-**Egy családi ház lakóinak életében talán a terasz az egyik legkedveltebb hely. Sok esetben átmenetet képez a lakórész és a kert között, szinte összeköti a két teret. Ezért (is) fontos, hogy hangulatában, stílusában mindkettőt megidézze. Mert nincs is annál jobb, mint kiülni egy hangulatos verandára, hallgatni a madarak énekét és a reggeli csendben elmélázva meginni a kávénkat.**
-
-![idézet](/assets/terasz/kave.png)
+**A szép kerthez manapság már szervesen hozzátartoznak a különböző kerti építmények. A sütögető hely, a kemence, a kiülő, és újabban a kertiromnak nevezett különleges hangulatú kerti búvóhely is. Az újonnan épített romfal stílusával megidézi a régi korok patinás világát, ahol megpihenve testünket, lelkünket átjárja a nyugalom.**  
 
 
 
-A "Miházunknak" nem volt sem terasza, sem verandája, csak egy kicsi betonplacc a bejárati ajtó előtt. Arra tökéletes volt, hogy az ajtó előtt ne kelljen a sárban állni, de másra nem igazán lehetett használni.
+## Régi álom, új ötlet
+
+
+
+Mindig tetszettek
 
 
 ![terasz](/assets/terasz/DSCF0008.JPG)
