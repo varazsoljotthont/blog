@@ -13,7 +13,7 @@ image:
 
 
 
-**A szép kerthez manapság már szervesen hozzátartoznak a különböző kerti építmények. A sütögető hely, a kemence, a kiülő, és újabban a kertiromnak nevezett különleges hangulatú kerti búvóhely is. Az újonnan épített romfal stílusával megidézi a régi korok patinás világát, ahol megpihenve testünket, lelkünket átjárja a nyugalom.**  
+**A szép kerthez manapság már szervesen hozzátartoznak a különböző kerti építmények. A sütögető hely, a kemence, a kiülő, és újabban a kertiromnak nevezett különleges hangulatú kerti búvóhely is. Az újonnan épített romfal stílusával megidézi a régi korok letűnt világát, ahol megpihenve testünket, lelkünket átjárja a nyugalom.**  
 
 
 
