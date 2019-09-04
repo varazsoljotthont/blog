@@ -13,17 +13,16 @@ image:
 
 
 
-**A szép kerthez manapság már szervesen hozzátartoznak a különböző kerti építmények. A sütögető hely, a kemence, a kiülő, és újabban a kertiromnak nevezett különleges hangulatú kerti búvóhely is. Az újonnan épített romfal stílusával megidézi a régi korok letűnt világát, ahol megpihenve testünket, lelkünket átjárja a nyugalom.**  
+**A szép kerthez manapság már szervesen hozzátartoznak a különböző kerti építmények. A sütögető hely, a kemence, a kiülő, és újabban a kertiromnak nevezett különleges hangulatú kerti búvóhely is. Az újonnan épített romfal stílusával megidézi a régi idők letűnt világát, és itt pihenve testünket, lelkünket átjárja a nyugalom.**  
 
 
 
 ## Régi álom, új ötlet
 
 
+A régi romos épületek különleges világa mindig közel állt hozzám.  
 
-Mindig tetszettek
-
-
+A leomlott falak között ott maradt egy darabka múlt, és ez teszi varázslatossá, 'hisz a természet visszakövetelte magának újra benőtt a sűrű növényzet, és ezzel egy vadregényes
 ![terasz](/assets/terasz/DSCF0008.JPG)
 _A kezdetek_
 
