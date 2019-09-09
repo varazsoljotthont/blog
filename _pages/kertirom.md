@@ -20,14 +20,25 @@ image:
 ## Régi álom, új ötlet
 
 
-A régi, romos épületek romantikus világa mindig közel állt hozzám.  
+A régi, romos épületek vadregényes világa mindig közel állt hozzám.  
+A leomlott falak között mindig ott marad egy darabka múlt, és a sok év alatt a természet is visszaköveteli magának azt, ami egykor az övé volt. 
 
-A leomlott falak között ott maradt egy darabka múlt, és ettől lesz olyan varázslatos.  'hisz a természet visszakövetelte magának újra benőtt a sűrű növényzet, és ezzel egy vadregényes
+Ezt a varázslatos hangulatot szerettük volna a kertünkben is látni. Bontott téglából képzeltük el, és szándékosan nem terveztük túl szabályosra. A célunk az volt, hogy olyan legyen mint ami már évek óta ott áll a helyén, és már kissé ütött-kopott is lett az időjárás szeszélye folytán.
+
 
 ![kertirom](/assets/kertirom/IMG_20190613_220145_122.jpg)
 
 
-Az átalakításkor a bejárati ajtót is áthelyeztük. Már akkor hozzá betonoztunk az ajtó előtti részhez, de így is kicsinek bizonyult az alapterület.
+## Keressük a kertirom helyét
+
+Sokat beszélgettünk erről a tervünkről. Mindketten nagyon szerettünk volna, egy ilyen tuti kis búvóhelyet az udvarunkban vagy az Uradalomban.
+
+Igen, mi búvóhelynek akartuk. Olyan helynek, ahova ki lehet feküdni napozni, olvasni, vagy csak kint lenni úgy, hogy senki nem lát bennünket.
+Ennek a szempontunknak csak az Uradalom felelt meg. Annak is vége, ahol egy nagyra nőtt barkafa álldogált.
+
+**Barkafa**
+
+A barkafa sarkalatos pontja volt
 
 ![terasz](/assets/terasz/DSCF0804.JPG)
 _Már ennek a kis terasznak is nagyon örültünk_
