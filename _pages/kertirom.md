@@ -30,16 +30,16 @@ Ezt a varázslatos hangulatot szerettük volna a kertünkben is látni. Bontott 
 
 ## Keressük a kertirom helyét
 
-Sokat beszélgettünk erről a tervünkről. Mindketten nagyon szerettünk volna, egy ilyen tuti kis búvóhelyet az udvarunkban vagy az Uradalomban.
+Sokat beszélgettünk erről a tervünkről.  
+Mindketten nagyon szerettünk volna egy ilyen tuti kis búvóhelyet az Uradalomban.
 
-Igen, mi búvóhelynek akartuk. Olyan helynek, ahova ki lehet feküdni napozni, olvasni, vagy csak kint lenni úgy, hogy senki nem lát bennünket.
-Ennek a szempontunknak csak az Uradalom felelt meg. Annak is vége, ahol egy nagyra nőtt barkafa álldogált.
-
-
+Igen, mi búvóhelynek akartuk.     
+Olyan helynek, ahova ki lehet feküdni napozni, olvasni, vagy csak kint lenni úgy, hogy senki nem lát bennünket.
+Ki is választottuk a helyet az Uradalom végében, és tökéletesnek is látszott a hely, csak egy nagyra nőtt barkafa okozott némi gondot.
 
 **Barkafa**
 
-A barkafa sarkalatos pontja volt
+A barkafa sarkalatos pontja volt a tervnek.
 
 ![kertirom](/assets/kertirom/IMG_20190806_154152_907.jpg)
 
