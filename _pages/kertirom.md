@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "A kerti rom, a legjobb búvóhely" 
+title: "Kerti rom, a legjobb búvóhely" 
 permalink: /kertirom/
-cover: /assets/kertirom/coverj.JPG
+cover: /assets/kertirom/cover.JPG
 categories: [haz, kert, dekor]
 image:
-  path: /assets/kertirom/coverj.JPG
+  path: /assets/kertirom/cover.JPG
   height: 300
   width: 300
 ---
@@ -20,11 +20,11 @@ image:
 ## Régi álom, új ötlet
 
 
-A régi romos épületek különleges világa mindig közel állt hozzám.  
+A régi, romos épületek romantikus világa mindig közel állt hozzám.  
 
-A leomlott falak között ott maradt egy darabka múlt, és ez teszi varázslatossá, 'hisz a természet visszakövetelte magának újra benőtt a sűrű növényzet, és ezzel egy vadregényes
-![terasz](/assets/terasz/DSCF0008.JPG)
-_A kezdetek_
+A leomlott falak között ott maradt egy darabka múlt, és ettől lesz olyan varázslatos.  'hisz a természet visszakövetelte magának újra benőtt a sűrű növényzet, és ezzel egy vadregényes
+
+![kertirom](/assets/idézet/IMG_20190613_220145_122.jpg)
 
 
 Az átalakításkor a bejárati ajtót is áthelyeztük. Már akkor hozzá betonoztunk az ajtó előtti részhez, de így is kicsinek bizonyult az alapterület.
