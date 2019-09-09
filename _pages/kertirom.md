@@ -21,27 +21,31 @@ image:
 
 
 A régi, romos épületek vadregényes világa mindig közel állt hozzám.  
-A leomlott falak között mindig ott marad egy darabka múlt, és a sok év alatt a természet is visszaköveteli magának azt, ami egykor az övé volt. 
+Szeretem, ahogy a leomlott falak között ott rejtőzik egy darabka múlt, ahogy a természet visszaköveteli magának azt, ami egykor az övé volt. 
 
-Ezt a varázslatos hangulatot szerettük volna a kertünkben is látni. Bontott téglából képzeltük el, és szándékosan nem terveztük túl szabályosra. A célunk az volt, hogy olyan legyen mint ami már évek óta ott áll a helyén, és már kissé ütött-kopott is lett az időjárás szeszélye folytán.
+Ezt a varázslatos hangulatot szerettük volna mi is a kertünkben látni. Bontott téglából képzeltük el, és szándékosan nem terveztük túl szabályosra. A célunk az volt, hogy olyan legyen mint ami már évek óta áll a helyén, és kissé ütött-kopott is lett az időjárás szeszélye folytán.
 
 ![kertirom](/assets/kertirom/IMG_20190613_220145_122.jpg)
 
 
 ## Keressük a kertirom helyét
 
-Sokat beszélgettünk erről a tervünkről.  
-Mindketten nagyon szerettünk volna egy ilyen tuti kis búvóhelyet az Uradalomban.
+Sokat beszélgettünk arról, hogy hol lenne a legjobb a helyen a mi "romunk". Többször körbejártuk a ház környékét és egyértelműen megszavaztuk az Uradalmat, mint lehetséges helyszínt. Kis tanakodás után a kert végében ki is jelöltük a helyét. 
 
-Igen, mi búvóhelynek akartuk.     
-Olyan helynek, ahova ki lehet feküdni napozni, olvasni, vagy csak kint lenni úgy, hogy senki nem lát bennünket.
-Ki is választottuk a helyet az Uradalom végében, és tökéletesnek is látszott a hely, csak egy nagyra nőtt barkafa okozott némi gondot.
+Nagyon szerettük volna búvóhelynek megcsinálni.  
+Olyan helynek, ahova ki lehet feküdni napozni, olvasni, vagy csak kint lenni úgy, hogy senki nem lát bennünket. Ahol körbe tudjuk ültetni bokrokkal, fákkal, virágokkal, hogy kellően "titkos", romantikus legyen.
 
-**Barkafa**
+![kertirom](/assets/kertirom/IMG_20190806_154152_907.jpg)
+_A helyszín, ami itt még elég kopár_
+    
+
+**A barkafa**
+
 
 A barkafa sarkalatos pontja volt a tervnek.
 
-![kertirom](/assets/kertirom/IMG_20190806_154152_907.jpg)
+
+![kertirom](/assets/kertirom/1.jpg)
 
 
 Jobb híján ezt neveztem ki [pihenőhelynek](/2019-02-12/varrogepasztal) és az akkori állapotokhoz nagyjából passzolt is. 
