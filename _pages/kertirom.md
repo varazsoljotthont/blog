@@ -25,7 +25,6 @@ A leomlott falak között mindig ott marad egy darabka múlt, és a sok év alat
 
 Ezt a varázslatos hangulatot szerettük volna a kertünkben is látni. Bontott téglából képzeltük el, és szándékosan nem terveztük túl szabályosra. A célunk az volt, hogy olyan legyen mint ami már évek óta ott áll a helyén, és már kissé ütött-kopott is lett az időjárás szeszélye folytán.
 
-
 ![kertirom](/assets/kertirom/IMG_20190613_220145_122.jpg)
 
 
@@ -36,12 +35,13 @@ Sokat beszélgettünk erről a tervünkről. Mindketten nagyon szerettünk volna
 Igen, mi búvóhelynek akartuk. Olyan helynek, ahova ki lehet feküdni napozni, olvasni, vagy csak kint lenni úgy, hogy senki nem lát bennünket.
 Ennek a szempontunknak csak az Uradalom felelt meg. Annak is vége, ahol egy nagyra nőtt barkafa álldogált.
 
+
+
 **Barkafa**
 
 A barkafa sarkalatos pontja volt
 
-![terasz](/assets/terasz/DSCF0804.JPG)
-_Már ennek a kis terasznak is nagyon örültünk_
+![kertirom](/assets/kertirom/IMG_20190806_154152_907.jpg)
 
 
 Jobb híján ezt neveztem ki [pihenőhelynek](/2019-02-12/varrogepasztal) és az akkori állapotokhoz nagyjából passzolt is. 
