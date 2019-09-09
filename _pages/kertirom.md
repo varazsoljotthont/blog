@@ -24,7 +24,7 @@ A régi, romos épületek romantikus világa mindig közel állt hozzám.
 
 A leomlott falak között ott maradt egy darabka múlt, és ettől lesz olyan varázslatos.  'hisz a természet visszakövetelte magának újra benőtt a sűrű növényzet, és ezzel egy vadregényes
 
-![kertirom](/assets/idézet/IMG_20190613_220145_122.jpg)
+![kertirom](/assets/kertirom/IMG_20190613_220145_122.jpg)
 
 
 Az átalakításkor a bejárati ajtót is áthelyeztük. Már akkor hozzá betonoztunk az ajtó előtti részhez, de így is kicsinek bizonyult az alapterület.
