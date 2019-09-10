@@ -35,6 +35,8 @@ Sokat beszélgettünk arról, hogy hol lenne a legjobb a helyen a mi "romunk". T
 Nagyon szerettük volna búvóhelynek megcsinálni.  
 Olyan helynek, ahova ki lehet feküdni napozni, olvasni, vagy csak kint lenni úgy, hogy senki nem lát bennünket. Ahol körbe tudjuk ültetni bokrokkal, fákkal, virágokkal, hogy kellően "titkos", romantikus legyen.
 
+## Kialakítás
+
 
 Az Uradalmat több lépcsőben alakítottuk ki.
 
@@ -51,7 +53,7 @@ _A kiindulási alap_
 A barkafa sarkalatos pontja volt a tervnek.
 
 Pár évvel ezelőtt, a barkát is az elsők között ültettük el.  
-Anyutól kaptam néhány levágott ágat, amit a kert sarkába el is ültettünk. Gyönyörűen megeredt, és mi nem akartuk megbolygatni, ezért megkerültük.
+Anyutól kaptam néhány levágott ágat, amit a kert sarkába le is dugtunk. Gyönyörűen megeredt és mi nem akartuk megbolygatni, inkább megkerültük.
 
 ![kertirom](/assets/kertirom/IMG_20190806_154152_907.jpg)
 
