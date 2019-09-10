@@ -89,16 +89,18 @@ A tégla széléhez cserepeket süllyesztett le a férjem, hogy a tarack és egy
 ![kertirom](/assets/kertirom/20180518_183411j.jpg)
 _Itt látszik egy kicsit a jól bevált cserép technológiánk_
 
+
+
+Az aljzat nem a "hivatalos" térköves módszerrel lett lerakva, ezért nem is teljesen egyenes a felület. Ez bennünket nem zavar, a mi elképzelésünk egy szerethetően girbe-gurba placc volt. A használat során a téglák "maguktól beálltak" és mostanra fel sem tűnik az esetleges egyenetlensége.
+
 A téglák lerakása után a hézagokat homokkal feltöltöttem, és még a tél beállta előtt tégla balzsammal a felületét átkentem.
+
+Mivel a tégla homokágyra van rakva és rések is homokkal lettek kitöltve, a téli csapadék be tud szivárogni. Itt előfordul, hogy a tél végére egy-egy felfagy, de az könnyen cserélhető.
 
 ![kertirom](/assets/kertirom/4.JPG)
 _Ez a része kipipálva_
 
 
-
-Az aljzat nem a "hivatalos" térköves módszerrel lett lerakva, ezért nem is teljesen egyenes a felület. Ez bennünket nem zavar, a mi elképzelésünk egy szerethetően girbe-gurba placc volt. A használat során a téglák "maguktól beálltak" és mostanra fel sem tűnik az esetleges egyenetlensége.
-
-Mivel a tégla homokágyra van rakva és rések is homokkal lettek kitöltve, a téli csapadék be tud szivárogni. Itt előfordul, hogy a tél végére egy-egy felfagy, de az könnyen cserélhető.
 
 
 
