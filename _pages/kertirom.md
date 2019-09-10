@@ -23,7 +23,7 @@ image:
 A régi, romos épületek vadregényes világa mindig közel állt hozzám.  
 Szeretem, ahogy a leomlott falak közé elrejtőzött egy darabka múlt, ahogy a természet visszavette magának azt, ami egykor az övé volt.
 
-Ezt a varázslatos hangulatot szerettük volna mi is a kertünkben látni. [Bontott téglából](/2019-04-23/tegla) képzeltük el, és szándékosan nem terveztük túl szabályosra. A célunk az volt, hogy olyan legyen mint ami már évek óta áll a helyén, és kissé ütött-kopott is lett az időjárás szeszélye folytán.
+Ezt a varázslatos hangulatot szerettük volna mi is a kertünkben látni. [Bontott téglából](/2019-04-23/tegla) képzeltük el, és szándékosan nem terveztük túl szabályosra. A célunk az volt, hogy olyan legyen mint ami már évek óta áll a helyén, és kissé ütött-kopott lett az időjárás szeszélye folytán.
 
 ![kertirom](/assets/kertirom/IMG_20190613_220145_122.jpg)
 
@@ -52,7 +52,7 @@ _A kiindulási alap_
 
 A barkafa sarkalatos pontja volt a tervnek.
 
-Pár évvel ezelőtt, a barkát is az elsők között ültettük el.  
+Pár évvel ezelőtt a barkát is az elsők között ültettük el.  
 Anyutól kaptam néhány levágott ágat, amit a kert sarkába le is dugtunk. Gyönyörűen megeredt és mi nem akartuk megbolygatni, inkább megkerültük.
 
 ![kertirom](/assets/kertirom/IMG_20190806_154152_907.jpg)
@@ -61,11 +61,11 @@ _Mostanra már ilyen hatalmasra nőtt_
 
 **Kezdődjön hát a pihenősarok kialakítása**
 
-A sok ötletelés eredményeként tölcsér alakzatban lett kijelölve a hely. 
+A sok ötletelés eredményeként tölcsér alakban lett kijelölve a hely. 
 
 A két ágyás közé egy kis járdát terveztünk, a sarokban pedig nagy helyet hagytunk, hogy elférjen majd egy asztal és két szék.
 
-Első lépésként a föld magasságából lett leszedve, majd geotextíliát terítettünk le, Arra jött az elterített homok és végül a tégla.
+Első lépésként a föld magasságából lett leszedve, majd geotextíliát terítettünk le, arra jött az elterített homok és végül a tégla.
 
 
 ![kertirom](/assets/kertirom/20180518_165603.jpg)
@@ -83,7 +83,7 @@ A tégla széléhez cserepeket süllyesztett le a férjem, hogy a tarack és egy
 > Nekünk nagyon bevált ez a módszer. Az Uradalomban, az ágyások széléhez mindenhova tettünk és nagyon hatásosnak bizonyult a gazok ellen.
 
 ![kertirom](/assets/kertirom/20180518_183411j.jpg)
-_Itt látszik a jól bevált cserép technológiánk_
+_Itt látszik egy kicsit a jól bevált cserép technológiánk_
 
 A téglák lerakása után a hézagokat homokkal feltöltöttem, és még a tél beállta előtt tégla balzsammal a felületét átkentem.
 
@@ -92,7 +92,7 @@ _Ez a része kipipálva_
 
 Az aljzat nem a "hivatalos" térköves módszerrel lett lerakva, ezért nem is teljesen egyenes a felület. Ez bennünket nem zavar, a mi elképzelésünk egy szerethetően girbe-gurba placc volt. A használat során a téglák "maguktól beálltak" és mostanra fel sem tűnik az esetleges egyenetlensége.
 
-Mivel a tégla homokágyra van rakva és rések is homokkal lettek kitöltve, a téli csapadék be tud szivárogni. Itt előfordul, hogy a tél végére egy-egy  felfagy. 
+Mivel a tégla homokágyra van rakva és rések is homokkal lettek kitöltve, a téli csapadék be tud szivárogni. Itt előfordul, hogy a tél végére egy-egy felfagy, de az könnyen cserélhető.
 
 
 
