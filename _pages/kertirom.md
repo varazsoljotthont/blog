@@ -41,8 +41,8 @@ Az Uradalmat több lépcsőben alakítottuk ki.
 Elsőként zebrafűvet ültettünk, majd egy-két fát és bokrot. A kertről ekkor még mi sem hittük, hogy egyszer szép is lehet... 
 
 
-![kertirom](/assets/kertirom/1.JPG)
-_A helyszín, ami itt még elég kopár_
+![kertirom](/assets/kertirom/36931398_1610570545708975_6626035408352313344_n.jpg)
+_A kiindulási alap_
     
 
 **A barkafa**
