@@ -2,10 +2,10 @@
 layout: post
 title: "Kerti rom, a legjobb búvóhely" 
 permalink: /kertirom/
-cover: /assets/kertirom/cover.JPG
+cover: /assets/kertirom/cover.jpg
 categories: [haz, kert, dekor]
 image:
-  path: /assets/kertirom/cover.JPG
+  path: /assets/kertirom/cover.jpg
   height: 300
   width: 300
 ---
