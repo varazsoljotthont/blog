@@ -74,7 +74,16 @@ Első lépésként a föld magasságából lett leszedve, majd geotextíliát te
 
 ![kertirom](/assets/kertirom/20180518_173345.jpg)
 
+
+
+
 ![kertirom](/assets/kertirom/20180518_183411j.jpg)
+_Vigyázva a barkára_
+
+
+
+![kertirom](/assets/kertirom/4.jpg)
+_Ez a része kipipálva_
 
 
 
