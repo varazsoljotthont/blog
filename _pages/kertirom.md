@@ -67,7 +67,7 @@ _Mostanra már ilyen hatalmasra nőtt_
 
 A sok ötletelés eredményeként tölcsér alakban lett kijelölve a hely. 
 
-A két ágyás közé egy kis járdát terveztünk, a sarokban pedig nagy helyet hagytunk, hogy elférjen majd egy asztal és két szék.
+A két ágyás közé egy kis járdát terveztünk, a sarokban pedig nagy helyet hagytunk, hogy elférjen majd egy asztal a székekkel.
 
 Első lépésként a föld magasságából lett leszedve, majd geotextíliát terítettünk le, arra jött az elterített homok és végül a tégla.
 
@@ -106,7 +106,13 @@ _Ez a része kipipálva_
 
 ![kertirom](/assets/kertirom/36872573_1610900185676011_7228177638429294592_n.jpg)
 
+## Kertirom építése indul
 
+**Alap**
+
+Idén kora tavasszal kezdtük meg a munkákat, az alap kiásásával.
+
+Kb.: 80 cm mély sávalapja lett az építménynek, és néhol - biztos, ami biztos alapon - még vasalat is került a betonba. Mindenképpen 
 
 **+ 1 gondolat:**  
 Egy régi ház felújítása, átalakítása mindig kompromisszumokkal jár. Az, hogy kinek mi az elsődleges, mi a fontos, nagyon eltérő. Persze, mi is örülnénk a több fénynek, a nagyobb világosságnak, de az, hogy sikerült megőriznünk a házunk parasztházas "egyéniségét" nekünk fontosabb volt.
