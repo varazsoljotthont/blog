@@ -118,7 +118,7 @@ Alap nélkül nem lehet felépíteni ekkora falakat, ezért kb.: 80 cm mély sá
 
 ![kertirom](/assets/kertirom/IMG_20190228_081741.jpg)
 
-![kertirom](/assets/kertirom/IMG_20190228_081810.jpg)
+![kertirom](/assets/kertirom/IMG_20190228_081810j.jpg)
 
 ![kertirom](/assets/kertirom/IMG_20190228_081839.jpg)
 
