@@ -112,7 +112,16 @@ _Ez a része kipipálva_
 
 Idén kora tavasszal az alap kiásásával kezdtük meg a munkákat.
 
-Kb.: 80 cm mély sávalapja lett az építménynek, és néhol - biztos, ami biztos alapon - még vasalat is került a betonba. Alap nélkül nem lehet felépíteni ekkora 
+Alap nélkül nem lehet felépíteni ekkora falakat, ezért kb.: 80 cm mély sávalapja lett az építménynek, és néhol - biztos, ami biztos alapon - még vasalat is került a betonba. 
+
+![kertirom](/assets/kertirom/IMG_20190228_081820.jpg)
+
+![kertirom](/assets/kertirom/IMG_20190228_081741.jpg)
+
+![kertirom](/assets/kertirom/IMG_20190228_081810.jpg)
+
+![kertirom](/assets/kertirom/IMG_20190228_081839.jpg)
+
 
 **+ 1 gondolat:**  
 Egy régi ház felújítása, átalakítása mindig kompromisszumokkal jár. Az, hogy kinek mi az elsődleges, mi a fontos, nagyon eltérő. Persze, mi is örülnénk a több fénynek, a nagyobb világosságnak, de az, hogy sikerült megőriznünk a házunk parasztházas "egyéniségét" nekünk fontosabb volt.
