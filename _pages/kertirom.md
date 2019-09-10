@@ -21,7 +21,7 @@ image:
 
 
 A régi, romos épületek vadregényes világa mindig közel állt hozzám.  
-Szeretem, ahogy a leomlott falak között ott rejtőzik egy darabka múlt, ahogy a természet visszaköveteli magának azt, ami egykor az övé volt. 
+Szeretem, ahogy a leomlott falak közé elrejtőzött egy darabka múlt, ahogy a természet visszavette magának azt, ami egykor az övé volt.
 
 Ezt a varázslatos hangulatot szerettük volna mi is a kertünkben látni. Bontott téglából képzeltük el, és szándékosan nem terveztük túl szabályosra. A célunk az volt, hogy olyan legyen mint ami már évek óta áll a helyén, és kissé ütött-kopott is lett az időjárás szeszélye folytán.
 
