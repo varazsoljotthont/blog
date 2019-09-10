@@ -97,7 +97,7 @@ A téglák lerakása után a hézagokat homokkal feltöltöttem, és még a tél
 
 Mivel a tégla homokágyra van rakva és rések is homokkal lettek kitöltve, a téli csapadék be tud szivárogni. Itt előfordul, hogy a tél végére egy-egy felfagy, de az könnyen cserélhető.
 
-**éligkészen is 
+**A terv első fele elkészült** 
 
 Nyárra már így, félkészen is hangulatos hellyé vált ez a kis kerti zug. Megszerettük, de mindenképpen akartunk oda egy romfalat.  
 
@@ -110,9 +110,9 @@ _Ez a része kipipálva_
 
 **Alap**
 
-Idén kora tavasszal kezdtük meg a munkákat, az alap kiásásával.
+Idén kora tavasszal az alap kiásásával kezdtük meg a munkákat.
 
-Kb.: 80 cm mély sávalapja lett az építménynek, és néhol - biztos, ami biztos alapon - még vasalat is került a betonba. Mindenképpen 
+Kb.: 80 cm mély sávalapja lett az építménynek, és néhol - biztos, ami biztos alapon - még vasalat is került a betonba. Alap nélkül nem lehet felépíteni ekkora 
 
 **+ 1 gondolat:**  
 Egy régi ház felújítása, átalakítása mindig kompromisszumokkal jár. Az, hogy kinek mi az elsődleges, mi a fontos, nagyon eltérő. Persze, mi is örülnénk a több fénynek, a nagyobb világosságnak, de az, hogy sikerült megőriznünk a házunk parasztházas "egyéniségét" nekünk fontosabb volt.
