@@ -73,16 +73,19 @@ _Föld visszaszedve, tégla odakészítve_
 Első lépésként a föld magasságából lett leszedve, majd geotextíliát terítettünk le, Arra jött az elterített homok és végül a tégla.
 
 ![kertirom](/assets/kertirom/20180518_173345.jpg)
-
-
-
-
-![kertirom](/assets/kertirom/20180518_183411j.jpg)
 _Vigyázva a barkára_
 
 
+A tégla széléhez cserepeket süllyesztett le a férjem, hogy a tarack és egyéb gyomok terjedését megakadályozzuk. 
 
-![kertirom](/assets/kertirom/4.jpg)
+> Nekünk nagyon bevált ez a módszer. Az Uradalomban, az ágyások széléhez mindenhova tettünk és nagyon hatásosnak bizonyult a gazok ellen.
+
+![kertirom](/assets/kertirom/20180518_183411j.jpg)
+_A jól bevált cserép technológiánk__
+
+
+
+![kertirom](/assets/kertirom/4.JPG)
 _Ez a része kipipálva_
 
 
