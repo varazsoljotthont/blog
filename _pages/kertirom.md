@@ -56,7 +56,7 @@ _Itt már elkezdtem virágokkal is beültetni a területet_
 
 A barkafa sarkalatos pontja volt a tervnek.
 
-Pár évvel ezelőtt a barkát is az elsők között ültettük el.  
+Pár évvel ezelőtt az elsők között ültettük el.  
 Anyutól kaptam néhány levágott ágat, amit a kert sarkába le is dugtunk. Gyönyörűen megeredt és mi nem akartuk megbolygatni, inkább megkerültük.
 
 ![kertirom](/assets/kertirom/IMG_20190806_154152_907.jpg)
