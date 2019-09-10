@@ -28,7 +28,7 @@ Ezt a varázslatos hangulatot szerettük volna mi is a kertünkben látni. Bonto
 ![kertirom](/assets/kertirom/IMG_20190613_220145_122.jpg)
 
 
-## Keressük a kertirom helyét
+## Keressük a pihenő zug  helyét
 
 Sokat beszélgettünk arról, hogy hol lenne a legjobb a helyen a mi "romunk". Többször körbejártuk a ház környékét és egyértelműen megszavaztuk az Uradalmat, mint lehetséges helyszínt. Kis tanakodás után a kert végében ki is jelöltük a helyét. 
 
@@ -36,9 +36,9 @@ Nagyon szerettük volna búvóhelynek megcsinálni.
 Olyan helynek, ahova ki lehet feküdni napozni, olvasni, vagy csak kint lenni úgy, hogy senki nem lát bennünket. Ahol körbe tudjuk ültetni bokrokkal, fákkal, virágokkal, hogy kellően "titkos", romantikus legyen.
 
 
+Az Uradalmat több lépcsőben alakítottuk ki.
 
-
-
+Elsőként zebrafűvet ültettünk, majd egy-két fát és bokrot. A kertről ekkor még mi sem hittük, hogy egyszer szép is lehet... 
 
 
 ![kertirom](/assets/kertirom/1.JPG)
@@ -50,6 +50,8 @@ _A helyszín, ami itt még elég kopár_
 
 A barkafa sarkalatos pontja volt a tervnek.
 
+Pár évvel ezelőtt, a barkát is az elsők között ültettük el.  
+Anyutól kaptam néhány levágott ágat, amit a kert sarkába el is ültettünk. Gyönyörűen megeredt, és mi nem akartuk megbolygatni, ezért megkerültük.
 
 ![kertirom](/assets/kertirom/IMG_20190806_154152_907.jpg)
 
