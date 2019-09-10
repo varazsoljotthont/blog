@@ -46,6 +46,10 @@ Elsőként zebrafűvet ültettünk, majd egy-két fát és bokrot. A kertről ek
 ![kertirom](/assets/kertirom/36931398_1610570545708975_6626035408352313344_n.jpg)
 _A kiindulási alap_
     
+![kertirom](/assets/kertirom/20180501_164815.jpg
+_Itt már elkezdtem virágokkal is beültetni a területet_
+
+
 
 **A barkafa**
 
@@ -89,6 +93,8 @@ A téglák lerakása után a hézagokat homokkal feltöltöttem, és még a tél
 
 ![kertirom](/assets/kertirom/4.JPG)
 _Ez a része kipipálva_
+
+
 
 Az aljzat nem a "hivatalos" térköves módszerrel lett lerakva, ezért nem is teljesen egyenes a felület. Ez bennünket nem zavar, a mi elképzelésünk egy szerethetően girbe-gurba placc volt. A használat során a téglák "maguktól beálltak" és mostanra fel sem tűnik az esetleges egyenetlensége.
 
