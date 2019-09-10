@@ -65,12 +65,14 @@ A sok ötletelés eredményeként tölcsér alakzatban lett kijelölve a hely.
 
 A két ágyás közé egy kis járdát terveztünk, a sarokban pedig nagy helyet hagytunk, hogy elférjen majd egy asztal és két szék.
 
+Első lépésként a föld magasságából lett leszedve, majd geotextíliát terítettünk le, Arra jött az elterített homok és végül a tégla.
+
 
 ![kertirom](/assets/kertirom/20180518_165603.jpg)
 _Föld visszaszedve, tégla odakészítve_
 
 
-Első lépésként a föld magasságából lett leszedve, majd geotextíliát terítettünk le, Arra jött az elterített homok és végül a tégla.
+
 
 ![kertirom](/assets/kertirom/20180518_173345.jpg)
 _Vigyázva a barkára_
@@ -81,7 +83,7 @@ A tégla széléhez cserepeket süllyesztett le a férjem, hogy a tarack és egy
 > Nekünk nagyon bevált ez a módszer. Az Uradalomban, az ágyások széléhez mindenhova tettünk és nagyon hatásosnak bizonyult a gazok ellen.
 
 ![kertirom](/assets/kertirom/20180518_183411j.jpg)
-_Itt látszik a jól bevált cserép technológiánk__
+_Itt látszik a jól bevált cserép technológiánk_
 
 A téglák lerakása után a hézagokat homokkal feltöltöttem, és még a tél beállta előtt tégla balzsammal a felületét átkentem.
 
