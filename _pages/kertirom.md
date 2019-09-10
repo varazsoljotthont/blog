@@ -104,7 +104,7 @@ Nyárra már így, félkészen is hangulatos hellyé vált ez a kis kerti zug. M
 ![kertirom](/assets/kertirom/4.JPG)
 _Ez a része kipipálva_
 
-![kertirom](/assets/kertirom/36872573_1610900185676011_7228177638429294592_n.JPG)
+![kertirom](/assets/kertirom/36872573_1610900185676011_7228177638429294592_n.jpg)
 
 
 
