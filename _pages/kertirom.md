@@ -56,13 +56,25 @@ Pár évvel ezelőtt, a barkát is az elsők között ültettük el.
 Anyutól kaptam néhány levágott ágat, amit a kert sarkába le is dugtunk. Gyönyörűen megeredt és mi nem akartuk megbolygatni, inkább megkerültük.
 
 ![kertirom](/assets/kertirom/IMG_20190806_154152_907.jpg)
+_Mostanra már ilyen hatalmasra nőtt_
 
 
+**Kezdődjön hát a pihenősarok kialakítása**
+
+A sok ötletelés eredményeként tölcsér alakzatban lett kijelölve a hely. 
+
+A két ágyás közé egy kis járdát terveztünk, a sarokban pedig nagy helyet hagytunk, hogy elférjen majd egy asztal és két szék.
 
 
+![kertirom](/assets/kertirom/20180518_165603.jpg)
+_Föld visszaszedve, tégla odakészítve_
 
 
+Első lépésként a föld magasságából lett leszedve, majd geotextíliát terítettünk le, Arra jött az elterített homok és végül a tégla.
 
+![kertirom](/assets/kertirom/20180518_173345.jpg)
+
+![kertirom](/assets/kertirom/20180518_183411.jpg)
 
 
 
