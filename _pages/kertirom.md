@@ -97,10 +97,14 @@ A téglák lerakása után a hézagokat homokkal feltöltöttem, és még a tél
 
 Mivel a tégla homokágyra van rakva és rések is homokkal lettek kitöltve, a téli csapadék be tud szivárogni. Itt előfordul, hogy a tél végére egy-egy felfagy, de az könnyen cserélhető.
 
+**éligkészen is 
+
+Nyárra már így, félkészen is hangulatos hellyé vált ez a kis kerti zug. Megszerettük, de mindenképpen akartunk oda egy romfalat.  
+
 ![kertirom](/assets/kertirom/4.JPG)
 _Ez a része kipipálva_
 
-
+![kertirom](/assets/kertirom/36872573_1610900185676011_7228177638429294592_n.JPG)
 
 
 
