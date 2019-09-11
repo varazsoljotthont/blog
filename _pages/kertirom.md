@@ -131,7 +131,7 @@ A stabilitás miatt pilléreket is rakott a férjem, és apránkénttégláról 
 
 ![kertirom](/assets/kertirom/IMG_20190324_080827.jpg)
 
-![kertirom](/assets/kertirom/IMG-20190329-WA0000.jpg)
+![kertirom](/assets/kertirom/jav.boltív.jpg)
 
 ![kertirom](/assets/kertirom/IMG_20190405_075459.jpg)
 
