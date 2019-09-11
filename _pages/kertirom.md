@@ -93,7 +93,7 @@ _Itt látszik egy kicsit a jól bevált cserép technológiánk_
 
 Az aljzat nem a "hivatalos" térköves módszerrel lett lerakva, ezért nem is teljesen egyenes a felület. Ez bennünket nem zavar, a mi elképzelésünk egy szerethetően girbe-gurba placc volt. A használat során a téglák "maguktól beálltak" és mostanra fel sem tűnik az esetleges egyenetlensége.
 
-A téglák lerakása után a hézagokat homokkal feltöltöttem, és még a tél beállta előtt tégla balzsammal a felületét átkentem.
+A téglák lerakása után a hézagokat homokkal feltöltöttem, és még a tél beállta előtt kőbalzsammal a felületét átkentem.
 
 Mivel a tégla homokágyra van rakva és rések is homokkal lettek kitöltve, a téli csapadék be tud szivárogni. Itt előfordul, hogy a tél végére egy-egy felfagy, de az könnyen cserélhető.
 
@@ -125,7 +125,9 @@ Alap nélkül nem lehet felépíteni ekkora falakat, ezért kb.: 80 cm mély sá
 
 Két falat terveztünk a romunkhoz, és az egyikbe egy fém ablakot, a másikba pedig egy boltíves nyílást szerettünk volna.
 
-A stabilitás miatt pilléreket is rakott a férjem, és apránkénttégláról - téglára kinőtt a kertirom az Uradalomból.
+> A régi vas, és egyéb fém tárgyakat szívesen használjuk fel a terveinkhez. Ezt az ablak keretet is őrizgettük egy ideje, és biztosak voltunk abban, hogy megtalálja majd a helyét.
+
+A stabilitás miatt pilléreket is rakott a férjem, és apránként - tégláról - téglára - kinőtt a kertirom az Uradalomból.
 
 ![kertirom](/assets/kertirom/IMG_20190319_170512.jpg)
 
@@ -135,12 +137,25 @@ A stabilitás miatt pilléreket is rakott a férjem, és apránkénttégláról 
 
 ![kertirom](/assets/kertirom/IMG_20190405_075459.jpg)
 
+A falazás közben, míg nem húzott meg a malter átdörzsöltem a fugákat, és folyamatosan tisztítottam a téglákat is. Száradás után cementtejjel kiemeltem a fugahézagokat és végül most is, mint minden téglás dolgunknál kőbalzsammal kezeltem le a falakat.
 
+A romfal tetejére cserepet raktunk, hogy az eső nem tegyen kárt a munkánkban.
 
+**Beteljesült álom**
 
+Nagyon megszerettük a kerti zugunkat. Olyan lett, amilyennek a tervezgetéseink során elképzeltük. Körbe ölelik a virágok, a falak között nő a barka, esténként itt tűnik el a nap. Igazi romantikus, elbújós hely lett, ahol jó csak úgy lenni és jó csinálni a semmit...
+
+![kertirom](/assets/kertirom/IMG_20190610_180351_362.jpg)
+
+![kertirom](/assets/kertirom/IMG_20190701_181714_566.jpg)
+
+![kertirom](/assets/kertirom/IMG_20190630_095019.jpg)
+
+![kertirom](/assets/kertirom/coverjj.jpg)
 
 **+ 1 gondolat:**  
-Egy régi ház felújítása, átalakítása mindig kompromisszumokkal jár. Az, hogy kinek mi az elsődleges, mi a fontos, nagyon eltérő. Persze, mi is örülnénk a több fénynek, a nagyobb világosságnak, de az, hogy sikerült megőriznünk a házunk parasztházas "egyéniségét" nekünk fontosabb volt.
+A sok növény nagyon jó ötlet volt. Minden évszakban más és más arcát mutatja a kert ezen része. A dekorációkkal pedig tovább lehet fokozni a hangulatot.
+
 
 Ha tetszett, kedveld a <a href="https://www.facebook.com/Var%C3%A1zsolj-otthont-360330751226066/" target="_blank">Facebook oldalt</a> is. Itt még több érdekességet találsz a mindennapok varázslataiból.
 
