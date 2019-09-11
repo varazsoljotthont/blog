@@ -95,7 +95,7 @@ Az aljzat nem a "hivatalos" térköves módszerrel lett lerakva, ezért nem is t
 
 A téglák lerakása után a hézagokat homokkal feltöltöttem, és még a tél beállta előtt kőbalzsammal a felületét átkentem.
 
-Mivel a tégla homokágyra van rakva és rések is homokkal lettek kitöltve, a téli csapadék be tud szivárogni. Itt előfordul, hogy a tél végére egy-egy felfagy, de az könnyen cserélhető.
+Mivel a tégla homokágyra van rakva és rések is homokkal lettek kitöltve, a téli csapadék be tud szivárogni. Itt előfordul, hogy a tél végére egy-egy tégla felfagy, de az könnyen cserélhető.
 
 **A terv első fele elkészült** 
 
