@@ -166,9 +166,9 @@ Ha tetszett, kedveld a <a href="https://www.facebook.com/Var%C3%A1zsolj-otthont-
 
 
 * [Ilyen volt, ilyen lett: így lett a kaszálóból romantikus, vidéki kert](/2019-06-26/kulsokorlet)
-* [A Miházunk átváltozása](/2019-03-20/költözés)
+* [Hozzuk formába az otthonunkat!](/2019-03-26/dekoráció)
 * [Így lett a tüzifa az otthonunk dísze](/2019-05-16/fábólkreatívan)
-* [Találjuk ki a házunkat](/2019-02-11/találjuk_ki)
+* [Egy szélfogó története, avagy így lett kisházunk a kertben](/2019-08-18/szerszamtarolo)
 
 
 
