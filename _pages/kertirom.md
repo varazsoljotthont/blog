@@ -141,7 +141,7 @@ A falazás közben, míg nem húzott meg a malter átdörzsöltem a fugákat, é
 
 A romfal tetejére cserepet raktunk, hogy az eső nem tegyen kárt a munkánkban.
 
-**Beteljesült álom**
+## Beteljesült álom
 
 Nagyon megszerettük a kerti zugunkat. Olyan lett, amilyennek a tervezgetéseink során elképzeltük. Körbe ölelik a virágok, a falak között nő a barka, esténként itt tűnik el a nap. Igazi romantikus, elbújós hely lett, ahol jó csak úgy lenni és jó csinálni a semmit...
 
