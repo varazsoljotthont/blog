@@ -35,7 +35,7 @@ Sokat beszélgettünk arról, hogy hol lenne a legjobb a helyen a mi "romunk". T
 Nagyon szerettük volna búvóhelynek megcsinálni.  
 Olyan helynek, ahova ki lehet feküdni napozni, olvasni, vagy csak kint lenni úgy, hogy senki nem lát bennünket. Ahol körbe tudjuk ültetni bokrokkal, fákkal, virágokkal, hogy kellően "titkos", romantikus legyen.
 
-**Az Uradalom, mint helyszín
+**Az Uradalom, mint helyszín**
 
 Az Uradalmat több lépcsőben alakítottuk ki.  
 A ház megvásárlásakor itt csak lucerna volt, a kertről ekkor még mi sem hittük, hogy egyszer szép is lehet... 
