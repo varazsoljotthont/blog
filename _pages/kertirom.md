@@ -13,7 +13,7 @@ image:
 
 
 
-**A szép kerthez manapság már szervesen hozzátartoznak a különböző kerti építmények. A sütögető hely, a kemence, a kiülő, és újabban a kertiromnak nevezett különleges hangulatú kerti búvóhely is. Az újonnan épített romfal stílusával megidézi a régi idők letűnt világát, és itt pihenve testünket, lelkünket átjárja a nyugalom.**  
+**A szép kerthez manapság már szervesen hozzátartoznak a különböző kerti építmények. A sütögető, a kemence, a kiülő, és újabban a kertiromnak nevezett különleges hangulatú kerti búvóhely is. Az újonnan épített romfal stílusával megidézi a régi idők letűnt világát, és itt pihenve testünket, lelkünket átjárja a nyugalom.**  
 
 
 
@@ -41,7 +41,7 @@ Az Uradalmat több lépcsőben alakítottuk ki.
 A [ház megvásárlásakor](/2019-02-09/hazvasarlas) itt csak lucerna volt, a kertről ekkor még mi sem hittük, hogy egyszer szép is lehet... 
 
 
-Elsőként zebrafűvet ültettünk, majd egy-két fát és bokrot, és ezek remekül beleillettek az új elképzelésünkbe is.
+Elsőként zebrafűvet ültettünk, majd egy-két fát és bokrot, és ezek remekül illettek az új elképzelésünkbe is.
 
 ![kertirom](/assets/kertirom/36931398_1610570545708975_6626035408352313344_n.jpg)
 _A kiindulási alap_
@@ -93,9 +93,9 @@ _Itt látszik egy kicsit a jól bevált cserép technológiánk_
 
 Az aljzat nem a "hivatalos" térköves módszerrel lett lerakva, ezért nem is teljesen egyenes a felület. Ez bennünket nem zavar, a mi elképzelésünk egy szerethetően girbe-gurba placc volt. A használat során a téglák "maguktól beálltak" és mostanra fel sem tűnik az esetleges egyenetlensége.
 
-A téglák lerakása után a hézagokat homokkal feltöltöttem, és még a tél beállta előtt kőbalzsammal a felületét átkentem.
+A téglák lerakása után a hézagokat homokkal feltöltöttem, és még a tél beállta előtt kőbalzsammal a felületét is átkentem.
 
-Mivel a tégla homokágyra van rakva és rések is homokkal lettek kitöltve, a téli csapadék be tud szivárogni. Itt előfordul, hogy a tél végére egy-egy tégla felfagy, de az könnyen cserélhető.
+Mivel a tégla homokágyra van rakva és a rések is homokkal lettek kitöltve, a téli csapadék be tud szivárogni. Itt előfordul, hogy a tél végére egy-egy tégla felfagy, de az könnyen cserélhető.
 
 **A terv első fele elkészült** 
 
