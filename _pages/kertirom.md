@@ -38,7 +38,7 @@ Olyan helynek, ahova ki lehet feküdni napozni, olvasni, vagy csak kint lenni ú
 **Az Uradalom, mint helyszín**
 
 Az Uradalmat több lépcsőben alakítottuk ki.  
-A ház megvásárlásakor itt csak lucerna volt, a kertről ekkor még mi sem hittük, hogy egyszer szép is lehet... 
+A [ház megvásárlásakor](/2019-02-09/hazvasarlas) itt csak lucerna volt, a kertről ekkor még mi sem hittük, hogy egyszer szép is lehet... 
 
 
 Elsőként zebrafűvet ültettünk, majd egy-két fát és bokrot, és ezek remekül beleillettek az új elképzelésünkbe is.
