@@ -28,20 +28,20 @@ Ezt a varázslatos hangulatot szerettük volna mi is a kertünkben látni. [Bont
 ![kertirom](/assets/kertirom/coverj.jpg)
 
 
-## Keressük a pihenő zug  helyét
+## Keressük a pihenő zug helyét
 
 Sokat beszélgettünk arról, hogy hol lenne a legjobb a helyen a mi "romunk". Többször körbejártuk a ház környékét és egyértelműen megszavaztuk az Uradalmat, mint lehetséges helyszínt. Kis tanakodás után a kert végében ki is jelöltük a helyét. 
 
 Nagyon szerettük volna búvóhelynek megcsinálni.  
 Olyan helynek, ahova ki lehet feküdni napozni, olvasni, vagy csak kint lenni úgy, hogy senki nem lát bennünket. Ahol körbe tudjuk ültetni bokrokkal, fákkal, virágokkal, hogy kellően "titkos", romantikus legyen.
 
-## Kialakítás
+**Az Uradalom, mint helyszín
+
+Az Uradalmat több lépcsőben alakítottuk ki.  
+A ház megvásárlásakor itt csak lucerna volt, a kertről ekkor még mi sem hittük, hogy egyszer szép is lehet... 
 
 
-Az Uradalmat több lépcsőben alakítottuk ki.
-
-Elsőként zebrafűvet ültettünk, majd egy-két fát és bokrot. A kertről ekkor még mi sem hittük, hogy egyszer szép is lehet... 
-
+Elsőként zebrafűvet ültettünk, majd egy-két fát és bokrot, és ezek remekül beleillettek az új elképzelésünkbe is.
 
 ![kertirom](/assets/kertirom/36931398_1610570545708975_6626035408352313344_n.jpg)
 _A kiindulási alap_
