@@ -123,6 +123,19 @@ Alap nélkül nem lehet felépíteni ekkora falakat, ezért kb.: 80 cm mély sá
 
 **Falak**
 
+Két falat terveztünk a romunkhoz, és az egyikbe egy fém ablakot, a másikba pedig egy boltíves nyílást szerettünk volna.
+
+A stabilitás miatt pilléreket is rakott a férjem, és apránként kinőtt a kertirom az Uradalomból.
+
+![kertirom](/assets/kertirom/IMG_20190319_170512.jpg)
+
+![kertirom](/assets/kertirom/IMG_20190324_080827.jpg)
+
+![kertirom](/assets/kertirom/IMG_20190324_080854.jpg)
+
+![kertirom](/assets/kertirom/IMG-20190329-WA0000.jpg)
+
+
 **+ 1 gondolat:**  
 Egy régi ház felújítása, átalakítása mindig kompromisszumokkal jár. Az, hogy kinek mi az elsődleges, mi a fontos, nagyon eltérő. Persze, mi is örülnénk a több fénynek, a nagyobb világosságnak, de az, hogy sikerült megőriznünk a házunk parasztházas "egyéniségét" nekünk fontosabb volt.
 
