@@ -149,7 +149,7 @@ Nagyon megszerettük a kerti zugunkat. Olyan lett, amilyennek a tervezgetéseink
 
 ![kertirom](/assets/kertirom/IMG_20190701_181714_566.jpg)
 
-![kertirom](/assets/kertirom/IMG_20190630_095019.jpg)
+![kertirom](/assets/kertirom/IMG_20190625_192707.jpg)
 
 ![kertirom](/assets/kertirom/coverjj.jpg)
 
