@@ -151,7 +151,7 @@ Nagyon megszerettük a kerti zugunkat. Olyan lett, amilyennek a tervezgetéseink
 
 ![kertirom](/assets/kertirom/IMG_20190625_192707j.jpg)
 
-![kertirom](/assets/kertirom/coverjj.jpg)
+![kertirom](/assets/kertirom/IMG_20190910_194828.jpg)
 
 **+ 1 gondolat:**  
 A sok növény nagyon jó ötlet volt. Minden évszakban más és más arcát mutatja a kert ezen része. A dekorációkkal pedig tovább lehet fokozni a hangulatot.
