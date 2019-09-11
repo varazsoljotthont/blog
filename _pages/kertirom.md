@@ -125,15 +125,18 @@ Alap nélkül nem lehet felépíteni ekkora falakat, ezért kb.: 80 cm mély sá
 
 Két falat terveztünk a romunkhoz, és az egyikbe egy fém ablakot, a másikba pedig egy boltíves nyílást szerettünk volna.
 
-A stabilitás miatt pilléreket is rakott a férjem, és apránként kinőtt a kertirom az Uradalomból.
+A stabilitás miatt pilléreket is rakott a férjem, és apránkénttégláról - téglára kinőtt a kertirom az Uradalomból.
 
 ![kertirom](/assets/kertirom/IMG_20190319_170512.jpg)
 
 ![kertirom](/assets/kertirom/IMG_20190324_080827.jpg)
 
-![kertirom](/assets/kertirom/IMG_20190324_080854.jpg)
-
 ![kertirom](/assets/kertirom/IMG-20190329-WA0000.jpg)
+
+![kertirom](/assets/kertirom/IMG_20190405_075459.jpg)
+
+
+
 
 
 **+ 1 gondolat:**  
