@@ -2,10 +2,10 @@
 layout: post
 title: "Kerti rom, a legjobb búvóhely" 
 permalink: /kertirom/
-cover: /assets/kertirom/cover.jpg
+cover: /assets/kertirom/coverjj.jpg
 categories: [haz, kert, dekor]
 image:
-  path: /assets/kertirom/cover.jpg
+  path: /assets/kertirom/coverjj.jpg
   height: 300
   width: 300
 ---
@@ -25,7 +25,7 @@ Szeretem, ahogy a leomlott falak közé elrejtőzött egy darabka múlt, ahogy a
 
 Ezt a varázslatos hangulatot szerettük volna mi is a kertünkben látni. [Bontott téglából](/2019-04-23/tegla) képzeltük el, és szándékosan nem terveztük túl szabályosra. A célunk az volt, hogy olyan legyen mint ami már évek óta áll a helyén, és kissé ütött-kopott lett az időjárás szeszélye folytán.
 
-![kertirom](/assets/kertirom/IMG_20190613_220145_122.jpg)
+![kertirom](/assets/kertirom/coverj.jpg)
 
 
 ## Keressük a pihenő zug  helyét
