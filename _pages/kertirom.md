@@ -145,9 +145,9 @@ A romfal tetejére cserepet raktunk, hogy az eső nem tegyen kárt a munkánkban
 
 Nagyon megszerettük a kerti zugunkat. Olyan lett, amilyennek a tervezgetéseink során elképzeltük. Körbe ölelik a virágok, a falak között nő a barka, esténként itt tűnik el a nap. Igazi romantikus, elbújós hely lett, ahol jó csak úgy lenni és jó csinálni a semmit...
 
-![kertirom](/assets/kertirom/IMG_20190610_180351_362j.jpg)
+![kertirom](/assets/kertirom/IMG_20190610_180351_362.jpg)
 
-![kertirom](/assets/kertirom/IMG_20190701_181714_566.jpg)
+![kertirom](/assets/kertirom/IMG_20190701_181714_566j.jpg)
 
 ![kertirom](/assets/kertirom/IMG_20190625_192707j.jpg)
 
