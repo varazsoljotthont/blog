@@ -13,7 +13,7 @@ image:
 
 
 
-**A szép kerthez manapság már szervesen hozzátartoznak a különböző kerti építmények. A sütögető, a kemence, a kiülő, és újabban a kertiromnak nevezett különleges hangulatú kerti búvóhely is. Az újonnan épített romfal stílusával megidézi a régi idők letűnt világát, és itt pihenve testünket, lelkünket átjárja a nyugalom.**  
+**A mostanában kialakuló irányvonal szerint a kertekhez szervesen hozzátartoznak a különböző kerti építmények. A sütögető, a kemence, a kiülő, és újabban a kertiromnak nevezett különleges hangulatú kerti búvóhely is. Az újonnan épített romfal stílusával megidézi a régi idők letűnt világát, és itt pihenve testünket, lelkünket átjárja a nyugalom.**  
 
 
 
@@ -23,7 +23,7 @@ image:
 A régi, romos épületek vadregényes világa mindig közel állt hozzám.  
 Szeretem, ahogy a leomlott falak közé elrejtőzött egy darabka múlt, ahogy a természet visszavette magának azt, ami egykor az övé volt.
 
-Ezt a varázslatos hangulatot szerettük volna mi is a kertünkben látni. [Bontott téglából](/2019-04-23/tegla) képzeltük el, és szándékosan nem terveztük túl szabályosra. A célunk az volt, hogy olyan legyen mint ami már évek óta áll a helyén, és kissé ütött-kopott lett az időjárás szeszélye folytán.
+Ezt a varázslatos hangulatot szerettük volna mi is a kertünkben látni. [Bontott téglából](/2019-04-23/tegla) képzeltük el, és szándékosan nem terveztük túl szabályosra. A célunk az volt, hogy olyan legyen, mint ami már évek óta áll a helyén, és kissé ütött-kopott lett az időjárás szeszélye folytán.
 
 ![kertirom](/assets/kertirom/coverj.jpg)
 
@@ -41,7 +41,7 @@ Az Uradalmat több lépcsőben alakítottuk ki.
 A [ház megvásárlásakor](/2019-02-09/hazvasarlas) itt csak lucerna volt, a kertről ekkor még mi sem hittük, hogy egyszer szép is lehet... 
 
 
-Elsőként zebrafűvet ültettünk, majd egy-két fát és bokrot, és ezek remekül illettek az új elképzelésünkbe is.
+Elsőként zebrafüvet ültettünk, majd egy-két fát és bokrot, és ezek remekül illettek az új elképzelésünkbe is.
 
 ![kertirom](/assets/kertirom/36931398_1610570545708975_6626035408352313344_n.jpg)
 _A kiindulási alap_
@@ -54,10 +54,9 @@ _Itt már elkezdtem virágokkal is beültetni a területet_
 **A barkafa**
 
 
-A barkafa sarkalatos pontja volt a tervnek.
-
+A barkafa sarkalatos pontja volt a tervnek. 
 Pár évvel ezelőtt az elsők között ültettük el.  
-Anyutól kaptam néhány levágott ágat, amit a kert sarkába le is dugtunk. Gyönyörűen megeredt és mi nem akartuk megbolygatni, inkább megkerültük.
+Anyutól kaptam néhány levágott ágat, amit a kert sarkába le is dugtunk. Gyönyörűen megeredt, ezért nem is akartuk megbolygatni, inkább megkerültük.
 
 ![kertirom](/assets/kertirom/IMG_20190806_154152_907.jpg)
 _Mostanra már ilyen hatalmasra nőtt_
@@ -69,8 +68,7 @@ A sok ötletelés eredményeként tölcsér alakban lett kijelölve a hely.
 
 A két ágyás közé egy kis járdát terveztünk, a sarokban pedig nagy helyet hagytunk, hogy elférjen majd egy asztal a székekkel.
 
-Első lépésként a föld magasságából lett leszedve, majd geotextíliát terítettünk le, arra jött az elterített homok és végül a tégla.
-
+Első lépésként a föld magasságából szedtünk le. Majd a gyomok ellen geotextília, arra a homok, végül a tégla.
 
 ![kertirom](/assets/kertirom/20180518_165603.jpg)
 _Föld visszaszedve, tégla odakészítve_
@@ -82,7 +80,7 @@ _Föld visszaszedve, tégla odakészítve_
 _Vigyázva a barkára_
 
 
-A tégla széléhez cserepeket süllyesztett le a férjem, hogy a tarack és egyéb gyomok terjedését megakadályozzuk. 
+A tégla széléhez cserepeket süllyesztett le a férjem, hogy a tarack és az egyéb gyomok terjedését megakadályozzuk. 
 
 > Nekünk nagyon bevált ez a módszer. Az Uradalomban, az ágyások széléhez mindenhova tettünk és nagyon hatásosnak bizonyult a gazok ellen.
 
@@ -91,7 +89,11 @@ _Itt látszik egy kicsit a jól bevált cserép technológiánk_
 
 
 
-Az aljzat nem a "hivatalos" térköves módszerrel lett lerakva, ezért nem is teljesen egyenes a felület. Ez bennünket nem zavar, a mi elképzelésünk egy szerethetően girbe-gurba placc volt. A használat során a téglák "maguktól beálltak" és mostanra fel sem tűnik az esetleges egyenetlensége.
+Az aljzat nem a "hivatalos" térköves módszerrel lett lerakva, ezért nem is teljesen egyenes a felület. 
+A használat során a téglák "maguktól beálltak", mostanra fel sem tűnik az esetleges egyenetlensége.
+
+> Nekünk tetszik így, a mi elképzelésünk egy szerethetően girbe-gurba placc volt. 
+
 
 A téglák lerakása után a hézagokat homokkal feltöltöttem, és még a tél beállta előtt kőbalzsammal a felületét is átkentem.
 
@@ -112,7 +114,7 @@ _Ez a része kipipálva_
 
 Idén kora tavasszal az alap kiásásával kezdtük meg a munkákat.
 
-Alap nélkül nem lehet felépíteni ekkora falakat, ezért kb.: 80 cm mély sávalapja lett az építménynek, és néhol - biztos, ami biztos alapon - még vasalat is került a betonba. 
+Alapok nélkül nem lehet falat építeni, ezért mély (80 cm) sávalapja lett az építménynek. Biztos, ami biztos vasalatot is tettünk a betonba.
 
 
 
