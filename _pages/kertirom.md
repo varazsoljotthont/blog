@@ -23,7 +23,7 @@ image:
 A régi, romos épületek vadregényes világa mindig közel állt hozzám.  
 Szeretem, ahogy a leomlott falak közé elrejtőzött egy darabka múlt, ahogy a természet visszavette magának azt, ami egykor az övé volt.
 
-Ezt a varázslatos hangulatot szerettük volna mi is a kertünkben látni. [Bontott téglából](/2019-04-23/tegla) képzeltük el, és szándékosan nem terveztük túl szabályosra. A célunk az volt, hogy olyan legyen, mint ami már évek óta áll a helyén, és kissé ütött-kopott lett az időjárás szeszélye folytán.
+Ezt a varázslatos hangulatot szerettük volna mi is a kertünkben látni. [Bontott téglából](/2019-04-23/tegla) képzeltük el, és szándékosan nem terveztük túl szabályosra. A célunk az volt, hogy olyan legyen, mint ami már évek óta áll a helyén; kissé ütött-kopott, megviselt lett az időjárás szeszélye folytán.
 
 ![kertirom](/assets/kertirom/coverj.jpg)
 
