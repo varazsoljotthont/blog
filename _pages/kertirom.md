@@ -96,7 +96,7 @@ A használat során a téglák "maguktól beálltak", mostanra fel sem tűnik az
 
 A téglák lerakása után a hézagokat homokkal feltöltöttem, és még a tél beállta előtt kőbalzsammal a felületét is átkentem.
 
-Mivel a tégla homokágyra van rakva és a rések is homokkal lettek kitöltve, a téli csapadék be tud szivárogni. Itt előfordul, hogy a tél végére egy-egy tégla felfagy, de az könnyen cserélhető.
+Mivel a tégla homokágyra lett lerakva, valamint a rések is homokkal lettek kitöltve, a téli csapadék be tud szivárogni. Itt előfordul, hogy a tél végére egy-egy tégla felfagy, de az könnyen cserélhető.
 
 **A terv első fele elkészült** 
 
@@ -124,7 +124,7 @@ Alapok nélkül nem lehet falat építeni, ezért mély (80 cm) sávalapja lett 
 
 **Falak**
 
-Két falat terveztünk a romunkhoz; az egyikbe egy fém ablakot, a másikba pedig egy boltíves nyílást szerettünk volna.
+Két falat terveztünk a romunkhoz; az egyik be fém ablakot, a másikba pedig egy boltíves nyílást szerettünk volna.
 
 
 A stabilitás miatt pilléreket is rakott a férjem, majd apránként - tégláról - téglára - kinőtt a kertirom az Uradalomból.
