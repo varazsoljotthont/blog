@@ -41,7 +41,7 @@ Az Uradalmat több lépcsőben alakítottuk ki.
 A [ház megvásárlásakor](/2019-02-09/hazvasarlas) itt csak lucerna volt, a kertről ekkor még mi sem hittük, hogy egyszer szép is lehet... 
 
 
-A néhány évvel ezelőtt ültetett fák, bokrok remekül illettek az új elképzelésünkbe is.
+Szerencsére a néhány évvel ezelőtt ültetett fák, bokrok remekül illettek az új elképzelésünkbe is.
 
 ![kertirom](/assets/kertirom/36931398_1610570545708975_6626035408352313344_n.jpg)
 _A kiindulási alap_
