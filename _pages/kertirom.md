@@ -142,7 +142,7 @@ A stabilitás miatt pilléreket is rakott a férjem, majd apránként - téglár
 
 ![kertirom](/assets/kertirom/IMG_20190405_075459.jpg)
 
-Falazás közben, míg nem húzott meg a malter átdörzsöltem a fugákat, és folyamatosan tisztítottam a téglákat. Száradás után cementtejjel kiemeltem a fugahézagokat, végül most is, mint minden téglás dolgunknál kőbalzsammal kezeltem le a falakat.
+Falazás közben, míg nem húzott meg a malter átdörzsöltem a fugákat és folyamatosan tisztítottam a téglákat. Száradás után cementtejjel kiemeltem a fugahézagokat, majd - mint minden téglás dolgunknál - kőbalzsammal kezeltem le a falakat.
 
 A romfal tetejére cserepet raktunk, hogy az eső ne tegyen kárt a munkánkban.
 
