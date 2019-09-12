@@ -41,7 +41,7 @@ Az Uradalmat több lépcsőben alakítottuk ki.
 A [ház megvásárlásakor](/2019-02-09/hazvasarlas) itt csak lucerna volt, a kertről ekkor még mi sem hittük, hogy egyszer szép is lehet... 
 
 
-Elsőként zebrafüvet ültettünk, majd egy-két fát és bokrot, és ezek remekül illettek az új elképzelésünkbe is.
+A néhány évvel ezelőtt ültetett fák, bokrok remekül illettek az új elképzelésünkbe is.
 
 ![kertirom](/assets/kertirom/36931398_1610570545708975_6626035408352313344_n.jpg)
 _A kiindulási alap_
@@ -55,7 +55,6 @@ _Itt már elkezdtem virágokkal is beültetni a területet_
 
 
 A barkafa sarkalatos pontja volt a tervnek. 
-Pár évvel ezelőtt az elsők között ültettük el.  
 Anyutól kaptam néhány levágott ágat, amit a kert sarkába le is dugtunk. Gyönyörűen megeredt, ezért nem is akartuk megbolygatni, inkább megkerültük.
 
 ![kertirom](/assets/kertirom/IMG_20190806_154152_907.jpg)
