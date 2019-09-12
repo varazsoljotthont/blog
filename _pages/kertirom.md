@@ -125,9 +125,8 @@ Alapok nélkül nem lehet falat építeni, ezért mély (80 cm) sávalapja lett 
 
 **Falak**
 
-Két falat terveztünk a romunkhoz, és az egyikbe egy fém ablakot, a másikba pedig egy boltíves nyílást szerettünk volna.
+Két falat terveztünk a romunkhoz; az egyikbe egy fém ablakot, a másikba pedig egy boltíves nyílást szerettünk volna.
 
-> A régi vas, és egyéb fém tárgyakat szívesen használjuk fel a terveinkhez. Ezt az ablak keretet is őrizgettük egy ideje, és biztosak voltunk abban, hogy megtalálja majd a helyét.
 
 A stabilitás miatt pilléreket is rakott a férjem, és apránként - tégláról - téglára - kinőtt a kertirom az Uradalomból.
 
@@ -135,11 +134,15 @@ A stabilitás miatt pilléreket is rakott a férjem, és apránként - téglár�
 
 ![kertirom](/assets/kertirom/IMG_20190324_080827.jpg)
 
+> A régi vas, valamint egyéb fém tárgyakat szívesen használjuk fel a terveinkhez. Ezt az ablak keretet is őrizgettük egy ideje; biztosak voltunk abban, hogy megtalálja majd a helyét.
+
+
+
 ![kertirom](/assets/kertirom/jav.boltív.jpg)
 
 ![kertirom](/assets/kertirom/IMG_20190405_075459.jpg)
 
-Falazás közben, míg nem húzott meg a malter átdörzsöltem a fugákat, és folyamatosan tisztítottam a téglákat is. Száradás után cementtejjel kiemeltem a fugahézagokat és végül most is, mint minden téglás dolgunknál kőbalzsammal kezeltem le a falakat.
+Falazás közben, míg nem húzott meg a malter átdörzsöltem a fugákat, és folyamatosan tisztítottam a téglákat. Száradás után cementtejjel kiemeltem a fugahézagokat, végül most is, mint minden téglás dolgunknál kőbalzsammal kezeltem le a falakat.
 
 A romfal tetejére cserepet raktunk, hogy az eső ne tegyen kárt a munkánkban.
 
