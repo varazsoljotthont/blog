@@ -128,7 +128,7 @@ Alapok nélkül nem lehet falat építeni, ezért mély (80 cm) sávalapja lett 
 Két falat terveztünk a romunkhoz; az egyikbe egy fém ablakot, a másikba pedig egy boltíves nyílást szerettünk volna.
 
 
-A stabilitás miatt pilléreket is rakott a férjem, és apránként - tégláról - téglára - kinőtt a kertirom az Uradalomból.
+A stabilitás miatt pilléreket is rakott a férjem, majd apránként - tégláról - téglára - kinőtt a kertirom az Uradalomból.
 
 ![kertirom](/assets/kertirom/IMG_20190319_170512.jpg)
 
