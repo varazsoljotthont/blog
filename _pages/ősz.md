@@ -1,30 +1,36 @@
 ---
 layout: post
-title: "Egy szélfogó története, avagy így lett kisházunk a kertben"
-permalink: /szerszamtarolo/
-cover: /assets/szerszamtarolo/cover.jpg
+title: "Újra itt az ősz, és csordultig van szépséggel"
+permalink: /ősz/
+cover: /assets/ősz/cover.jpg
 categories: [kert, dekor]
 image:
-  path: /assets/szerszamtarolo/cover.jpg
+  path: /assets/ősz/cover.jpg
   height: 300
   width: 300
 ---
 
 
 
-**A kertet szerető emberek tavasztól őszig örömmel töltik az időt növényeik társaságában. A szép kert időt, odafigyelést és jó munka eszközöket igényel. Hogy minden kéznél legyen kell egy olyan hely, ahol minden szükséges szerszámot együtt tudunk tárolni, közel van a növényekhez, de stílusában is beillik a kert hangulatába.**
+**Az ősz maga a csoda. Színeivel, ízeivel, frisseségével sokunkat elvarázsol. A virágok, a gyümölcsök, a párás reggelek után előbújó nap olyanok, mint egy színdarabban a második felvonás; tartogat még számunkra meglepetéseket.**
  
 
-## Meglátni és megszeretni...
+## Ősz a kertben
 
-A mi szerszámosunk története egy jó barátunk házfelújításával kezdődött.
 
-Épp egy nagyobb feladathoz készültek, amihez szükség volt pár emberre, és az én férjuram is ment segíteni már kora reggel.  
+Idén szinte menetrendszerűen érkezett meg a szeptember, és robbantak be élénkségükkel az ősszel virágzó növények a kertünkbe.
 
-A nap folyamán elvégezték amit el kellett, én pedig délután mentem érte és jól "megcsodálkoztam", hogy milyen sokat dolgozott a csapat. Haza indulás előtt - ahogy az lenni szokott - még volt egy kis beszélgetés, egy utolsó körbenézés és én közben megláttam ŐT...  
+Már a kert tervezésénél gondoltam az őszre, hisz rengeteg évelő ontja ilyenkor is a virágait. A növények beszerzésekor figyeltem arra, hogy folyamatosan legyenek színes virágok úgy az udvaron, mint az Uradalomban.
+A szellőrózsák, asterek, krizantémok és a különböző varjúhájak ültetésével igyekeztem megőrizni a kertünk szépséget az őszi hónapokra. 
 
-A kis építményt, ami a barátunknál szélfogóként működött, de az átépítéssel megszűnni látszott a szerepe.  
-Nem először láttam, de most valahogy másként néztem rá.
+képek
+
+
+A talajtakaró rózsa a nyár kezdetétől október közepéig nyílik. Sokat ültettem belőle, épp a tartóssága miatt. A hortenzia számomra örök szerelem. Ahogy a színük változik, mindig más arcukat mutatják. Az őszi szellőrózsa fehér és rózsaszín magasan bókoló virága különös kecsességet visznek a többi növény közé. Az Aster (évelő őszirózsa) nagyon hálás virág. A kék és lila különböző árnyalataiban, valamint fehérben virágzik szeptember végétől késő őszig. Vibráló színe, gömb formája, ha akarna sem tudna észrevétlen maradni.
+
+ ## Díszítsük a teraszt
+ 
+ A terasz az a helyiség, ami a kültéri nappaliként is funkcionál, de közelebb hozhatjuk a kertünket is.
 
 
 ![szelfogo](/assets/szerszamtarolo/69276037_1244988145661837_7814371276251725824_nj.jpg)
