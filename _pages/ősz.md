@@ -32,9 +32,16 @@ _A szellőrózsa könnyedén ringatja virágait_
  ![ősz](/assets/ősz/IMG_20191003_074034.jpg)
  _A krizantém, a varjúháj cserépben is jól érzi magát_
  
-  ![ősz](/assets/ősz/IMG_20191002_075218.jpg)
+ ![ősz](/assets/ősz/IMG_20191002_075218.jpg)
  _A vadszőlő ilyenkor mutatja meg az igazi szépségét_
  
+ ![ősz](/assets/ősz/IMG_20190930_162309.jpg)
+ _Asterek, díszfüvek tökéletes harmóniája_
+ 
+ A vidéki házak udvarán stílusos dekor lehet pl: a kukorica is.
+ 
+ ![ősz](/assets/ősz/![ősz](/assets/ősz/IMG_20190930_162309.jpg)
+ _Dekoráció a fatárolón_
  
  
  
@@ -44,9 +51,15 @@ Nálunk a terasz központi helyiség. Innen indulunk, és ide érkezünk haza. S
 Szabadjára engedtem a fantáziámat, és a virágok, dísztökök, az apró kis figurák, és a virágládák segítségével sikerült megteremteni azt az őszi teraszt, mait elképzeltem magamnak.
 
 
+![ősz](/assets/ősz/IMG_20191003_083408_430.jpg)
+ _A dísztökök és a régi teknő jól állnak egymásnak_
+ 
+ 
+ ![ősz](/assets/ősz/IMG_20191003_073308.jpg)
+ _Koszorú, szárított hortenzia, virág egy helyen_
 
-
-
+![ősz](/assets/ősz/IMG_20191003_073308.jpg)
+ _Koszorú, szárított hortenzia, virág egy helyen_
 
 
 
