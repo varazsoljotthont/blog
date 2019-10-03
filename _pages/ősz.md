@@ -15,7 +15,7 @@ image:
 **Az ősz maga a csoda. Színeivel, ízeivel, frisseségével sokunkat elvarázsol. A virágok, a gyümölcsök, a párás reggelek után előbújó nap olyanok, mint egy színdarabban a második felvonás; tartogat még számunkra meglepetéseket.**
  
 
-## Ősz a kertben
+## Ősz a kertünkben
 
 
 Idén szinte menetrendszerűen érkezett meg a szeptember, és robbantak be élénkségükkel az ősszel virágzó növények a kertünkbe.
@@ -38,16 +38,16 @@ _A szellőrózsa könnyedén ringatja virágait_
  ![ősz](/assets/ősz/IMG_20190930_162309.jpg)
  _Asterek, díszfüvek tökéletes harmóniája_
  
- A vidéki házak udvarán stílusos dekor lehet pl: a kukorica is.
+ Vidéki házunk udvarán stílusos dekor lett a kukorica is.
  
  ![ősz](/assets/ősz/IMG_20190113_160213_126.jpg)
  _Dekoráció a fatárolón_
  
  
  
- ## Díszítsük a teraszt, az ablakokat
+ ## Diszítettem a teraszt, az ablakot
  
-Nálunk a terasz központi helyiség. Innen indulunk, és ide érkezünk haza. Számomra fontos, hogy mindig hangulatos, hívogató legyen, és ezt a diszítéssel el is tudom érni.
+Nálunk a terasz központi helyiség. Innen indulunk, és ide érkezünk haza. Számomra fontos, hogy mindig hangulatos, hívogató legyen, és ezt a diszítéssel mindig el is tudom érni.
 Szabadjára engedtem a fantáziámat, és a virágok, dísztökök, az apró kis figurák, és a virágládák segítségével sikerült megteremteni azt az őszi teraszt, mait elképzeltem magamnak.
 
 
@@ -64,11 +64,16 @@ _Koszorú, szárított hortenzia, virág egy helyen_
 
 
 Az ablak párkányra is tettem dekorációt. 
-A krizantém, árvácska, csarab, a kerámia gomba, külön - külön, és egyben is az ősz kellékei lettek.
+A krizantém, árvácska, csarab, a kerámia gomba, külön - külön és egyben is az ősz kellékei lettek.
 
 ![ősz](/assets/ősz/IMG_20190923_101740.jpg)
  _A virágláda is ősziesre váltott_
 
+
+## Őszies hangulat a "Miházunkban"
+
+
+A lakásba nem igazán szoktam bevinni az évszakok váltakozását, de mégis mindennap jelen van.
 
 
 
