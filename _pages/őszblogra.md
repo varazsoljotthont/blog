@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Újra itt az ősz, és csordultig van szépséggel"
-permalink: /ősz/
+permalink: /őszblogra/
 cover: /assets/ősz/cover.jpg
 categories: [kert, dekor]
 image:
