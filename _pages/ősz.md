@@ -45,7 +45,7 @@ _A szellőrózsa könnyedén ringatja virágait_
  
  
  
- ## Diszítettem a teraszt, az ablakot
+## Díszítettem a teraszt, az ablakot
  
 Nálunk a terasz központi helyiség. Innen indulunk, és ide érkezünk haza. Számomra fontos, hogy hangulatos, hívogató legyen, és ezt a minden évszakban a diszítéssel tudom elérni.
 Szabadjára engedtem a fantáziámat, és a virágok, dísztökök, az apró kis figurák, és a virágládák segítségével sikerült megteremteni azt az őszi teraszt, mait elképzeltem magamnak.
