@@ -79,7 +79,7 @@ A lakásba nem igazán szoktam bevinni az évszakok váltakozását, de mégis m
 
 
 
-
+blablablablablblablaaaaa
 
 
 
@@ -90,24 +90,6 @@ Az ősz ezer szépséget tartogat számunkra, csak nyitott szemmel kell járni. 
 
 
 
-**+ 1 gondolat:**   
-Azt hiszem, hogy a kerti szerszámosunk / házikónk egy újabb jó példa arra, hogy nem minden pénz kérdése. Ötlettel, munkával, kreativitással, a régi - esetleg kidobásra szánt - dolgokból is lehet még használhatót készíteni.
-
-
-
-Ha tetszett, kedveld a <a href="https://www.facebook.com/Var%C3%A1zsolj-otthont-360330751226066/" target="_blank">Facebook oldalt</a> is. Itt még több érdekességet találsz a mindennapok varázslataiból.
-
-<a href="https://www.instagram.com/varazsoljotthont/?hl=hu/" target="_blank">Kövess az Instagramon</a> is, és sok olyan fotót láthatsz, ami a blogról vagy a Facebook oldalról kimaradt.
-
-
-
-
-## Kapcsolódó cikkek
-
-* [Ilyen volt, ilyen lett: így lett a kaszálóból romantikus, vidéki kert](/2019-06-26/kulsokorlet)
-* [Így lett a tüzifa az otthonunk dísze](/2019-05-16/fábólkreatívan)
-* [Bontott tégla varázsa az otthonunkban](/2019-04-23/tegla)
-* [Hozzuk formába az otthonunkat!](/2019-03-26/dekoráció)
 
 
 
