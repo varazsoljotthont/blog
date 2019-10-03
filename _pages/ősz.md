@@ -12,7 +12,7 @@ image:
 
 
 
-**Az ősz maga a csoda. Színeivel, ízeivel, frisseségével sokunkat elvarázsol. A virágok, a gyümölcsök, a párás reggelek után előbújó nap olyanok, mint egy színdarabban a második felvonás; tartogat még számunkra meglepetéseket.**
+**Az ősz maga a csoda. Színeivel, ízeivel, frisseségével sokunkat elvarázsol. A virágok, a gyümölcsök, a párás reggelek után előbújó nap olyanok, mint egy színdarabban a második felvonás; tartogatnak még számunkra meglepetéseket.**
  
 
 ## Ősz a kertünkben
@@ -20,7 +20,7 @@ image:
 
 Idén szinte menetrendszerűen érkezett meg a szeptember, és robbantak be élénkségükkel az ősszel virágzó növények a kertünkbe.
 
-Már a kert megtervezésénél gondoltam az őszre, hisz rengeteg évelő ontja ilyenkor is a virágait. A növények beszerzésekor figyeltem arra, hogy folyamatosan legyenek színes virágok úgy az udvaron, mint az Uradalomban.
+Már a kert megtervezésénél gondoltam az őszre, hisz rengeteg évelő ontja ilyenkor is a virágait. A növények beszerzésekor figyeltem arra, hogy folyamatosan legyenek színes virágok úgy, az udvaron, mint az Uradalomban.
 A szellőrózsák, asterek, krizantémok és a különböző varjúhájak ültetésével igyekeztem megőrizni a kertünk szépséget az őszi hónapokra. 
 
 ![ősz](/assets/ősz/IMG_20191001_075620.jpg)
@@ -48,11 +48,11 @@ _A szellőrózsa könnyedén ringatja virágait_
 ## Díszítettem a teraszt, az ablakot
  
 Nálunk a terasz központi helyiség. Innen indulunk, és ide érkezünk haza. Számomra fontos, hogy hangulatos, hívogató legyen, és ezt a minden évszakban a diszítéssel tudom elérni.
-Szabadjára engedtem a fantáziámat, és a virágok, dísztökök, az apró kis figurák, és a virágládák segítségével sikerült megteremteni azt az őszi teraszt, mait elképzeltem magamnak.
+Szabadjára engedtem a fantáziámat, és a virágok, dísztökök, az apró kis figurák, valamint a virágládák segítségével sikerült megteremteni azt az őszi teraszt, mait elképzeltem magamnak.
 
 
 ![ősz](/assets/ősz/IMG_20191003_083408_430.jpg)
- _A dísztökök és a régi teknő jól állnak egymásnak_
+ _A dísztökök és a régi teknő jól illenek egymáshoz_
  
  
 ![ősz](/assets/ősz/IMG_20191003_073308.jpg)
@@ -63,8 +63,8 @@ _Koszorú, szárított hortenzia, virág egy helyen_
 
 
 
-Az ablak párkányra is tettem dekorációt. 
-A krizantém, árvácska, csarab, a kerámia gomba, külön - külön és egyben is az ősz kellékei lettek.
+Az ablakpárkányra is tettem dekorációt. 
+A krizantém, árvácska, csarab, és a kerámia gomba, külön - külön és egyben is az ősz kellékei lettek.
 
 ![ősz](/assets/ősz/IMG_20190923_101740.jpg)
  _A virágláda is ősziesre váltott_
@@ -85,7 +85,7 @@ blablablablablblablaaaaa
 
 
 
-Az ősz ezer szépséget tartogat számunkra, csak nyitott szemmel kell járni. A nyár sem nyújt olyan tüzes színeket, mint ez az évszak. Örüljünk neki, használjuk ki a benne rejlő lehetőségeket; végre van időnk elolvasni a tavasz óta félretett könyvet, elmenni a barátokhoz, vagy csak egy bögre forró teával kiállni a teraszra, és csodálni az ecetfa csodálatos színét. 
+Az ősz ezer szépséget tartogat számunkra, csak nyitott szemmel kell járni. A nyár sem nyújt olyan tüzes színeket, mint ez az évszak. Örüljünk neki, használjuk ki a benne rejlő lehetőségeket! Hisz' végre van időnk elolvasni a tavasz óta félretett könyvet, elmenni a barátokhoz, vagy csak egy bögre forró teával kiállni a teraszra, és csodálni az ecetfa csodálatos színét. 
 
 
 
