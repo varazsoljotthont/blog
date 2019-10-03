@@ -58,7 +58,7 @@ Szabadjára engedtem a fantáziámat, és a virágok, dísztökök, az apró kis
 ![ősz](/assets/ősz/IMG_20191003_073308.jpg)
 _Koszorú, szárított hortenzia, virág egy helyen_
 
-![ősz](/assets/ősz/láda.JPG)
+![ősz](/assets/ősz/lada.jpg)
  _A virágláda is ősziesre váltott_
 
 
