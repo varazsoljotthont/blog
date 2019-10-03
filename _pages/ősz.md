@@ -40,11 +40,10 @@ _A szellőrózsa könnyedén ringatja virágait_
  
  ## Díszítsük a teraszt
  
- A terasz az a helyiség, ami a kültéri nappaliként is funkcionál, de közelebb hozhatjuk a kertünket is.
+Nálunk a terasz központi helyiség. Innen indulunk, és ide érkezünk haza. Számomra fontos, hogy mindig hangulatos, hívogató legyen, és ezt a diszítéssel el is tudom érni.
+Szabadjára engedtem a fantáziámat, és a virágok, dísztökök, az apró kis figurák, és a virágládák segítségével sikerült megteremteni azt az őszi teraszt, mait elképzeltem magamnak.
 
 
-
-A talajtakaró rózsa a nyár kezdetétől október közepéig nyílik. Sokat ültettem belőle, épp a tartóssága miatt. A hortenzia számomra örök szerelem. Ahogy a színük változik, mindig más arcukat mutatják. Az őszi szellőrózsa fehér és rózsaszín magasan bókoló virága különös kecsességet visznek a többi növény közé. Az Aster (évelő őszirózsa) nagyon hálás virág. A kék és lila különböző árnyalataiban, valamint fehérben virágzik szeptember végétől késő őszig. Vibráló színe, gömb alakja, ha akarna sem tudna észrevétlen maradni.
 
 
 
