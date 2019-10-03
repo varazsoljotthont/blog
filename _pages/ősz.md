@@ -55,10 +55,10 @@ Szabadjára engedtem a fantáziámat, és a virágok, dísztökök, az apró kis
  _A dísztökök és a régi teknő jól állnak egymásnak_
  
  
- ![ősz](/assets/ősz/IMG_20191003_073308.jpg)
- _Koszorú, szárított hortenzia, virág egy helyen_
+![ősz](/assets/ősz/IMG_20191003_073308.jpg)
+_Koszorú, szárított hortenzia, virág egy helyen_
 
-![ősz](/assets/ősz/IMG_20190908_121007.jpg)
+![ősz](/assets/ősz/IMG_20190908_121007.JPG)
  _A virágláda is ősziesre váltott_
 
 
