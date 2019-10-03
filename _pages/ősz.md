@@ -45,7 +45,7 @@ _A szellőrózsa könnyedén ringatja virágait_
  
  
  
- ## Díszítsük a teraszt
+ ## Díszítsük a teraszt, az ablakokat
  
 Nálunk a terasz központi helyiség. Innen indulunk, és ide érkezünk haza. Számomra fontos, hogy mindig hangulatos, hívogató legyen, és ezt a diszítéssel el is tudom érni.
 Szabadjára engedtem a fantáziámat, és a virágok, dísztökök, az apró kis figurák, és a virágládák segítségével sikerült megteremteni azt az őszi teraszt, mait elképzeltem magamnak.
@@ -58,7 +58,15 @@ Szabadjára engedtem a fantáziámat, és a virágok, dísztökök, az apró kis
 ![ősz](/assets/ősz/IMG_20191003_073308.jpg)
 _Koszorú, szárított hortenzia, virág egy helyen_
 
-![ősz](/assets/ősz/lada.jpg)
+![ősz](/assets/ősz/IMG_20191003_073400.jpg)
+
+
+
+
+Az ablak párkányra is tettem dekorációt. 
+A krizantém, árvácska, csarab, a kerámia gomba, külön - külön, és egyben is az ősz kellékei lettek.
+
+![ősz](/assets/ősz/IMG_20190923_101740.jpg)
  _A virágláda is ősziesre váltott_
 
 
