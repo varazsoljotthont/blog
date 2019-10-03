@@ -20,8 +20,9 @@ image:
 
 Idén szinte menetrendszerűen érkezett meg a szeptember, és robbantak be élénkségükkel az ősszel virágzó növények a kertünkbe.
 
-Már a kert megtervezésénél gondoltam az őszre, hisz rengeteg évelő ontja ilyenkor is a virágait. A növények beszerzésekor figyeltem arra, hogy folyamatosan legyenek színes virágok úgy, az udvaron, mint az Uradalomban.
-A szellőrózsák, asterek, krizantémok és a különböző varjúhájak ültetésével igyekeztem megőrizni a kertünk szépséget az őszi hónapokra. 
+Már a kert megtervezésénél gondoltam az őszre, hisz rengeteg évelő ontja ilyenkor is a virágait. A növények beszerzésekor figyeltem arra, hogy folyamatosan legyenek színes virágok úgy, az udvaron, mint az "Uradalomban". A nyári időszakról sok virág velem tartott az őszbe is. A talajtakaró rózsáim még mindig virágoznak, a különböző hortenziák a hónapok múlásával folyamatosan változtatják a virágaik színét, és ezzel a kis trükkel mindig új arcukat mutatják.  
+Nem tudom megunni őket.
+A szellőrózsák, asterek, krizantémok és a különböző varjúhájak ültetésével pedig igyekeztem kitolni virágzási időszakot, és ezzel megőrizni a kertünk szépséget az őszi hónapokra. 
 
 ![ősz](/assets/ősz/IMG_20191001_075620.jpg)
 _Élénk színek az októberi kertben_
@@ -38,7 +39,8 @@ _A szellőrózsa könnyedén ringatja virágait_
  ![ősz](/assets/ősz/IMG_20190930_162309.jpg)
  _Asterek, díszfüvek tökéletes harmóniája_
  
- Vidéki házunk udvarán stílusos dekor lett a kukorica is.
+Az udvaron szívesen használok igazi, falusias dekorációt is. Volt már nálunk gesztenye zsomporban, makk tálkában, most pedig kukorica van a fatárolón.
+ 
  
  ![ősz](/assets/ősz/IMG_20190113_160213_126.jpg)
  _Dekoráció a fatárolón_
@@ -49,6 +51,7 @@ _A szellőrózsa könnyedén ringatja virágait_
  
 Nálunk a terasz központi helyiség. Innen indulunk, és ide érkezünk haza. Számomra fontos, hogy hangulatos, hívogató legyen, és ezt a minden évszakban a diszítéssel tudom elérni.
 Szabadjára engedtem a fantáziámat, és a virágok, dísztökök, az apró kis figurák, valamint a virágládák segítségével sikerült megteremteni azt az őszi teraszt, mait elképzeltem magamnak.
+Az álmos reggeleken mindig jókedvre derít a sok kedves virág
 
 
 ![ősz](/assets/ősz/IMG_20191003_083408_430.jpg)
@@ -64,7 +67,7 @@ _Koszorú, szárított hortenzia, virág egy helyen_
 
 
 Az ablakpárkányra is tettem dekorációt. 
-A krizantém, árvácska, csarab, és a kerámia gomba, külön - külön és egyben is az ősz kellékei lettek.
+A krizantém, árvácska, csarab, és a kerámia gomba, külön - külön és egyben is az ősz kellékei lettek. Nagyon szeretem a különböző virágok összeültetését.
 
 ![ősz](/assets/ősz/IMG_20190923_101740.jpg)
  _A virágláda is ősziesre váltott_
