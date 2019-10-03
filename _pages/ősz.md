@@ -20,7 +20,7 @@ image:
 
 Idén szinte menetrendszerűen érkezett meg a szeptember, és robbantak be élénkségükkel az ősszel virágzó növények a kertünkbe.
 
-Már a kert megtervezésénél gondoltam az őszre, hisz rengeteg évelő ontja ilyenkor is a virágait. A növények beszerzésekor figyeltem arra, hogy folyamatosan legyenek színes virágok úgy, az udvaron, mint az "Uradalomban". A nyári időszakról sok virág velem tartott az őszbe is. A talajtakaró rózsáim még mindig virágoznak, a különböző hortenziák a hónapok múlásával folyamatosan változtatják a virágaik színét, és ezzel a kis trükkel mindig új arcukat mutatják.  
+Már a kert megtervezésénél gondoltam az őszre, hisz rengeteg évelő ontja ilyenkor is a virágait. A növények beszerzésekor figyeltem arra, hogy folyamatosan legyenek színes virágok úgy, az udvaron, mint az "Uradalomban". A nyári időszakról sok virág tartott velem az őszbe is. A talajtakaró rózsáim szinte folyamatosan virágoznak, a különböző hortenziák a hónapok múlásával változtatják a virágaik színét, és ezzel a kis trükkel mindig új arcukat mutatják.  
 Nem tudom megunni őket.
 A szellőrózsák, asterek, krizantémok és a különböző varjúhájak ültetésével pedig igyekeztem kitolni virágzási időszakot, és ezzel megőrizni a kertünk szépséget az őszi hónapokra. 
 
@@ -51,7 +51,7 @@ Az udvaron szívesen használok igazi, falusias dekorációt is. Volt már nálu
  
 Nálunk a terasz központi helyiség. Innen indulunk, és ide érkezünk haza. Számomra fontos, hogy hangulatos, hívogató legyen, és ezt a minden évszakban a diszítéssel tudom elérni.
 Szabadjára engedtem a fantáziámat, és a virágok, dísztökök, az apró kis figurák, valamint a virágládák segítségével sikerült megteremteni azt az őszi teraszt, mait elképzeltem magamnak.
-Az álmos reggeleken mindig jókedvre derít a sok kedves virág
+Az álmos reggeleken mindig jókedvre derít a sok kedves virág.
 
 
 ![ősz](/assets/ősz/IMG_20191003_083408_430.jpg)
@@ -67,7 +67,9 @@ _Koszorú, szárított hortenzia, virág egy helyen_
 
 
 Az ablakpárkányra is tettem dekorációt. 
-A krizantém, árvácska, csarab, és a kerámia gomba, külön - külön és egyben is az ősz kellékei lettek. Nagyon szeretem a különböző virágok összeültetését.
+
+Szívesen ültetek össze különböző virágokat, ügyelve a színek, magasságok, formák harmóniájára. 
+A krizantém, árvácska, csarab, és a kerámia gomba, külön - külön és egyben is az ősz kellékei lettek. 
 
 ![ősz](/assets/ősz/IMG_20190923_101740.jpg)
  _A virágláda is ősziesre váltott_
@@ -78,11 +80,17 @@ A krizantém, árvácska, csarab, és a kerámia gomba, külön - külön és eg
 
 A lakásba nem igazán szoktam bevinni az évszakok váltakozását, de mégis mindennap jelen van.
 
+Az asztalon a szalvéta nem csupán kellék, hanem dísz is. Passzol az őszhöz, de az asztalterítőhöz is.
+
+
+A teázás is ilyentájt kerül újra előtérbe, és mi nagyon szeretjük szép bögréből elfogyasztani. A pipacsos igazán stílusos darab, és a hűvös napokon ebből a bögréből még jobban esik a forró tea.
+
+Van még egy nagy kedvencünk, amit ősszel sokszor készítek. Ez a sütőtök krémleves. Pirított tökmaggal az igazi, és a gyerekek kedvence lett az évek alatt.
+
+A szezonális gyümölcsök mindig ott vannak a konyhában. Az alma, a körte, a szőlő íze hozzá tartozik az őszhöz. 
 
 
 
-
-blablablablablblablaaaaa
 
 
 
