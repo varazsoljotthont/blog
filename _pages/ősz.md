@@ -23,14 +23,18 @@ Idén szinte menetrendszerűen érkezett meg a szeptember, és robbantak be él�
 Már a kert megtervezésénél gondoltam az őszre, hisz rengeteg évelő ontja ilyenkor is a virágait. A növények beszerzésekor figyeltem arra, hogy folyamatosan legyenek színes virágok úgy az udvaron, mint az Uradalomban.
 A szellőrózsák, asterek, krizantémok és a különböző varjúhájak ültetésével igyekeztem megőrizni a kertünk szépséget az őszi hónapokra. 
 
-![ősz](/assets/ősz/IMG_20190930_162309.jpg)
-_Élénk színek, formák az októberi kertben_
+![ősz](/assets/ősz/IMG_20191001_075620.jpg)
+_Élénk színek az októberi kertben_
 
 ![ősz](/assets/ősz/IMG_20190923_093510.jpg)
 _A szellőrózsa könnyedén ringatja virágait_
  
  ![ősz](/assets/ősz/IMG_20191003_074034.jpg)
  _A krizantém, a varjúháj cserépben is jól érzi magát_
+ 
+  ![ősz](/assets/ősz/IMG_20191002_075218.jpg)
+ _A vadszőlő ilyenkor mutatja meg az igazi szépségét_
+ 
  
  
  
