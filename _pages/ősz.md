@@ -40,7 +40,7 @@ _A szellőrózsa könnyedén ringatja virágait_
  
  A vidéki házak udvarán stílusos dekor lehet pl: a kukorica is.
  
- ![ősz](/assets/ősz/![ősz](/assets/ősz/IMG_20190930_162309.jpg)
+ ![ősz](/assets/ősz/IMG_20190113_160213_126.jpg)
  _Dekoráció a fatárolón_
  
  
@@ -58,8 +58,8 @@ Szabadjára engedtem a fantáziámat, és a virágok, dísztökök, az apró kis
  ![ősz](/assets/ősz/IMG_20191003_073308.jpg)
  _Koszorú, szárított hortenzia, virág egy helyen_
 
-![ősz](/assets/ősz/IMG_20191003_073308.jpg)
- _Koszorú, szárított hortenzia, virág egy helyen_
+![ősz](/assets/ősz/IMG_20190908_121007.jpg)
+ _A virágláda is ősziesre váltott_
 
 
 
@@ -72,7 +72,8 @@ Szabadjára engedtem a fantáziámat, és a virágok, dísztökök, az apró kis
 
 
 
-
+Az ősz ezer szépséget tartogat számunkra, csak nyitott szemmel kell járni. A nyár sem nyújt olyan tüzes színeket, mint ez az évszak. Örüljünk neki, használjuk ki a benne rejlő lehetőségeket; végre van időnk elolvasni a tavasz óta félretett könyvet, elmenni a barátokhoz, vagy csak egy bögre forró teával kiállni a teraszra, és csodálni az ecetfa csodálatos színét. 
+Én ezekben igazi boldogságot találok. 
 
 
 
