@@ -141,7 +141,7 @@ Az ősz ezer szépséget tartogat számunkra, csak nyitott szemmel kell járni. 
 ...és ezekben én igazi boldogságot találok. 
 
 
-Ha tetszett, kedveld a <a href="https://www.facebook.com/Var%C3%A1zsolj-otthont-360330751226066/" target="_blank">Facebook oldalt</a>. Itt még több érdekességet találsz a mindennapok varázslataiból.
+Ha tetszett, kedveld a <a href="https://www.facebook.com/Var%C3%A1zsolj-otthont-360330751226066/" target="_blank">Facebook oldalt</a>, itt még több érdekességet találsz a mindennapok varázslataiból.
 
 <a href="https://www.instagram.com/varazsoljotthont/?hl=hu/" target="_blank">Kövess az Instagramon</a> is, és sok olyan fotót láthatsz, ami a blogról vagy a Facebook oldalról kimaradt.
 
