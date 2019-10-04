@@ -118,7 +118,7 @@ A szezonális gyümölcsök mindig ott vannak a konyhában. Az alma, a körte, a
 ![ősz](/assets/ősz/IMG_20191004_072736.jpg)
  _Alma, körte, szőlő_
 
-![ősz](/assets/ősz/IMG_20191004_072752_n.jpg)
+![ősz](/assets/ősz/IMG_20191004_072752.jpg)
 
 
 
