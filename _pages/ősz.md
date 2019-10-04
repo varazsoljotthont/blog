@@ -20,8 +20,11 @@ image:
 
 Idén szinte menetrendszerűen érkezett meg a szeptember, és robbantak be élénkségükkel az ősszel virágzó növények a kertünkbe.
 
-Már a kert megtervezésénél gondoltam az őszre, hisz rengeteg évelő ontja ilyenkor is a virágait. A növények beszerzésekor figyeltem arra, hogy folyamatosan legyenek színes virágok úgy, az udvaron, mint az "Uradalomban". A nyári időszakról sok virág tartott velem az őszbe is. A talajtakaró rózsáim szinte folyamatosan virágoznak, a különböző hortenziák a hónapok múlásával változtatják a virágaik színét, és ezzel a kis trükkel mindig új arcukat mutatják.  
+Már a kert megtervezésénél gondoltam az őszre, hisz rengeteg évelő ontja ilyenkor is a virágait. A növények beszerzésekor figyeltem arra, hogy folyamatosan legyenek színes virágok úgy, az udvaron, mint az "Uradalomban". A nyári időszakról sok virág velem tartott az őszbe is. A talajtakaró rózsáim szinte folyamatosan virágoznak, a különböző hortenziák a hónapok múlásával megváltoztatják a virágaik színét, és ezzel a kis trükkel mindig új arcukat mutatják.  
 Nem tudom megunni őket.
+
+
+
 A szellőrózsák, asterek, krizantémok és a különböző varjúhájak ültetésével pedig igyekeztem kitolni virágzási időszakot, és ezzel megőrizni a kertünk szépséget az őszi hónapokra. 
 
 ![ősz](/assets/ősz/IMG_20191001_075620.jpg)
