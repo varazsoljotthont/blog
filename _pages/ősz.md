@@ -134,7 +134,7 @@ Hamarosan megint megyünk, hogy beszerezzük az idei télre elegendő mennyiség
 
 
 
-
+## Annyi mindenért lehet szeretni...
 
 Az ősz ezer szépséget tartogat számunkra, csak nyitott szemmel kell járni. A nyár sem nyújt olyan tüzes színeket, mint ez az évszak. Örüljünk neki, használjuk ki a benne rejlő lehetőségeket! Hisz' végre van időnk elolvasni a tavasz óta félretett könyvet, elmenni a barátokhoz, vagy csak egy bögre forró teával kiállni a teraszra, és csodálni az ecetfa csodálatos színét. 
 
