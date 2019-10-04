@@ -73,6 +73,11 @@ A krizantém, árvácska, csarab, és a kerámia gomba, külön - külön és eg
 
 ![ősz](/assets/ősz/IMG_20190923_101740.jpg)
  _A virágláda is ősziesre váltott_
+ 
+ 
+ ![ősz](/assets/ősz/lada.jpg)
+ _A virágláda is ősziesre váltott_
+
 
 
 ## Őszies hangulat a "Miházunkban"
@@ -82,14 +87,43 @@ A lakásba nem igazán szoktam bevinni az évszakok váltakozását, de mégis m
 
 Az asztalon a szalvéta nem csupán kellék, hanem dísz is. Passzol az őszhöz, de az asztalterítőhöz is.
 
+![ősz](/assets/ősz/IMG_20191004_072938.jpg)
+ _A szalvéták színét hozzá hangolom az asztalterítő színéhez_
+
+
+![ősz](/assets/ősz/IMG_20191004_073631.jpg)
+ _Gomba, szőlő, dísztök a szalvétán is_
+
+
 
 A teázás is ilyentájt kerül újra előtérbe, és mi nagyon szeretjük szép bögréből elfogyasztani. A pipacsos igazán stílusos darab, és a hűvös napokon ebből a bögréből még jobban esik a forró tea.
 
+
+![ősz](/assets/ősz/IMG_20191004_072205.jpg)
+ _Csípős a reggel_
+
+
+![ősz](/assets/ősz/IMG_20191004_072128.jpg)
+ _Hűvös reggelen egy tea indulás előtt?_
+ 
+ 
+
 Van még egy nagy kedvencünk, amit ősszel sokszor készítek. Ez a sütőtök krémleves. Pirított tökmaggal az igazi, és a "gyerekek" kedvence lett az évek alatt.
+
+![ősz](/assets/ősz/71307821_554556295348118_1839788492947718144_n.jpg)
+ _Sütőtök, magvak és kész is az őszi leves_
 
 A szezonális gyümölcsök mindig ott vannak a konyhában. Az alma, a körte, a szőlő íze hozzá tartozik az őszhöz. 
 
-És végül, de nem utolsósorban meg kell említenem a csipkebogyót is. Minden ősszel- miután egy kicsit megcsípte a dér - szedünkegy jó adagot. Átmosom, lecsepegtetem, összeaprítom, sütőben kiszárítom és teaként minden reggel ezt isszuk. E
+![ősz](/assets/ősz/71307821_554556295348118_1839788492947718144_n.jpg)
+ _Alma, körte, szőlő_
+
+![ősz](/assets/ősz/IMG_20191004_072752_n.jpg)
+
+
+
+És végül, de nem utolsósorban meg kell említenem a csipkebogyót is. Minden ősszel- miután egy kicsit megcsípte a dér - szedünk egy jó adagot. Átmosom, lecsepegtetem, összeaprítom, sütőben kiszárítom és teaként minden reggel ezt isszuk. 
+Hamarosan megint megyünk, hogy beszerezzük az idei télre elegendő mennyiséget.
 
 
 
