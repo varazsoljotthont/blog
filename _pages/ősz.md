@@ -18,7 +18,7 @@ image:
 ## Ősz a kertünkben
 
 
-Idén szinte menetrendszerűen érkezett meg a szeptember, és robbantak be élénkségükkel az ősszel virágzó növények a kertünkbe.
+Idén szinte menetrendszerűen érkezett meg a ősz, és robbantak be élénkségükkel az ilyenkor virágzó növények a kertünkbe.
 
 Már a kert megtervezésénél gondoltam az őszre, hisz rengeteg évelő ontja ilyenkor is a virágait. A növények beszerzésekor figyeltem arra, hogy folyamatosan legyenek színes virágok úgy, az udvaron, mint az "Uradalomban". A nyári időszakról sok virág velem tartott az őszbe is. A különböző hortenziák a hónapok múlásával megváltoztatják a virágaik színét, és ezzel a kis trükkel mindig új arcukat mutatják. A talajtakaró rózsáim szinte folyamatosan virágoznak, és a dáliák is tündökölnek még.  
 Nem tudom megunni őket.  
