@@ -81,8 +81,8 @@ A krizantém, árvácska, csarab, és a kerámia gomba, külön - külön és eg
 
 ## Őszies hangulat a "Miházunkban"
 
+A lakásba nem igazán szoktam bevinni az évszakok váltakozását, de mégis érezhető, bár a szezonális ételek, kiegészítők nálunk a mindennapok részeivé váltak.
 
-A lakásba nem igazán szoktam bevinni az évszakok váltakozását, de mégis érezhető az szezonális dolgok jelenlétében.
 
 Az asztalon a szalvéta nem csupán kellék, hanem dísz is. Passzol az őszhöz, de az asztalterítőhöz is.
 
