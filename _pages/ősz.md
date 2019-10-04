@@ -21,10 +21,7 @@ image:
 Idén szinte menetrendszerűen érkezett meg a szeptember, és robbantak be élénkségükkel az ősszel virágzó növények a kertünkbe.
 
 Már a kert megtervezésénél gondoltam az őszre, hisz rengeteg évelő ontja ilyenkor is a virágait. A növények beszerzésekor figyeltem arra, hogy folyamatosan legyenek színes virágok úgy, az udvaron, mint az "Uradalomban". A nyári időszakról sok virág velem tartott az őszbe is. A különböző hortenziák a hónapok múlásával megváltoztatják a virágaik színét, és ezzel a kis trükkel mindig új arcukat mutatják. A talajtakaró rózsáim szinte folyamatosan virágoznak, és a dáliák is tündökölnek még.  
-Nem tudom megunni őket.
-
-
-
+Nem tudom megunni őket.  
 A szellőrózsák, asterek, krizantémok és a különböző varjúhájak ültetésével pedig igyekeztem kitolni virágzási időszakot, és ezzel megőrizni a kertünk szépséget az őszi hónapokra. 
 
 ![ősz](/assets/ősz/IMG_20191001_075620.jpg)
@@ -98,7 +95,7 @@ Az asztalon a szalvéta nem csupán kellék, hanem dísz is. Passzol az őszhöz
 
 
 
-A teázás is ilyentájt kerül újra előtérbe, és mi nagyon szeretjük szép bögréből elfogyasztani. A pipacsos igazán stílusos darab, és a hűvös napokon ebből a bögréből még jobban esik a forró tea.
+A teázás is ilyentájt kerül újra előtérbe, és mi nagyon szeretjük szép bögréből elfogyasztani. A pipacsos igazán stílusos darab, a hűvös napokon ebből a bögréből még jobban esik a forró tea.
 
 
 ![ősz](/assets/ősz/IMG_20191004_072205.jpg)
@@ -110,7 +107,7 @@ A teázás is ilyentájt kerül újra előtérbe, és mi nagyon szeretjük szép
  
  
 
-Van még egy nagy kedvencünk, amit ősszel sokszor készítek. Ez a sütőtökkrém leves. Pirított tökmaggal az igazi, és a "gyerekek" kedvence lett az évek alatt.
+Van még egy nagy kedvencünk, amit ősszel sokszor készítek. Ez a sütőtökkrém leves. Pirított magvakkall az igazi, a "gyerekek" kedvence lett az évek alatt.
 
 ![ősz](/assets/ősz/71307821_554556295348118_1839788492947718144_n.jpg)
  _Sütőtök, magvak és kész is az őszi leves_
