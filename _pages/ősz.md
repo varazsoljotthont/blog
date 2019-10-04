@@ -82,7 +82,7 @@ A krizantém, árvácska, csarab, és a kerámia gomba, külön - külön és eg
 ## Őszies hangulat a "Miházunkban"
 
 
-A lakásba nem igazán szoktam bevinni az évszakok váltakozását, de mégis mindennap jelen van.
+A lakásba nem igazán szoktam bevinni az évszakok váltakozását, de mégis érezhető az szezonális dolgok jelenlétében.
 
 Az asztalon a szalvéta nem csupán kellék, hanem dísz is. Passzol az őszhöz, de az asztalterítőhöz is.
 
@@ -98,21 +98,21 @@ Az asztalon a szalvéta nem csupán kellék, hanem dísz is. Passzol az őszhöz
 A teázás is ilyentájt kerül újra előtérbe, és mi nagyon szeretjük szép bögréből elfogyasztani. A pipacsos igazán stílusos darab, a hűvös napokon ebből a bögréből még jobban esik a forró tea.
 
 
-![ősz](/assets/ősz/IMG_20191004_072205.jpg)
- _Csípős a reggel_
 
 
 ![ősz](/assets/ősz/IMG_20191004_072128.jpg)
  _A hűvös reggelen egy tea indulás előtt?_
  
+![ősz](/assets/ősz/IMG_20191004_072205.jpg)
+ _Csípős a reggel_
  
 
-Van még egy nagy kedvencünk, amit ősszel sokszor készítek. Ez a sütőtökkrém leves. Pirított magvakkall az igazi, a "gyerekek" kedvence lett az évek alatt.
+Van még egy nagy kedvencünk, amit ősszel sokszor készítek. Ez a sütőtökkrém leves. Pirított magvakkal az igazi, a család" kedvence lett az évek alatt.
 
 ![ősz](/assets/ősz/71307821_554556295348118_1839788492947718144_n.jpg)
  _Sütőtök, magvak és kész is az őszi leves_
 
-A szezonális gyümölcsök mindig ott vannak a konyhában. Az alma, a körte, a szőlő íze hozzá tartozik az őszhöz. 
+A szezonális gyümölcsök mindig ott vannak a konyhában. Az alma, a körte, és a szőlő íze is hozzá tartozik az őszhöz. 
 
 ![ősz](/assets/ősz/IMG_20191004_072736.jpg)
  _Alma, körte, szőlő_
@@ -141,7 +141,7 @@ Az ősz ezer szépséget tartogat számunkra, csak nyitott szemmel kell járni. 
 ...és ezekben én igazi boldogságot találok. 
 
 
-Ha tetszett, kedveld a <a href="https://www.facebook.com/Var%C3%A1zsolj-otthont-360330751226066/" target="_blank">Facebook oldalt</a> is. Itt még több érdekességet találsz a mindennapok varázslataiból.
+Ha tetszett, kedveld a <a href="https://www.facebook.com/Var%C3%A1zsolj-otthont-360330751226066/" target="_blank">Facebook oldalt</a>. Itt még több érdekességet találsz a mindennapok varázslataiból.
 
 <a href="https://www.instagram.com/varazsoljotthont/?hl=hu/" target="_blank">Kövess az Instagramon</a> is, és sok olyan fotót láthatsz, ami a blogról vagy a Facebook oldalról kimaradt.
 
