@@ -104,7 +104,7 @@ A teázás is ilyentájt kerül újra előtérbe, és mi nagyon szeretjük szép
 
 
 ![ősz](/assets/ősz/IMG_20191004_072128.jpg)
- _Hűvös reggelen egy tea indulás előtt?_
+ _A hűvös reggelen egy tea indulás előtt?_
  
  
 
@@ -115,7 +115,7 @@ Van még egy nagy kedvencünk, amit ősszel sokszor készítek. Ez a sütőtök 
 
 A szezonális gyümölcsök mindig ott vannak a konyhában. Az alma, a körte, a szőlő íze hozzá tartozik az őszhöz. 
 
-![ősz](/assets/ősz/71307821_554556295348118_1839788492947718144_n.jpg)
+![ősz](/assets/ősz/IMG_20191004_072736.jpg)
  _Alma, körte, szőlő_
 
 ![ősz](/assets/ősz/IMG_20191004_072752_n.jpg)
@@ -126,7 +126,7 @@ A szezonális gyümölcsök mindig ott vannak a konyhában. Az alma, a körte, a
 Hamarosan megint megyünk, hogy beszerezzük az idei télre elegendő mennyiséget.
 
 
-
+![ősz](/assets/ősz/hecsedli.jpg)
 
 
 
