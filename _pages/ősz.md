@@ -47,7 +47,7 @@ Az udvaron szívesen használok igazi, falusias dekorációt is. Volt már nálu
  
  
  
-## Díszítettem a teraszt, az ablakot
+## Díszítem a teraszt, az ablakot
  
 Nálunk a terasz központi helyiség. Innen indulunk, és ide érkezünk haza. Számomra fontos, hogy hangulatos, hívogató legyen, és ezt a minden évszakban a díszítéssel tudom elérni.
 Szabadjára engedtem a fantáziámat, és a virágok, dísztökök, az apró kis figurák, valamint a virágládák segítségével sikerült megteremteni azt az őszi teraszt, amit elképzeltem magamnak.  
