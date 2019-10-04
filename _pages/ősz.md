@@ -139,7 +139,7 @@ Az ősz ezer szépséget tartogat számunkra, csak nyitott szemmel kell járni. 
 
 
 
-Ezekben én igazi boldogságot találok. 
+...és ezekben én igazi boldogságot találok. 
 
 
 
