@@ -124,7 +124,7 @@ A szezonális gyümölcsök mindig ott vannak a konyhában. Az alma, a körte, a
 
 
 
-És végül, de nem utolsósorban meg kell említenem a csipkebogyót is. Minden ősszel- miután egy kicsit megcsípte a dér - szedünk egy jó adagot. Átmosom, lecsepegtetem, összeaprítom, sütőben kiszárítom és teaként minden reggel ezt isszuk. 
+És végül, de nem utolsósorban meg kell említenem a csipkebogyót is. Minden ősszel - miután egy kicsit megcsípte a dér - szedünk egy jó adagot. Átmosom, lecsepegtetem, összeaprítom, sütőben kiszárítom és teaként minden reggel ezt isszuk. 
 Hamarosan megint megyünk, hogy beszerezzük az idei télre elegendő mennyiséget.
 
 
