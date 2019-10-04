@@ -85,9 +85,13 @@ Az asztalon a szalvéta nem csupán kellék, hanem dísz is. Passzol az őszhöz
 
 A teázás is ilyentájt kerül újra előtérbe, és mi nagyon szeretjük szép bögréből elfogyasztani. A pipacsos igazán stílusos darab, és a hűvös napokon ebből a bögréből még jobban esik a forró tea.
 
-Van még egy nagy kedvencünk, amit ősszel sokszor készítek. Ez a sütőtök krémleves. Pirított tökmaggal az igazi, és a gyerekek kedvence lett az évek alatt.
+Van még egy nagy kedvencünk, amit ősszel sokszor készítek. Ez a sütőtök krémleves. Pirított tökmaggal az igazi, és a "gyerekek" kedvence lett az évek alatt.
 
 A szezonális gyümölcsök mindig ott vannak a konyhában. Az alma, a körte, a szőlő íze hozzá tartozik az őszhöz. 
+
+És végül, de nem utolsósorban meg kell említenem a csipkebogyót is. Minden ősszel- miután egy kicsit megcsípte a dér - szedünkegy jó adagot. Átmosom, lecsepegtetem, összeaprítom, sütőben kiszárítom és teaként minden reggel ezt isszuk. E
+
+
 
 
 
