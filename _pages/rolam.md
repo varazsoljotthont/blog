@@ -10,7 +10,7 @@ permalink: /rolam/
 <h3>Szeretettel köszöntök mindenkit a Varázsolj otthont blogon.</h3>
 <br>
 
-<img src="/assets/rolam/énjav.jpg" style="float:right; margin-top:-48px;">
+<img src="/assets/rolam/71277752_2222169471215743_4689534130323456000_n.jpg" style="float:right; margin-top:-48px;">
 
 <br clear="all">
 
