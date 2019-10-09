@@ -16,8 +16,9 @@ permalink: /rolam/
 
 Szegh Krisztina vagyok.  
 Amatőr, ám nagyon lelkes dekoratőr, otthonunk megálmodója, lakberendezője. 
-Vallom, hogy a hangulatos otthon kialakítása nem pénz kérdése.
 
+
+Vallom, hogy a hangulatos otthon kialakítása nem pénz kérdése.  
 Szeretem a vidéki stílust, a természetes hatású dekorációkat, az egyedi ötleteket.  
 
 
