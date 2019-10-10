@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Kerti rom, a legjobb búvóhely" 
+title: "Ősz, ahogy én szeretem" 
 permalink: /kertirom/
 cover: /assets/kertirom/coverjj.jpg
 categories: [haz, kert, dekor]
@@ -13,7 +13,7 @@ image:
 
 
 
-**A mostanában kialakuló irányvonal szerint a kertekhez szervesen hozzátartoznak a különböző kerti építmények. A sütögető, a kemence, a kiülő, és újabban a kertiromnak nevezett különleges hangulatú kerti búvóhely is. Az újonnan épített romfal stílusával megidézi a régi idők letűnt világát, és itt pihenve testünket, lelkünket átjárja a nyugalom.**  
+**Azt hiszem, az ősz talán a legmegosztóbb évszakunk. Pedig a vibráló, tüzes színekkel, párás reggelekkel, a sok finom gyümölccsel csupa-csupa örömet ad. 
 
 
 
