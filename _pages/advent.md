@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Újra itt az ősz, és csordultig van szépséggel"
-permalink: /őszblogra/
+permalink: /advent/
 cover: /assets/ősz/cover.jpg
 categories: [kert, dekor]
 image:
@@ -12,16 +12,22 @@ image:
 
 
 
-**Az ősz maga a csoda. Színeivel, ízeivel, frisseségével sokunkat elvarázsol. A virágok, a gyümölcsök, a párás reggelek után előbújó nap olyanok, mint egy színdarabban a második felvonás; tartogat még számunkra meglepetéseket.**
+**Szeretem a karácsonyt. ...és legalább ennyire szeretem az ünnepet megelőző adventi időszakot is. Azt hiszem, az év legszebb ünnepére is igaz a mondás, miszerint az út épp olyan fontos, mint a cél maga.**
  
 
-## Ősz a kertben
+## Hangolódjunk a télre
 
 
-Idén szinte menetrendszerűen érkezett meg a szeptember, és robbantak be élénkségükkel az ősszel virágzó növények a kertünkbe.
+Amikor az október végi óra átállítással ránk tör a korai sötétség, bennem ezzel együtt jelentkezik az igény a fényre, a bensőséges hangulatra. Ezért is kedves nekünk a november végén kezdődő advent, 'hisz jöhet minden, amivel a környezetünket a vénasszonyok nyara után újra széppé varázsolhatjuk.
 
-Már a kert megtervezésénél gondoltam az őszre, hisz rengeteg évelő ontja ilyenkor is a virágait. A növények beszerzésekor figyeltem arra, hogy folyamatosan legyenek színes virágok úgy az udvaron, mint az Uradalomban.
-A szellőrózsák, asterek, krizantémok és a különböző varjúhájak ültetésével igyekeztem megőrizni a kertünk szépséget az őszi hónapokra. 
+**Fények az udvaron**
+
+Ha ki kellene választanom a számomra legkedvesebbet a téli dekorációk közül, egyértelműen a kültéri fények nyernének.  
+
+Nem az volt a cél, hogy fényárban ússzon az udvar
+
+
+A terasz diszítésének egy fényfűzér adja meg az alaphangulatot, amit aztán a nappaliból is látunk. Nem estem túlzásokba, csak a pillérek közé van ívesen felrakva
 
 ![ősz](/assets/ősz/70833522_2765583596819517_8245242777638535168_n.jpg)
 _Élénk színek, formák az októberi kertben_
