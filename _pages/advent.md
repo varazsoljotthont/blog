@@ -12,13 +12,13 @@ image:
 
 
 
-**Szeretem a karácsonyt. ...és legalább ennyire szeretem az ünnepet megelőző adventi időszakot is. Azt hiszem, az év legszebb ünnepére is igaz a mondás, miszerint az út épp olyan fontos, mint a cél maga.**
+**Szeretem a karácsonyt. ...és legalább ennyire szeretem az ünnepet megelőző adventi időszakot is. Azt hiszem, az év legszebb ünnepére is igaz a mondás, miszerint az út épp olyan fontos, mint a cél maga. Ha már karácsony előtt ünneplőbe öltöztetjük az otthonunkat, a zord tél széppé, az ünnep pedig még varázslatosabbá változik.
  
 
 ## Hangolódjunk a télre
 
 
-Amikor az október végi óra átállítással ránk tör a korai sötétség, bennem ezzel együtt jelentkezik az igény a fényre, a bensőséges hangulatra. Ezért is kedves nekünk a november végén kezdődő advent, 'hisz jöhet minden, amivel a környezetünket a vénasszonyok nyara után újra széppé varázsolhatjuk.
+Amikor az október végi óra átállítással ránk tör a korai sötétség, bennem ezzel egyidőben jelentkezik az igény a fényre, a bensőséges hangulatra. Ezért is kedves nekünk a november végén kezdődő advent, 'hisz jöhet minden, amivel a környezetünket a vénasszonyok nyara után újra széppé varázsolhatjuk.
 
 **Fények az udvaron**
 
