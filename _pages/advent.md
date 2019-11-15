@@ -61,13 +61,12 @@ _A hófedte koszorú igazán stílusos_
 A karácsony nem is lenne karácsony, ha olykor-olykor nem lepnénk meg az otthonunkat egy-egy dekorációval. A készen vásárolt díszek esetében is törekszem a természetességre, hogy meg legyen az összhang a már meglévő dolgainkkal.
 
 
-Ezt pici kopogtatót egy kisebb supermarketban találtam. Meglátni és megszeretni, egy pillanat műve volt. A sufni ajtaján 
+A sufniba vezető ajtó is ünneplőbe öltözött.
 
 ![karácsony](/assets/advent/IMG_20181214_093810.jpg)
 _Egyszerűségében szép_
 
-A bejárati ajtót 
-
+A bejárati ajtón lévő kopogtató régi kedvenc. 
 
 **Mindenből lehet dekoráció**
 
@@ -76,7 +75,7 @@ A különböző anyagok felhasználásával a téli udvart is hangulatba lehet h
 A bádogfazékban nyáron muskátli volt, télen tuja és fenyőtoboz van.
 
 ![karácsony](/assets/advent/IMG_20181212_143016.jpg)
-_Tujaágak, tobozok, csillag. Igazi karácsonyi kellékek _
+_Tujaágak, tobozok, csillag. Igazi karácsonyi kellékek_
 
 A kertilak mellé is került egy kicsi fenyőfa.  
 A hungarocell alapra fenyőágakat ragasztottam, és az egészet egy agyagkaspóba tettem. Pár házilag készült dekoráció került még rá, és  heteken át díszítette a kertet. 
@@ -90,12 +89,16 @@ _Ötletes dekoráció fillérekből_
 
 ## Ünneplőben az ablak
  
- A terasz az a helyiség, ami a kültéri nappaliként is funkcionál, de közelebb hozhatjuk a kertünket is.
+ Az ablak, az ablakpárkány nagyon jól dekorálható.  Lámpásokkal, ládadíszekkel, örökzöldekkel más -más hangulatot tudunk elérni.
+ 
+ Két éve fenyőágból, csillagból, borostyánból, karácsonyi gömbből csináltam meg több ablakdíszt. Nagyon hangulatos volt, és ami még fontos, hogy hónapokon át megtartotta az eredeti formáját.
+ 
+ ![karácsony](/assets/advent/24210318_1395057850593580_7263643921106722381_o.jpg)
+_Ugye, hogy hangulatos?_
 
-
-
-A talajtakaró rózsa a nyár kezdetétől október közepéig nyílik. Sokat ültettem belőle, épp a tartóssága miatt. A hortenzia számomra örök szerelem. Ahogy a színük változik, mindig más arcukat mutatják. Az őszi szellőrózsa fehér és rózsaszín magasan bókoló virága különös kecsességet visznek a többi növény közé. Az Aster (évelő őszirózsa) nagyon hálás virág. A kék és lila különböző árnyalataiban, valamint fehérben virágzik szeptember végétől késő őszig. Vibráló színe, gömb alakja, ha akarna sem tudna észrevétlen maradni.
-
+ ![karácsony](/assets/advent/24785122_1396179730481392_5240949833940383623_o.jpg)
+ 
+ Tavaly télen hungarocell kúpokból 
 
 
 
