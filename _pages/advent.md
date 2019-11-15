@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Legyen ünnepi a várakozás a karácsonyra"
+title: "Kreatív advent, avagy ötletek karácsonyra"
 permalink: /advent/
 cover: /assets/advent/cover.jpg
 categories: [kert, dekor]
@@ -39,7 +39,7 @@ Az udvar és a különböző épületek sem maradhatnak ki az adventi hangulatb�
 
 
 
-**Koszorúk házilag, és **
+**Koszorúk házilag...**
 
 
 A koszorúkhoz az alapot szőlővenyigéből készítjük, és én mindig máshogy diszítem fel. A piros csipkebogyó és a borostyán remekül illik a "Miházunk" vidékies stílusához. Kiegészítésként használtam már rozsdásított hungarocell golyót, szódabikarbónából készült díszt, kicsi kerámiákat...  
@@ -55,6 +55,18 @@ _A kisház sem maradhat ünnepi dísz nélkül_
 
 ![karácsony](/assets/advent/IMG_20190105_091209_484.jpg)
 _A hófedte koszorú igazán stílusos_
+
+**...és ha nem tudunk készíteni**
+
+A karácsony nem is lenne karácsony, ha olykor-olykor nem lepnénk meg az otthonunkat egy-egy dekorációval. A készen vásárolt díszek esetében is törekszem a természetességre, hogy meg legyen az összhang a már meglévő dolgainkkal.
+
+
+Ezt pici kopogtatót egy kisebb supermarketban találtam. Meglátni és megszeretni, egy pillanat műve volt. A sufni ajtaján 
+
+![karácsony](/assets/advent/IMG_20181214_093810.jpg)
+_Egyszerűségében szép_
+
+A bejárati ajtót 
 
 
 **Mindenből lehet dekoráció**
@@ -74,7 +86,9 @@ A hungarocell alapra fenyőágakat ragasztottam, és az egészet egy agyagkaspó
 _Ötletes dekoráció fillérekből_
 
 
-## Díszítsük a teraszt
+
+
+## Ünneplőben az ablak
  
  A terasz az a helyiség, ami a kültéri nappaliként is funkcionál, de közelebb hozhatjuk a kertünket is.
 
