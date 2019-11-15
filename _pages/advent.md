@@ -38,7 +38,8 @@ Semmiképpen nem akartam keverni a hideg-meleg árnyalatokat, ezért hogy egysé
 
 
 Az udvar és a különböző épületek sem maradhatnak ki az adventi hangulatból.  
-A koszorúkhoz az alapot szőlővenyigéből készítjük, és én mindig máshogy diszítem fel. A piros csipkebogyó és a borostyán remekül illik a "Miházunk" vidékies stílusához. Kiegészítésként használtam már rozsdásított hungarocell golyót, szódabikarbónából készült díszt, kicsi kerámiákat... Csak a fantáziánkon múlik, hogy tesszük egyedivé az alapot.
+A koszorúkhoz az alapot szőlővenyigéből készítjük, és én mindig máshogy diszítem fel. A piros csipkebogyó és a borostyán remekül illik a "Miházunk" vidékies stílusához. Kiegészítésként használtam már rozsdásított hungarocell golyót, szódabikarbónából készült díszt, kicsi kerámiákat...  
+Csak a fantáziánkon múlik, hogy tesszük egyedivé a koszorúalapot.
 
 
 ![karácsony](/assets/advent/FB_IMG_1544543639120.jpg)
@@ -49,9 +50,15 @@ _A kisház sem maradhat ünnepi dísz nélkül_
 
 
 ![karácsony](/assets/advent/IMG_20190105_091209_484.jpg)
+_A hófedte koszorú igazán stílusos_
 
 
+A különböző kültéri dekorokkal a téli udvart is hangulatba lehet hozni.
 
+A bádogfazékban nyáron muskátli, télen fenyőág van.
+
+![karácsony](/assets/advent/IMG_20181212_143016.jpg)
+_Fenyőág, csillag, _
 
 ## Díszítsük a teraszt
  
