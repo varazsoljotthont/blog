@@ -2,10 +2,10 @@
 layout: post
 title: "Legyen ünnepi a várakozás a karácsonyra"
 permalink: /advent/
-cover: /assets/ősz/cover.jpg
+cover: /assets/advent/cover.jpg
 categories: [kert, dekor]
 image:
-  path: /assets/ősz/cover.jpg
+  path: /assets/advent/cover.jpg
   height: 300
   width: 300
 ---
@@ -19,22 +19,23 @@ image:
 
 
 Az október végi óra átállítással egyidőben jelentkezik bennem az igény a fényre, a bensőséges hangulatra.  
-Ezért is kedves nekem a november végén kezdődő advent, 'hisz ebben a pár hétben a szebbnél szebbb dekorációkkal megszeldíthetjük a tél komorságát.
+Ezért is kedves nekem a november végén kezdődő advent, 'hisz ebben a pár hétben a szebbnél szebb dekorációkkal megszeldíthetjük a tél komorságát.
 
 **Fények az udvaron**
 
 Ha ki kellene választanom a számomra legkedvesebbet a téli dekorációk közül, egyértelműen a kültéri fények nyernének.  
+Az a hangulat, amit ezek az apró fények képesek előidézni, szerintem a csodával határosak.
 
-Az a hangulat, amit ezek az apró fények képesek okozni, szerintem a csodával határosak.
+![karácsony](/assets/advent/IMG_20191115_193748.jpg)
 
 Nincs sok fényfüzérünk, igyekeztem ebben is mértéket tartani. (Tudjátok, a kevesebb néha több.)  
 A terasz pillérei közt, a járdán két cserepes tuján, és egy raklapból készített fenyőfán van csak karácsonyi világítás.
 
-Semmiképpen nem akartam keverni a hideg-meleg árnyalatokat, ezért hogy egységessé váljon az udvar, mindenhovak hideg fehér színűt választottam. Nekem ez adja vissza leginkább az évszakhoz illő jeges hangulatot.
+Semmiképpen nem akartam keverni a hideg-meleg árnyalatokat, ezért hogy egységessé váljon az udvar, mindenhova hideg fehér színűt választottam. Nekem ez adja vissza leginkább az évszakhoz illő jeges hangulatot.
 
 
-
-![ősz](/assets/ősz/70833522_2765583596819517_8245242777638535168_n.jpg)
+**Koszorúk, kopogtatók*
+![karácsony](/assets/advent/IMG_20191115_193748.jpg)
 _Élénk színek, formák az októberi kertben_
 
 ![ősz](/assets/ősz/IMG_20190923_093510.jpg)
