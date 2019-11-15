@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Újra itt az ősz, és csordultig van szépséggel"
+title: "Legyen ünnepi a várakozás a karácsonyra"
 permalink: /advent/
 cover: /assets/ősz/cover.jpg
 categories: [kert, dekor]
@@ -12,22 +12,27 @@ image:
 
 
 
-**Szeretem a karácsonyt. ...és legalább ennyire szeretem az ünnepet megelőző adventi időszakot is. Azt hiszem, az év legszebb ünnepére is igaz a mondás, miszerint az út épp olyan fontos, mint a cél maga. Ha már karácsony előtt ünneplőbe öltöztetjük az otthonunkat, a zord tél széppé, az ünnep pedig még varázslatosabbá változik.
+**Szeretem a karácsonyt. ...és legalább ennyire szeretem az ünnepet megelőző adventi időszakot is. Ha már karácsony előtt ünneplőbe öltöztetjük az otthonunkat, akkor a zord telet széppé, az ünnepet pedig még varázslatosabbá tudjuk változtatni. Azt hiszem, az év legszebb ünnepére is igaz a mondás, miszerint az út épp olyan fontos, mint a cél maga.** 
  
 
 ## Hangolódjunk a télre
 
 
-Amikor az október végi óra átállítással ránk tör a korai sötétség, bennem ezzel egyidőben jelentkezik az igény a fényre, a bensőséges hangulatra. Ezért is kedves nekünk a november végén kezdődő advent, 'hisz jöhet minden, amivel a környezetünket a vénasszonyok nyara után újra széppé varázsolhatjuk.
+Az október végi óra átállítással egyidőben jelentkezik bennem az igény a fényre, a bensőséges hangulatra.  
+Ezért is kedves nekem a november végén kezdődő advent, 'hisz ebben a pár hétben a szebbnél szebbb dekorációkkal megszeldíthetjük a tél komorságát.
 
 **Fények az udvaron**
 
 Ha ki kellene választanom a számomra legkedvesebbet a téli dekorációk közül, egyértelműen a kültéri fények nyernének.  
 
-Nem az volt a cél, hogy fényárban ússzon az udvar
+Az a hangulat, amit ezek az apró fények képesek okozni, szerintem a csodával határosak.
+
+Nincs sok fényfüzérünk, igyekeztem ebben is mértéket tartani. (Tudjátok, a kevesebb néha több.)  
+A terasz pillérei közt, a járdán két cserepes tuján, és egy raklapból készített fenyőfán van csak karácsonyi világítás.
+
+Semmiképpen nem akartam keverni a hideg-meleg árnyalatokat, ezért hogy egységessé váljon az udvar, mindenhovak hideg fehér színűt választottam. Nekem ez adja vissza leginkább az évszakhoz illő jeges hangulatot.
 
 
-A terasz diszítésének egy fényfűzér adja meg az alaphangulatot, amit aztán a nappaliból is látunk. Nem estem túlzásokba, csak a pillérek közé van ívesen felrakva
 
 ![ősz](/assets/ősz/70833522_2765583596819517_8245242777638535168_n.jpg)
 _Élénk színek, formák az októberi kertben_
