@@ -33,11 +33,15 @@ A terasz pillérei közt, a járdán két cserepes tuján, és egy raklapból k�
 
 Semmiképpen nem akartam keverni a hideg-meleg árnyalatokat, ezért hogy egységessé váljon az udvar, mindenhova hideg fehér színűt választottam. Nekem ez adja vissza leginkább az évszakhoz illő jeges hangulatot.
 
-
-**Koszorúk, kopogtatók és más csecse-becsék**
-
+## Koszorúk, kopogtatók és más csecse-becsék
 
 Az udvar és a különböző épületek sem maradhatnak ki az adventi hangulatból.  
+
+
+
+**Koszorúk házilag, és **
+
+
 A koszorúkhoz az alapot szőlővenyigéből készítjük, és én mindig máshogy diszítem fel. A piros csipkebogyó és a borostyán remekül illik a "Miházunk" vidékies stílusához. Kiegészítésként használtam már rozsdásított hungarocell golyót, szódabikarbónából készült díszt, kicsi kerámiákat...  
 Csak a fantáziánkon múlik, hogy tesszük egyedivé a koszorúalapot.
 
@@ -53,12 +57,22 @@ _A kisház sem maradhat ünnepi dísz nélkül_
 _A hófedte koszorú igazán stílusos_
 
 
-A különböző kültéri dekorokkal a téli udvart is hangulatba lehet hozni.
+**Mindenből lehet dekoráció**
 
-A bádogfazékban nyáron muskátli, télen fenyőág van.
+A különböző anyagok felhasználásával a téli udvart is hangulatba lehet hozni.
+
+A bádogfazékban nyáron muskátli volt, télen tuja és fenyőtoboz van.
 
 ![karácsony](/assets/advent/IMG_20181212_143016.jpg)
-_Fenyőág, csillag, _
+_Tujaágak, tobozok, csillag. Igazi karácsonyi kellékek _
+
+A kertilak mellé is került egy kicsi fenyőfa.  
+A hungarocell alapra fenyőágakat ragasztottam, és az egészet egy agyagkaspóba tettem. Pár házilag készült dekoráció került még rá, és  heteken át díszítette a kertet. 
+
+
+![karácsony](/assets/advent/IMG_20181214_093744.jpg)
+_Ötletes dekoráció fillérekből_
+
 
 ## Díszítsük a teraszt
  
