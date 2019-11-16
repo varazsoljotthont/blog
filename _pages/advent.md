@@ -83,13 +83,15 @@ A hungarocell alapra fenyőágakat ragasztottam, és az egészet egy agyagkaspó
 ![karácsony](/assets/advent/47379763_1797705040328857_5196451510904422400_o.jpg)
 _Ötletes dekoráció fillérekből_
 
-![karácsony](/assets/advent/IMG_20181214_093744.jpg)
+
 
 
 ![karácsony](/assets/advent/47282201_1797703346995693_8686143830820388864_o.jpg)
 _Igazi kertész adventi koszorú_
 
 Ne felejtsük el a természettől kapott dekorációkat sem. A fenti a képen a mályva deres magháza tökéletes kiegészítése az ünnepi hangulatnak. A hunyor is ilyenkor kezdd el virágozni, és a kertben teraszon egyaránt mutatós.
+
+![karácsony](/assets/advent/IMG_20181214_093744.jpg)
 
 ![karácsony](/assets/advent/IMG_20181214_155923.jpg)
 
