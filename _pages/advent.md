@@ -138,16 +138,21 @@ _A ládában, ablakban is ott vannak a csillagok_
 
 ## A játékos ötletek
 
+Tavasztól őszig a ház körüli munkák miatt kevesebb időnk van, de télen szinte mindennap gyalogolunk egy jót. Hétvégén, mikor sikerül világosban elindulnunk a határt vesszük célba, ahol az őzikéket, nyuszikat is kifigyeljük.
+
+Sport is, szórakozás is hóesésben hóembert építeni, hóangyalt csinálni, vagy csak kint lenni a hóeseésben. 
 
  ![karácsony](/assets/advent/IMG_20190105_122757.jpg)
 
 
+A hideg után pedig jöhet egy kis vitamin utánpótlás, amit kreatívan is lehet 
+
  ![karácsony](/assets/advent/IMG_20181222_122050.jpg)
 
-
+VAn még egy téli programunk, amit én "paraszt adventnak" neveztem el
 
 **+ 1 gondolat:**   
-Ha nem tudsz változtatni a körülményeken, változtass a hozzáállásodon - tartja a bölcs mondás, és én teljesen egyetértek vele. Akkor is lesz tél és hideg, ha nem látjuk szívesen. Vegyük hát észre a sok szépséget, amit ez az évszak képes adni nekünk,és máris jobb színben látjuk a világot. 
+Ha nem tudsz változtatni a körülményeken, változtass a hozzáállásodon - tartja a bölcs mondás, és én teljesen egyetértek vele. Akkor is lesz tél és hideg, ha nem látjuk szívesen. Vegyük hát észre a sok szépséget, amit ez az évszak képes adni nekünk, és máris jobb színben látjuk a világot. 
 
 
 Ha tetszett, kedveld a <a href="https://www.facebook.com/Var%C3%A1zsolj-otthont-360330751226066/" target="_blank">Facebook oldalt</a> is. Itt még több érdekességet találsz a mindennapok varázslataiból.
