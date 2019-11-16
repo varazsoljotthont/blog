@@ -68,14 +68,19 @@ _A sufniba vezető ajtó is ünneplőbe öltözött_
 
 A bejárati ajtón lévő kopogtató régi kedvenc. 
 
-**Mindenből lehet dekoráció**
+## Mindenből lehet dekoráció
 
 A különböző anyagok felhasználásával a téli udvart is hangulatba lehet hozni.
+
+**Kaspók, cserepek**
+
 
 A bádogfazékban nyáron muskátli volt, télen tuja és fenyőtoboz van.
 
 ![karácsony](/assets/advent/IMG_20181212_143016.jpg)
 _Tujaágak, tobozok, csillag. Igazi karácsonyi kellékek_
+
+
 
 A [kertilak](/2019-08-18/szerszamtarolo) mellé is került egy kicsi fenyőfa.  
 A hungarocell alapra fenyőágakat ragasztottam, és az egészet egy agyagkaspóba tettem. Pár házilag készült dekoráció került még rá, és  heteken át díszítette a kertet. 
@@ -83,7 +88,16 @@ A hungarocell alapra fenyőágakat ragasztottam, és az egészet egy agyagkaspó
 ![karácsony](/assets/advent/47379763_1797705040328857_5196451510904422400_o.jpg)
 _Ötletes dekoráció fillérekből_
 
+**A hulladékfa is lehet alapanyag**
 
+
+![karácsony](/assets/advent/IMG_20181209_105801.jpg)
+
+
+![karácsony](/assets/advent/25073265_1401721193260579_8440611239654005265_o.jpg)
+
+
+## Kerti advent
 
 
 ![karácsony](/assets/advent/47282201_1797703346995693_8686143830820388864_o.jpg)
