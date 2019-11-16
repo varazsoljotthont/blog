@@ -90,7 +90,7 @@ A hungarocell alapra fenyőágakat ragasztottam, és az egészet egy agyagkaspó
 ![karácsony](/assets/advent/47379763_1797705040328857_5196451510904422400_o.jpg)
 _Ötletes dekoráció fillérekből_
 
-**A [hulladékfa](2019-05-16/fábólkreatívan) is lehet alapanyag**
+**A [hulladékfa](/2019-05-16/fábólkreatívan) is lehet alapanyag**
 
 Tűzreszánt raklap, hasábfa, ágak, mind-mindlehetőség arra, hogy készítsünk valami új dekorációt.
 
