@@ -2,10 +2,10 @@
 layout: post
 title: "Kreatív advent, avagy legyen stílusa a télnek "
 permalink: /advent/
-cover: /assets/advent/cover.jpg
+cover: /assets/advent/ablak.jpg
 categories: [kert, dekor]
 image:
-  path: /assets/advent/cover.jpg
+  path: /assets/advent/ablak.jpg
   height: 300
   width: 300
 ---
