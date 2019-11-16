@@ -95,7 +95,7 @@ Az ablak, az ablakpárkány nagyon jól dekorálható.  Lámpásokkal, ládadís
  
 Két éve fenyőágból, csillagból, borostyánból, karácsonyi gömbből csináltam meg több ablakdíszt. Nagyon hangulatos volt, és ami még fontos, hogy hónapokon át megtartotta az eredeti formáját.
  
- ![karácsony](/assets/advent/24210318_1395057850593580_7263643921106722381_o.jpg)
+ ![karácsony](/assets/advent/ablak.jpg)
 _Ugye, hogy hangulatos?_
 
  ![karácsony](/assets/advent/24785122_1396179730481392_5240949833940383623_o.jpg)
