@@ -136,6 +136,8 @@ _A ládában, ablakban is ott vannak a csillagok_
 
 
 
+## A játékos ötletek
+
 
 
 
@@ -143,8 +145,7 @@ _A ládában, ablakban is ott vannak a csillagok_
 
 
 **+ 1 gondolat:**   
-Azt hiszem, hogy a kerti szerszámosunk / házikónk egy újabb jó példa arra, hogy nem minden pénz kérdése. Ötlettel, munkával, kreativitással, a régi - esetleg kidobásra szánt - dolgokból is lehet még használhatót készíteni.
-
+Ha nem tudsz változtatni a körülményeken, változtass a hozzáállásodon - tartja a bölcs mondás, és én teljesen egyetértek vele. Akkor is lesz tél és hideg, ha valaki nem örül ennek. Vegyük hát észre a sok szépséget amit csak ez az évszak képes adni nekünk. 
 
 
 Ha tetszett, kedveld a <a href="https://www.facebook.com/Var%C3%A1zsolj-otthont-360330751226066/" target="_blank">Facebook oldalt</a> is. Itt még több érdekességet találsz a mindennapok varázslataiból.
