@@ -106,8 +106,8 @@ Tavaly télen hungarocell kúpokból készítettem a téli ablakdíszt. Kőpaszt
 ![karácsony](/assets/advent/IMG_20181211_172248_805.jpg)
 
 
-![karácsony](/assets/advent/IMG_20181209_082259_931.jpg)
-_Az ablakokban a csillagok dekoratív 
+![karácsony](/assets/advent/47317636_1797701786995849_16379892870414336_o.jpg)
+_A ládában, ablakban is ott vannak a csillagok_ 
 
  
 
