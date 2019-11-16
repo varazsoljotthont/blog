@@ -91,25 +91,25 @@ Ne felejtsük el a természettől kapott dekorációkat sem. A fenti a képen a 
 
 ## Ünneplőben az ablak
  
- Az ablak, az ablakpárkány nagyon jól dekorálható.  Lámpásokkal, ládadíszekkel, örökzöldekkel más -más hangulatot tudunk elérni.
+Az ablak, az ablakpárkány nagyon jól dekorálható.  Lámpásokkal, ládadíszekkel, örökzöldekkel más -más hangulatot tudunk elérni.
  
- Két éve fenyőágból, csillagból, borostyánból, karácsonyi gömbből csináltam meg több ablakdíszt. Nagyon hangulatos volt, és ami még fontos, hogy hónapokon át megtartotta az eredeti formáját.
+Két éve fenyőágból, csillagból, borostyánból, karácsonyi gömbből csináltam meg több ablakdíszt. Nagyon hangulatos volt, és ami még fontos, hogy hónapokon át megtartotta az eredeti formáját.
  
  ![karácsony](/assets/advent/24210318_1395057850593580_7263643921106722381_o.jpg)
 _Ugye, hogy hangulatos?_
 
  ![karácsony](/assets/advent/24785122_1396179730481392_5240949833940383623_o.jpg)
  
- Tavaly télen hungarocell kúpokból 
+Tavaly télen hungarocell kúpokból készítettem a téli ablakdíszt. Kőpasztával és rozsdaeffektel egy régi fiókot és dobozt gondoltam újra.
 
 
+![karácsony](/assets/advent/IMG_20181211_172248_805.jpg)
 
 
+![karácsony](/assets/advent/IMG_20181209_082259_931.jpg)
+_Az ablakokban a csillagok dekoratív 
 
-
-
-
-
+ 
 
 
 
