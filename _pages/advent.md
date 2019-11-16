@@ -84,7 +84,9 @@ A hungarocell alapra fenyőágakat ragasztottam, és az egészet egy agyagkaspó
 ![karácsony](/assets/advent/IMG_20181214_093744.jpg)
 _Ötletes dekoráció fillérekből_
 
+Ne felejtsük el a természettől kapott dekorációkat sem. A fenti a képen a mályva deres magháza tökéletes kiegészítése az ünnepi hangulatnak. A hunyor is ilyenkor kezdd el virágozni, és a kertben teraszon egyaránt mutatós.
 
+![karácsony](/assets/advent/IMG_20181214_155923.jpg)
 
 
 ## Ünneplőben az ablak
