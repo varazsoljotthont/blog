@@ -140,16 +140,20 @@ _A ládában, ablakban is ott vannak a csillagok_
 
 Tavasztól őszig a ház körüli munkák miatt kevesebb időnk van, de télen szinte mindennap gyalogolunk egy jót. Hétvégén, mikor sikerül világosban elindulnunk a határt vesszük célba, ahol az őzikéket, nyuszikat is kifigyeljük.
 
-Sport is, szórakozás is hóesésben hóembert építeni, hóangyalt csinálni, vagy csak kint lenni a hóeseésben. 
+Sportolunk is, szórakozunk is, miközben hóembert építünk. Jó móka, és nem életkor függő. 
 
  ![karácsony](/assets/advent/IMG_20190105_122757.jpg)
+ _Minden évben építünk hóembert_
 
 
-A hideg után pedig jöhet egy kis vitamin utánpótlás, amit kreatívan is lehet 
+A hideg után pedig jöhet egy kis vitamin utánpótlás. 
 
  ![karácsony](/assets/advent/IMG_20181222_122050.jpg)
 
-VAn még egy téli programunk, amit én "paraszt adventnak" neveztem el
+Van még egy téli programunk, amit én "paraszt adventnak" neveztem el, a szó legszebb értelmében. 
+Az adventi vásárok mintájára találtam ki; van itt hideg, karácsonyi dal, tea, forraltbor, rágcsálnivaló, fények, beszélgetés.
+
+Szigorúan kint, a teraszon tartjuk a szomszédokkal, barátokkal. Beszélgetünk egy jót, forraltborozunk, teázunk
 
 **+ 1 gondolat:**   
 Ha nem tudsz változtatni a körülményeken, változtass a hozzáállásodon - tartja a bölcs mondás, és én teljesen egyetértek vele. Akkor is lesz tél és hideg, ha nem látjuk szívesen. Vegyük hát észre a sok szépséget, amit ez az évszak képes adni nekünk, és máris jobb színben látjuk a világot. 
