@@ -92,7 +92,7 @@ _Ötletes dekoráció fillérekből_
 
 **A [hulladékfa](/2019-05-16/fábólkreatívan) is lehet alapanyag**
 
-Tűzreszánt raklap, hasábfa, ágak, mind-mindlehetőség arra, hogy készítsünk valami új dekorációt.
+Tűzre szánt raklap, hasábfa, ágak, mind-mindlehetőség arra, hogy készítsünk valami új dekorációt.
 
 
 ![karácsony](/assets/advent/IMG_20181209_105801.jpg)
