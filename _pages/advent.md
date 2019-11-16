@@ -19,7 +19,7 @@ image:
 
 
 Az október végi óra átállítással egyidőben jelentkezik bennem az igény a fényre, a bensőséges hangulatra.  
-Ezért is kedves nekem a november végén kezdődő advent, 'hisz ebben a pár hétben a szebbnél szebb dekorációkkal megszeldíthetjük a tél komorságát.
+Ezért is kedves nekem a november végén kezdődő advent, 'hisz ebben a pár hétben a szebbnél szebb dekorációkkal megszelídíthetjük a tél komorságát.
 
 **Fények az udvaron**
 
@@ -105,7 +105,7 @@ _Ötletes dekoráció fillérekből_
 ![karácsony](/assets/advent/47282201_1797703346995693_8686143830820388864_o.jpg)
 _Igazi kertész adventi koszorú_
 
-Ne felejtsük el a természettől kapott dekorációkat sem. A fenti a képen a mályva deres magháza tökéletes kiegészítése az ünnepi hangulatnak. A hunyor is ilyenkor kezdd el virágozni, és a kertben teraszon egyaránt mutatós.
+Ne felejtsük el a természettől kapott dekorációkat sem. A fenti a képen a mályva deres magháza tökéletes kiegészítése az ünnepi hangulatnak. A hunyor is ilyenkor kezdd el virágozni, és a kertben, teraszon egyaránt mutatós.
 
 ![karácsony](/assets/advent/IMG_20181214_093744.jpg)
 
@@ -139,13 +139,15 @@ _A ládában, ablakban is ott vannak a csillagok_
 ## A játékos ötletek
 
 
+ ![karácsony](/assets/advent/IMG_20190105_122757.jpg)
 
 
+ ![karácsony](/assets/advent/IMG_20181222_122050.jpg)
 
 
 
 **+ 1 gondolat:**   
-Ha nem tudsz változtatni a körülményeken, változtass a hozzáállásodon - tartja a bölcs mondás, és én teljesen egyetértek vele. Akkor is lesz tél és hideg, ha valaki nem örül ennek. Vegyük hát észre a sok szépséget amit csak ez az évszak képes adni nekünk. 
+Ha nem tudsz változtatni a körülményeken, változtass a hozzáállásodon - tartja a bölcs mondás, és én teljesen egyetértek vele. Akkor is lesz tél és hideg, ha nem látjuk szívesen. Vegyük hát észre a sok szépséget, amit ez az évszak képes adni nekünk,és máris jobb színben látjuk a világot. 
 
 
 Ha tetszett, kedveld a <a href="https://www.facebook.com/Var%C3%A1zsolj-otthont-360330751226066/" target="_blank">Facebook oldalt</a> is. Itt még több érdekességet találsz a mindennapok varázslataiból.
