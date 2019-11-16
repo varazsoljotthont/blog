@@ -75,7 +75,7 @@ A különböző anyagok felhasználásával a téli udvart is hangulatba lehet h
 **Kaspók, cserepek**
 
 
-A bádogfazékban nyáron muskátli volt, télen tuja és fenyőtoboz van.
+A bádogfazékban nyáron muskátli volt, télen tuja és fenyőtoboz kerül bele.
 
 ![karácsony](/assets/advent/IMG_20181212_143016.jpg)
 _Tujaágak, tobozok, csillag. Igazi karácsonyi kellékek_
