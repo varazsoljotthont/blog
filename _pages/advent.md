@@ -68,6 +68,8 @@ _A sufniba vezető ajtó is ünneplőbe öltözött_
 
 A bejárati ajtón lévő kopogtató régi kedvenc. 
 
+![karácsony](/assets/advent/IMG_20191116_141029.jpg)
+
 ## Mindenből lehet dekoráció
 
 A különböző anyagok felhasználásával a téli udvart is hangulatba lehet hozni.
