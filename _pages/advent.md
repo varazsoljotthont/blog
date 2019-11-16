@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Kreatív advent, avagy ötletek karácsonyra"
+title: "Kreatív advent, avagy legyen stílusa a télnek "
 permalink: /advent/
 cover: /assets/advent/cover.jpg
 categories: [kert, dekor]
@@ -138,9 +138,13 @@ _A ládában, ablakban is ott vannak a csillagok_
 
 ## A játékos ötletek
 
+**Séta a természetben**
+
 Tavasztól őszig a ház körüli munkák miatt kevesebb időnk van, de télen szinte mindennap gyalogolunk egy jót. Hétvégén, mikor sikerül világosban elindulnunk a határt vesszük célba, ahol az őzikéket, nyuszikat is kifigyeljük.
 
-Sportolunk is, szórakozunk is, miközben hóembert építünk. Jó móka, és nem életkor függő. 
+**Hóember, hóangyal**
+
+Sportolunk is, szórakozunk is, miközben hóembert építünk. Jó móka, és nem életkor függő. Bevallom, hóangyalt is szoktam csinálni, sőt, Még szánkózni, csúszkálni is szoktunk.
 
  ![karácsony](/assets/advent/IMG_20190105_122757.jpg)
  _Minden évben építünk hóembert_
@@ -150,10 +154,16 @@ A hideg után pedig jöhet egy kis vitamin utánpótlás.
 
  ![karácsony](/assets/advent/IMG_20181222_122050.jpg)
 
-Van még egy téli programunk, amit én "paraszt adventnak" neveztem el, a szó legszebb értelmében. 
+**Advent otthon**
+
+Van még egy téli programunk, amit én "paraszt adventnak" neveztem el, a szó legszebb értelmezésében. 
 Az adventi vásárok mintájára találtam ki; van itt hideg, karácsonyi dal, tea, forraltbor, rágcsálnivaló, fények, beszélgetés.
 
-Szigorúan kint, a teraszon tartjuk a szomszédokkal, barátokkal. Beszélgetünk egy jót, forraltborozunk, teázunk
+Szigorúan kint, a teraszon tartjuk a szomszédokkal, barátokkal. Beszélgetünk egy jót, forraltborozunk, teázunk, jól átfagyunk és élvezzük az együtt töltött időt. 
+
+Évek óta megrendezésre kerül, úgy tűnik sikerült egy új hagyományt teremtenünk.
+
+Ugye, milyen sok lehetőséget rejt a tél?  Csak rajtunk múlik, hogy mennyire tesszük szerethetővé.
 
 **+ 1 gondolat:**   
 Ha nem tudsz változtatni a körülményeken, változtass a hozzáállásodon - tartja a bölcs mondás, és én teljesen egyetértek vele. Akkor is lesz tél és hideg, ha nem látjuk szívesen. Vegyük hát észre a sok szépséget, amit ez az évszak képes adni nekünk, és máris jobb színben látjuk a világot. 
