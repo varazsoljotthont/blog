@@ -61,10 +61,10 @@ _A hófedte koszorú igazán stílusos_
 A karácsony nem is lenne karácsony, ha olykor-olykor nem lepnénk meg az otthonunkat egy-egy dekorációval. A készen vásárolt díszek esetében is törekszem a természetességre, hogy meg legyen az összhang a már meglévő dolgainkkal.
 
 
-A sufniba vezető ajtó is ünneplőbe öltözött.
+
 
 ![karácsony](/assets/advent/IMG_20181214_093810.jpg)
-_Egyszerűségében szép_
+_A sufniba vezető ajtó is ünneplőbe öltözött_
 
 A bejárati ajtón lévő kopogtató régi kedvenc. 
 
