@@ -77,7 +77,7 @@ A bádogfazékban nyáron muskátli volt, télen tuja és fenyőtoboz van.
 ![karácsony](/assets/advent/IMG_20181212_143016.jpg)
 _Tujaágak, tobozok, csillag. Igazi karácsonyi kellékek_
 
-A kertilak mellé is került egy kicsi fenyőfa.  
+A [kertilak](/2019-08-18/szerszamtarolo) mellé is került egy kicsi fenyőfa.  
 A hungarocell alapra fenyőágakat ragasztottam, és az egészet egy agyagkaspóba tettem. Pár házilag készült dekoráció került még rá, és  heteken át díszítette a kertet. 
 
 
