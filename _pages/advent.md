@@ -96,7 +96,7 @@ _Ötletes dekoráció fillérekből_
 ![karácsony](/assets/advent/IMG_20181209_105801.jpg)
 
 
-![karácsony](/assets/advent/25073265_1401721193260579_8440611239654005265_o.jpg)
+![karácsony](/assets/advent/IMG_20181210_074224jpg)
 
 
 ## Kerti advent
