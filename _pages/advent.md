@@ -12,24 +12,24 @@ image:
 
 
 
-**Szeretem a karácsonyt. ...és legalább ennyire szeretem az ünnepet megelőző adventi időszakot is. Ha már karácsony előtt ünneplőbe öltöztetjük az otthonunkat, akkor a zord telet széppé, az ünnepet pedig még varázslatosabbá tudjuk változtatni. Azt hiszem, az év legszebb ünnepére is igaz a mondás, miszerint az út épp olyan fontos, mint a cél maga.** 
- 
+**Szeretem a telet... És legalább ennyire szeretem a készülődést a karácsonyra. Az advent időszaka épp erről a várakozásról szól. Öltöztessük hát díszbe a környezetünket, hogy méltón fogadjuk a legszebb ünnepet. Azt hiszem, ebben az esetben is igaz a mondás, miszerint az út épp olyan fontos, mint a cél maga.**
 
-## Hangolódjunk a télre
+## Hangolódjunk a télre!
 
 
-Az október végi óra átállítással egyidőben jelentkezik bennem az igény a fényre, a bensőséges hangulatra.  
-Ezért is kedves nekem a november végén kezdődő advent, 'hisz ebben a pár hétben a szebbnél szebb dekorációkkal megszelídíthetjük a tél komorságát.
+Az október végi óraátállítással egyidőben jelentkezik bennem az igény a fényre, a bensőséges hangulatra.  
+Ezért is kedves számomra a november végén kezdődő advent, hisz' ebben a pár hétben megszelídíthetjük a tél komorságát a szebbnél szebb dekorációkkal.
 
 **Fények az udvaron**
 
-Ha ki kellene választanom a számomra legkedvesebbet a téli dekorációk közül, egyértelműen a kültéri fények nyernének.  
-Az a hangulat, amit ezek az apró fények képesek előidézni, szerintem a csodával határosak.
+Ha választanom kellene a számomra legkedvesebb téli dekorációk közül, egyértelműen a kültéri fények nyernének. A hangulat, melyet az apró fények összesége idéz elő, számomra a csodával határosak.  
 
 ![karácsony](/assets/advent/IMG_20191115_193748.jpg)
 
-Nincs sok fényfüzérünk, igyekeztem ebben is mértéket tartani. (Tudjátok, a kevesebb néha több.)  
-A terasz pillérei közt, a járdán két cserepes tuján, és egy raklapból készített fenyőfán van csak karácsonyi világítás.
+Nincs túl sok fényfüzérünk.
+A teraszunk pillérei között, a járdán két cserepes tujánkon, és egy raklapból készített fenyőfán van csak karácsonyi világítás.
+
+Hogy ez sok vagy kevés, ízlés dolga, én próbáltam ebben is mértéket tartani. Tudjátok, a kevesebb néha több.
 
 Semmiképpen nem akartam keverni a hideg-meleg árnyalatokat, ezért hogy egységessé váljon az udvar, mindenhova hideg fehér színűt választottam. Nekem ez adja vissza leginkább az évszakhoz illő jeges hangulatot.
 
@@ -42,7 +42,7 @@ Az udvar és a különböző épületek sem maradhatnak ki a téli hangulatból.
 **Koszorúk házilag...**
 
 
-A koszorúkhoz az alapot szőlővenyigéből készítjük, és én mindig máshogy diszítem fel. A piros csipkebogyó és a borostyán remekül illik a "Miházunk" vidékies stílusához. Kiegészítésként használtam már rozsdásított hungarocell golyót, szódabikarbónából készült díszt, kicsi kerámiákat...  
+A koszorúkhoz az alapot a férjem szőlővenyigéből készíti, és én diszítem fel. A piros csipkebogyó és a borostyán remekül illik a "Miházunk" vidékies stílusához. Kiegészítésként használtam már rozsdásított hungarocell golyót, szódabikarbónából készült díszt, kicsi kerámiákat...  
 Csak a fantáziánkon múlik, hogy tesszük egyedivé a koszorúalapot.
 
 
