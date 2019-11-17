@@ -29,7 +29,7 @@ Ha választanom kellene a számomra legkedvesebb téli dekorációk közül, egy
 Nincs túl sok fényfüzérünk.
 A teraszunk pillérei között, a járdán két cserepes tujánkon, és egy raklapból készített fenyőfán van csak karácsonyi világítás.
 
-Hogy ez sok vagy kevés, ízlés dolga, én próbáltam ebben is mértéket tartani. Tudjátok, a kevesebb néha több.
+Hogy ez sok vagy kevés ízlés dolga, én próbáltam ebben is mértéket tartani. Tudjátok, a kevesebb néha több.
 
 Semmiképpen nem akartam keverni a hideg-meleg árnyalatokat, ezért hogy egységessé váljon az udvar, mindenhova hideg fehér színűt választottam. Nekem ez adja vissza leginkább az évszakhoz illő jeges hangulatot.
 
