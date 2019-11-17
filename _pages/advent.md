@@ -58,7 +58,9 @@ _A hófedte koszorú igazán stílusos_
 
 **...és ha nem tudunk készíteni**
 
-A karácsony nem is lenne karácsony, ha olykor-olykor nem lepnénk meg az otthonunkat egy-egy dekorációval. A készen vásárolt díszek esetében is törekszem a természetességre, hogy meg legyen az összhang a már meglévő dolgainkkal.
+Van, hogy a hétköznapi elfoglaltságok közepette nem érünk rá házilag dekorációkat készíteni, vagy talán gondot jelent a hozzávalók beszerzése.  
+Sebaj!  
+A karácsony nem is lenne karácsony, ha olykor olykor nem lepnénk meg az otthonunkat - és magunkat - egy-egy dekorációval. De a készen vásárolt díszek esetében is törekszem a természetességre, hogy meg legyen az összhang a már meglévő dolgainkkal.
 
 
 
@@ -92,13 +94,17 @@ _Ötletes dekoráció fillérekből_
 
 **A [hulladékfa](/2019-05-16/fábólkreatívan) is lehet alapanyag**
 
-Tűzre szánt raklap, hasábfa, ágak, mind-mindlehetőség arra, hogy készítsünk valami új dekorációt.
+Tűzre szánt raklap, hasábfa, ágak, mind mind lehetőség arra, hogy készítsünk valami új dekorációt. 
 
 
 ![karácsony](/assets/advent/IMG_20181209_105801.jpg)
 
+A raklap felsőrészét használtuk fel a kinti karácsonyfához. Miután formára vágta a férjem, régi kötéllel és szalma díszekkel dekoráltam.
+
 
 ![karácsony](/assets/advent/IMG_20181210_074224.jpg)
+
+Egy hasábfa, dekorgumi, hungarocell labda és zsenília drót. Ennyi kellett csak az angyalkához.
 
 
 ## Kerti advent
@@ -114,25 +120,26 @@ Ne felejtsük el a természettől kapott dekorációkat sem. A fenti a képen a 
 
 
 ![karácsony](/assets/advent/IMG_20181214_155923.jpg)
-_A tél virága a hunyor_
+_A tél virága, a hunyor_
 
 
 ![karácsony](/assets/advent/47282201_1797703346995693_8686143830820388864_o.jpg)
-_Igazi kertész adventi koszorú_
+_Igazi kertészes adventi koszorú_
 
 
 ## Ünneplőben az ablak
  
 Az ablak, az ablakpárkány nagyon jól dekorálható.  Lámpásokkal, ládadíszekkel, örökzöldekkel más -más hangulatot tudunk elérni.
  
-Két éve fenyőágból, csillagból, borostyánból, karácsonyi gömbből csináltam meg több ablakdíszt. Nagyon hangulatos volt, és ami még fontos, hogy hónapokon át megtartotta az eredeti formáját.
- 
- ![karácsony](/assets/advent/ablak.jpg)
+Két éve fenyőágból, csillagból, borostyánból, karácsonyi gömbből csináltam meg több ablakdíszt. Nagyon hangulatos volt, és az már csak bónusz, hogy hónapokon át megtartották az eredeti formájukat.
+
+
+![karácsony](/assets/advent/ablak.jpg)
 _Ugye, hogy hangulatos?_
 
  ![karácsony](/assets/advent/24785122_1396179730481392_5240949833940383623_o.jpg)
  
-Tavaly télen hungarocell kúpokból készítettem a téli ablakdekor. Kőpasztával és rozsdaeffektel egy régi fiókot és dobozt gondoltam újra.
+Tavaly télen hungarocell kúpokból készítettem a téli ablakdekort. Kőpasztával és rozsdaeffektel egy régi fiókot és dobozt gondoltam újra.
 
 
 ![karácsony](/assets/advent/IMG_20181211_172248_805.jpg)
@@ -149,7 +156,7 @@ _A ládában, ablakban is ott vannak a csillagok_
 
 **Séta a természetben**
 
-Tavasztól őszig a ház körüli munkák miatt kevesebb időnk van, de télen szinte mindennap gyalogolunk egy jót. Hétvégén, mikor sikerül világosban elindulnunk a határt vesszük célba, ahol az őzikéket, nyuszikat is kifigyeljük.
+Tavasztól őszig a ház körüli munkák miatt kevesebb időnk van, de télen szinte mindennap gyalogolunk egy jót. Hétvégén - mikor sikerül világosban elindulnunk - a határt vesszük célba, s közben az őzikéket, nyuszikat is kifigyeljük.
 
 **Hóember, hóangyal**
 
@@ -170,7 +177,7 @@ Az adventi vásárok mintájára találtam ki; van itt hideg, karácsonyi dal, t
 
 Szigorúan kint, a teraszon tartjuk a szomszédokkal, barátokkal. Beszélgetünk egy jót, forraltborozunk, teázunk, jól átfagyunk és élvezzük az együtt töltött időt. 
 
-Évek óta megrendezésre kerül, úgy tűnik sikerült egy új hagyományt teremtenünk.
+Évek óta megrendezzük, és nagyon úgy tűnik sikerült új hagyományt teremtenünk.
 
 Ugye, milyen sok lehetőséget rejt a tél?  Csak rajtunk múlik, hogy mennyire tesszük szerethetővé.
 
