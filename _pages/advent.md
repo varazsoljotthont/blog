@@ -35,7 +35,7 @@ Semmiképpen nem akartam keverni a hideg-meleg árnyalatokat, ezért hogy egysé
 
 ## Koszorúk, kopogtatók és más csecse-becsék
 
-Az udvar és a különböző épületek sem maradhatnak ki az adventi hangulatból.  
+Az udvar és a különböző épületek sem maradhatnak ki a téli hangulatból.  
 
 
 
