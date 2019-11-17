@@ -132,7 +132,7 @@ _Ugye, hogy hangulatos?_
 
  ![karácsony](/assets/advent/24785122_1396179730481392_5240949833940383623_o.jpg)
  
-Tavaly télen hungarocell kúpokból készítettem a téli ablakdíszt. Kőpasztával és rozsdaeffektel egy régi fiókot és dobozt gondoltam újra.
+Tavaly télen hungarocell kúpokból készítettem a téli ablakdekor. Kőpasztával és rozsdaeffektel egy régi fiókot és dobozt gondoltam újra.
 
 
 ![karácsony](/assets/advent/IMG_20181211_172248_805.jpg)
@@ -153,7 +153,7 @@ Tavasztól őszig a ház körüli munkák miatt kevesebb időnk van, de télen s
 
 **Hóember, hóangyal**
 
-Sportolunk is, szórakozunk is, miközben hóembert építünk. Jó móka, és nem életkor függő. Bevallom, hóangyalt is szoktam csinálni, sőt, Még szánkózni, csúszkálni is szoktunk.
+Sportolunk is, szórakozunk is, miközben hóembert építünk. Jó móka, és nem életkor függő. Bevallom, hóangyalt is szoktam csinálni, sőt, még szánkózni, csúszkálni is szoktunk.
 
  ![karácsony](/assets/advent/IMG_20190105_122757.jpg)
  _Minden évben építünk hóembert_
