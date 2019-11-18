@@ -42,7 +42,7 @@ Az udvar és a különböző épületek sem maradhatnak ki a téli hangulatból.
 **Koszorúk házilag...**
 
 
-A koszorúkhoz az alapot a férjem szőlővenyigéből készíti, és én diszítem fel. A piros csipkebogyó és a borostyán remekül illik a "Miházunk" vidékies stílusához. Kiegészítésként használtam már rozsdásított hungarocell golyót, szódabikarbónából készült díszt, kicsi kerámiákat...  
+A koszorúkhoz az alapot a férjem szőlővenyigéből készíti, és én díszítem fel. A piros csipkebogyó és a borostyán remekül illik a "Miházunk" vidékies stílusához. Kiegészítésként használtam már rozsdásított hungarocell golyót, szódabikarbónából készült díszt, kicsi kerámiákat...  
 Csak a fantáziánkon múlik, hogy tesszük egyedivé a koszorúalapot.
 
 
