@@ -12,7 +12,7 @@ image:
 
 
 
-**Szeretem a telet... És legalább ennyire szeretem a készülődést a karácsonyra. Az advent időszaka épp erről a várakozásról szól. Öltöztessük hát díszbe a környezetünket, hogy méltón fogadjuk a legszebb ünnepet. Azt hiszem, ebben az esetben is igaz a mondás, miszerint az út épp olyan fontos, mint a cél maga.**
+**Szeretem a telet... És legalább ennyire szeretem a készülődést a karácsonyra. Az advent időszaka épp erről a várakozásról szól. Öltöztessük hát díszbe a környezetünket, hogy méltón fogadjuk a legszebb ünnepet! Azt hiszem, ebben az esetben is igaz a mondás, miszerint az út épp olyan fontos, mint a cél maga.**
 
 ## Hangolódjunk a télre!
 
