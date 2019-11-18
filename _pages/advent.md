@@ -27,7 +27,7 @@ Ha választanom kellene a számomra legkedvesebb téli dekorációk közül, egy
 ![karácsony](/assets/advent/IMG_20191115_193748.jpg)
 
 Nincs túl sok fényfüzérünk.
-A teraszunk pillérei között, a járdán két cserepes tujánkon, és egy raklapból készített fenyőfán van csak karácsonyi világítás.
+A teraszunk pillérei között, a járdán két cserepes tujánkon és egy raklapból készített fenyőfán van csak karácsonyi világítás.
 
 Hogy ez sok vagy kevés ízlés dolga, én próbáltam ebben is mértéket tartani. Tudjátok, a kevesebb néha több.
 
@@ -99,7 +99,7 @@ Tűzre szánt raklap, hasábfa, ágak, mind mind lehetőség arra, hogy készít
 
 ![karácsony](/assets/advent/IMG_20181209_105801.jpg)
 
-A raklap felsőrészét használtuk fel a kinti karácsonyfához. Miután formára vágta a férjem, régi kötéllel és szalma díszekkel dekoráltam.
+A raklap felső részét használtuk fel a kinti karácsonyfához. Miután formára vágta a férjem, régi kötéllel és szalma díszekkel dekoráltam.
 
 
 ![karácsony](/assets/advent/IMG_20181210_074224.jpg)
