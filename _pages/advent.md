@@ -60,7 +60,7 @@ _A hófedte koszorú igazán stílusos_
 
 Van, hogy a hétköznapi elfoglaltságok közepette nem érünk rá házilag dekorációkat készíteni, vagy talán gondot jelent a hozzávalók beszerzése.  
 Sebaj!  
-A karácsony nem is lenne karácsony, ha olykor olykor nem lepnénk meg az otthonunkat - és magunkat - egy-egy dekorációval. De a készen vásárolt díszek esetében is törekszem a természetességre, hogy meg legyen az összhang a már meglévő dolgainkkal.
+A karácsony nem is lenne karácsony, ha olykor olykor nem lepnénk meg az otthonunkat - és magunkat - egy-egy dekorációval. A készen vásárolt díszek esetében is törekszem a természetességre, hogy meg legyen az összhang a már meglévő dolgainkkal.
 
 
 
