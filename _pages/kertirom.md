@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "Ősz, ahogy én szeretem" 
-permalink: /kertirom/
+title: "A mi karácsonyunk " 
+permalink: /karácsony/
 cover: /assets/kertirom/coverjj.jpg
 categories: [haz, kert, dekor]
 image:
-  path: /assets/kertirom/coverjj.jpg
+  path: /assets/karácsony/coverjj.jpg
   height: 300
   width: 300
 ---
@@ -13,15 +13,17 @@ image:
 
 
 
-**Azt hiszem, az ősz talán a legmegosztóbb évszakunk. Pedig a vibráló, tüzes színekkel, párás reggelekkel, a sok finom gyümölccsel csupa-csupa örömet ad. 
+**A karácsonyban az adventi időszakot szeretem a legjobban. A várakozást, a készülődést, a tél lassúságát, a díszek elkészítését. Csak rajtunk múlik, hogy hogyan éljük meg ezeket a napokat. Ahhoz, hogy nálunk a karácsony valóban olyan legyen, ahogy mi szeretnénk, úgy "csináljuk", ahogy nekünk a legjobb. És ettől lesz nyugodt az ünnep, hogy elengedtünk minden elvárást.
 
 
+## Az én ajándékom
 
-## Régi álom, új ötlet
+Talán nem bánjátok, ha a mostani posztban magunkat is megmutatom egy kicsit.  
+Férjemet már "ismeritek", vele élünk a "Miháznkban". Akik olvassák a blogot, virtuálisan már vele is találkoztak. Vele élünk a "Miháznkban" 
 
 
-A régi, romos épületek vadregényes világa mindig közel állt hozzám.  
-Szeretem, ahogy a leomlott falak közé elrejtőzött egy darabka múlt, ahogy a természet visszavette magának azt, ami egykor az övé volt.
+## Ünnep igény szerint
+
 
 Ezt a varázslatos hangulatot szerettük volna mi is a kertünkben látni. [Bontott téglából](/2019-04-23/tegla) képzeltük el, és szándékosan nem terveztük túl szabályosra. A célunk az volt, hogy olyan legyen, mint ami már évek óta áll a helyén; kissé ütött-kopott, megviselt az időjárás szeszélye folytán.
 
