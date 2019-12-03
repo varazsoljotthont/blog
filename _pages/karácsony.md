@@ -16,16 +16,24 @@ image:
 **A karácsonyban az adventi időszakot szeretem a legjobban. A várakozást, a készülődést, a tél lassúságát, a díszek elkészítését. Ahhoz, hogy nálunk a karácsony valóban olyan legyen, ahogy mi szeretnénk, úgy "csináljuk", ahogy nekünk a legjobb. Csak rajtunk múlik, hogy hogyan éljük meg ezeket a napokat.**
 
 
-## Az én ajándékom
+## Fogadjátok szeretettel az ajándékomat
 
-Talán nem bánjátok, ha a mostani posztban magunkat is megmutatom egy kicsit.  
-Férjemet már "ismeritek", vele élünk a "Miháznkban". Akik olvassák a blogot, virtuálisan már vele is találkoztak. Vele élünk a "Miháznkban" 
+Talán nem bánjátok, ha a mostani poszt egy kicsit személyesebb lesz.  
+Eddig csak mint a Varázsolj otthont bloggerét láthattatok, most a feleséget, az anyukát, a nagyit, és nem utolósorban a Krisztit is megismerhetitek.
+
+
 
 
 ## Ünnep igény szerint
 
+Azt tudjátok rólunk, hogy újrakezdőként vágtunk bele annak idején a "Miházunkba". Mindketten túl a negyvenen, túl egy váláson
+kezdtük el közös életünket. Férjemnek nincs gyermeke, az én fiaim pedig felnőttként már a saját életüket élik. Kisnagyfiam és felesége már egy gyönyörű kisfiúval is megajándékoztak bennünket. Zakariás egy éves kislegény, aki szorgosan teszi azt, amihez a legjobban ért. Elvarázsol mindnekit a kedvességével, az állandó vidámságával.
 
-Ezt a varázslatos hangulatot szerettük volna mi is a kertünkben látni. [Bontott téglából](/2019-04-23/tegla) képzeltük el, és szándékosan nem terveztük túl szabályosra. A célunk az volt, hogy olyan legyen, mint ami már évek óta áll a helyén; kissé ütött-kopott, megviselt az időjárás szeszélye folytán.
+
+**Ünnep nálunk**
+
+A mindennapokban ketten vagyunk, de hétvégenként sokszor összejövünk a gyerekekkel egy-egy ebédre. 
+
 
 ![kertirom](/assets/kertirom/coverj.jpg)
 
