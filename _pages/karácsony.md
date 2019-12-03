@@ -18,21 +18,29 @@ image:
 
 ## Fogadjátok szeretettel az ajándékomat
 
-Talán nem bánjátok, ha a mostani poszt egy kicsit személyesebb lesz.  
-Eddig csak mint a Varázsolj otthont bloggerét láthattatok, most a feleséget, az anyukát, a nagyit, és nem utolósorban a Krisztit is megismerhetitek.
+Talán nem bánjátok, ha a mostani poszt személyesebb lesz, mint az eddigiek.  
+Eddig csak mint a Varázsolj otthont bloggerét láthattatok, most a feleséget, az anyukát, a nagyit, és nem utolósorban a Krisztit is megismerhetitek egy kicsit.
+A posztban az idei dekorációkat is láthatjátok, 
+
+**Az én családom**
 
 
+Azt tudjátok rólunk, hogy újrakezdőként vágtunk bele annak idején a "Miházunkba".  
+Mindketten túl a negyvenen, túl egy váláson kezdtük el közös életünket. Férjemnek nincs gyermeke, az én fiaim pedig felnőttként már a saját életüket élik. Kisnagyfiam és felesége már egy gyönyörű kisfiúval is megajándékoztak bennünket. Zakariás egy éves kislegény, aki szorgosan teszi azt, amihez a legjobban ért. Elvarázsol mindnekit a kedvességével, az állandó vidámságával.
 
 
 ## Ünnep igény szerint
 
-Azt tudjátok rólunk, hogy újrakezdőként vágtunk bele annak idején a "Miházunkba". Mindketten túl a negyvenen, túl egy váláson
-kezdtük el közös életünket. Férjemnek nincs gyermeke, az én fiaim pedig felnőttként már a saját életüket élik. Kisnagyfiam és felesége már egy gyönyörű kisfiúval is megajándékoztak bennünket. Zakariás egy éves kislegény, aki szorgosan teszi azt, amihez a legjobban ért. Elvarázsol mindnekit a kedvességével, az állandó vidámságával.
 
 
-**Ünnep nálunk**
+**Ebéd nálunk**
 
-A mindennapokban ketten vagyunk, de hétvégenként sokszor összejövünk a gyerekekkel egy-egy ebédre. 
+A mindennapokban ketten vagyunk, de hétvégenként és az ünnepekkor sokszor összejövünk a gyerekekkel egy-egy ebédre.  Ilyenkor kettő helyett hol öten, hol hatan vagyunk. 
+A közös ebédek nálunk nem egyszerűek. A nagyfiam és a menyem vega étrendet követ - semmi állati eredetűt nem fogyasztanak - a menyem emellé még glutén érzékeny is, jómagam pedig hisztamin intolernciával küzdök. A férjem, a kiskisfiam és az ő párja pedig a normál étkezés szerint, hússal képzeli el az ünnep ebédet.
+
+**Mindent lehet, ha nagyon akarjuk**
+
+A fentiekből látszik, hogy 
 
 
 ![kertirom](/assets/kertirom/coverj.jpg)
