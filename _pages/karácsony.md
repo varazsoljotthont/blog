@@ -19,17 +19,75 @@ image:
 ## Fogadjátok szeretettel az ajándékomat
 
 Talán nem bánjátok, ha a mostani poszt személyesebb lesz, mint az eddigiek.  
-Eddig csak mint a Varázsolj otthont bloggerét láthattatok, most a feleséget, az anyukát, a nagyit, és nem utolósorban a Krisztit is megismerhetitek egy kicsit.
-A posztban az idei dekorációkat is láthatjátok, 
+Eddig csak mint a Varázsolj otthont bloggerét láthattatok, most a feleséget, az anyukát, a nagyit, és nem utolósorban Krisztát is megismerhetitek egy kicsit.
 
-**Az én családom**
+
+A posztban az idei ünnepi dekorációinkat is láthatjátok, és talán lesz még időtök elkészíteni - párotokkal elkészíttetni, ha valamelyik elnyeri tetszéseteket.
+
+## Az én családom
 
 
 Azt tudjátok rólunk, hogy újrakezdőként vágtunk bele annak idején a "Miházunkba".  
-Mindketten túl a negyvenen, túl egy váláson kezdtük el közös életünket. Férjemnek nincs gyermeke, az én fiaim pedig felnőttként már a saját életüket élik. Kisnagyfiam és felesége már egy gyönyörű kisfiúval is megajándékoztak bennünket. Zakariás egy éves kislegény, aki szorgosan teszi azt, amihez a legjobban ért. Elvarázsol mindnekit a kedvességével, az állandó vidámságával.
+Mindketten túl a negyvenen, túl egy váláson kezdtük el közös életünket. Férjemnek nincs gyermeke, az én fiaim pedig felnőttként már a saját életüket élik. Kisnagyfiam és felesége már egy gyönyörű kisfiúval is megajándékoztak bennünket. Zakariás egy éves kislegény, aki szorgosan teszi azt, amihez a legjobban ért. Elvarázsol mindenkit a kedvességével, az állandó vidámságával.
 
 
 ## Ünnep igény szerint
+
+
+**Karácsony**
+
+Nem vagyunk a klasszikus értelemben vett ajándékozás hívei. 
+
+
+
+A fiaim önálló életéből, és a nagyobbik 200 km-es távolságából adódik, hogy nem mindig akkor jön össze a család mikor szeretnénk, hanem mikor össze tudjuk hangolni az 5 - 6 ember időbeosztását.
+
+Megesett, hogy egy születésnaphoz csak egy hónappal később tudtunk teljes létszámban találkozni, ezért aztán felülírtuk a régi, "kötelezős szabályokat", és újakat alkottunk.  
+
+A karácsony fix pont, fix dátummal, ekkor biztosan mindenki itt van, így ezt jelöltük ki az egyetlen olyan ünnepnek, ahol ajándékozunk. De ezen alkalomkor sem nagy dolgokban gondolkodunk, inkább próbáljuk kifigyelni, hogy ki mit mondd.
+
+
+
+Jómagam nagyon szeretek élményt ajándékozni. 
+Az idei ajándék is ez lesz. Nagyon bízom abban, hogy mindenkinek elnyeri a majd tetszését.
+ 
+## Családi nap
+
+Minden évben van egy olyan nap, mikor együtt elmegyünk túrázni, kirándulni. Ehhez ragaszkodom, és épp ezért már az év elején elkezdem megtenni a javaslataimat. 
+
+> Meggyőződésem, hogy az ilyen napok erősítik a család egységét. Eltávolodunk a hétköznapoktól, közös élményeket szerzünk, nagyon sokat beszélgetünk, ezzel együtt pedig erősödik a kötelék. 
+
+
+Voltunk már húsvéti pikniken a Bakonyban, túrázni a Scheenebergen, a kirándulni a bécsi Állatkertben, gyönyörködni Plitvicében, tavaly három napot a Mátrában, idén pedig a Pilisben töltöttünk el együtt egy egész napot.
+
+**Tervek**
+
+Jövő évben ott alvósra gondoltam - Zaka nagyobb lesz már - és már most várom, hogy milyen klassz lesz este együtt kiülni egy közös beszélgetésre.
+
+Rengeteget emléket adnak ezek a programok, és ez már a miénk. 
+
+A mi közös emlékeink.
+
+
+
+**Egyéb ünnepek**
+
+
+Születésnap, névnap, évfordulók, mikulás soha nincs elfelejtve, de nem csinálunk belőle gondot, ha csak később tudjuk a másikat megölelgetni, megszeretgetni. Hetente több alkalommal beszélünk, naprakészek vagyunk a másikból, így mi azt gondoljuk, hogy nem ezen múlik a szeretet. 
+
+**Csak egy levél**
+
+Mindkét fiamnak, és a menyemnek - akit nagyon szeretek - 25. születésnapjára kézzel írtam egy levelet. 
+
+Egy összefoglaló az eltelt 25 évről, és milyen büszke vagyok arra, hogy ők a mi gyerekeink.  
+Nagyfiam akkor épp nem tudott hazajönni, így előtte odaadtam a menyemnek a levelet, hogy a születésnapján reggel tegye ki a párnájára. 
+
+A kisebbik fiamnak én adtam oda. Később mesélte, hogy órákig kereste a megfelelő alkalmat arra, hogy elovassa, mert nem akarta csak úgy végigfutni.
+
+Mindkét gyermekem azt mondta, hogy ennél szebb ajándékot nem kaphattak volna.
+
+
+Pedig csak egy levél volt...
 
 
 
@@ -38,9 +96,18 @@ Mindketten túl a negyvenen, túl egy váláson kezdtük el közös életünket.
 A mindennapokban ketten vagyunk, de hétvégenként és az ünnepekkor sokszor összejövünk a gyerekekkel egy-egy ebédre.  Ilyenkor kettő helyett hol öten, hol hatan vagyunk. 
 A közös ebédek nálunk nem egyszerűek. A nagyfiam és a menyem vega étrendet követ - semmi állati eredetűt nem fogyasztanak - a menyem emellé még glutén érzékeny is, jómagam pedig hisztamin intolernciával küzdök. A férjem, a kiskisfiam és az ő párja pedig a normál étkezés szerint, hússal képzeli el az ünnep ebédet.
 
+
+
 **Mindent lehet, ha nagyon akarjuk**
 
-A fentiekből látszik, hogy 
+
+A fentiekből látszik, hogy nem egyszerű nálunk a családi ebéd.
+
+Gyakorlott háziasszonyként sem volt könnyű ennyiféle feltételnek megfelelni, ezért én a könnyebb utat választottam.
+
+
+
+
 
 
 ![kertirom](/assets/kertirom/coverj.jpg)
