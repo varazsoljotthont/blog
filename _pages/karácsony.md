@@ -13,7 +13,7 @@ image:
 
 
 
-**A karácsonyban az adventi időszakot szeretem a legjobban. A várakozást, a készülődést, a tél lassúságát, a díszek elkészítését. Csak rajtunk múlik, hogy hogyan éljük meg ezeket a napokat. Ahhoz, hogy nálunk a karácsony valóban olyan legyen, ahogy mi szeretnénk, úgy "csináljuk", ahogy nekünk a legjobb. És ettől lesz nyugodt az ünnep, hogy elengedtünk minden elvárást.
+**A karácsonyban az adventi időszakot szeretem a legjobban. A várakozást, a készülődést, a tél lassúságát, a díszek elkészítését. Ahhoz, hogy nálunk a karácsony valóban olyan legyen, ahogy mi szeretnénk, úgy "csináljuk", ahogy nekünk a legjobb. Csak rajtunk múlik, hogy hogyan éljük meg ezeket a napokat.**
 
 
 ## Az én ajándékom
