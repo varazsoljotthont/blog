@@ -22,7 +22,7 @@ Talán nem bánjátok, ha a mostani poszt személyesebb lesz, mint az eddigiek.
 Eddig csak mint a Varázsolj otthont bloggerét láthattatok, most a feleséget, az anyukát, a nagyit, és nem utolósorban Krisztát is megismerhetitek egy kicsit.
 
 
-![karácsony](/assets/IMG_20191201_135652.jpg)
+![karácsony](/assets/karácsony/IMG_20191201_135652.jpg)
 
 
 A posztban az idei ünnepi dekorációinkat is láthatjátok, és talán lesz még időtök elkészíteni - párotokkal elkészíttetni, ha valamelyik elnyeri tetszéseteket.
