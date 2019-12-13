@@ -83,7 +83,7 @@ Voltunk már húsvéti pikniken a Bakonyban, túrázni a Scheenebergen, a kirán
 
 Jövő évben ott alvósra programra gondoltam - Zaka nagyobb lesz már - és már most várom, hogy milyen klassz lesz este együtt kiülni egy közös beszélgetésre.
 
-![karácsony](/assets/karácsony/IMG_20191203_083818.jpg)
+![karácsony](/assets/karácsony/IMG_20191203_083818(1).jpg)
 
 Rengeteget emléket adnak ezek a programok, és ez már a miénk. 
 
@@ -95,6 +95,8 @@ A mi közös emlékeink.
 
 
 Születésnap, névnap, évfordulók, mikulás soha nincs elfelejtve, de nem csinálunk belőle gondot, ha csak később tudjuk a másikat megölelgetni, megszeretgetni. Hetente több alkalommal beszélünk, naprakészek vagyunk a másikból, így mi azt gondoljuk, hogy nem ezen múlik a szeretet. 
+
+![karácsony](/assets/karácsony/IMG_20191203_163204.jpg)
 
 **Ajándék levél**
 
