@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ünnepek a családban" 
+title: "Ünnepnapok a családban" 
 permalink: /karácsony/
 cover: /assets/karácsony/cover.jpg
 categories: [haz, kert, dekor]
