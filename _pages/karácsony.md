@@ -115,23 +115,30 @@ Mindkét gyermekem azt mondta, hogy ennél szebb ajándékot nem kaphattak volna
 
 Pedig csak egy levél volt...
 
-![karácsony](/assets/karácsony/IMG_20191203_083649.jpg)
+![karácsony](/assets/karácsony/IMG_20191203_083649jav.jpg)
+
+
 **Ebéd nálunk**
 
 A mindennapokban ketten vagyunk, de hétvégenként és az ünnepekkor sokszor összejövünk a gyerekekkel egy-egy ebédre.  
 Ilyenkor kettő helyett hol öten, hol hatan vagyunk. 
 
-IMG_20191202_094147
+![karácsony](/assets/karácsony/IMG_20191203_083753.jpg)
 
 
 A közös ebédek nálunk nem egyszerűek. A nagyfiam és a menyem vega étrendet követ - semmi állati eredetűt nem fogyasztanak - a menyem emellé még glutén érzékeny is, jómagam pedig hisztamin intolernciával küzdök. A férjem, a kiskisfiam és az ő párja pedig a normál étkezés szerint, hússal képzeli el az ünnep ebédet.
 
+
+![karácsony](/assets/karácsony/IMG_20191128_072314.jpg)
 
 
 **Mindent lehet, ha nagyon akarjuk**
 
 
 A fentiekből látszik, hogy nem egyszerű nálunk a családi ebéd.
+
+![karácsony](/assets/karácsony/IMG_20191127_073803.jpg)
+
 
 Gyakorlott háziasszonyként sem volt könnyű ennyiféle feltételnek megfelelni, ezért én a könnyebb utat választottam. Ahelyett, hogy "beleőrülnék" a készülődésbe, a többféle fogás elkészítésébe közvéleményt kutatok, hogy ki mit szeretne enni az ebédnél, és ezekre fókuszálok.
 
