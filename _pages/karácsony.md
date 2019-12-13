@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ünnepnapok a családban" 
+title: "Karácsony és más ünnepnapok a családban" 
 permalink: /karácsony/
 cover: /assets/karácsony/cover.jpg
 categories: [haz, kert, dekor]
@@ -13,19 +13,19 @@ image:
 
 
 
-**A karácsonyban az adventi időszakot szeretem a legjobban. A várakozást, a készülődést, a tél lassúságát, a díszek elkészítését. Ahhoz, hogy nálunk a karácsony valóban olyan legyen, ahogy mi szeretnénk, úgy "csináljuk", ahogy nekünk a legjobb. Csak rajtunk múlik, hogyan éljük meg az ünnepeket.**
+**A karácsonyban az adventi időszakot szeretem a legjobban. A várakozást, a készülődést, a tél lassúságát, a díszek elkészítését. Ahhoz, hogy nálunk a Karácsony valóban olyan legyen, amilyennek mi elképzeljük, úgy "csináljuk", ahogy nekünk a legjobb. Csak rajtunk múlik, hogyan éljük meg az ünnepeket.**
 
 
 
 ![karácsony](/assets/karácsony/idézet.jpg)
 
 
-## Fogadjátok szeretettel az ajándékomat
+## Fogadjátok szeretettel az ajándékomat!
 
 Talán nem bánjátok, ha a mostani poszt személyesebb lesz, mint az eddigiek.  
 Eddig csak mint a Varázsolj otthont bloggerét láthattatok, most a feleséget, az anyukát, a nagyit, és nem utolsó sorban Krisztát is megismerhetitek egy kicsit.
 
-A posztban az idei ünnepi dekorációinkat is láthatjátok, és talán lesz még idő elkészíteni, vagy párotokkal elkészíttetni ha valamelyik elnyeri tetszéseteket.
+A posztban az idei ünnepi dekorációinkat is láthatjátok, és talán lesz még idő elkészíteni, vagy párotokkal elkészíttetni, ha valamelyik elnyeri tetszéseteket.
 
 
 ![karácsony](/assets/karácsony/IMG_20191201_135652.jpg)
@@ -44,32 +44,31 @@ Mindketten túl a negyvenen, túl egy váláson kezdtük el közös életünket.
 _Dekoráció az egyszerűség jegyében_
 
 
-Nagy örömünkre nagyfiam és felesége már egy gyönyörű kisfiúval is megajándékoztak bennünket. Zakariás egy éves kislegény, aki szorgosan teszi azt, amihez a legjobban ért. Elvarázsol mindenkit a kedvességével, az állandó vidámságával.
+Nagy örömünkre nagyfiam és felesége már egy gyönyörű kisfiúval is megajándékoztak bennünket. Zakariás 1 éves kislegény már, aki szorgosan teszi azt, amihez a legjobban ért; elvarázsol mindenkit a kedvességével és állandó vidámságával.
+
+Norbiék?
 
 ![karácsony](/assets/karácsony/IMG_20191202_171333.jpg)
 _Ünnepi fények az udvaron_
 
 
 
-## Ünnep igény szerint
+## Ünnep, igény szerint
 
 
 **Karácsony**
 
-A karácsonyban a hangulat, az együtt töltött idő a legjobb. 
+Szerintem a karácsonyban a hangulat, az együtt töltött idő a legjobb.
 
-> Az otthonunk feldíszítése ezért - is - olyan fontos számomra. A ház különböző részein elhelyezett dekorációk fokozzák az ünnepi hangulatot úgy nálunk, mint a vendégeinknél.
+> A ház különböző részein elhelyezett dekorációk fokozzák az ünnepi hangulatot úgy bennünk, mint a vendégeinkben. Ezért is olyan fontos számomra az otthonunk díszítése. 
 
+A Karácsony az a fix dátum, mikor biztosan mindenki szabad, és össze tud gyűlni a család. Így ezt jelöltük ki az egyetlen olyan ünnepnek, melyen ajándékozunk. De ilyenkor sem nagy dolgokban gondolkodunk, inkább arra fektetjük a hangsúlyt, hogy valami igazán személyessel lepjük meg egymást.
 
-
-
-A fiaim önálló életéből, és a nagyobbik 200 km-es távolságából adódik, hogy nem mindig akkor jön össze a család mikor szeretnénk, hanem mikor össze tudjuk hangolni az 5 - 6 ember időbeosztását.
-
-![karácsony](/assets/karácsony/IMG_20191124_130936_392.jpg)
+A fiaim önálló életéből, és a nagyobbik 200 km-es távolságából adódik, hogy nem mindig akkor jön össze a család amikor szeretnénk, hanem mikor össze tudjuk hangolni az 5 - 6 ember időbeosztását.
 
 Megesett, hogy egy születésnaphoz csak egy hónappal később tudtunk teljes létszámban találkozni, ezért aztán felülírtuk a régi, "kötelezős szabályokat", és újakat alkottunk.  
 
-A karácsony fix pont, fix dátummal, ekkor biztosan mindenki itt van, így ezt jelöltük ki az egyetlen olyan ünnepnek, ahol ajándékozunk. De ezen alkalomkor sem nagy dolgokban gondolkodunk, inkább arra fektetjük a hangsúlyt, hogy valóban személyes legyen az ajándék.
+![karácsony](/assets/karácsony/IMG_20191124_130936_392.jpg)
 
 ![karácsony](/assets/karácsony/IMG_20191130_135925.jpg)
 
@@ -78,18 +77,17 @@ Nagyon bízom abban, hogy mindenkinek elnyeri a majd tetszését.
  
 ## Családi nap
 
-Minden évben van egy olyan nap, mikor együtt elmegyünk túrázni, kirándulni. Ehhez ragaszkodom, és épp ezért már az év elején elkezdem megtenni a javaslataimat. 
+Minden évben kerítünk alkalmat arra, hogy családunkkal együtt túrázni menjünk, kiránduljunk. Ehhez ragaszkodom, és épp ezért már az év elején elkezdem megtenni a program javaslataimat. 
 
 ![karácsony](/assets/karácsony/IMG_20191125_130200.jpg)
 
-> Meggyőződésem, hogy az ilyen napok erősítik a család egységét. Eltávolodunk a hétköznapoktól, közös élményeket szerzünk, nagyon sokat beszélgetünk, ezzel együtt pedig erősödik a kötelék. 
+> Meggyőződésem, hogy az ilyen napok erősítik a családi kötelékeket. Ilyenkor kicsit eltávolodunk a hétköznapoktól, közös élményeket szerzünk és nagyon sokat beszélgetünk.
 
 ![karácsony](/assets/karácsony/IMG_20191210_114532.jpg)
 
+### Közös emlékeink
 
-Voltunk már húsvéti pikniken a Bakonyban, túrázni a Scheenebergen, a kirándulni a bécsi Állatkertben, gyönyörködni Plitvicében, tavaly három napot a Mátrában, idén pedig a Pilisben töltöttünk el együtt egy egész napot. 
-
-**Tervek**
+Voltunk már húsvéti pikniken a Bakonyban, túrázni a Scheenebergen, a kirándulni a bécsi állatkertben, gyönyörködni Plitvicében, tavaly három napot a Mátrában, idén pedig a Pilisben jártunk, már unokánkkal kiegészülve.
 
 Mindig izgalmas megtervezni a következő évi programot. 
 
@@ -97,28 +95,22 @@ Ha csak egy napos akkor lényeges szempont, hogy mindenkihez közel legyen, hisz
 
 Ha több napos, amilyet a jövő évre is tervezünk, akkor belefér a távolság is.
 
-> Már most várom, hogy milyen klassz lesz este együtt kiülni egy közös beszélgetésre. 
+> Már most várom, hogy milyen klassz lesz a jövő évi kirándulásunk; beszélgetések, nevetések, a nap végén pedig együtt kiülni egy közös csillagnézésre.
 
-
-
-Rengeteget emléket adnak ezek a programok, és ez már a miénk. 
-
-A mi közös emlékeink.
 
 ![karácsony](/assets/karácsony/IMG_20191203_0838181.jpg)
 
 ## Egyéb ünnepek
 
-
-Születésnap, névnap, évfordulók, mikulás soha nincs elfelejtve, de nem csinálunk belőle gondot, ha csak később tudjuk a másikat megölelgetni, megszeretgetni. Hetente több alkalommal beszélünk, naprakészek vagyunk a másikból, így mi azt gondoljuk, hogy nem ezen múlik a szeretet. 
+Hetente több alkalommal is beszélünk, naprakészek vagyunk a másikból, és persze a születésnapok, névnapok, évfordulók, de még a Mikulás sincs soha elfelejtve. Azonban nem csinálunk belőle gondot, ha csak később tudjuk a másikat megszeretgetni.  Mi úgy gondoljuk, nem ezen múlik a szeretet. 
 
 ![karácsony](/assets/karácsony/IMG_20191203_163204.jpg)
 
-**Ajándék levél**
+**Ajándék levél születésnapra**
 
-Mindkét fiamnak és a menyemnek - akit nagyon szeretek - 25. születésnapjára kézzel írtam egy levelet. 
+25. születésnapjára mindkét fiamnak és a menyemnek is - akit nagyon szeretek - kézzel írtam egy levelet. 
 
-Egy összefoglaló az eltelt 25 évről,  -menyem esetében a közös évekről, hogy milyen jó, hogy a családunkhoz tartozik - és milyen büszke vagyok arra, hogy ők a mi gyerekeink.  
+Egy összefoglalót az eltelt 25 évről,  - menyem esetében a közös évekről, hogy milyen jó is, hogy a családunkhoz tartozik - és milyen büszke vagyok rájuk. 
 Nagyfiam akkor épp nem tudott hazajönni, így előtte odaadtam a menyemnek a levelet, hogy a születésnapján reggel tegye ki a párnájára. 
 
 ![karácsony](/assets/karácsony/IMG_20191130_130131.jpg)
@@ -126,7 +118,7 @@ _Hunyor, vagy karácsonyi rózsa. Decemberben, az ünnepekre már virágzik_
 
 A kisebbik fiam nagy ölelés közepette tőlem kapta meg. Később mesélte, hogy órákig kereste a megfelelő alkalmat arra, hogy elovassa, mert nem akarta csak úgy végigfutni.
 
-Mindkét gyermekem azt mondta, hogy ennél szebb ajándékot nem kaphattak volna.
+Mindkét gyermekem azt mondta, hogy ennél szebb ajándékot nem is kaphattak volna.
 
 
 Pedig csak egy levél volt...
