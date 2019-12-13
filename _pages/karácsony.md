@@ -83,7 +83,7 @@ Voltunk már húsvéti pikniken a Bakonyban, túrázni a Scheenebergen, a kirán
 
 Jövő évben ott alvósra programra gondoltam - Zaka nagyobb lesz már - és már most várom, hogy milyen klassz lesz este együtt kiülni egy közös beszélgetésre.
 
-[karácsony](/assets/karácsony/IMG_20191203_083818 (1).jpg)
+[karácsony](/assets/karácsony/IMG_20191203_083818.jpg)
 
 Rengeteget emléket adnak ezek a programok, és ez már a miénk. 
 
