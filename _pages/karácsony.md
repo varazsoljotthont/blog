@@ -51,8 +51,7 @@ A karácsony fix pont, fix dátummal, ekkor biztosan mindenki itt van, így ezt 
 
 
 
-Jómagam nagyon szeretek élményt ajándékozni. 
-Az idei ajándék is ez lesz. Nagyon bízom abban, hogy mindenkinek elnyeri a majd tetszését.
+Jómagam nagyon szeretek élményt ajándékozni, így az idei ajándék is ez lesz. Nagyon bízom abban, hogy mindenkinek elnyeri a majd tetszését.
  
 ## Családi nap
 
@@ -61,11 +60,11 @@ Minden évben van egy olyan nap, mikor együtt elmegyünk túrázni, kirándulni
 > Meggyőződésem, hogy az ilyen napok erősítik a család egységét. Eltávolodunk a hétköznapoktól, közös élményeket szerzünk, nagyon sokat beszélgetünk, ezzel együtt pedig erősödik a kötelék. 
 
 
-Voltunk már húsvéti pikniken a Bakonyban, túrázni a Scheenebergen, a kirándulni a bécsi Állatkertben, gyönyörködni Plitvicében, tavaly három napot a Mátrában, idén pedig a Pilisben töltöttünk el együtt egy egész napot.
+Voltunk már húsvéti pikniken a Bakonyban, túrázni a Scheenebergen, a kirándulni a bécsi Állatkertben, gyönyörködni Plitvicében, tavaly három napot a Mátrában, idén pedig a Pilisben töltöttünk el együtt egy egész napot. 
 
 **Tervek**
 
-Jövő évben ott alvósra gondoltam - Zaka nagyobb lesz már - és már most várom, hogy milyen klassz lesz este együtt kiülni egy közös beszélgetésre.
+Jövő évben ott alvósra programra gondoltam - Zaka nagyobb lesz már - és már most várom, hogy milyen klassz lesz este együtt kiülni egy közös beszélgetésre.
 
 Rengeteget emléket adnak ezek a programok, és ez már a miénk. 
 
@@ -82,10 +81,12 @@ Születésnap, névnap, évfordulók, mikulás soha nincs elfelejtve, de nem csi
 
 Mindkét fiamnak, és a menyemnek - akit nagyon szeretek - 25. születésnapjára kézzel írtam egy levelet. 
 
-Egy összefoglaló az eltelt 25 évről, és milyen büszke vagyok arra, hogy ők a mi gyerekeink.  
+Egy összefoglaló az eltelt 25 évről,  -menyem esetében a közös évekről, és hogy milyen jó, hogy koztünk van - és milyen büszke vagyok arra, hogy ők a mi gyerekeink.  
 Nagyfiam akkor épp nem tudott hazajönni, így előtte odaadtam a menyemnek a levelet, hogy a születésnapján reggel tegye ki a párnájára. 
 
-A kisebbik fiamnak én adtam oda. Később mesélte, hogy órákig kereste a megfelelő alkalmat arra, hogy elovassa, mert nem akarta csak úgy végigfutni.
+A kisebbik fiamnak tőlem kapta meg. 
+
+Később mesélte, hogy órákig kereste a megfelelő alkalmat arra, hogy elovassa, mert nem akarta csak úgy végigfutni.
 
 Mindkét gyermekem azt mondta, hogy ennél szebb ajándékot nem kaphattak volna.
 
@@ -106,8 +107,9 @@ A közös ebédek nálunk nem egyszerűek. A nagyfiam és a menyem vega étrende
 
 A fentiekből látszik, hogy nem egyszerű nálunk a családi ebéd.
 
-Gyakorlott háziasszonyként sem volt könnyű ennyiféle feltételnek megfelelni, ezért én a könnyebb utat választottam.
+Gyakorlott háziasszonyként sem volt könnyű ennyiféle feltételnek megfelelni, ezért én a könnyebb utat választottam. Ahelyett, hogy "beleőrülnék" a készülődésbe, a többféle fogás elkészítésébe közvéleményt kutatok, hogy ki mit szeretne enni az ebédnél, és ezekre fókuszálok.
 
+Sokkal jobb ez így. Mindenki azt kapja amire "rákészítette a hasát", én sem leszek a konyha fogja, és nem mellékesen gazdaságilag is jobban jövünk ki.
 
 
 
