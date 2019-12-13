@@ -2,10 +2,10 @@
 layout: post
 title: "A mi karácsonyunk " 
 permalink: /karácsony/
-cover: /assets/karácsony/IMG_20191130_135933.jpg
+cover: /assets/karácsony/cover.jpg
 categories: [haz, kert, dekor]
 image:
-  path: /assets/karácsony/IMG_20191130_135933.jpg
+  path: /assets/karácsony/cover.jpg
   height: 300
   width: 300
 ---
