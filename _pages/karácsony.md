@@ -2,7 +2,7 @@
 layout: post
 title: "A mi karácsonyunk " 
 permalink: /karácsony/
-cover: /assets/kertirom/coverjj.jpg
+cover: /assets/kertirom/IMG_20191130_135933.jpg
 categories: [haz, kert, dekor]
 image:
   path: /assets/karácsony/coverjj.jpg
@@ -32,6 +32,8 @@ A posztban az idei ünnepi dekorációinkat is láthatjátok, és talán lesz m�
 
 Azt tudjátok rólunk, hogy újrakezdőként vágtunk bele annak idején a "Miházunkba".  
 Mindketten túl a negyvenen, túl egy váláson kezdtük el közös életünket. Férjemnek nincs gyermeke, az én fiaim pedig felnőttként már a saját életüket élik. Kisnagyfiam és felesége már egy gyönyörű kisfiúval is megajándékoztak bennünket. Zakariás egy éves kislegény, aki szorgosan teszi azt, amihez a legjobban ért. Elvarázsol mindenkit a kedvességével, az állandó vidámságával.
+
+![karácsony](/assets/karácsony/![karácsony]IMG_20191130_121256.jpg)
 
 
 ## Ünnep igény szerint
