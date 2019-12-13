@@ -74,7 +74,7 @@ Minden évben van egy olyan nap, mikor együtt elmegyünk túrázni, kirándulni
 
 > Meggyőződésem, hogy az ilyen napok erősítik a család egységét. Eltávolodunk a hétköznapoktól, közös élményeket szerzünk, nagyon sokat beszélgetünk, ezzel együtt pedig erősödik a kötelék. 
 
-[karácsony](/assets/karácsony/IMG_20191203_083433.jpg)
+[karácsony](/assets/karácsony/IMG_20191210_114532.jpg)
 
 
 Voltunk már húsvéti pikniken a Bakonyban, túrázni a Scheenebergen, a kirándulni a bécsi Állatkertben, gyönyörködni Plitvicében, tavaly három napot a Mátrában, idén pedig a Pilisben töltöttünk el együtt egy egész napot. 
