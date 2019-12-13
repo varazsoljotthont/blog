@@ -25,7 +25,7 @@ image:
 Talán nem bánjátok, ha a mostani poszt személyesebb lesz, mint az eddigiek.  
 Eddig csak mint a Varázsolj otthont bloggerét láthattatok, most a feleséget, az anyukát, a nagyit, és nem utolsó sorban Krisztát is megismerhetitek egy kicsit.
 
-A posztban az idei ünnepi dekorációinkat is láthatjátok, és talán lesz még időtök elkészíteni, párotokkal elkészíttetni ha valamelyik elnyeri tetszéseteket.
+A posztban az idei ünnepi dekorációinkat is láthatjátok, és talán lesz még idő elkészíteni, vagy párotokkal elkészíttetni ha valamelyik elnyeri tetszéseteket.
 
 
 ![karácsony](/assets/karácsony/IMG_20191201_135652.jpg)
@@ -66,11 +66,12 @@ A fiaim önálló életéből, és a nagyobbik 200 km-es távolságából adódi
 
 Megesett, hogy egy születésnaphoz csak egy hónappal később tudtunk teljes létszámban találkozni, ezért aztán felülírtuk a régi, "kötelezős szabályokat", és újakat alkottunk.  
 
-A karácsony fix pont, fix dátummal, ekkor biztosan mindenki itt van, így ezt jelöltük ki az egyetlen olyan ünnepnek, ahol ajándékozunk. De ezen alkalomkor sem nagy dolgokban gondolkodunk, inkább próbáljuk kifigyelni, hogy ki mit mondd.
+A karácsony fix pont, fix dátummal, ekkor biztosan mindenki itt van, így ezt jelöltük ki az egyetlen olyan ünnepnek, ahol ajándékozunk. De ezen alkalomkor sem nagy dolgokban gondolkodunk, inkább arra fektetjük a hangsúlyt, hogy valóban személyes legyen az ajándék.
 
 ![karácsony](/assets/karácsony/IMG_20191130_135925.jpg)
 
-Jómagam nagyon szeretek élményt ajándékozni, így az idei ajándék is ez lesz. Nagyon bízom abban, hogy mindenkinek elnyeri a majd tetszését.
+Jómagam nagyon szeretek élményt ajándékozni, így a család idei ajándéka is ez lesz.  
+Nagyon bízom abban, hogy mindenkinek elnyeri a majd tetszését.
  
 ## Családi nap
 
