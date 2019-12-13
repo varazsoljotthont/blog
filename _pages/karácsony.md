@@ -145,18 +145,20 @@ Gyakorlott háziasszonyként sem volt könnyű ennyiféle feltételnek megfeleln
 
 ![karácsony](/assets/karácsony/IMG_20191127_073619.jpg)
 
-Sokkal jobb ez így. Mindenki azt kapja amire "rákészítette a hasát", én sem leszek a konyha fogja, és nem mellékesen gazdaságilag is jobban jövünk ki.
+Sokkal jobb ez így.  
+Mindenki azt kapja amire "rákészítette a hasát", én sem leszek a konyha fogja és nem mellékesen még pénztárcabarát is.
 
 ![karácsony](/assets/karácsony/79206306_519964631929343_263970326394699776_n.jpg)
 
 
+**Legyen a hétköznap is ünnepnap**
 
 
 
-
+![karácsony](/assets/karácsony/IMG_20190105_161632_474.jpg)
 
  
-A [ház megvásárlásakor](/2019-02-09/hazvasarlas) itt csak lucerna volt, a kertről ekkor még mi sem hittük, hogy egyszer szép is lehet... 
+
 
 
 
