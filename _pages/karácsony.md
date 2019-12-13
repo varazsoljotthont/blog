@@ -83,6 +83,8 @@ Voltunk már húsvéti pikniken a Bakonyban, túrázni a Scheenebergen, a kirán
 
 Jövő évben ott alvósra programra gondoltam - Zaka nagyobb lesz már - és már most várom, hogy milyen klassz lesz este együtt kiülni egy közös beszélgetésre.
 
+[karácsony](/assets/karácsony/IMG_20191203_083818 (1).jpg)
+
 Rengeteget emléket adnak ezek a programok, és ez már a miénk. 
 
 A mi közös emlékeink.
@@ -125,6 +127,7 @@ A közös ebédek nálunk nem egyszerűek. A nagyfiam és a menyem vega étrende
 A fentiekből látszik, hogy nem egyszerű nálunk a családi ebéd.
 
 Gyakorlott háziasszonyként sem volt könnyű ennyiféle feltételnek megfelelni, ezért én a könnyebb utat választottam. Ahelyett, hogy "beleőrülnék" a készülődésbe, a többféle fogás elkészítésébe közvéleményt kutatok, hogy ki mit szeretne enni az ebédnél, és ezekre fókuszálok.
+
 
 Sokkal jobb ez így. Mindenki azt kapja amire "rákészítette a hasát", én sem leszek a konyha fogja, és nem mellékesen gazdaságilag is jobban jövünk ki.
 
