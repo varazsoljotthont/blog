@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Karácsony és egyéb ünnepek a családunkban" 
+title: "Karácsony és más ünnepek a családunkban" 
 permalink: /karácsony/
 cover: /assets/karácsony/cover.jpg
 categories: [haz, kert, dekor]
@@ -198,22 +198,13 @@ Születésnap, névnap, évfordulók, mikulás soha nincs elfelejtve, de nem csi
 
 ![karácsony](/assets/karácsony/IMG_20191203_163204.jpg)
 
-**Ajándék levél**
 
-Mindkét fiamnak és a menyemnek - akit nagyon szeretek - 25. születésnapjára kézzel írtam egy levelet. 
 
-Egy összefoglaló az eltelt 25 évről,  -menyem esetében a közös évekről, hogy milyen jó, hogy a családunkhoz tartozik - és milyen büszke vagyok arra, hogy ők a mi gyerekeink.  
-Nagyfiam akkor épp nem tudott hazajönni, így előtte odaadtam a menyemnek a levelet, hogy a születésnapján reggel tegye ki a párnájára. 
 
 ![karácsony](/assets/karácsony/IMG_20191130_130131.jpg)
 _Hunyor, vagy karácsonyi rózsa. Decemberben, az ünnepekre már virágzik_
 
-A kisebbik fiam nagy ölelés közepette tőlem kapta meg. Később mesélte, hogy órákig kereste a megfelelő alkalmat arra, hogy elovassa, mert nem akarta csak úgy végigfutni.
 
-Mindkét gyermekem azt mondta, hogy ennél szebb ajándékot nem kaphattak volna.
-
-
-Pedig csak egy levél volt...
 
 ![karácsony](/assets/karácsony/IMG_20191203_221604_500jav.jpg)
 
