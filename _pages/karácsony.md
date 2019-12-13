@@ -89,7 +89,7 @@ Rengeteget emléket adnak ezek a programok, és ez már a miénk.
 
 A mi közös emlékeink.
 
-
+![karácsony](/assets/karácsony/IMG_20191203_0838181.jpg)
 
 ## Egyéb ünnepek
 
@@ -143,7 +143,7 @@ A fentiekből látszik, hogy nem egyszerű nálunk a családi ebéd.
 Gyakorlott háziasszonyként sem volt könnyű ennyiféle feltételnek megfelelni, ezért én a könnyebb utat választottam. Ahelyett, hogy "beleőrülnék" a készülődésbe, a többféle fogás elkészítésébe közvéleményt kutatok, hogy ki mit szeretne enni az ebédnél, és ezekre fókuszálok.
 
 
-![karácsony](/assets/karácsony/IMG_20191127_073619.jpg)
+![karácsony](/assets/karácsony/IMG_20191207_143848.jpg)
 
 Nálunk bevált ez a forgatókönyv.  
 Mindenki azt kapja amire "rákészítette a hasát", én sem leszek a konyha fogja és nem mellékesen még pénztárcabarát is.
