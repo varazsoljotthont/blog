@@ -41,12 +41,14 @@ Azt tudjátok rólunk, hogy újrakezdőként vágtunk bele annak idején a "Mih�
 Mindketten túl a negyvenen, túl egy váláson kezdtük el közös életünket. Férjemnek nincs gyermeke, az én fiaim pedig felnőttként már a saját életüket élik. 
 
 ![karácsony](/assets/karácsony/IMG_20191130_121256.jpg)
+_Dekoráció az egyszerűség jegyében_
 
 
 Nagy örömünkre nagyfiam és felesége már egy gyönyörű kisfiúval is megajándékoztak bennünket. Zakariás egy éves kislegény, aki szorgosan teszi azt, amihez a legjobban ért. Elvarázsol mindenkit a kedvességével, az állandó vidámságával.
 
 ![karácsony](/assets/karácsony/IMG_20191202_171333.jpg)
-_Dekoráció az egyszerűség jegyében_
+_Ünnepi fények az udvaron_
+
 
 
 ## Ünnep igény szerint
