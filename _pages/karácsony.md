@@ -157,7 +157,7 @@ Mindenki azt kapja amire "rákészítette a hasát", én sem leszek a konyha fog
 ![karácsony](/assets/karácsony/79206306_519964631929343_263970326394699776_n.jpg)
 
 
-**Zakariás**
+## Zakariás
 
 Családunkban első unoka Zaka, és mi hogy azt kell, olvadozunk is tőle. 
 
@@ -177,7 +177,7 @@ Ugye, ennél több nem is kell?
 
 
 
-**Lehet a hétköznap is ünnepnap**
+## Lehet a hétköznap is ünnepnap
 
 Apró kis kedvességekkel a mindennapokat is átalakíthatjuk örömteli napokká. Hiszek abban, hogy örömet nem csak pénzért vásárolt ajándékokkal lehet okozni. 
 
