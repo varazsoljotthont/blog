@@ -46,6 +46,9 @@ _Dekoráció az egyszerűség jegyében_
 
 Nagy örömünkre nagyfiam és felesége már egy gyönyörű kisfiúval is megajándékoztak bennünket. Zakariás egy éves kislegény, aki szorgosan teszi azt, amihez a legjobban ért. Elvarázsol mindenkit a kedvességével, az állandó vidámságával.
 
+
+![karácsony](/assets/karácsony/IMG_20191207_143848j.jpg)
+
 A fiaim önálló életéből, és a nagyobbik 200 km-es távolságából adódik, hogy nem mindig akkor jön össze a család mikor szeretnénk, hanem mikor össze tudjuk hangolni az 5 - 6 ember időbeosztását. 
 
 Igyekszünk gyakran találkozni, és az ilyen alkalmakkor próbálunk a minél több időt együtt tölteni.
@@ -127,7 +130,7 @@ Ahány ház, annyi szokás. Mindenkinek más jelent az ünnep. A lényeg, hogy �
 
 
 
-![karácsony](/assets/karácsony/IMG_20191207_143848j.jpg)
+
 
 
 
