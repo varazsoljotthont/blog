@@ -56,7 +56,10 @@ _Ünnepi fények az udvaron_
 
 **Karácsony**
 
-Nem vagyunk a klasszikus értelemben vett ajándékozás hívei. 
+A karácsonyban a hangulat, az együtt töltött idő a legjobb. 
+
+> Az otthonunk feldíszítése ezért - is - olyan fontos számomra. A ház különböző részein elhelyezett dekorációk fokozzák az ünnepi hangulatot úgy nálunk, mint a vendégeinknél.
+
 
 
 
@@ -70,7 +73,7 @@ A karácsony fix pont, fix dátummal, ekkor biztosan mindenki itt van, így ezt 
 
 ![karácsony](/assets/karácsony/IMG_20191130_135925.jpg)
 
-Jómagam nagyon szeretek élményt ajándékozni, így a család idei ajándéka is ez lesz.  
+Jómagam nagyon szeretek élményt ajándékozni, így a családtagok idei ajándéka is ez lesz.  
 Nagyon bízom abban, hogy mindenkinek elnyeri a majd tetszését.
  
 ## Családi nap
