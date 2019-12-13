@@ -39,9 +39,13 @@ _Teraszunk karácsonyi díszben_
 
 Azt tudjátok rólunk, hogy újrakezdőként vágtunk bele annak idején a "Miházunkba".  
 Mindketten túl a negyvenen, túl egy váláson kezdtük el közös életünket. Férjemnek nincs gyermeke, az én fiaim pedig felnőttként már a saját életüket élik. 
-Nagy örömünkre nagyfiam és felesége már egy gyönyörű kisfiúval is megajándékoztak bennünket. Zakariás egy éves kislegény, aki szorgosan teszi azt, amihez a legjobban ért. Elvarázsol mindenkit a kedvességével, az állandó vidámságával.
 
 ![karácsony](/assets/karácsony/IMG_20191130_121256.jpg)
+
+
+Nagy örömünkre nagyfiam és felesége már egy gyönyörű kisfiúval is megajándékoztak bennünket. Zakariás egy éves kislegény, aki szorgosan teszi azt, amihez a legjobban ért. Elvarázsol mindenkit a kedvességével, az állandó vidámságával.
+
+![karácsony](/assets/karácsony/IMG_20191202_171333.jpg)
 _Dekoráció az egyszerűség jegyében_
 
 
@@ -143,7 +147,7 @@ A fentiekből látszik, hogy nem egyszerű nálunk a családi ebéd.
 Gyakorlott háziasszonyként sem volt könnyű ennyiféle feltételnek megfelelni, ezért én a könnyebb utat választottam. Ahelyett, hogy "beleőrülnék" a készülődésbe, a többféle fogás elkészítésébe közvéleményt kutatok, hogy ki mit szeretne enni az ebédnél, és ezekre fókuszálok.
 
 
-![karácsony](/assets/karácsony/IMG_20191207_143848.jpg)
+![karácsony](/assets/karácsony/IMG_20191207_143848j.jpg)
 
 Nálunk bevált ez a forgatókönyv.  
 Mindenki azt kapja amire "rákészítette a hasát", én sem leszek a konyha fogja és nem mellékesen még pénztárcabarát is.
