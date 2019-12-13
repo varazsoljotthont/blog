@@ -2,10 +2,10 @@
 layout: post
 title: "A mi karácsonyunk " 
 permalink: /karácsony/
-cover: /assets/kertirom/IMG_20191130_135933.jpg
+cover: /assets/karácsony/IMG_20191130_135933.jpg
 categories: [haz, kert, dekor]
 image:
-  path: /assets/karácsony/coverjj.jpg
+  path: /assets/karácsony/IMG_20191130_135933.jpg
   height: 300
   width: 300
 ---
@@ -25,19 +25,24 @@ image:
 Talán nem bánjátok, ha a mostani poszt személyesebb lesz, mint az eddigiek.  
 Eddig csak mint a Varázsolj otthont bloggerét láthattatok, most a feleséget, az anyukát, a nagyit, és nem utolósorban Krisztát is megismerhetitek egy kicsit.
 
+A posztban az idei ünnepi dekorációinkat is láthatjátok, és talán lesz még időtök elkészíteni - párotokkal elkészíttetni, ha valamelyik elnyeri tetszéseteket.
+
 
 ![karácsony](/assets/karácsony/IMG_20191201_135652.jpg)
+_Teraszunk karácsonyi díszben_
 
 
-A posztban az idei ünnepi dekorációinkat is láthatjátok, és talán lesz még időtök elkészíteni - párotokkal elkészíttetni, ha valamelyik elnyeri tetszéseteket.
+
 
 ## Az én családom
 
 
 Azt tudjátok rólunk, hogy újrakezdőként vágtunk bele annak idején a "Miházunkba".  
-Mindketten túl a negyvenen, túl egy váláson kezdtük el közös életünket. Férjemnek nincs gyermeke, az én fiaim pedig felnőttként már a saját életüket élik. Kisnagyfiam és felesége már egy gyönyörű kisfiúval is megajándékoztak bennünket. Zakariás egy éves kislegény, aki szorgosan teszi azt, amihez a legjobban ért. Elvarázsol mindenkit a kedvességével, az állandó vidámságával.
+Mindketten túl a negyvenen, túl egy váláson kezdtük el közös életünket. Férjemnek nincs gyermeke, az én fiaim pedig felnőttként már a saját életüket élik. 
+Nagy örömünkre nagyfiam és felesége már egy gyönyörű kisfiúval is megajándékoztak bennünket. Zakariás egy éves kislegény, aki szorgosan teszi azt, amihez a legjobban ért. Elvarázsol mindenkit a kedvességével, az állandó vidámságával.
 
 ![karácsony](/assets/karácsony/IMG_20191130_121256.jpg)
+_Dekoráció az egyszerűség jegyében_
 
 
 ## Ünnep igény szerint
