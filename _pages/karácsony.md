@@ -107,7 +107,7 @@ Születésnap, névnap, évfordulók, mikulás soha nincs elfelejtve, de nem csi
 
 **Ajándék levél**
 
-Mindkét fiamnak, és a menyemnek - akit nagyon szeretek - 25. születésnapjára kézzel írtam egy levelet. 
+Mindkét fiamnak és a menyemnek - akit nagyon szeretek - 25. születésnapjára kézzel írtam egy levelet. 
 
 Egy összefoglaló az eltelt 25 évről,  -menyem esetében a közös évekről, hogy milyen jó, hogy a családunkhoz tartozik - és milyen büszke vagyok arra, hogy ők a mi gyerekeink.  
 Nagyfiam akkor épp nem tudott hazajönni, így előtte odaadtam a menyemnek a levelet, hogy a születésnapján reggel tegye ki a párnájára. 
@@ -133,7 +133,8 @@ Ilyenkor kettő helyett hol öten, hol hatan vagyunk.
 ![karácsony](/assets/karácsony/IMG_20191203_083753.jpg)
 
 
-A közös ebédek nálunk nem egyszerűek. A nagyfiam és a menyem vega étrendet követ - semmi állati eredetűt nem fogyasztanak - a menyem emellé még glutén érzékeny is, jómagam pedig hisztamin intolernciával küzdök. A férjem, a kiskisfiam és az ő párja pedig a normál étkezés szerint, hússal képzeli el az ünnep ebédet.
+A közös ebédek nálunk nem egyszerűek.  
+A nagyfiam és a menyem vega étrendet követ - semmi állati eredetűt nem fogyasztanak - a menyem emellé még glutén érzékeny is, jómagam pedig hisztamin intolernciával küzdök. A férjem, a kiskisfiam és az ő párja pedig a normál étkezés szerint, hússal képzeli el az ünnep ebédet.
 
 
 ![karácsony](/assets/karácsony/IMG_20191128_072314.jpg)
@@ -147,7 +148,7 @@ A fentiekből látszik, hogy nem egyszerű nálunk a családi ebéd.
 ![karácsony](/assets/karácsony/IMG_20191127_073803.jpg)
 
 
-Gyakorlott háziasszonyként sem volt könnyű ennyiféle feltételnek megfelelni, ezért én a könnyebb utat választottam. Ahelyett, hogy "beleőrülnék" a készülődésbe, a többféle fogás elkészítésébe közvéleményt kutatok, hogy ki mit szeretne enni az ebédnél, és ezekre fókuszálok.
+Gyakorlott háziasszonyként sem volt könnyű ennyiféle feltételnek megfelelni, ezért én a könnyebb utat választottam. Ahelyett, hogy "beleőrülnék" a készülődésbe, a többféle fogás elkészítésébe, közvéleményt kutatok, hogy ki mit szeretne enni az ebédnél és ezekre fókuszálok.
 
 
 ![karácsony](/assets/karácsony/IMG_20191207_143848j.jpg)
@@ -160,10 +161,10 @@ Mindenki azt kapja amire "rákészítette a hasát", én sem leszek a konyha fog
 
 ## Zakariás
 
-Családunkban első unoka Zaka, és mi hogy azt kell, olvadozunk is tőle. 
+Családunkban első unoka Zaka, és mi ahogy azt kell, olvadozunk is tőle. 
 
-Már a babavárás idején is, és miután megszületett még inkább nagy lelkesedéssel nézegettem a baba dolgokat.  
-Készítettem is, vásároltam is ezt-azt - mert hát a nagyik már csak ilyenek -, de a szülők úgy gondolták, hogy a nagyik dolga az, hogy szeressék az unokájukat és nem az, hogy feleslegesen vásárolgassanak.
+Már a babavárás idején is - de miután megszületett még inkább - nagy lelkesedéssel nézegettem a baba dolgokat.  
+Készítettem is, vásároltam is ezt-azt - mert hát a nagyik már csak ilyenek -, de a szülők úgy gondolták, hogy a nagyik dolga az, hogy szeressék az unokájukat, és nem az, hogy feleslegesen vásárolgassanak.
 
 ![karácsony](/assets/karácsony/IMG_20191130_090043.jpg)
 
@@ -184,7 +185,7 @@ Apró kis kedvességekkel a mindennapokat is átalakíthatjuk örömteli napokk�
 
 Egy forró tea, egy bögre forraltbor az udvaron kint dolgozó férjünknek, egy kedves üzenet napközben, egy köszönöm, egy ölelés megérkezéskor, mint apró varázslat teszi szebbé a napunkat.
 
-Varázsoljunk, és átalakulnak a hétköznapok.
+Varázsoljuk át a hétköznapjainkat is ünneppé! 
 
 
 
