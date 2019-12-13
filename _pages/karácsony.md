@@ -256,12 +256,10 @@ Ha tetszett, kedveld a <a href="https://www.facebook.com/Var%C3%A1zsolj-otthont-
 
 ## Kapcsolódó cikkek
 
-
-* [Ilyen volt, ilyen lett: így lett a kaszálóból romantikus, vidéki kert](/2019-06-26/kulsokorlet)
-* [Hozzuk formába az otthonunkat!](/2019-03-26/dekoráció)
-* [Így lett a tüzifa az otthonunk dísze](/2019-05-16/fábólkreatívan)
-* [Egy szélfogó története, avagy így lett kisházunk a kertben](/2019-08-18/szerszamtarolo)
-
+* [Kreatív advent, avagy legyen stílusa a télnek](/2019-11-18/advent)
+* [Az ősz a szépség maga, az ősz gyönyörű!](/2019-10-14/ősz)
+* [Rusztikus terasz ötletes megoldásokkal, hangulatos dekorációkkal](/2019-08-01/teraszdekor)
+* [Kell egy ház... De hol, milyen, mennyiért?](/2019-02-09/hazvasarlas)
 
 
  
