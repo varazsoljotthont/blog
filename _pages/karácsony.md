@@ -157,6 +157,26 @@ Mindenki azt kapja amire "rákészítette a hasát", én sem leszek a konyha fog
 ![karácsony](/assets/karácsony/79206306_519964631929343_263970326394699776_n.jpg)
 
 
+**Zakariás**
+
+Családunkban első unoka Zaka, és mi hogy azt kell, olvadozunk is tőle. 
+
+Már a babavárás idején is, és miután megszületett még inkább nagy lelkesedéssel nézegettem a baba dolgokat.  
+Készítettem is, vásároltam is ezt-azt - mert hát a nagyik már csak ilyenek -, de a szülők úgy gondolták, hogy a nagyik dolga az, hogy szeressék az unokájukat és nem az, hogy feleslegesen vásárolgassanak.
+
+![karácsony](/assets/karácsony/IMG_20191130_090043.jpg)
+
+
+Azt gondolom igazuk van, és mi tiszteletben is tartjuk a kérésüket. Mielőtt vennék valamit Zakának mindig egyeztetek velük.
+
+Nekik ez tőlünk igazi ajándék, nekünk pedig ajándék a bizalom, amivel irányunkba vannak.
+
+Ugye, ennél több nem is kell?
+
+
+
+
+
 **Lehet a hétköznap is ünnepnap**
 
 Apró kis kedvességekkel a mindennapokat is átalakíthatjuk örömteli napokká. Hiszek abban, hogy örömet nem csak pénzért vásárolt ajándékokkal lehet okozni. 
