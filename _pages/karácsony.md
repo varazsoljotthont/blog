@@ -16,6 +16,10 @@ image:
 **A karácsonyban az adventi időszakot szeretem a legjobban. A várakozást, a készülődést, a tél lassúságát, a díszek elkészítését. Ahhoz, hogy nálunk a karácsony valóban olyan legyen, ahogy mi szeretnénk, úgy "csináljuk", ahogy nekünk a legjobb. Csak rajtunk múlik, hogy hogyan éljük meg az ünnepeket.**
 
 
+
+![karácsony](/assets/karácsony/idézet.jpg)
+
+
 ## Fogadjátok szeretettel az ajándékomat
 
 Talán nem bánjátok, ha a mostani poszt személyesebb lesz, mint az eddigiek.  
@@ -33,7 +37,7 @@ A posztban az idei ünnepi dekorációinkat is láthatjátok, és talán lesz m�
 Azt tudjátok rólunk, hogy újrakezdőként vágtunk bele annak idején a "Miházunkba".  
 Mindketten túl a negyvenen, túl egy váláson kezdtük el közös életünket. Férjemnek nincs gyermeke, az én fiaim pedig felnőttként már a saját életüket élik. Kisnagyfiam és felesége már egy gyönyörű kisfiúval is megajándékoztak bennünket. Zakariás egy éves kislegény, aki szorgosan teszi azt, amihez a legjobban ért. Elvarázsol mindenkit a kedvességével, az állandó vidámságával.
 
-![karácsony](/assets/karácsony/![karácsony]IMG_20191130_121256.jpg)
+![karácsony](/assets/karácsony/IMG_20191130_121256.jpg)
 
 
 ## Ünnep igény szerint
