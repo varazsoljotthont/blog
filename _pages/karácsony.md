@@ -102,23 +102,28 @@ Születésnap, névnap, évfordulók, mikulás soha nincs elfelejtve, de nem csi
 
 Mindkét fiamnak, és a menyemnek - akit nagyon szeretek - 25. születésnapjára kézzel írtam egy levelet. 
 
-Egy összefoglaló az eltelt 25 évről,  -menyem esetében a közös évekről, és hogy milyen jó, hogy koztünk van - és milyen büszke vagyok arra, hogy ők a mi gyerekeink.  
+Egy összefoglaló az eltelt 25 évről,  -menyem esetében a közös évekről, hogy milyen jó, hogy a családunkhoz tartozik - és milyen büszke vagyok arra, hogy ők a mi gyerekeink.  
 Nagyfiam akkor épp nem tudott hazajönni, így előtte odaadtam a menyemnek a levelet, hogy a születésnapján reggel tegye ki a párnájára. 
 
-A kisebbik fiamnak tőlem kapta meg. 
+![karácsony](/assets/karácsony/IMG_20191130_130131.jpg)
+_Hunyor, vagy karácsonyi rózsa. Decemberben, az ünnepekre már virágzik_
 
-Később mesélte, hogy órákig kereste a megfelelő alkalmat arra, hogy elovassa, mert nem akarta csak úgy végigfutni.
+A kisebbik fiam nagy ölelés közepette tőlem kapta meg. Később mesélte, hogy órákig kereste a megfelelő alkalmat arra, hogy elovassa, mert nem akarta csak úgy végigfutni.
 
 Mindkét gyermekem azt mondta, hogy ennél szebb ajándékot nem kaphattak volna.
 
 
 Pedig csak egy levél volt...
 
-
-
+![karácsony](/assets/karácsony/IMG_20191203_083649.jpg)
 **Ebéd nálunk**
 
-A mindennapokban ketten vagyunk, de hétvégenként és az ünnepekkor sokszor összejövünk a gyerekekkel egy-egy ebédre.  Ilyenkor kettő helyett hol öten, hol hatan vagyunk. 
+A mindennapokban ketten vagyunk, de hétvégenként és az ünnepekkor sokszor összejövünk a gyerekekkel egy-egy ebédre.  
+Ilyenkor kettő helyett hol öten, hol hatan vagyunk. 
+
+IMG_20191202_094147
+
+
 A közös ebédek nálunk nem egyszerűek. A nagyfiam és a menyem vega étrendet követ - semmi állati eredetűt nem fogyasztanak - a menyem emellé még glutén érzékeny is, jómagam pedig hisztamin intolernciával küzdök. A férjem, a kiskisfiam és az ő párja pedig a normál étkezés szerint, hússal képzeli el az ünnep ebédet.
 
 
@@ -137,7 +142,7 @@ Sokkal jobb ez így. Mindenki azt kapja amire "rákészítette a hasát", én se
 
 
 
-![kertirom](/assets/kertirom/coverj.jpg)
+
 
 
 
