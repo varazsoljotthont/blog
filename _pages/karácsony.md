@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ünnepnapok a családban" 
+title: "Karácsony és egyéb ünnepek a családban" 
 permalink: /karácsony/
 cover: /assets/karácsony/cover.jpg
 categories: [haz, kert, dekor]
@@ -46,6 +46,10 @@ _Dekoráció az egyszerűség jegyében_
 
 Nagy örömünkre nagyfiam és felesége már egy gyönyörű kisfiúval is megajándékoztak bennünket. Zakariás egy éves kislegény, aki szorgosan teszi azt, amihez a legjobban ért. Elvarázsol mindenkit a kedvességével, az állandó vidámságával.
 
+A fiaim önálló életéből, és a nagyobbik 200 km-es távolságából adódik, hogy nem mindig akkor jön össze a család mikor szeretnénk, hanem mikor össze tudjuk hangolni az 5 - 6 ember időbeosztását. 
+
+Igyekszünk gyakran találkozni, és az ilyen alkalmakkor próbálunk a minél több időt együtt tölteni.
+
 ![karácsony](/assets/karácsony/IMG_20191202_171333.jpg)
 _Ünnepi fények az udvaron_
 
@@ -56,25 +60,102 @@ _Ünnepi fények az udvaron_
 
 **Karácsony**
 
-A karácsonyban a hangulat, az együtt töltött idő a legjobb. 
+Szeretem a karácsonyt.
 
-> Az otthonunk feldíszítése ezért - is - olyan fontos számomra. A ház különböző részein elhelyezett dekorációk fokozzák az ünnepi hangulatot úgy nálunk, mint a vendégeinknél.
+Az otthonunk feldíszítése ezért - is - olyan fontos számomra. A ház különböző részein elhelyezett dekorációk fokozzák az ünnepi hangulatot, és ez úgy hat rám, mintha a hétköznapokat csillámporral szórták volna be.
+
+![karácsony](/assets/karácsony/IMG_20191127_073803.jpg)
+
+Szeretem az ünnepi hangulatot, a karácsonyt megelőző tervezgetős - készülődős időszakot, az együtt töltött időt.
+
+Élvezzük, mikor "megjönnek a "gyerekek" és pillanatok alatt belakják a házat. 
+
+A nyüzsgés, a felfordulás, fa alá csempészett ajándékok mutatják, hogy szeretünk együtt lenni. 
 
 
+Számomra fontos volt, hogy a ne vendégként érkezzenek, hisz' ahol mi otthon vagyunk, ott ők is otthon lehetnek.
 
-
-A fiaim önálló életéből, és a nagyobbik 200 km-es távolságából adódik, hogy nem mindig akkor jön össze a család mikor szeretnénk, hanem mikor össze tudjuk hangolni az 5 - 6 ember időbeosztását.
+ 
 
 ![karácsony](/assets/karácsony/IMG_20191124_130936_392.jpg)
 
-Megesett, hogy egy születésnaphoz csak egy hónappal később tudtunk teljes létszámban találkozni, ezért aztán felülírtuk a régi, "kötelezős szabályokat", és újakat alkottunk.  
 
-A karácsony fix pont, fix dátummal, ekkor biztosan mindenki itt van, így ezt jelöltük ki az egyetlen olyan ünnepnek, ahol ajándékozunk. De ezen alkalomkor sem nagy dolgokban gondolkodunk, inkább arra fektetjük a hangsúlyt, hogy valóban személyes legyen az ajándék.
+**Ajándékozás**
+
+
+A karácsony fix pont, ekkor biztosan mindenki itt van, így ezt jelöltük ki az egyetlen olyan ünnepnek, ahol ajándékozunk. De ezen alkalomkor sem nagy dolgokban gondolkodunk, inkább arra fektetjük a hangsúlyt, hogy valóban személyes legyen az ajándék.
+
+Csak néhány ötlet az elmúlt évekből:
+
+* felnőtt színezőkönyv és hozzá színesceruza
+* kismadár dekoráció, mert olyan viccesen nézett ki
+* kirándulások alkalmával készített fotók egy nagy képben összerakva
+* 30 méteres hosszabító (sajátkezűleg készítve)
+* gitárhúr
+* rejtvénykönyv
+* vicces póló, stb
+
 
 ![karácsony](/assets/karácsony/IMG_20191130_135925.jpg)
 
 Jómagam nagyon szeretek élményt ajándékozni, így a családtagok idei ajándéka is ez lesz.  
-Nagyon bízom abban, hogy mindenkinek elnyeri a majd tetszését.
+Nagyon bízom abban, hogy mindenkinek elnyeri  majd tetszését.
+
+
+**Ünnepi ebéd nálunk**
+
+A közös ebédek nálunk nem egyszerűek.  
+A nagyfiam és a menyem vega étrendet követ - semmi állati eredetűt nem fogyasztanak - a menyem emellé még glutén érzékeny is, jómagam pedig hisztamin intolernciával küzdök. A férjem, a kiskisfiam és az ő párja pedig a normál étkezés szerint, hússal képzeli el az ünnep ebédet.
+
+![karácsony](/assets/karácsony/IMG_20191203_083753.jpg)
+
+Családonként változik, hogy az ünnepi ebédnél mi a fontos.
+
+* van ahol étterembe megy a család, így mentesül a háziasszony a feladatok alól
+* van ahol terülj-terülj asztalkám van, mert az ünnephez hozzá tartoznak a különleges ételek
+* van ahol az ünnepi ebéd az ajándék
+* van ahol a hagyományokat követik évről - évre és a jól bevált klasszikusokat készítik...
+
+... én pedig közvéleményt kutatok, hogy ki mit szeretne enni ebédre és ezekre fókuszálok.
+
+
+![karácsony](/assets/karácsony/IMG_20191128_072314.jpg)
+
+A menü összeállításánál természetesen figyelembe veszem az egyéni igényeket, de fontos az is, hogy én se legyek túl sokáig a konyha rabja. A cél az, hogy finom legyen az ebéd, és én is mihamarabb csatlakozhassak a családhoz. 
+
+Ahány ház, annyi szokás. Mindenkinek más jelent az ünnep. A lényeg, hogy örömet okozzon a családikörben elfogyasztott ünnepi ebéd.
+
+
+
+![karácsony](/assets/karácsony/IMG_20191207_143848j.jpg)
+
+
+
+
+
+
+![karácsony](/assets/karácsony/79206306_519964631929343_263970326394699776_n.jpg)
+
+## Zakariás
+
+Családunkban első unoka Zaka, és mi, ahogy azt kell, olvadozunk is tőle. 
+
+Már a babavárás idején is - de miután megszületett még inkább - nagy lelkesedéssel nézegettem a baba dolgokat.  
+Készítettem is, vásároltam is ezt-azt - mert hát a nagyik már csak ilyenek -, de a szülők úgy gondolták, hogy a nagyik dolga az, hogy szeressék az unokájukat, és nem az, hogy feleslegesen vásárolgassanak.
+
+![karácsony](/assets/karácsony/IMG_20191130_090043.jpg)
+
+
+Azt gondolom igazuk van, és mi tiszteletben is tartjuk a kérésüket. Mielőtt vennék valamit Zakának mindig egyeztetek velük.
+
+Nekik ez tőlünk igazi ajándék, nekünk pedig ajándék a bizalom, amivel irányunkba vannak.
+
+Ugye, ennél több nem is kell?
+
+
+
+
+
  
 ## Családi nap
 
@@ -103,7 +184,7 @@ Ha több napos, amilyet a jövő évre is tervezünk, akkor belefér a távolsá
 
 Rengeteget emléket adnak ezek a programok, és ez már a miénk. 
 
-A mi közös emlékeink.
+A mi közös emlékünk.
 
 ![karácsony](/assets/karácsony/IMG_20191203_0838181.jpg)
 
@@ -134,55 +215,8 @@ Pedig csak egy levél volt...
 ![karácsony](/assets/karácsony/IMG_20191203_221604_500jav.jpg)
 
 
-**Ebéd nálunk**
-
-A mindennapokban ketten vagyunk, de hétvégenként és az ünnepekkor sokszor összejövünk a gyerekekkel egy-egy ebédre.  
-Ilyenkor kettő helyett hol öten, hol hatan vagyunk. 
-
-![karácsony](/assets/karácsony/IMG_20191203_083753.jpg)
 
 
-A közös ebédek nálunk nem egyszerűek.  
-A nagyfiam és a menyem vega étrendet követ - semmi állati eredetűt nem fogyasztanak - a menyem emellé még glutén érzékeny is, jómagam pedig hisztamin intolernciával küzdök. A férjem, a kiskisfiam és az ő párja pedig a normál étkezés szerint, hússal képzeli el az ünnep ebédet.
-
-
-![karácsony](/assets/karácsony/IMG_20191128_072314.jpg)
-
-
-
-
-
-A fentiekből látszik, hogy nem egyszerű nálunk a családi ebéd.
-
-![karácsony](/assets/karácsony/IMG_20191127_073803.jpg)
-
-
-Gyakorlott háziasszonyként sem volt könnyű ennyiféle feltételnek megfelelni, ezért én a könnyebb utat választottam. Ahelyett, hogy "beleőrülnék" a készülődésbe, a többféle fogás elkészítésébe, közvéleményt kutatok, hogy ki mit szeretne enni az ebédnél és ezekre fókuszálok.
-
-
-![karácsony](/assets/karácsony/IMG_20191207_143848j.jpg)
-
-Nálunk bevált ez a forgatókönyv.  
-Mindenki azt kapja amire "rákészítette a hasát", én sem leszek a konyha fogja és nem mellékesen még pénztárcabarát is.
-
-![karácsony](/assets/karácsony/79206306_519964631929343_263970326394699776_n.jpg)
-
-
-## Zakariás
-
-Családunkban első unoka Zaka, és mi, ahogy azt kell, olvadozunk is tőle. 
-
-Már a babavárás idején is - de miután megszületett még inkább - nagy lelkesedéssel nézegettem a baba dolgokat.  
-Készítettem is, vásároltam is ezt-azt - mert hát a nagyik már csak ilyenek -, de a szülők úgy gondolták, hogy a nagyik dolga az, hogy szeressék az unokájukat, és nem az, hogy feleslegesen vásárolgassanak.
-
-![karácsony](/assets/karácsony/IMG_20191130_090043.jpg)
-
-
-Azt gondolom igazuk van, és mi tiszteletben is tartjuk a kérésüket. Mielőtt vennék valamit Zakának mindig egyeztetek velük.
-
-Nekik ez tőlünk igazi ajándék, nekünk pedig ajándék a bizalom, amivel irányunkba vannak.
-
-Ugye, ennél több nem is kell?
 
 
 
