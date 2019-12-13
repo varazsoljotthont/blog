@@ -115,7 +115,7 @@ Mindkét gyermekem azt mondta, hogy ennél szebb ajándékot nem kaphattak volna
 
 Pedig csak egy levél volt...
 
-![karácsony](/assets/karácsony/IMG_20191203_083649jav.jpg)
+![karácsony](/assets/karácsony/IMG_20191203_221604_500jav.jpg)
 
 
 **Ebéd nálunk**
@@ -143,7 +143,7 @@ A fentiekből látszik, hogy nem egyszerű nálunk a családi ebéd.
 Gyakorlott háziasszonyként sem volt könnyű ennyiféle feltételnek megfelelni, ezért én a könnyebb utat választottam. Ahelyett, hogy "beleőrülnék" a készülődésbe, a többféle fogás elkészítésébe közvéleményt kutatok, hogy ki mit szeretne enni az ebédnél, és ezekre fókuszálok.
 
 
-![karácsony](/assets/karácsony/79206306_519964631929343_263970326394699776_n.jpg)
+![karácsony](/assets/karácsony/IMG_20191127_073619.jpg)
 
 Sokkal jobb ez így. Mindenki azt kapja amire "rákészítette a hasát", én sem leszek a konyha fogja, és nem mellékesen gazdaságilag is jobban jövünk ki.
 
