@@ -65,18 +65,18 @@ _Ünnepi fények az udvaron_
 
 Szeretem a karácsonyt.
 
-Az otthonunk feldíszítése ezért - is - olyan fontos számomra. A ház különböző részein elhelyezett dekorációk fokozzák az ünnepi hangulatot, és ez úgy hat rám, mintha a hétköznapokat csillámporral szórták volna be.
+Szeretem az ünnepi hangulatot, a karácsonyt megelőző tervezgetős - készülődős időszakot.
+
+Az otthonunk feldíszítése ezért - is - olyan fontos számomra. A ház különböző részein elhelyezett dekorációk fokozzák az ünnepi hangulatot, és ez úgy hat rám, mintha csillámporral szórták volna be a hétköznapokat.
 
 ![karácsony](/assets/karácsony/IMG_20191127_073803.jpg)
 
-Szeretem az ünnepi hangulatot, a karácsonyt megelőző tervezgetős - készülődős időszakot, az együtt töltött időt.
-
 Élvezzük, mikor "megjönnek a "gyerekek" és pillanatok alatt belakják a házat. 
 
-A nyüzsgés, a felfordulás, fa alá csempészett ajándékok mutatják, hogy szeretünk együtt lenni. 
+A fa alá csempészett ajándékok, nyüzsgés, a felfordulás is azt mutatja, hogy mennyire szeretünk együtt lenni. 
 
 
-Számomra fontos volt, hogy a ne vendégként érkezzenek, hisz' ahol mi otthon vagyunk, ott ők is otthon lehetnek.
+Számomra fontos volt, hogy a ne vendégnek érezzék magukat, hisz' ahol mi otthon vagyunk, ott ők is otthon lehetnek.
 
  
 
@@ -88,12 +88,12 @@ Számomra fontos volt, hogy a ne vendégként érkezzenek, hisz' ahol mi otthon 
 
 A karácsony fix pont, ekkor biztosan mindenki itt van, így ezt jelöltük ki az egyetlen olyan ünnepnek, ahol ajándékozunk. De ezen alkalomkor sem nagy dolgokban gondolkodunk, inkább arra fektetjük a hangsúlyt, hogy valóban személyes legyen az ajándék.
 
-Csak néhány ötlet az elmúlt évekből:
+Néhány ötlet az elmúlt évekből:
 
 * felnőtt színezőkönyv és hozzá színesceruza
 * kismadár dekoráció, mert olyan viccesen nézett ki
 * kirándulások alkalmával készített fotók egy nagy képben összerakva
-* 30 méteres hosszabító (sajátkezűleg készítve)
+* 30 méteres hosszabító nekem (sajátkezűleg készítve)
 * gitárhúr
 * rejtvénykönyv
 * vicces póló, stb
@@ -124,7 +124,7 @@ Családonként változik, hogy az ünnepi ebédnél mi a fontos.
 
 ![karácsony](/assets/karácsony/IMG_20191128_072314.jpg)
 
-A menü összeállításánál természetesen figyelembe veszem az egyéni igényeket, de fontos az is, hogy én se legyek túl sokáig a konyha rabja. A cél az, hogy finom legyen az ebéd, és én is mihamarabb csatlakozhassak a családhoz. 
+A menü összeállításánál természetesen figyelembe veszem az egyéni igényeket, de fontos az is, hogy én se legyek túl sokáig a konyha rabja. A cél az, hogy legyen finom az ebéd, és én is mihamarabb csatlakozhassak a családhoz. 
 
 Ahány ház, annyi szokás. Mindenkinek más jelent az ünnep. A lényeg, hogy örömet okozzon a családikörben elfogyasztott ünnepi ebéd.
 
