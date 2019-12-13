@@ -143,9 +143,11 @@ A fentiekből látszik, hogy nem egyszerű nálunk a családi ebéd.
 Gyakorlott háziasszonyként sem volt könnyű ennyiféle feltételnek megfelelni, ezért én a könnyebb utat választottam. Ahelyett, hogy "beleőrülnék" a készülődésbe, a többféle fogás elkészítésébe közvéleményt kutatok, hogy ki mit szeretne enni az ebédnél, és ezekre fókuszálok.
 
 
+![karácsony](/assets/karácsony/79206306_519964631929343_263970326394699776_n.jpg)
+
 Sokkal jobb ez így. Mindenki azt kapja amire "rákészítette a hasát", én sem leszek a konyha fogja, és nem mellékesen gazdaságilag is jobban jövünk ki.
 
-
+![karácsony](/assets/karácsony/79206306_519964631929343_263970326394699776_n.jpg)
 
 
 
