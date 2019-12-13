@@ -132,7 +132,7 @@ A közös ebédek nálunk nem egyszerűek. A nagyfiam és a menyem vega étrende
 ![karácsony](/assets/karácsony/IMG_20191128_072314.jpg)
 
 
-**Mindent lehet, ha nagyon akarjuk**
+
 
 
 A fentiekből látszik, hogy nem egyszerű nálunk a családi ebéd.
@@ -145,13 +145,20 @@ Gyakorlott háziasszonyként sem volt könnyű ennyiféle feltételnek megfeleln
 
 ![karácsony](/assets/karácsony/IMG_20191127_073619.jpg)
 
-Sokkal jobb ez így.  
+Nálunk bevált ez a forgatókönyv.  
 Mindenki azt kapja amire "rákészítette a hasát", én sem leszek a konyha fogja és nem mellékesen még pénztárcabarát is.
 
 ![karácsony](/assets/karácsony/79206306_519964631929343_263970326394699776_n.jpg)
 
 
-**Legyen a hétköznap is ünnepnap**
+**Lehet a hétköznap is ünnepnap**
+
+Apró kis kedvességekkel a mindennapokat is átalakíthatjuk örömteli napokká. Hiszek abban, hogy örömet nem csak pénzért vásárolt ajándékokkal lehet okozni. 
+
+Egy forró tea, egy bögre forraltbor az udvaron kint dolgozó férjünknek, egy kedves üzenet napközben, egy köszönöm, egy ölelés megérkezéskor, mint apró varázslat teszi szebbé a napunkat.
+
+Varázsoljunk, és átalakulnak a hétköznapok.
+
 
 
 
@@ -166,8 +173,7 @@ Mindenki azt kapja amire "rákészítette a hasát", én sem leszek a konyha fog
 
 
 **+ 1 gondolat:**  
-A sok növény nagyon jó ötlet volt. Minden évszakban más és más arcát mutatja a kert ezen része. A dekorációkkal pedig tovább lehet fokozni a hangulatot.
-
+Fontosak az ünnepek. Kell, hogy megtörjük velük a hétköznapok szürkeségét. Nem az ajándékok miatt, magunk miatt. Örüljünk, hogy vagyunk egymásnak, mert ez az ami igazán számít.
 
 Ha tetszett, kedveld a <a href="https://www.facebook.com/Var%C3%A1zsolj-otthont-360330751226066/" target="_blank">Facebook oldalt</a> is. Itt még több érdekességet találsz a mindennapok varázslataiból.
 
