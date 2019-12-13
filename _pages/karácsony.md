@@ -70,7 +70,11 @@ Jómagam nagyon szeretek élményt ajándékozni, így az idei ajándék is ez l
 
 Minden évben van egy olyan nap, mikor együtt elmegyünk túrázni, kirándulni. Ehhez ragaszkodom, és épp ezért már az év elején elkezdem megtenni a javaslataimat. 
 
+[karácsony](/assets/karácsony/IMG_20191125_130200.jpg)
+
 > Meggyőződésem, hogy az ilyen napok erősítik a család egységét. Eltávolodunk a hétköznapoktól, közös élményeket szerzünk, nagyon sokat beszélgetünk, ezzel együtt pedig erősödik a kötelék. 
+
+[karácsony](/assets/karácsony/IMG_20191203_083433.jpg)
 
 
 Voltunk már húsvéti pikniken a Bakonyban, túrázni a Scheenebergen, a kirándulni a bécsi Állatkertben, gyönyörködni Plitvicében, tavaly három napot a Mátrában, idén pedig a Pilisben töltöttünk el együtt egy egész napot. 
