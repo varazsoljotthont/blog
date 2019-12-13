@@ -56,11 +56,13 @@ Nem vagyunk a klasszikus értelemben vett ajándékozás hívei.
 
 A fiaim önálló életéből, és a nagyobbik 200 km-es távolságából adódik, hogy nem mindig akkor jön össze a család mikor szeretnénk, hanem mikor össze tudjuk hangolni az 5 - 6 ember időbeosztását.
 
+![karácsony](/assets/karácsony/IMG_20191124_130936_392.jpg)
+
 Megesett, hogy egy születésnaphoz csak egy hónappal később tudtunk teljes létszámban találkozni, ezért aztán felülírtuk a régi, "kötelezős szabályokat", és újakat alkottunk.  
 
 A karácsony fix pont, fix dátummal, ekkor biztosan mindenki itt van, így ezt jelöltük ki az egyetlen olyan ünnepnek, ahol ajándékozunk. De ezen alkalomkor sem nagy dolgokban gondolkodunk, inkább próbáljuk kifigyelni, hogy ki mit mondd.
 
-
+![karácsony](/assets/karácsony/IMG_20191130_135925.jpg)
 
 Jómagam nagyon szeretek élményt ajándékozni, így az idei ajándék is ez lesz. Nagyon bízom abban, hogy mindenkinek elnyeri a majd tetszését.
  
