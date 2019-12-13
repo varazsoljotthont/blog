@@ -88,7 +88,13 @@ Voltunk már húsvéti pikniken a Bakonyban, túrázni a Scheenebergen, a kirán
 
 **Tervek**
 
-Jövő évben ott alvósra programra gondoltam - Zaka nagyobb lesz már - és már most várom, hogy milyen klassz lesz este együtt kiülni egy közös beszélgetésre.
+Mindig izgalmas megtervezni a következő évi programot. 
+
+Ha csak egy napos akkor lényeges szempont, hogy mindenkihez közel legyen, hisz' nem akarjuk az utazással tölteni az időt.
+
+Ha több napos, amilyet a jövő évre is tervezünk, akkor belefér a távolság is.
+
+> Már most várom, hogy milyen klassz lesz este együtt kiülni egy közös beszélgetésre. 
 
 
 
