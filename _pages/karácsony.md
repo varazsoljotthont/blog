@@ -161,7 +161,7 @@ Mindenki azt kapja amire "rákészítette a hasát", én sem leszek a konyha fog
 
 ## Zakariás
 
-Családunkban első unoka Zaka, és mi ahogy azt kell, olvadozunk is tőle. 
+Családunkban első unoka Zaka, és mi, ahogy azt kell, olvadozunk is tőle. 
 
 Már a babavárás idején is - de miután megszületett még inkább - nagy lelkesedéssel nézegettem a baba dolgokat.  
 Készítettem is, vásároltam is ezt-azt - mert hát a nagyik már csak ilyenek -, de a szülők úgy gondolták, hogy a nagyik dolga az, hogy szeressék az unokájukat, és nem az, hogy feleslegesen vásárolgassanak.
