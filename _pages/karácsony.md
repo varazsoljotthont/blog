@@ -73,9 +73,7 @@ Szeretem a karácsonyi a hangulatot és az együtt töltött időt.
 
 ![karácsony](/assets/karácsony/IMG_20191127_073803.jpg)
 
-Élvezzük, mikor "megjönnek a gyerekek" és pillanatok alatt belakják a házat. 
-
-A fa alá csempészett ajándékok, a nyüzsgés, a felfordulás teszi számunkra igazán bensőséges élménnyé a karácsonyt. 
+Élvezzük, mikor "megjönnek a gyerekek" és pillanatok alatt belakják a házat. A fa alá csempészett ajándékok, a nyüzsgés, a felfordulás teszi számunkra igazán bensőséges élménnyé a karácsonyt. 
 
 
 
@@ -134,11 +132,13 @@ Családunkban van vegán étrendet követő, gluténérzékeny, hisztamin intole
 ![karácsony](/assets/karácsony/IMG_20191128_072314.jpg)
 
 
-A krémleves a tűnt legjobb választásnak a közös ebédeknél.  
-Előre el tudom készíteni, és az ebéd napján már csak a növényi tejszínnel sűrítem. Ebben a formában mindenkinek megfelel, és én is időt takarítok meg.
+A közös ebédeknél első fogásként általában krémlevest főzök. Ezt mindenki szereti, és minden kritériumnak megfelel.  Ha kell, már előző nap el tudom készíteni, és az ebéd napján már csak a növényi tejszínnel sűrítem. Ebben a formában mindenkinek megfelel, és én is időt takarítok meg.
 
 Második fogásnak sem készítek bonyolult ételeket.
 Vegán ételnek talán a rakott zöldség a leggyorsabb. Csak a fantáziánkon múlik mit használunk fel hozzá, és ha ügyesen választom ki a zöldséget, akkor a hisztamin sem jelent gondot.
+
+Már hagyomány, hogy minden karácsonykor töltött szűzpecsenyét sütök. Ez amellett hogy finom, még gyors is, és akár egy nappal előbb is elkészíthetjük.  
+A frissensülteknek, köreteknek sem kell túl sok idő, a tálalásban pedig besegít a család.
 
 Így, megkönnyítve a feladatomat is főzök legalább három féle ételt, és süteményből is kell sima, vegán és gluténmentes is.
 
