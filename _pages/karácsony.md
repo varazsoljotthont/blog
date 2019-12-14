@@ -47,7 +47,7 @@ _Dekoráció az egyszerűség jegyében_
 
 Nagyobbik fiam tőlünk 200 km-re él családjával, és nagy örömünkre már egy gyönyörű kisfiúval is megajándékoztak bennünket.  
  
-A távolság miatt sajnos nem tudunk heti szinten találkozni, de havonta legalább 2 hétvégét sikerül így is összehozni.
+A távolság miatt sajnos nem tudunk heti szinten találkozni, de havonta így is sikerül legalább 2 hétvégét összehozni.
 
 Kisebbik gyermekem közel lakik hozzánk, így vele és párjával a kapcsolattartás sokkal egyszerűbb.
 
@@ -68,15 +68,15 @@ _Ünnepi fények az udvaron_
 
 Szeretem ezt az ünnepet.
 
-Szeretem a karácsonyi a hangulatot, és az együtt töltött időt. 
+Szeretem a karácsonyi a hangulatot és az együtt töltött időt. 
 
 > A ház különböző részein elhelyezett dekorációk fokozzák az ünnepi hangulatot úgy bennünk, mint a vendégeinkben. Ezért is olyan fontos számomra az otthonunk díszítése. 
 
 ![karácsony](/assets/karácsony/IMG_20191127_073803.jpg)
 
-Élvezzük, mikor "megjönnek a "gyerekek" és pillanatok alatt belakják a házat. 
+Élvezzük, mikor "megjönnek a gyerekek" és pillanatok alatt belakják a házat. 
 
-A fa alá csempészett ajándékok, nyüzsgés, a felfordulás teszi számunkra igazán bensőséges élménnyé a karácsonyt. 
+A fa alá csempészett ajándékok, a nyüzsgés, a felfordulás teszi számunkra igazán bensőséges élménnyé a karácsonyt. 
 
 
 
@@ -91,7 +91,7 @@ A Karácsony az a fix dátum, mikor biztosan mindenki szabad, és össze tud gy�
 
 
 
-Néhány ötlet az elmúlt évekből:
+Az elmúlt években volt már:
 
 * felnőtt színezőkönyv és hozzá színesceruza
 * kismadár dekoráció, mert olyan viccesen nézett ki
@@ -117,7 +117,7 @@ Hogy ez megvalósulhasson, általában kompromisszumokat kell kötni és valamin
 
 ![karácsony](/assets/karácsony/IMG_20191203_083753.jpg)
 
-Családonként változik, hogy mi a lényeges és mire helyezik a hangsúlyt:
+Családonként változik, hogy mit tartanak lényegesnek és és mi a kevésbé fontos:
 
 
 * van ahol az időt áldozzák be, mert a sok fogásos ebéd hozzá tartozik az ünnephez
@@ -134,8 +134,9 @@ Családunkban van vegán étrendet követő, gluténérzékeny, hisztamin intole
 ![karácsony](/assets/karácsony/IMG_20191128_072314.jpg)
 
 
-A krémleves a legjobb választása közös ebédeknél.  
+A krémleves a tűnt legjobb választásnak a közös ebédeknél.  
 Előre el tudom készíteni, és az ebéd napján már csak a növényi tejszínnel sűrítem. Ebben a formában mindenkinek megfelel, és én is időt takarítok meg.
+
 Második fogásnak sem készítek bonyolult ételeket, hanem mindenkinek azt, amit előre megbeszéltünk. 
 Így is főzök három féle ételt, és süteményből is kell sima, vegán és gluténmentes is.
 
@@ -145,31 +146,19 @@ Ezzel a "módszerrel" mi teljességgel elégedettek vagyunk.
 Van ebéd, és jut idő egymásra is.
 
 
-
-
-
-
-
-
-
-
-
-
 ![karácsony](/assets/karácsony/79206306_519964631929343_263970326394699776_n.jpg)
 
 ## Zakariás
 
-Családunkban első unoka Zaka, és mi, ahogy azt kell, olvadozunk is tőle. Zakariás 1 éves kislegény, aki szorgosan teszi azt, amihez a legjobban ért. Elvarázsol mindenkit a kedvességével, az állandó vidámságával.
+Családunkban első unoka Zaka, és mi, ahogy azt kell, olvadozunk is tőle. Már 1 éves kislegény, aki szorgosan teszi azt, amihez a legjobban ért. Elvarázsol bennünket a kedvességével, az állandó vidámságával.
 
 Már a babavárás idején is - de miután megszületett még inkább - nagy lelkesedéssel nézegettem a baba dolgokat.  
 Készítettem is, vásároltam is ezt-azt - mert hát a nagyik már csak ilyenek -, de a szülők úgy gondolták, hogy a nagyik dolga az, hogy szeressék az unokájukat, és nem az, hogy feleslegesen vásárolgassanak.
 
 ![karácsony](/assets/karácsony/IMG_20191130_090043.jpg)
 
-
-Azt gondolom igazuk van, és mi tiszteletben is tartjuk a kérésüket. Mielőtt vennék valamit Zakának mindig egyeztetek velük.
-
-Nekik ez tőlünk igazi ajándék, nekünk pedig ajándék a bizalom, amivel irányunkba vannak.
+Karácsonykor sincs ez másképp. 
+Nem az ajándék mennyisége, ára a mérvadó... Sokkal fontosabb, hogy most már Zakávak kiegészülve, együtt éljük meg az ünnepet.
 
 Ugye, ennél több nem is kell?
 
@@ -180,26 +169,30 @@ Ugye, ennél több nem is kell?
  
 ## Családi nap
 
-Minden évben van egy olyan nap, mikor együtt elmegyünk túrázni, kirándulni. Ehhez ragaszkodom, és épp ezért már az év elején elkezdem megtenni a javaslataimat. 
+Minden évben kerítünk alkalmat arra, hogy családunkkal együtt túrázni menjünk, kiránduljunk. 
+
+
+A felnőtt gyerekes családok jól tudják, hogy komoly logisztikai feladat egy helyre összehozni mindenkit. 
+
+Ehhez ragaszkodom, és épp ezért már az év elején elkezdem megtenni a program javaslataimat. 
 
 ![karácsony](/assets/karácsony/IMG_20191125_130200.jpg)
 
-> Meggyőződésem, hogy az ilyen napok erősítik a család egységét. Eltávolodunk a hétköznapoktól, közös élményeket szerzünk, nagyon sokat beszélgetünk, ezzel együtt pedig erősödik a kötelék. 
+> Meggyőződésem, hogy az ilyen napok erősítik a családi kötelékeket. Ilyenkor kicsit eltávolodunk a hétköznapoktól, közös élményeket szerzünk és nagyon sokat beszélgetünk.
 
 
+Voltunk már húsvéti pikniken a Bakonyban, túrázni a Scheenebergen, a kirándulni a bécsi állatkertben, gyönyörködni Plitvicében, tavaly három napot a Mátrában, idén pedig a Pilisben jártunk, már unokánkkal kiegészülve.
 
-
-Voltunk már húsvéti pikniken a Bakonyban, túrázni a Scheenebergen, a kirándulni a bécsi Állatkertben, gyönyörködni Plitvicében, tavaly három napot a Mátrában, idén pedig a Pilisben töltöttünk el együtt egy egész napot. 
 
 **Tervek**
 
-Mindig izgalmas megtervezni a következő évi programot. 
+Mindig izgalmas megtervezni a következő évi közös programot. 
 
 Ha csak egy napos akkor lényeges szempont, hogy mindenkihez közel legyen, hisz' nem akarjuk az utazással tölteni az időt.
 
 Ha több napos, amilyet a jövő évre is tervezünk, akkor belefér a távolság is.
 
-> Már most várom, hogy milyen klassz lesz este együtt kiülni egy közös beszélgetésre. 
+ Már most várom, hogy milyen klassz lesz a jövő évi kirándulásunk; beszélgetések, nevetések, a nap végén pedig együtt kiülni egy közös csillagnézésre.
 
 ![karácsony](/assets/karácsony/IMG_20191210_114532.jpg)
 
@@ -212,7 +205,8 @@ A mi közös emlékünk.
 ## Egyéb ünnepek
 
 
-Születésnap, névnap, évfordulók, mikulás soha nincs elfelejtve, de nem csinálunk belőle gondot, ha csak később tudjuk a másikat megölelgetni, megszeretgetni. Hetente több alkalommal beszélünk, naprakészek vagyunk a másikból, így mi azt gondoljuk, hogy nem ezen múlik a szeretet. 
+Hetente több alkalommal is beszélünk, naprakészek vagyunk a másikból, és persze a születésnapok, névnapok, évfordulók, de még a Mikulás sincs soha elfelejtve. Azonban nem csinálunk belőle gondot, ha csak később tudjuk a másikat megszeretgetni.  Mi úgy gondoljuk, nem ezen múlik a szeretet. 
+
 
 ![karácsony](/assets/karácsony/IMG_20191203_163204.jpg)
 
