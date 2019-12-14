@@ -3,17 +3,16 @@ layout: post
 title: "Karácsony és más ünnepek a családunkban" 
 permalink: /karácsony/
 cover: /assets/karácsony/cover.jpg
-categories: [haz, kert, dekor]
+categories: [dekor]
 image:
   path: /assets/karácsony/cover.jpg
   height: 300
-  width: 300
+  width: 300  
 ---
 
+**Karácsony! Olyan sok mindent rejtőzik ebben a szóban! Benne van a várakozás, a készülődés, az izgalom, az ünnepi ebéd, a sok feladat, nehézség. De ugyanígy benne van a család, a szeretet, az együtt töltött idő fontossága is. Szervezzük úgy a karácsonyt, hogy legyen időnk az ajándékok mellé magunkat is odaadni. A közösen megélt pillanatoknál, a jóízű nevetéseknél, a nagy beszélgetéseknél nem is kell több a karácsonyfa alá.
 
 
-
-**A karácsonyban az adventi időszakot szeretem a legjobban. A várakozást, a készülődést, a tél lassúságát, a díszek elkészítését. Ahhoz, hogy nálunk a Karácsony valóban olyan legyen, amilyennek mi elképzeljük, úgy "csináljuk", ahogy nekünk a legjobb. Csak rajtunk múlik, hogyan éljük meg az ünnepeket.**
 
 
 
