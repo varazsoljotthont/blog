@@ -124,7 +124,7 @@ Családunkban van vegán étrendet követő, gluténérzékeny, hisztamin intole
 ![karácsony](/assets/karácsony/IMG_20191128_072314.jpg)
 
 
-A közös ebédeknél első fogásként általában krémlevest főzök. Ezt mindenki szereti, és minden kritériumnak megfelel.  Ha kell, már előző nap el tudom készíteni, és az ebéd napján már csak a növényi tejszínnel sűrítem. Ebben a formában mindenkinek megfelel, és én is időt takarítok meg.
+A közös ebédeknél első fogásként általában krémlevest főzök. Ezt mindenki szereti, és minden kritériumnak megfelel.  Ha kell, már előző nap el tudom készíteni, és az ebéd napján már csak a növényi tejszínnel sűrítem. Ebben a formában mindenkinek jó, és én is időt takarítok meg.
 
 Második fogásnak sem készítek bonyolult ételeket.
 Vegán ételnek talán a rakott zöldség a leggyorsabb. Csak a fantáziánkon múlik mit használunk fel hozzá, és ha ügyesen választom ki a zöldséget, akkor a hisztamin sem jelent gondot.
