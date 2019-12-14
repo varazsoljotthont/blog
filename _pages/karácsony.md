@@ -162,7 +162,7 @@ Készítettem is, vásároltam is ezt-azt - mert hát a nagyik már csak ilyenek
 ![karácsony](/assets/karácsony/IMG_20191130_090043.jpg)
 
 Karácsonykor sincs ez másképp. 
-Nem az ajándék mennyisége, ára a mérvadó... Sokkal fontosabb, hogy most már Zakávak kiegészülve, együtt éljük meg az ünnepet.
+Nem az ajándék mennyisége, ára a mérvadó... Sokkal fontosabb, hogy most már Zakával kiegészülve, együtt éljük meg az ünnepet.
 
 Ugye, ennél több nem is kell?
 
