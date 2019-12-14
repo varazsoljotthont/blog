@@ -189,7 +189,7 @@ Mindig izgalmas megtervezni a következő évi közös programot.
 
 Ha csak egy napos akkor lényeges szempont, hogy mindenkihez közel legyen, hisz' nem akarjuk az utazással tölteni az időt. Ha több napos, amilyet a jövő évre is tervezünk, akkor belefér a távolság is.
 
-Már most várom, hogy milyen lesz a jövő évi kirándulásunk; ami biztos, hogy lesznek majd jó nagy beszélgetések, nevetések, majd a nap végén közösen "megváltjuk a világot".
+Már most várom, hogy milyen lesz a jövő évi kirándulásunk; ami biztos, hogy lesznek majd jó nagy beszélgetések, nevetések, majd a nap végén közösen "megváltjuk a világot".  
 Rengeteget emléket adnak ezek a programok, és ez már a miénk. A mi közös emlékünk.
 
 ![karácsony](/assets/karácsony/IMG_20191210_114532.jpg)
