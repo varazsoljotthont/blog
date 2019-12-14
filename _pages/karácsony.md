@@ -52,8 +52,7 @@ Kisebbik gyermekem közel lakik hozzánk, így vele és párjával a kapcsolatta
 A fiaim önálló életéből adódik, hogy nem mindig akkor jön össze a család mikor szeretnénk, hanem mikor össze tudjuk hangolni az 5 - 6 ember időbeosztását. 
 
 
-![karácsony](/assets/karácsony/IMG_20191202_171333.jpg)
-
+![karácsony](/assets/karácsony/IMG_20191124_130936_392.jpg)
 
 
 
@@ -66,8 +65,9 @@ Szeretem ezt az ünnepet. Szeretem a karácsonyi a hangulatot és az együtt tö
 
 > A ház különböző részein elhelyezett dekorációk fokozzák az ünnepi hangulatot úgy bennünk, mint a vendégeinkben. Ezért is olyan fontos számomra az otthonunk díszítése. 
 
+![karácsony](/assets/karácsony/IMG_20191202_171333.jpg)
 
-![karácsony](/assets/karácsony/IMG_20191124_130936_392.jpg)
+
 
 
 Élvezzük, mikor "megjönnek a gyerekek" és pillanatok alatt belakják a házat. A fa alá csempészett ajándékok, a nyüzsgés, a felfordulás teszi számunkra igazán bensőséges élménnyé a karácsonyt. 
