@@ -180,7 +180,7 @@ Meggyőződésem, hogy az ilyen napok erősítik a családi kötelékeket. Ilyen
 
 ![karácsony](/assets/karácsony/IMG_20191125_130200.jpg)
 
-Voltunk már tőzikét, hóvirágot nézni a közelben, húsvéti pikniken a Bakonyban, túrázni a Scheenebergen, a kirándulni a bécsi állatkertben, gyönyörködni Plitvicében, tavaly három napot a Mátrában, idén pedig a Pilisben jártunk, már unokánkkal kiegészülve.
+Voltunk már tőzikét, hóvirágot nézni a közelben, húsvéti pikniken a Bakonyban, túrázni a Scheenebergen, a kirándulni a bécsi állatkertben, gyönyörködni Plitvicében, tavaly három napot a Mátrában, idén pedig a Pilisben jártunk, már az unokánkkal kiegészülve.
 
 
 **Tervek**
@@ -189,7 +189,7 @@ Mindig izgalmas megtervezni a következő évi közös programot.
 
 Ha csak egy napos akkor lényeges szempont, hogy mindenkihez közel legyen, hisz' nem akarjuk az utazással tölteni az időt. Ha több napos, amilyet a jövő évre is tervezünk, akkor belefér a távolság is.
 
-Már most várom, hogy milyen klassz lesz a jövő évi kirándulásunk; beszélgetések, nevetések, a nap végén pedig együtt kiülni egy közös csillagnézésre.  
+Már most várom, hogy milyen lesz a jövő évi kirándulásunk; ami biztos, hogy lesznek majd jó nagy beszélgetések, nevetések, majd a nap végén közösen "megváltjuk a világot".
 Rengeteget emléket adnak ezek a programok, és ez már a miénk. A mi közös emlékünk.
 
 ![karácsony](/assets/karácsony/IMG_20191210_114532.jpg)
