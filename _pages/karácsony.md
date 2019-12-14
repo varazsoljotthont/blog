@@ -180,7 +180,7 @@ Meggyőződésem, hogy az ilyen napok erősítik a családi kötelékeket. Ilyen
 
 ![karácsony](/assets/karácsony/IMG_20191125_130200.jpg)
 
-Voltunk már tőzikét, hóvirágot nézni a közelben, húsvéti pikniken a Bakonyban, túrázni a Scheenebergen, a kirándulni a bécsi állatkertben, gynöyörködni Plitvicében, tavaly három napot a Mátrában, idén pedig a Pilisben jártunk, már unokánkkal kiegészülve.
+Voltunk már tőzikét, hóvirágot nézni a közelben, húsvéti pikniken a Bakonyban, túrázni a Scheenebergen, a kirándulni a bécsi állatkertben, gyönyörködni Plitvicében, tavaly három napot a Mátrában, idén pedig a Pilisben jártunk, már unokánkkal kiegészülve.
 
 
 **Tervek**
