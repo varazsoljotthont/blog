@@ -127,12 +127,10 @@ Családonként változik, hogy mit tartanak lényegesnek és és mi a kevésbé 
 
 ![karácsony](/assets/karácsony/IMG_20191203_0838181.jpg)
 
-Persze nálunk sincs ez másként. 
-
-Mi a sok fogásos ebédet áldoztuk fel az együtt töltött időért.
+Persze nálunk sem megy ez egyszerűen. Mi a sok fogásos ebédet áldoztuk fel az együtt töltött időért.
 
 
-Családunkban van vegán étrendet követő, gluténérzékeny, hisztamin intoleranciás és hús kedvelő. Hogy mindenki olyan ételt kapjon amilyen a leginkább megfelelő számára és én se legyek a konyha rabja, leegyszerűsítettem a dolgot.
+Családunkban van vegán étrendet követő, gluténérzékeny, hisztamin intoleranciás és hús kedvelő. Hogy mindenki olyan ételt kapjon, ami megfelelő a számára és én se legyek a konyha rabja, leegyszerűsítettem a dolgot.
 
 ![karácsony](/assets/karácsony/IMG_20191128_072314.jpg)
 
@@ -148,16 +146,14 @@ Vegán ételnek talán a rakott zöldség a leggyorsabb. Csak a fantáziánkon m
 ![karácsony](/assets/karácsony/IMG_20191203_163204.jpg)
 
 
-Ezzel a "módszerrel" mi teljességgel elégedettek vagyunk.
-
-Van ebéd, és jut idő egymásra is.
+Ezzel a "módszerrel" mi teljességgel elégedettek vagyunk. Van ebéd, és jut idő egymásra is.
 
 
 ![karácsony](/assets/karácsony/79206306_519964631929343_263970326394699776_n.jpg)
 
 ## Zakariás
 
-Családunkban első unoka Zaka, és mi, ahogy azt kell, olvadozunk is tőle. Már 1 éves kislegény, aki szorgosan teszi azt, amihez a legjobban ért. Elvarázsol bennünket a kedvességével, az állandó vidámságával.
+Családunkban első unoka Zaka, és mi, ahogy azt kell, olvadozunk is tőle. Már 1 éves kislegény, aki szorgosan teszi azt, amihez a legjobban ért; elvarázsol bennünket a kedvességével, az állandó vidámságával.
 
 Már a babavárás idején is - de miután megszületett még inkább - nagy lelkesedéssel nézegettem a baba dolgokat.  
 Készítettem is, vásároltam is ezt-azt - mert hát a nagyik már csak ilyenek -, de a szülők úgy gondolták, hogy a nagyik dolga az, hogy szeressék az unokájukat, és nem az, hogy feleslegesen vásárolgassanak.
@@ -185,7 +181,7 @@ Ragaszkodom ezekhez a napokhoz.
 
 
 
- Meggyőződésem, hogy az ilyen napok erősítik a családi kötelékeket. Ilyenkor kicsit eltávolodunk a hétköznapoktól, közös élményeket szerzünk és nagyon sokat beszélgetünk.
+Meggyőződésem, hogy az ilyen napok erősítik a családi kötelékeket. Ilyenkor kicsit eltávolodunk a hétköznapoktól, közös élményeket szerzünk és nagyon sokat beszélgetünk.
 
 ![karácsony](/assets/karácsony/IMG_20191125_130200.jpg)
 
@@ -196,17 +192,14 @@ Voltunk már húsvéti pikniken a Bakonyban, túrázni a Scheenebergen, a kirán
 
 Mindig izgalmas megtervezni a következő évi közös programot. 
 
-Ha csak egy napos akkor lényeges szempont, hogy mindenkihez közel legyen, hisz' nem akarjuk az utazással tölteni az időt.
+Ha csak egy napos akkor lényeges szempont, hogy mindenkihez közel legyen, hisz' nem akarjuk az utazással tölteni az időt. Ha több napos, amilyet a jövő évre is tervezünk, akkor belefér a távolság is.
 
-Ha több napos, amilyet a jövő évre is tervezünk, akkor belefér a távolság is.
-
-Már most várom, hogy milyen klassz lesz a jövő évi kirándulásunk; beszélgetések, nevetések, a nap végén pedig együtt kiülni egy közös csillagnézésre.
+Már most várom, hogy milyen klassz lesz a jövő évi kirándulásunk; beszélgetések, nevetések, a nap végén pedig együtt kiülni egy közös csillagnézésre.  
+Rengeteget emléket adnak ezek a programok, és ez már a miénk. A mi közös emlékünk.
 
 ![karácsony](/assets/karácsony/IMG_20191210_114532.jpg)
 
-Rengeteget emléket adnak ezek a programok, és ez már a miénk. 
 
-A mi közös emlékünk.
 
 ![karácsony](/assets/karácsony/IMG_20191203_0838181.jpg)
 
