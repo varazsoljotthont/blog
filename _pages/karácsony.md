@@ -46,7 +46,7 @@ _Dekoráció az egyszerűség jegyében_
 
 
 Nagyobbik fiam tőlünk 200 km-re él családjával, és nagy örömünkre már egy gyönyörű kisfiúval is megajándékoztak bennünket.  
-Zakariás 1 éves kislegény, aki szorgosan teszi azt, amihez a legjobban ért. Elvarázsol mindenkit a kedvességével, az állandó vidámságával. 
+ 
 A távolság miatt sajnos nem tudunk heti szinten találkozni, de havonta legalább 2 hétvégét sikerül így is összehozni.
 
 Kisebbik gyermekem közel lakik hozzánk, így vele és párjával a kapcsolattartás sokkal egyszerűbb.
@@ -68,7 +68,7 @@ _Ünnepi fények az udvaron_
 
 Szeretem ezt az ünnepet.
 
-Szeretem a karácsonyi a hangulatot, az együtt töltött időt. 
+Szeretem a karácsonyi a hangulatot, és az együtt töltött időt. 
 
 > A ház különböző részein elhelyezett dekorációk fokozzák az ünnepi hangulatot úgy bennünk, mint a vendégeinkben. Ezért is olyan fontos számomra az otthonunk díszítése. 
 
@@ -105,7 +105,7 @@ Néhány ötlet az elmúlt évekből:
 ![karácsony](/assets/karácsony/IMG_20191130_135925.jpg)
 
 Jómagam nagyon szeretek élményt ajándékozni, így a családtagok idei ajándéka is ez lesz.  
-Nagyon bízom abban, hogy mindenkinek elnyeri  majd tetszését.
+Bízom abban, hogy mindenkinek elnyeri  majd tetszését.
 
 
 **Ünnepi ebéd nálunk**
@@ -117,24 +117,32 @@ Hogy ez megvalósulhasson, általában kompromisszumokat kell kötni és valamin
 
 ![karácsony](/assets/karácsony/IMG_20191203_083753.jpg)
 
-Családonként változik, hogy mire helyezik hangsúlyt:
+Családonként változik, hogy mi a lényeges és mire helyezik a hangsúlyt:
 
 
 * van ahol az időt áldozzák be, mert a sok fogásos ebéd hozzá tartozik az ünnephez
 * van ahol pénzt áldoznak arra, hogy étterembe menjen a család, így mentesül a háziasszony a feladatok alól
 * van ahol időt, pénzt, energiát áldoznak az ünnepi ebédre, hisz' az is ajándék
 
-Nálunk sincs ez másként. 
+Persze nálunk sincs ez másként. 
 
 Mi a sok fogásos ebédet áldoztuk fel az együtt töltött időért.
 
-Erre azért volt szükség
-Családunkban van vegán étrendet követő, gluténérzékeny, hisztamin intoleranciás és hús kedvelő.
 
+Családunkban van vegán étrendet követő, gluténérzékeny, hisztamin intoleranciás és hús kedvelő. Hogy mindenki olyan ételt kapjon amilyen a leginkább megfelelő számára és én se legyek a konyha rabja, leegyszerűsítettem a dolgot.
 
 ![karácsony](/assets/karácsony/IMG_20191128_072314.jpg)
 
-A menü összeállításánál természetesen figyelembe veszem az egyéni igényeket, de fontos az is, hogy én se legyek túl sokáig a konyha rabja. A cél az, hogy legyen finom az ebéd, és én is mihamarabb csatlakozhassak a családhoz. 
+
+A krémleves a legjobb választása közös ebédeknél.  
+Előre el tudom készíteni, és az ebéd napján már csak a növényi tejszínnel sűrítem. Ebben a formában mindenkinek megfelel, és én is időt takarítok meg.
+Második fogásnak sem készítek bonyolult ételeket, hanem mindenkinek azt, amit előre megbeszéltünk. 
+Így is főzök három féle ételt, és süteményből is kell sima, vegán és gluténmentes is.
+
+
+Ezzel a "módszerrel" mi teljességgel elégedettek vagyunk.
+
+Van ebéd, és jut idő egymásra is.
 
 
 
@@ -151,7 +159,7 @@ A menü összeállításánál természetesen figyelembe veszem az egyéni igén
 
 ## Zakariás
 
-Családunkban első unoka Zaka, és mi, ahogy azt kell, olvadozunk is tőle. 
+Családunkban első unoka Zaka, és mi, ahogy azt kell, olvadozunk is tőle. Zakariás 1 éves kislegény, aki szorgosan teszi azt, amihez a legjobban ért. Elvarázsol mindenkit a kedvességével, az állandó vidámságával.
 
 Már a babavárás idején is - de miután megszületett még inkább - nagy lelkesedéssel nézegettem a baba dolgokat.  
 Készítettem is, vásároltam is ezt-azt - mert hát a nagyik már csak ilyenek -, de a szülők úgy gondolták, hogy a nagyik dolga az, hogy szeressék az unokájukat, és nem az, hogy feleslegesen vásárolgassanak.
