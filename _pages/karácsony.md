@@ -124,6 +124,9 @@ Családonként változik, hogy mit tartanak lényegesnek és és mi a kevésbé 
 * van ahol pénzt áldoznak arra, hogy étterembe menjen a család, így mentesül a háziasszony a feladatok alól
 * van ahol időt, pénzt, energiát áldoznak az ünnepi ebédre, hisz' az is ajándék
 
+
+![karácsony](/assets/karácsony/IMG_20191203_0838181.jpg)
+
 Persze nálunk sincs ez másként. 
 
 Mi a sok fogásos ebédet áldoztuk fel az együtt töltött időért.
