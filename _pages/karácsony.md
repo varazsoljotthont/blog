@@ -26,7 +26,7 @@ image:
 Talán nem bánjátok, ha a mostani poszt személyesebb lesz, mint az eddigiek.  
 Eddig csak mint a Varázsolj otthont bloggerét láthattatok, most a feleséget, az anyukát, a nagyit, és nem utolsó sorban Krisztát is megismerhetitek egy kicsit.
 
-A posztban az idei ünnepi dekorációinkat is láthatjátok, és talán lesz még idő elkészíteni, vagy párotokkal elkészíttetni, ha valamelyik elnyeri tetszéseteket.
+A posztban az idei ünnepi dekorációinkat is megmutatom, és talán lesz még idő elkészíteni, vagy párotokkal elkészíttetni, ha valamelyik elnyeri tetszéseteket.
 
 
 ![karácsony](/assets/karácsony/IMG_20191201_135652.jpg)
@@ -46,16 +46,15 @@ _Dekoráció az egyszerűség jegyében_
 
 
 Nagyobbik fiam tőlünk 200 km-re él családjával, és nagy örömünkre már egy gyönyörű kisfiúval is megajándékoztak bennünket.  
-Zakariás 1 éves kislegény, aki szorgosan teszi azt, amihez a legjobban ért. Elvarázsol mindenkit a kedvességével, az állandó vidámságával.
+Zakariás 1 éves kislegény, aki szorgosan teszi azt, amihez a legjobban ért. Elvarázsol mindenkit a kedvességével, az állandó vidámságával. 
+A távolság miatt, sajnos nem tudunk heti szinten találkozni, de havonta legalább 2 hétvégét sikerül így is összehozni.
 
-Kisebbik gyermekem hozzánk közel lakik, vele ezért gyakrabban találkozunk.
-
+Kisebbik gyermekem közel lakik hozzánk, így vele és párjával a kapcsolattartás sokkal egyszerűbb.
 
 ![karácsony](/assets/karácsony/IMG_20191207_143848j.jpg)
 
 A fiaim önálló életéből adódik, hogy nem mindig akkor jön össze a család mikor szeretnénk, hanem mikor össze tudjuk hangolni az 5 - 6 ember időbeosztását. 
 
-Igyekszünk sűrűn találkozni, és az ilyen alkalmakkor próbálunk a minél több időt együtt tölteni.
 
 ![karácsony](/assets/karácsony/IMG_20191202_171333.jpg)
 _Ünnepi fények az udvaron_
@@ -69,7 +68,7 @@ _Ünnepi fények az udvaron_
 
 Szeretem ezt az ünnepet.
 
-Szeretem a karácsonyi a hangulatot, az együtt töltött időt. Szerintem ez a legjobb.
+Szeretem a karácsonyi a hangulatot, az együtt töltött időt. 
 
 > A ház különböző részein elhelyezett dekorációk fokozzák az ünnepi hangulatot úgy bennünk, mint a vendégeinkben. Ezért is olyan fontos számomra az otthonunk díszítése. 
 
@@ -77,7 +76,7 @@ Szeretem a karácsonyi a hangulatot, az együtt töltött időt. Szerintem ez a 
 
 Élvezzük, mikor "megjönnek a "gyerekek" és pillanatok alatt belakják a házat. 
 
-A fa alá csempészett ajándékok, nyüzsgés, a felfordulás teszi igazán bensőséges élménnyé a karácsonyt. 
+A fa alá csempészett ajándékok, nyüzsgés, a felfordulás teszi számunkra igazán bensőséges élménnyé a karácsonyt. 
 
 
 
@@ -89,6 +88,8 @@ A fa alá csempészett ajándékok, nyüzsgés, a felfordulás teszi igazán ben
 
 
 A Karácsony az a fix dátum, mikor biztosan mindenki szabad, és össze tud gyűlni a család. Így ezt jelöltük ki az egyetlen olyan ünnepnek, melyen ajándékozunk. De ilyenkor sem nagy dolgokban gondolkodunk, inkább arra fektetjük a hangsúlyt, hogy valami igazán személyessel lepjük meg egymást.
+
+
 
 Néhány ötlet az elmúlt évekből:
 
