@@ -29,7 +29,6 @@ A posztban az idei ünnepi dekorációinkat is megmutatom, és talán lesz még 
 
 
 ![karácsony](/assets/karácsony/IMG_20191201_135652.jpg)
-_Teraszunk karácsonyi díszben_
 
 
 
