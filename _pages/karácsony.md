@@ -68,14 +68,14 @@ Szeretem a karácsonyi a hangulatot és az együtt töltött időt.
 
 > A ház különböző részein elhelyezett dekorációk fokozzák az ünnepi hangulatot úgy bennünk, mint a vendégeinkben. Ezért is olyan fontos számomra az otthonunk díszítése. 
 
-![karácsony](/assets/karácsony/IMG_20191127_073803.jpg)
+
+![karácsony](/assets/karácsony/IMG_20191124_130936_392.jpg)
+
 
 Élvezzük, mikor "megjönnek a gyerekek" és pillanatok alatt belakják a házat. A fa alá csempészett ajándékok, a nyüzsgés, a felfordulás teszi számunkra igazán bensőséges élménnyé a karácsonyt. 
 
 
-
-
-![karácsony](/assets/karácsony/IMG_20191124_130936_392.jpg)
+![karácsony](/assets/karácsony/IMG_20191127_073803.jpg)
 
 
 **Ajándékozás**
