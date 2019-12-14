@@ -41,7 +41,7 @@ Azt tudjátok rólunk, hogy annak idején újrakezdőként vágtunk bele a "Mih�
 Mindketten túl a negyvenen, túl egy váláson kezdtük el közös életünket. Férjemnek nincs gyermeke, az én fiaim pedig felnőttként már a saját életüket élik. 
 
 ![karácsony](/assets/karácsony/IMG_20191130_121256.jpg)
-_Dekoráció az egyszerűség jegyében_
+
 
 
 Nagyobbik fiam tőlünk 200 km-re él családjával, és nagy örömünkre már egy gyönyörű kisfiúval is megajándékoztak bennünket.  
@@ -56,7 +56,7 @@ A fiaim önálló életéből adódik, hogy nem mindig akkor jön össze a csal�
 
 
 ![karácsony](/assets/karácsony/IMG_20191202_171333.jpg)
-_Ünnepi fények az udvaron_
+
 
 
 
@@ -200,7 +200,7 @@ Rengeteget emléket adnak ezek a programok, és ez már a miénk. A mi közös e
 
 
 
-![karácsony](/assets/karácsony/IMG_20191203_0838181.jpg)
+
 
 ## Egyéb ünnepek
 
