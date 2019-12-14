@@ -101,14 +101,12 @@ Bízom abban, hogy mindenkinek elnyeri  majd tetszését.
 
 **Ünnepi ebéd nálunk**
 
-Ember legyen a talpán, aki egyszerre tudja megvendégelni a szeretteit és az ezzel járó készülődéssel együtt élvezni az ünnepet.
-
-Hogy ez megvalósulhasson, általában kompromisszumokat kell kötni és valaminek a rovására áldozatot kell hozni.
+Ember legyen a talpán, aki egyszerre tudja megvendégelni a szeretteit és az ezzel járó készülődéssel együtt élvezni az ünnepet. Hogy ez megvalósulhasson, általában kompromisszumokat kell kötni és valaminek a rovására áldozatot kell hozni.
 
 
 ![karácsony](/assets/karácsony/IMG_20191203_083753.jpg)
 
-Családonként változik, hogy mit tartanak lényegesnek és és mi a kevésbé fontos:
+Családonként változik, hogy mi a lényeges és mi a kevésbé fontos:
 
 
 * van ahol az időt áldozzák be, mert a sok fogásos ebéd hozzá tartozik az ünnephez
@@ -116,7 +114,7 @@ Családonként változik, hogy mit tartanak lényegesnek és és mi a kevésbé 
 * van ahol időt, pénzt, energiát áldoznak az ünnepi ebédre, hisz' az is ajándék
 
 
-![karácsony](/assets/karácsony/IMG_20191203_0838181.jpg)
+
 
 Persze nálunk sem megy ez egyszerűen. Mi a sok fogásos ebédet áldoztuk fel az együtt töltött időért.
 
@@ -147,6 +145,10 @@ Ezzel a "módszerrel" mi teljességgel elégedettek vagyunk. Van ebéd, és jut 
 ## Zakariás
 
 Családunkban első unoka Zaka, és mi, ahogy azt kell, olvadozunk is tőle. Már 1 éves kislegény, aki szorgosan teszi azt, amihez a legjobban ért; elvarázsol bennünket a kedvességével, az állandó vidámságával.
+
+
+![karácsony](/assets/karácsony/IMG_20191203_0838181.jpg)
+
 
 Már a babavárás idején is - de miután megszületett még inkább - nagy lelkesedéssel nézegettem a baba dolgokat.  
 Készítettem is, vásároltam is ezt-azt - mert hát a nagyik már csak ilyenek -, de a szülők úgy gondolták, hogy a nagyik dolga az, hogy szeressék az unokájukat, és nem az, hogy feleslegesen vásárolgassanak.
