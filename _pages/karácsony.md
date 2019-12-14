@@ -44,10 +44,7 @@ Mindketten túl a negyvenen, túl egy váláson kezdtük el közös életünket.
 
 
 
-Nagyobbik fiam tőlünk 200 km-re él családjával, és nagy örömünkre már egy gyönyörű kisfiúval is megajándékoztak bennünket.  
- 
-A távolság miatt sajnos nem tudunk heti szinten találkozni, de havonta így is sikerül legalább 2 hétvégét összehozni.
-
+Nagyobbik fiam tőlünk 200 km-re él családjával, és nagy örömünkre már egy gyönyörű kisfiúval is megajándékoztak bennünket. A távolság miatt sajnos nem tudunk heti szinten találkozni, de havonta így is sikerül legalább 2 hétvégét összehozni. 
 Kisebbik gyermekem közel lakik hozzánk, így vele és párjával a kapcsolattartás sokkal egyszerűbb.
 
 ![karácsony](/assets/karácsony/IMG_20191207_143848j.jpg)
