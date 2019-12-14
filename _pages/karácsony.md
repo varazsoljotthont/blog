@@ -62,9 +62,7 @@ A fiaim önálló életéből adódik, hogy nem mindig akkor jön össze a csal�
 
 
 
-Szeretem ezt az ünnepet.
-
-Szeretem a karácsonyi a hangulatot és az együtt töltött időt. 
+Szeretem ezt az ünnepet. Szeretem a karácsonyi a hangulatot és az együtt töltött időt. 
 
 > A ház különböző részein elhelyezett dekorációk fokozzák az ünnepi hangulatot úgy bennünk, mint a vendégeinkben. Ezért is olyan fontos számomra az otthonunk díszítése. 
 
