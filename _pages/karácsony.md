@@ -47,7 +47,7 @@ _Dekoráció az egyszerűség jegyében_
 
 Nagyobbik fiam tőlünk 200 km-re él családjával, és nagy örömünkre már egy gyönyörű kisfiúval is megajándékoztak bennünket.  
 Zakariás 1 éves kislegény, aki szorgosan teszi azt, amihez a legjobban ért. Elvarázsol mindenkit a kedvességével, az állandó vidámságával. 
-A távolság miatt, sajnos nem tudunk heti szinten találkozni, de havonta legalább 2 hétvégét sikerül így is összehozni.
+A távolság miatt sajnos nem tudunk heti szinten találkozni, de havonta legalább 2 hétvégét sikerül így is összehozni.
 
 Kisebbik gyermekem közel lakik hozzánk, így vele és párjával a kapcsolattartás sokkal egyszerűbb.
 
@@ -110,21 +110,26 @@ Nagyon bízom abban, hogy mindenkinek elnyeri  majd tetszését.
 
 **Ünnepi ebéd nálunk**
 
-Ember legyen a talpán, aki egyszerre tudja megvendégelni a szeretteit és élvezni az ünnepet.
+Ember legyen a talpán, aki egyszerre tudja megvendégelni a szeretteit és az ezzel járó készülődéssel együtt élvezni az ünnepet.
 
-Ez általában kompromisszumokkal jár, de 
+Hogy ez megvalósulhasson, általában kompromisszumokat kell kötni és valaminek a rovására áldozatot kell hozni.
+
 
 ![karácsony](/assets/karácsony/IMG_20191203_083753.jpg)
 
-Családonként változik, hogy az ünnepi ebédnél mi a fontos.
+Családonként változik, hogy mire helyezik hangsúlyt:
 
-* van ahol étterembe megy a család, így mentesül a háziasszony a feladatok alól
-* van ahol terülj-terülj asztalkám van, mert az ünnephez hozzá tartoznak a különleges ételek
-* van ahol az ünnepi ebéd az ajándék
-* van ahol a hagyományokat követik évről - évre és a jól bevált klasszikusokat készítik...
 
-Nálunk külön kihívást jelent, hogy családunkban van vegán étrendet 
+* van ahol az időt áldozzák be, mert a sok fogásos ebéd hozzá tartozik az ünnephez
+* van ahol pénzt áldoznak arra, hogy étterembe menjen a család, így mentesül a háziasszony a feladatok alól
+* van ahol időt, pénzt, energiát áldoznak az ünnepi ebédre, hisz' az is ajándék
 
+Nálunk sincs ez másként. 
+
+Mi a sok fogásos ebédet áldoztuk fel az együtt töltött időért.
+
+Erre azért volt szükség
+Családunkban van vegán étrendet követő, gluténérzékeny, hisztamin intoleranciás és hús kedvelő.
 
 
 ![karácsony](/assets/karácsony/IMG_20191128_072314.jpg)
