@@ -137,8 +137,12 @@ Családunkban van vegán étrendet követő, gluténérzékeny, hisztamin intole
 A krémleves a tűnt legjobb választásnak a közös ebédeknél.  
 Előre el tudom készíteni, és az ebéd napján már csak a növényi tejszínnel sűrítem. Ebben a formában mindenkinek megfelel, és én is időt takarítok meg.
 
-Második fogásnak sem készítek bonyolult ételeket, hanem mindenkinek azt, amit előre megbeszéltünk. 
-Így is főzök három féle ételt, és süteményből is kell sima, vegán és gluténmentes is.
+Második fogásnak sem készítek bonyolult ételeket.
+Vegán ételnek talán a rakott zöldség a leggyorsabb. Csak a fantáziánkon múlik mit használunk fel hozzá, és ha ügyesen választom ki a zöldséget, akkor a hisztamin sem jelent gondot.
+
+Így, megkönnyítve a feladatomat is főzök legalább három féle ételt, és süteményből is kell sima, vegán és gluténmentes is.
+
+![karácsony](/assets/karácsony/IMG_20191203_163204.jpg)
 
 
 Ezzel a "módszerrel" mi teljességgel elégedettek vagyunk.
@@ -172,14 +176,15 @@ Ugye, ennél több nem is kell?
 Minden évben kerítünk alkalmat arra, hogy családunkkal együtt túrázni menjünk, kiránduljunk. 
 
 
-A felnőtt gyerekes családok jól tudják, hogy komoly logisztikai feladat egy helyre összehozni mindenkit. 
+A felnőtt gyerekes családok jól tudják, hogy komoly logisztikai feladat egy helyre összehozni mindenkit, ezért már az év elején elkezdem megtenni a program javaslataimat. 
 
-Ehhez ragaszkodom, és épp ezért már az év elején elkezdem megtenni a program javaslataimat. 
+Ragaszkodom ezekhez a napokhoz.
+
+
+
+ Meggyőződésem, hogy az ilyen napok erősítik a családi kötelékeket. Ilyenkor kicsit eltávolodunk a hétköznapoktól, közös élményeket szerzünk és nagyon sokat beszélgetünk.
 
 ![karácsony](/assets/karácsony/IMG_20191125_130200.jpg)
-
-> Meggyőződésem, hogy az ilyen napok erősítik a családi kötelékeket. Ilyenkor kicsit eltávolodunk a hétköznapoktól, közös élményeket szerzünk és nagyon sokat beszélgetünk.
-
 
 Voltunk már húsvéti pikniken a Bakonyban, túrázni a Scheenebergen, a kirándulni a bécsi állatkertben, gyönyörködni Plitvicében, tavaly három napot a Mátrában, idén pedig a Pilisben jártunk, már unokánkkal kiegészülve.
 
@@ -192,7 +197,7 @@ Ha csak egy napos akkor lényeges szempont, hogy mindenkihez közel legyen, hisz
 
 Ha több napos, amilyet a jövő évre is tervezünk, akkor belefér a távolság is.
 
- Már most várom, hogy milyen klassz lesz a jövő évi kirándulásunk; beszélgetések, nevetések, a nap végén pedig együtt kiülni egy közös csillagnézésre.
+Már most várom, hogy milyen klassz lesz a jövő évi kirándulásunk; beszélgetések, nevetések, a nap végén pedig együtt kiülni egy közös csillagnézésre.
 
 ![karácsony](/assets/karácsony/IMG_20191210_114532.jpg)
 
@@ -205,16 +210,16 @@ A mi közös emlékünk.
 ## Egyéb ünnepek
 
 
-Hetente több alkalommal is beszélünk, naprakészek vagyunk a másikból, és persze a születésnapok, névnapok, évfordulók, de még a Mikulás sincs soha elfelejtve. Azonban nem csinálunk belőle gondot, ha csak később tudjuk a másikat megszeretgetni.  Mi úgy gondoljuk, nem ezen múlik a szeretet. 
+Hetente több alkalommal is beszélünk, naprakészek vagyunk a másikból, és persze a születésnapok, névnapok, évfordulók, de még a Mikulás sincs soha elfelejtve. Azonban nem csinálunk belőle gondot, ha csak később tudjuk a másikat megszeretgetni. Mi úgy gondoljuk, nem ezen múlik a szeretet. 
+
+Születésnapra torta az ajándék, és ezt mindig én készítem az ünnepeltnek.
+
+Névnapokról, és más nekünk fontos eseményről is megemlékezünk  -  ha másként nem sikerül - akkor telefonon. Ezekre az alkalmakra nem készülünk ajándékkal. Egy ölelés, egy jó kívánság szerintem sokkal többet ér.
 
 
-![karácsony](/assets/karácsony/IMG_20191203_163204.jpg)
 
 
 
-
-![karácsony](/assets/karácsony/IMG_20191130_130131.jpg)
-_Hunyor, vagy karácsonyi rózsa. Decemberben, az ünnepekre már virágzik_
 
 
 
@@ -225,14 +230,11 @@ _Hunyor, vagy karácsonyi rózsa. Decemberben, az ünnepekre már virágzik_
 
 
 
-
-
-
 ## Lehet a hétköznap is ünnepnap
 
 Apró kis kedvességekkel a mindennapokat is átalakíthatjuk örömteli napokká. Hiszek abban, hogy örömet nem csak pénzért vásárolt ajándékokkal lehet okozni. 
 
-Egy forró tea, egy bögre forraltbor az udvaron kint dolgozó férjünknek, egy kedves üzenet napközben, egy köszönöm, egy ölelés megérkezéskor, mint apró varázslat teszi szebbé a napunkat.
+Egy forró tea, vagy egy bögre forraltbor az udvaron kint dolgozó férjünknek, egy kedves üzenet napközben, egy köszönöm, egy ölelés megérkezéskor, mint apró varázslat teszi szebbé a napunkat.
 
 Varázsoljuk át a hétköznapjainkat is ünneppé! 
 
