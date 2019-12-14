@@ -13,19 +13,20 @@ image:
 
 
 
-**A karácsonyban az adventi időszakot szeretem a legjobban. A várakozást, a készülődést, a tél lassúságát, a díszek elkészítését. Ahhoz, hogy nálunk a karácsony valóban olyan legyen, ahogy mi szeretnénk, úgy "csináljuk", ahogy nekünk a legjobb. Csak rajtunk múlik, hogyan éljük meg az ünnepeket.**
+**A karácsonyban az adventi időszakot szeretem a legjobban. A várakozást, a készülődést, a tél lassúságát, a díszek elkészítését. Ahhoz, hogy nálunk a Karácsony valóban olyan legyen, amilyennek mi elképzeljük, úgy "csináljuk", ahogy nekünk a legjobb. Csak rajtunk múlik, hogyan éljük meg az ünnepeket.**
+
 
 
 
 ![karácsony](/assets/karácsony/idézet.jpg)
 
 
-## Fogadjátok szeretettel az ajándékomat
+## Fogadjátok szeretettel az ajándékomat!
 
 Talán nem bánjátok, ha a mostani poszt személyesebb lesz, mint az eddigiek.  
 Eddig csak mint a Varázsolj otthont bloggerét láthattatok, most a feleséget, az anyukát, a nagyit, és nem utolsó sorban Krisztát is megismerhetitek egy kicsit.
 
-A posztban az idei ünnepi dekorációinkat is láthatjátok, és talán lesz még idő elkészíteni, vagy párotokkal elkészíttetni ha valamelyik elnyeri tetszéseteket.
+A posztban az idei ünnepi dekorációinkat is láthatjátok, és talán lesz még idő elkészíteni, vagy párotokkal elkészíttetni, ha valamelyik elnyeri tetszéseteket.
 
 
 ![karácsony](/assets/karácsony/IMG_20191201_135652.jpg)
@@ -37,48 +38,49 @@ _Teraszunk karácsonyi díszben_
 ## Az én családom
 
 
-Azt tudjátok rólunk, hogy újrakezdőként vágtunk bele annak idején a "Miházunkba".  
+Azt tudjátok rólunk, hogy annak idején újrakezdőként vágtunk bele a "Miházunkba".  
 Mindketten túl a negyvenen, túl egy váláson kezdtük el közös életünket. Férjemnek nincs gyermeke, az én fiaim pedig felnőttként már a saját életüket élik. 
 
 ![karácsony](/assets/karácsony/IMG_20191130_121256.jpg)
 _Dekoráció az egyszerűség jegyében_
 
 
-Nagy örömünkre nagyfiam és felesége már egy gyönyörű kisfiúval is megajándékoztak bennünket. Zakariás egy éves kislegény, aki szorgosan teszi azt, amihez a legjobban ért. Elvarázsol mindenkit a kedvességével, az állandó vidámságával.
+Nagyobbik fiam tőlünk 200 km-re él családjával, és nagy örömünkre már egy gyönyörű kisfiúval is megajándékoztak bennünket.  
+Zakariás 1 éves kislegény, aki szorgosan teszi azt, amihez a legjobban ért. Elvarázsol mindenkit a kedvességével, az állandó vidámságával.
+
+Kisebbik gyermekem hozzánk közel lakik, vele ezért gyakrabban találkozunk.
 
 
 ![karácsony](/assets/karácsony/IMG_20191207_143848j.jpg)
 
-A fiaim önálló életéből, és a nagyobbik 200 km-es távolságából adódik, hogy nem mindig akkor jön össze a család mikor szeretnénk, hanem mikor össze tudjuk hangolni az 5 - 6 ember időbeosztását. 
+A fiaim önálló életéből adódik, hogy nem mindig akkor jön össze a család mikor szeretnénk, hanem mikor össze tudjuk hangolni az 5 - 6 ember időbeosztását. 
 
-Igyekszünk gyakran találkozni, és az ilyen alkalmakkor próbálunk a minél több időt együtt tölteni.
+Igyekszünk sűrűn találkozni, és az ilyen alkalmakkor próbálunk a minél több időt együtt tölteni.
 
 ![karácsony](/assets/karácsony/IMG_20191202_171333.jpg)
 _Ünnepi fények az udvaron_
 
 
 
-## Ünnep igény szerint
+## Ünnep, igény szerint
 
 
 **Karácsony**
 
-Szeretem a karácsonyt.
+Szeretem ezt az ünnepet.
 
-Szeretem az ünnepi hangulatot, a karácsonyt megelőző tervezgetős - készülődős időszakot.
+Szeretem a karácsonyi a hangulatot, az együtt töltött időt. Szerintem ez a legjobb.
 
-Az otthonunk feldíszítése ezért - is - olyan fontos számomra. A ház különböző részein elhelyezett dekorációk fokozzák az ünnepi hangulatot, és ez úgy hat rám, mintha csillámporral szórták volna be a hétköznapokat.
+> A ház különböző részein elhelyezett dekorációk fokozzák az ünnepi hangulatot úgy bennünk, mint a vendégeinkben. Ezért is olyan fontos számomra az otthonunk díszítése. 
 
 ![karácsony](/assets/karácsony/IMG_20191127_073803.jpg)
 
 Élvezzük, mikor "megjönnek a "gyerekek" és pillanatok alatt belakják a házat. 
 
-A fa alá csempészett ajándékok, nyüzsgés, a felfordulás is azt mutatja, hogy mennyire szeretünk együtt lenni. 
+A fa alá csempészett ajándékok, nyüzsgés, a felfordulás teszi igazán bensőséges élménnyé a karácsonyt. 
 
 
-Számomra fontos volt, hogy a ne vendégnek érezzék magukat, hisz' ahol mi otthon vagyunk, ott ők is otthon lehetnek.
 
- 
 
 ![karácsony](/assets/karácsony/IMG_20191124_130936_392.jpg)
 
@@ -86,7 +88,7 @@ Számomra fontos volt, hogy a ne vendégnek érezzék magukat, hisz' ahol mi ott
 **Ajándékozás**
 
 
-A karácsony fix pont, ekkor biztosan mindenki itt van, így ezt jelöltük ki az egyetlen olyan ünnepnek, ahol ajándékozunk. De ezen alkalomkor sem nagy dolgokban gondolkodunk, inkább arra fektetjük a hangsúlyt, hogy valóban személyes legyen az ajándék.
+A Karácsony az a fix dátum, mikor biztosan mindenki szabad, és össze tud gyűlni a család. Így ezt jelöltük ki az egyetlen olyan ünnepnek, melyen ajándékozunk. De ilyenkor sem nagy dolgokban gondolkodunk, inkább arra fektetjük a hangsúlyt, hogy valami igazán személyessel lepjük meg egymást.
 
 Néhány ötlet az elmúlt évekből:
 
@@ -107,8 +109,9 @@ Nagyon bízom abban, hogy mindenkinek elnyeri  majd tetszését.
 
 **Ünnepi ebéd nálunk**
 
-A közös ebédek nálunk nem egyszerűek.  
-A nagyfiam és a menyem vega étrendet követ - semmi állati eredetűt nem fogyasztanak - a menyem emellé még glutén érzékeny is, jómagam pedig hisztamin intolernciával küzdök. A férjem, a kiskisfiam és az ő párja pedig a normál étkezés szerint, hússal képzeli el az ünnep ebédet.
+Ember legyen a talpán, aki egyszerre tudja megvendégelni a szeretteit és élvezni az ünnepet.
+
+Ez általában kompromisszumokkal jár, de 
 
 ![karácsony](/assets/karácsony/IMG_20191203_083753.jpg)
 
@@ -119,14 +122,15 @@ Családonként változik, hogy az ünnepi ebédnél mi a fontos.
 * van ahol az ünnepi ebéd az ajándék
 * van ahol a hagyományokat követik évről - évre és a jól bevált klasszikusokat készítik...
 
-... én pedig közvéleményt kutatok, hogy ki mit szeretne enni ebédre és ezekre fókuszálok.
+Nálunk külön kihívást jelent, hogy családunkban van vegán étrendet 
+
 
 
 ![karácsony](/assets/karácsony/IMG_20191128_072314.jpg)
 
 A menü összeállításánál természetesen figyelembe veszem az egyéni igényeket, de fontos az is, hogy én se legyek túl sokáig a konyha rabja. A cél az, hogy legyen finom az ebéd, és én is mihamarabb csatlakozhassak a családhoz. 
 
-Ahány ház, annyi szokás. Mindenkinek más jelent az ünnep. A lényeg, hogy örömet okozzon a családikörben elfogyasztott ünnepi ebéd.
+
 
 
 
