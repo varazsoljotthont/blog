@@ -106,7 +106,7 @@ Ember legyen a talpán, aki egyszerre tudja megvendégelni a szeretteit és az e
 
 Családonként változik, hogy mi a lényeges és mi a kevésbé fontos.
 
-Van ahol a különleges, sokféle ételt áldozzák fel a közösen eltöltött időért, máshol pénzt áldoznak arra, hogy étterembe menjen a család, így mentesül a háziasszony a feladatok alól, és van olyan is ahol időt, pénzt, energiát áldoznak az ünnepi ebédre, hisz' az is ajándék.
+Van ahol a különleges, sokféle ételt áldozzák fel a közösen eltöltött időért, máshol pénzt áldoznak arra, hogy étterembe menjen a család, így mentesül a háziasszony a feladatok alól. És van olyan is, ahol időt, pénzt, energiát áldoznak az ünnepi ebédre, hisz' az is ajándék.
 
 
 
@@ -123,7 +123,7 @@ Vegán ételnek talán a rakott zöldség a leggyorsabb. Csak a fantáziánkon m
 Már hagyomány, hogy minden karácsonykor töltött szűzpecsenyét sütök. Ez amellett hogy finom, még gyors is, és akár egy nappal előbb is elkészíthetjük.  
 A frissensülteknek, köreteknek sem kell túl sok idő, a tálalásban pedig besegít a család.
 
-Így, megkönnyítve a feladatomat is főzök legalább három féle ételt, és süteményből is kell sima, vegán és gluténmentes is.
+Így, megkönnyítve a feladatomat is főzök legalább háromféle ételt, és süteményből is kell sima, vegán és gluténmentes is.
 
 ![karácsony](/assets/karácsony/IMG_20191203_163204.jpg)
 
