@@ -149,7 +149,7 @@ Készítettem is, vásároltam is ezt-azt - mert hát a nagyik már csak ilyenek
 Karácsonykor sincs ez másképp. 
 Nem az ajándék mennyisége, ára a mérvadó... Sokkal fontosabb, hogy most már Zakával kiegészülve, együtt éljük meg az ünnepet.
 
-Ugye, ennél több nem is kell?
+
 
 
 
