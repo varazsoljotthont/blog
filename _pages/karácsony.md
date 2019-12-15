@@ -146,7 +146,7 @@ Családunkban első unoka Zaka, és mi, ahogy azt kell, olvadozunk is tőle. Má
 
 
 Már a babavárás idején is - de miután megszületett még inkább - nagy lelkesedéssel nézegettem a baba dolgokat.  
-Készítettem is, vásároltam is ezt-azt - mert hát a nagyik már csak ilyenek -, de a szülők úgy gondolták, hogy a nagyik dolga az, hogy szeressék az unokájukat, és nem az, hogy feleslegesen vásárolgassanak.
+Készítettem is, vásároltam is ezt-azt - mert hát a nagyik már csak ilyenek - de a szülők úgy gondolták, hogy a nagyik dolga az, hogy szeressék az unokájukat, és nem az, hogy feleslegesen vásárolgassanak.
 
 ![karácsony](/assets/karácsony/IMG_20191130_090043.jpg)
 
@@ -165,24 +165,18 @@ Ugye, ennél több nem is kell?
 Minden évben kerítünk alkalmat arra, hogy családunkkal együtt túrázni menjünk, kiránduljunk. 
 
 
-A felnőtt gyerekes családok jól tudják, hogy komoly logisztikai feladat egy helyre összehozni mindenkit, ezért már az év elején elkezdem megtenni a program javaslataimat. 
-
-Ragaszkodom ezekhez a napokhoz.
-
-
-
-Meggyőződésem, hogy az ilyen napok erősítik a családi kötelékeket. Ilyenkor kicsit eltávolodunk a hétköznapoktól, közös élményeket szerzünk és nagyon sokat beszélgetünk.
+A felnőtt gyerekes családok jól tudják, hogy komoly logisztikai feladat egy helyre összehozni mindenkit, ezért már az év elején elkezdem megtenni a program javaslataimat. Ragaszkodom ezekhez a napokhoz. Meggyőződésem, hogy az ilyen napok erősítik a családi kötelékeket. Ilyenkor kicsit eltávolodunk a hétköznapoktól, közös élményeket szerzünk és nagyon sokat beszélgetünk.
 
 ![karácsony](/assets/karácsony/IMG_20191125_130200.jpg)
 
 Voltunk már tőzikét, hóvirágot nézni a közelben, húsvéti pikniken a Bakonyban, túrázni a Scheenebergen, a kirándulni a bécsi állatkertben, gyönyörködni Plitvicében, tavaly három napot a Mátrában, idén pedig a Pilisben jártunk, már az unokánkkal kiegészülve.
 
 
-**Tervek**
+**Tervezés**
 
 Mindig izgalmas megtervezni a következő évi közös programot. 
 
-Ha csak egy napos akkor lényeges szempont, hogy mindenkihez közel legyen, hisz' nem akarjuk az utazással tölteni az időt. Ha több napos, amilyet a jövő évre is tervezünk, akkor belefér a távolság is.
+Ha csak egy napos, akkor lényeges szempont, hogy mindenkihez közel legyen, hisz' nem akarjuk az utazással tölteni az időt. Ha több napos, amilyet a jövő évre is tervezünk, akkor belefér a távolság is.
 
 Már most várom, hogy milyen lesz a jövő évi kirándulásunk; ami biztos, hogy lesznek majd jó nagy beszélgetések, nevetések, majd a nap végén közösen "megváltjuk a világot".  
 Rengeteget emléket adnak ezek a programok, és ez már a miénk. A mi közös emlékünk.
@@ -196,11 +190,11 @@ Rengeteget emléket adnak ezek a programok, és ez már a miénk. A mi közös e
 ## Egyéb ünnepek
 
 
-Hetente több alkalommal is beszélünk, naprakészek vagyunk a másikból, és persze a születésnapok, névnapok, évfordulók, de még a Mikulás sincs soha elfelejtve. Azonban nem csinálunk belőle gondot, ha csak később tudjuk a másikat megszeretgetni. Mi úgy gondoljuk, nem ezen múlik a szeretet. 
+Hetente több alkalommal is beszélünk, naprakészek vagyunk a másikból, és persze a születésnapok, névnapok, évfordulók, de még a Mikulás sincs soha elfelejtve. Azonban nem csinálunk belőle gondot, ha csak később tudjuk a másikat megszeretgetni. Végső soron, nem ezen múlik a szeretet.
 
 Születésnapra torta az ajándék, és ezt mindig én készítem az ünnepeltnek.
 
-Névnapokról, és más nekünk fontos eseményről is megemlékezünk  -  ha másként nem sikerül - akkor telefonon. Ezekre az alkalmakra nem készülünk ajándékkal. Egy ölelés, egy jó kívánság szerintem sokkal többet ér.
+Névnapokról, és más nekünk fontos eseményről is megemlékezünk  -  ha másként nem sikerül - akkor telefonon. Ezekre az alkalmakra nem készülünk ajándékkal. Egy öleléssel, egy jó kívánsággal is kimutathatjuk szeretetünket..
 
 
 
