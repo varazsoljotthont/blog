@@ -104,13 +104,9 @@ Ember legyen a talpán, aki egyszerre tudja megvendégelni a szeretteit és az e
 
 ![karácsony](/assets/karácsony/IMG_20191203_083753.jpg)
 
-Családonként változik, hogy mi a lényeges és mi a kevésbé fontos:
+Családonként változik, hogy mi a lényeges és mi a kevésbé fontos.
 
-
-* van ahol a különleges, sokféle ételeket áldozzák fel a közösen eltöltött időért
-* van ahol pénzt áldoznak arra, hogy étterembe menjen a család, így mentesül a háziasszony a feladatok alól
-* van ahol időt, pénzt, energiát áldoznak az ünnepi ebédre, hisz' az is ajándék
-
+Van ahol a különleges, sokféle ételt áldozzák fel a közösen eltöltött időért, máshol pénzt áldoznak arra, hogy étterembe menjen a család, így mentesül a háziasszony a feladatok alól, és van olyan is ahol időt, pénzt, energiát áldoznak az ünnepi ebédre, hisz' az is ajándék.
 
 
 
