@@ -10,7 +10,7 @@ image:
   width: 300  
 ---
 
-**Karácsony! Olyan sok minden rejtőzik ebben a szóban! Benne van a várakozás, az izgalom, az ünnepi ebéd, a sok feladat, de benne van a család, a szeretet, az együtt töltött idő fontossága is. Miért ne szervezhetnénk úgy a karácsonyt, hogy legyen időnk az ajándékok mellé magunkat is odaadni? A közösen megélt pillanatokkal, jóízű nevetésekkel és nagy beszélgetésekkel tehetjük meghittebbé a karácsonyt**
+**Karácsony! Olyan sok minden rejtőzik ebben a szóban! Benne van a várakozás, az izgalom, az ünnepi ebéd, a sok feladat, de benne van a család, a szeretet, az együtt töltött idő fontossága is. Miért ne szervezhetnénk úgy a karácsonyt, hogy legyen időnk az ajándékok mellé magunkat is odaadni? Közösen megélt pillanatokkal, jóízű nevetésekkel és nagy beszélgetésekkel még meghittebbé tehetjük a karácsonyt**
 
 
 
