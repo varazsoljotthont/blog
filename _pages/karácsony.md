@@ -10,7 +10,7 @@ image:
   width: 300  
 ---
 
-**Karácsony! Olyan sok minden rejtőzik ebben a szóban! Benne van a várakozás, az izgalom, az ünnepi ebéd, a sok feladat, de benne van a család, a szeretet, az együtt töltött idő fontossága is. Miért ne szervezhetnénk úgy a karácsonyt, hogy legyen időnk az ajándékok mellé magunkat is odaadni? Közösen megélt pillanatokkal, jóízű nevetésekkel és nagy beszélgetésekkel még szebbé tehetjük a karácsonyt.**
+**Karácsony! Olyan sok minden rejtőzik ebben a szóban! Benne van a várakozás, az izgalom, az ünnepi ebéd, a sok feladat, de benne van a család, a szeretet, az együtt töltött idő fontossága is. Miért ne szervezhetnénk úgy a Karácsonyt, hogy legyen időnk az ajándékok mellé magunkat is odaadni? Közösen megélt pillanatokkal, jóízű nevetésekkel és nagy beszélgetésekkel még szebbé tehetjük a karácsonyt.**
 
 
 
@@ -36,14 +36,13 @@ A posztban az idei ünnepi dekorációinkat is megmutatom, és talán lesz még 
 ## Az én családom
 
 
-Azt tudjátok rólunk, hogy annak idején újrakezdőként vágtunk bele a "Miházunkba".  
-Mindketten túl a negyvenen, túl egy váláson kezdtük el közös életünket. Férjemnek nincs gyermeke, az én fiaim pedig felnőttként már a saját életüket élik. 
+Azt tudjátok rólunk, hogy annak idején újrakezdőként vágtunk bele a "Miházunkba". Mindketten túl a negyvenen, túl egy váláson kezdtük el közös életünket. Férjemnek nincs gyermeke, az én fiaim pedig felnőttként már a saját életüket élik. 
 
 ![karácsony](/assets/karácsony/IMG_20191130_121256.jpg)
 
 
 
-Nagyobbik fiam tőlünk 200 km-re él családjával, és nagy örömünkre már egy gyönyörű kisfiúval is megajándékoztak bennünket. A távolság miatt sajnos nem tudunk heti szinten találkozni, de havonta így is sikerül legalább 2 hétvégét összehozni. 
+A nagyobbik fiam tőlünk 200 km-re él a családjával, és nagy örömünkre már egy gyönyörű kisfiúval is megajándékoztak bennünket. A távolság miatt sajnos nem tudunk heti szinten találkozni, de havonta így is sikerül legalább 2 hétvégét összehozni. 
 Kisebbik gyermekem közel lakik hozzánk, így vele és párjával a kapcsolattartás sokkal egyszerűbb.
 
 ![karácsony](/assets/karácsony/IMG_20191207_143848j.jpg)
@@ -62,14 +61,14 @@ A fiaim önálló életéből adódik, hogy nem mindig akkor jön össze a csal�
 
 Szeretem ezt az ünnepet. Szeretem a karácsonyi a hangulatot és az együtt töltött időt. 
 
-> A ház különböző részein elhelyezett dekorációk fokozzák az ünnepi hangulatot úgy bennünk, mint a vendégeinkben. Ezért is olyan fontos számomra az otthonunk díszítése. 
+
 
 ![karácsony](/assets/karácsony/IMG_20191202_171333.jpg)
 
+> A ház különböző részein elhelyezett dekorációk fokozzák az ünnepi hangulatot úgy bennünk, mint a vendégeinkben. Ezért is olyan fontos számomra az otthonunk díszítése.
 
 
-
-Élvezzük, mikor "megjönnek a gyerekek" és pillanatok alatt belakják a házat. A fa alá csempészett ajándékok, a nyüzsgés, a felfordulás teszi számunkra igazán bensőséges élménnyé a karácsonyt. 
+Élvezzük, mikor "megjönnek a gyerekek" és pillanatok alatt belakják a házat. A fa alá csempészett ajándékok, a nyüzsgés, a felfordulás teszi számunkra igazán bensőséges ünneppé a karácsonyt. 
 
 
 ![karácsony](/assets/karácsony/IMG_20191127_073803.jpg)
@@ -93,10 +92,9 @@ Az elmúlt években volt már:
 * vicces póló, stb
 
 
-![karácsony](/assets/karácsony/IMG_20191130_135925.jpg)
 
-Jómagam nagyon szeretek élményt ajándékozni, így a családtagok idei ajándéka is ez lesz.  
-Bízom abban, hogy mindenkinek elnyeri  majd tetszését.
+
+![karácsony](/assets/karácsony/IMG_20191130_135925.jpg)
 
 
 **Ünnepi ebéd nálunk**
@@ -109,22 +107,19 @@ Ember legyen a talpán, aki egyszerre tudja megvendégelni a szeretteit és az e
 Családonként változik, hogy mi a lényeges és mi a kevésbé fontos:
 
 
-* van ahol az időt áldozzák be, mert a sok fogásos ebéd hozzá tartozik az ünnephez
+* van ahol a különleges, sokféle ételeket áldozzák fel a közösen eltöltött időért
 * van ahol pénzt áldoznak arra, hogy étterembe menjen a család, így mentesül a háziasszony a feladatok alól
 * van ahol időt, pénzt, energiát áldoznak az ünnepi ebédre, hisz' az is ajándék
 
 
 
 
-Persze nálunk sem megy ez egyszerűen. Mi a sok fogásos ebédet áldoztuk fel az együtt töltött időért.
-
-
-Családunkban van vegán étrendet követő, gluténérzékeny, hisztamin intoleranciás és hús kedvelő. Hogy mindenki olyan ételt kapjon, ami megfelelő a számára és én se legyek a konyha rabja, leegyszerűsítettem a dolgot.
+Persze nálunk sem megy ez könnyen. Családunkban van vegán étrendet követő, gluténérzékeny, hisztamin intoleranciás és hús kedvelő. Hogy mindenki olyan ételt kapjon, ami megfelelő a számára és én se legyek a konyha rabja, leegyszerűsítettem a dolgot.
 
 ![karácsony](/assets/karácsony/IMG_20191128_072314.jpg)
 
 
-A közös ebédeknél első fogásként általában krémlevest főzök. Ezt mindenki szereti, és minden kritériumnak megfelel.  Ha kell, már előző nap el tudom készíteni, és az ebéd napján már csak a növényi tejszínnel sűrítem. Ebben a formában mindenkinek jó, és én is időt takarítok meg.
+A közös ebédeknél első fogásként általában krémlevest főzök. Ezt mindenki szereti, és minden kritériumnak megfelel. Ha kell, már előző nap el tudom készíteni, és az ebéd napján már csak a növényi tejszínnel sűrítem. Ebben a formában mindenkinek jó, és én is időt takarítok meg.
 
 Második fogásnak sem készítek bonyolult ételeket.
 Vegán ételnek talán a rakott zöldség a leggyorsabb. Csak a fantáziánkon múlik mit használunk fel hozzá, és ha ügyesen választom ki a zöldséget, akkor a hisztamin sem jelent gondot.
