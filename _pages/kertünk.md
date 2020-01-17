@@ -17,14 +17,13 @@ image:
 ## Legyen szép környezetünk
 
 
-Utazás közben előszeretettel nézegetem az utamba eső kiskerteket, udvarokat, a ház előtti részeket. Egyre többször ámulok el azon, hogy mennyire szép amit látok, de aztán előfordul az is, hogy rácsodálkozom, mennyire sivár a ház körüli rész. 
-A kertészkedés nem csak a környezetünben, bennünk is látványos változást hoz. A friss levegőn elvégzett munka, a széppé tett kert felett érzett öröm, a lelkünkre is jó hatással van.
+Utazás közben előszeretettel nézegetem az utamba eső kiskerteket, udvarokat, a ház előtti részeket. Egyre többször ámulok el azon, hogy mennyire szép amit látok, aztán kicsit később rácsodálkozom, mennyire sivár egy-egy ház körüli rész. A különbség leírhatatlan, pedig nem kell ahhoz kertésznek lenni, hogy a "külsőkörlet" is rendezett legyen. 
 
 
 
 ## Minden kezdet nehéz
 
-Ha választanom kellene a számomra legkedvesebb téli dekorációk közül, egyértelműen a kültéri fények nyernének. A hangulat, melyet az apró fények összesége idéz elő, számomra a csodával határosak.  
+A "Miházunk" 
 
 ![karácsony](/assets/advent/IMG_20191115_193748.jpg)
 
@@ -184,7 +183,8 @@ Szigorúan kint, a teraszon tartjuk a szomszédokkal, barátokkal. Beszélgetün
 Ugye, milyen sok lehetőséget rejt a tél?  Csak rajtunk múlik, hogy mennyire tesszük szerethetővé.
 
 **+ 1 gondolat:**   
-Ha nem tudsz változtatni a körülményeken, változtass a hozzáállásodon - tartja a bölcs mondás, és én teljesen egyetértek vele. Akkor is lesz tél és hideg, ha nem látjuk szívesen. Vegyük hát észre a sok szépséget, amit ez az évszak képes adni nekünk, és máris jobb színben látjuk a világot. 
+A kertészkedés nem csak a környezetünben, bennünk is látványos változást hoz. A friss levegőn elvégzett munka, a széppé tett kert felett érzett öröm, a lelkünkre is jó hatással van.
+
 
 
 Ha tetszett, kedveld a <a href="https://www.facebook.com/Var%C3%A1zsolj-otthont-360330751226066/" target="_blank">Facebook</a> oldalt, itt még több érdekességet találsz a mindennapok varázslataiból.
