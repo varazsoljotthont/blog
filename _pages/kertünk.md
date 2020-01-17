@@ -12,13 +12,13 @@ image:
 
 
 
-**A kertvárosi, vidéki, falusi házakhoz szinte minden esetben tartozik egy kisebb vagy nagyobb kert. Hogy ez konyha ill. díszkert lesz-e az a házigazdán éppannyira múlik, mint a telek adottságain. Odafigyeléssel, törődéssel, és persze gondos munkával egy kopár területet is  édenné lehet varázsolni.**
+**A kertvárosi, vidéki, falusi házakhoz szinte minden esetben tartozik kisebb vagy nagyobb kertrész. Hogy ez konyha ill. díszkert lesz-e, az a házigazdán éppannyira múlik, mint a telek adottságain. Odafigyeléssel, törődéssel, és persze gondos munkával egy kopár területet is édenné lehet varázsolni.**
 
 ## Legyen szép környezetünk
 
 
-Utazás közben előszeretettel nézegetem az utamba eső kiskerteket, udvarokat, a ház előtti részeket. Néha elámulok azon, hogy mennyire szép amit látok, de aztán előfordul az is, hogy rácsodálkozom, mennyire sivár a ház körüli rész. 
-A kertészkedés nem csak a környezetünben, hanem a bennünk is látványos változást okoz. A friss levegőn elvégzett munka, a széppé tett kert felett érzett öröm, a lelkünkre is jó hatással van.
+Utazás közben előszeretettel nézegetem az utamba eső kiskerteket, udvarokat, a ház előtti részeket. Egyre többször ámulok el azon, hogy mennyire szép amit látok, de aztán előfordul az is, hogy rácsodálkozom, mennyire sivár a ház körüli rész. 
+A kertészkedés nem csak a környezetünben, bennünk is látványos változást hoz. A friss levegőn elvégzett munka, a széppé tett kert felett érzett öröm, a lelkünkre is jó hatással van.
 
 
 
