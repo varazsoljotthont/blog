@@ -1,26 +1,28 @@
 ---
 layout: post
 title: "Kreatív advent, avagy legyen stílusa a télnek "
-permalink: /advent/
-cover: /assets/advent/ablak.jpg
+permalink: /kertünk/
+cover: /assets/kertünk/ablak.jpg
 categories: [kert, dekor]
 image:
-  path: /assets/advent/ablak.jpg
+  path: /assets/kertünkt/ablak.jpg
   height: 300
   width: 300
 ---
 
 
 
-**Szeretem a telet... És legalább ennyire szeretem a készülődést a karácsonyra. Az advent időszaka épp erről a várakozásról szól. Öltöztessük hát díszbe a környezetünket, hogy méltón fogadjuk a legszebb ünnepet! Azt hiszem, ebben az esetben is igaz a mondás, miszerint az út épp olyan fontos, mint a cél maga.**
+**A kertvárosi, vidéki, falusi házakhoz szinte minden esetben tartozik egy kisebb vagy nagyobb kert. Hogy ez konyha ill. díszkert lesz-e az a házigazdán éppannyira múlik, mint a telek adottságain. Odafigyeléssel, törődéssel, és persze gondos munkával egy kopár területet is  édenné lehet varázsolni.**
 
-## Hangolódjunk a télre!
+## Legyen szép környezetünk
 
 
-Az október végi óraátállítással egyidőben jelentkezik bennem az igény a fényre, a bensőséges hangulatra.  
-Ezért is kedves számomra a november végén kezdődő advent, hisz' ebben a pár hétben megszelídíthetjük a tél komorságát a szebbnél szebb dekorációkkal.
+Utazás közben előszeretettel nézegetem az utamba eső kiskerteket, udvarokat, a ház előtti részeket. Néha elámulok azon, hogy mennyire szép amit látok, de aztán előfordul az is, hogy rácsodálkozom, mennyire sivár a ház körüli rész. 
+A kertészkedés nem csak a környezetünben, hanem a bennünk is látványos változást okoz. A friss levegőn elvégzett munka, a széppé tett kert felett érzett öröm, a lelkünkre is jó hatással van.
 
-**Fények az udvaron**
+
+
+## Minden kezdet nehéz
 
 Ha választanom kellene a számomra legkedvesebb téli dekorációk közül, egyértelműen a kültéri fények nyernének. A hangulat, melyet az apró fények összesége idéz elő, számomra a csodával határosak.  
 
