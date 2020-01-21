@@ -22,16 +22,20 @@ Utazás közben előszeretettel nézegetem az utamba eső kiskerteket, udvarokat
 
 ## Minden kezdet nehéz
 
-A "Miházunk" 
+A "Miházunk" nagyon rossz minőségű, hol agyagos, hol nagyon kavicsos, hol pedig törmelékkel feltöltött telken áll. Se az udvaron, se a kertben nem megfelelő a termőréteg vastagsága. 
+Az Uradalomban nem volt más csak lucerna és tarack. Egyik sem  töltött el örömmel bennünket...
+Eleinte voltak próbálkozásaink zöldségekkel, konyhakerti növényekkel, de be kellett látnunk, hogy ezen a talajon nem leszünk sikeresek.
+A kavicsos részen hiába öntöztünk, szinte azonnal elszivárgott a víz, az agyagos terület pedig nagyon kötött, ami szintén nem szerencsés a növényeknek.
+![virág](/assets/kertunk/IMG_20190416_162036.jpg)
 
-![karácsony](/assets/advent/IMG_20191115_193748.jpg)
+**Ültessünk fát**
 
-Nincs túl sok fényfüzérünk.
-A teraszunk pillérei között, a járdán két cserepes tujánkon és egy raklapból készített fenyőfán van csak karácsonyi világítás.
 
-Hogy ez sok vagy kevés ízlés dolga, én próbáltam ebben is mértéket tartani. Tudjátok, a kevesebb néha több.
 
-Semmiképpen nem akartam keverni a hideg-meleg árnyalatokat, ezért hogy egységessé váljon az udvar, mindenhova hideg fehér színűt választottam. Nekem ez adja vissza leginkább az évszakhoz illő jeges hangulatot.
+Az első év őszén értünk el addig, hogy kertre is jutott az energiánkból. 
+
+
+
 
 ## Koszorúk, kopogtatók és más csecse-becsék
 
