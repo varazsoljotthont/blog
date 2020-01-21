@@ -17,8 +17,7 @@ image:
 ## Legyen szép környezetünk
 
 
-Utazás közben előszeretettel nézegetem az utamba eső kiskerteket, udvarokat, a ház előtti részeket. Egyre többször ámulok el azon, hogy mennyire szép amit látok, aztán kicsit később rácsodálkozom, mennyire sivár egy-egy ház körüli rész. A különbség leírhatatlan, pedig nem kell ahhoz kertésznek lenni, hogy a "külsőkörlet" is rendezett legyen. 
-
+Utazás közben előszeretettel nézegetem az utamba eső kiskerteket, udvarokat, a ház előtti részeket. Mindig  csodálattal tölt el, hogy egy jól megválasztott fa, egy cserje, vagy épp egy virágoskert mennyi pluszt tud hozzá tenni a házak arculatához. A természet zöldje, a virágok élénk színei nemcsak az otthonunkra, hanem ránk is jó hatással van.
 
 
 ## Minden kezdet nehéz
