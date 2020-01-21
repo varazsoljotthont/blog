@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Kreatív advent, avagy legyen stílusa a télnek "
+title: "Kertépítés házilag"
 permalink: /kertünk/
 cover: /assets/kertünk/ablak.jpg
 categories: [kert, dekor]
