@@ -20,13 +20,15 @@ image:
 Utazás közben előszeretettel nézegetem az utamba eső kiskerteket, udvarokat, a ház előtti részeket. Mindig  csodálattal tölt el, hogy egy jól megválasztott fa, egy cserje, vagy épp egy virágoskert mennyi pluszt tud hozzá tenni a házak arculatához. A természet zöldje, a virágok élénk színei nemcsak az otthonunkra, hanem ránk is jó hatással van.
 
 
+![virág](/assets/kertunk/IMG_20190416_162036.jpg)
+
 ## Minden kezdet nehéz
 
 A "Miházunk" nagyon rossz minőségű, hol agyagos, hol nagyon kavicsos, hol pedig törmelékkel feltöltött telken áll. Se az udvaron, se a kertben nem megfelelő a termőréteg vastagsága. 
 Az Uradalomban nem volt más csak lucerna és tarack. Egyik sem  töltött el örömmel bennünket...
 Eleinte voltak próbálkozásaink zöldségekkel, konyhakerti növényekkel, de be kellett látnunk, hogy ezen a talajon nem leszünk sikeresek.
 A kavicsos részen hiába öntöztünk, szinte azonnal elszivárgott a víz, az agyagos terület pedig nagyon kötött, ami szintén nem szerencsés a növényeknek.
-![virág](/assets/kertunk/IMG_20190416_162036.jpg)
+
 
 **Ültessünk fát**
 
