@@ -20,7 +20,7 @@ image:
 Utazás közben előszeretettel nézegetem az utamba eső kiskerteket, udvarokat, a ház előtti részeket. Mindig  csodálattal tölt el, hogy egy jól megválasztott fa, egy cserje, vagy épp egy virágoskert mennyi pluszt tud hozzá tenni a házak arculatához. A természet zöldje, a virágok élénk színei nemcsak az otthonunkra, hanem ránk is jó hatással van.
 
 
-![virág](/assets/kertunk/IMG_20190416_162036.jpg)
+![virág](/assets/kertunk/idezet.jpg)
 
 ## Minden kezdet nehéz
 
