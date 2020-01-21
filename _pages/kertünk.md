@@ -12,7 +12,7 @@ image:
 
 
 
-**A kertvárosi, vidéki, falusi házakhoz szinte minden esetben tartozik kisebb vagy nagyobb kertrész. Hogy ez konyha ill. díszkert lesz-e, az a házigazdán éppannyira múlik, mint a telek adottságain. Odafigyeléssel, törődéssel, és persze gondos munkával egy kopár területet is édenné lehet varázsolni.**
+**A kertvárosi, vidéki, falusi házakhoz elengedhetetlen a kisebb vagy nagyobb kertrész. Hogy ez konyha ill. díszkert lesz-e, az a házigazdán éppannyira múlik, mint a telek adottságain. Odafigyeléssel, törődéssel, és persze gondos munkával egy kopár területet is édenné lehet varázsolni.**
 
 ## Legyen szép környezetünk
 
