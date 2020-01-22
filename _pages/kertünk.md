@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Kertépítés házilag"
+title: "Kerttervezés, kertépítés házilag"
 permalink: /kertünk/
 cover: /assets/kertünk/ablak.jpg
 categories: [kert, dekor]
@@ -58,22 +58,15 @@ A kavicsos részen hiába öntöztünk, szinte azonnal elszivárgott a víz, az 
 
 
 
-
-
-
-
-
-
-
 **Ültessünk fát**
 
 Az első év őszén értünk el addig, hogy kertre is jutott az energiánkból.  
 
 
+![virág](/assets/kertunk/DSCF2646.jpg)
 
 
-
-
+![virág](/assets/kertunk/DSCF3192.jpg)
 
 ## Koszorúk, kopogtatók és más csecse-becsék
 
