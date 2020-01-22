@@ -60,19 +60,23 @@ A kavicsos részen hiába öntöztünk, szinte azonnal elszivárgott a víz, az 
 
 
 
-**Ültessünk fát**
+**Szép, szép, de nem az igazi**
 
 A ház vásárlás után egy évvel jutottunk el addig, hogy kertre is jutott az energiánkból.  
 
-> Tapasztalat: bevallom, akkoriban nem gondoltam át alaposan, hogy mit is akarok kezdeni az üres területtel. Ez sajnos vissza is ütött, hisz rövid idő alatt teljesen mást gondoltam, és ez a "kis" módostás plusz munkát, és a növények áttelepítését eredményezte.
-Szóval, a tervezés fontos!
+
+
+
+
+Elsőként az volt a koncepció, hogy legyen parkszerű a kert. Pár díszfa, virágzó bokor, a kerítés elé pedig pampafű. Elméletben ez nagyon szépnek tűnt, de már röviddel az ültetés után látszott, hogy nem egészen olyan lett, mint képzeltem.
+Hiába voltak szépek a vásárolt fák, cserjék, a tarackos, lucernás alap miatt nem érvényesültek, a "fűnyírást" viszont megnehezítették, hisz' kerülgetni kellett őket.
 
 ![virág](/assets/kertunk/DSCF2646.JPG)
 _Itt még csak néhány bokor és fa van az Uradalomban_
 
 
-Elsőként az volt a koncepció, hogy legyen parkszerű a kert. Pár díszfa, virágzó bokor, a kerítés elé pedig pampafű. Elméletben ez nagyon szépnek tűnt, de már röviddel az ültetés után látszott, hogy nem egészen olyan lett, mint képzeltem.
-Hiába voltak szépek a vásárolt fák, cserjék, a tarackos, lucernás alap miatt nem érvényesültek, a "fűnyírást" viszont megnehezítették, hisz' kerülgetni kellett őket.
+> Tapasztalat: bevallom, akkoriban nem gondoltam át alaposan, hogy mit is akarok kezdeni az üres területtel. Ez sajnos vissza is ütött, hisz rövid idő alatt teljesen mást gondoltam, és ez a "kis" módostás plusz munkát, és a növények áttelepítését eredményezte.
+Szóval, a tervezés fontos!
 
 **Télen is legyen zöld**
 
