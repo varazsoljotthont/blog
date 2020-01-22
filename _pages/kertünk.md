@@ -31,7 +31,20 @@ A kavicsos részen hiába öntöztünk, szinte azonnal elszivárgott a víz, az 
 
 ## A tervezés fontossága
 
-Az, hogy milyen legyen a kert
+Időt, pénzt, energiát spórolunk ha körültekintően végig járjuk a kerttervezés témáját.
+Ahhoz, hogy szép és számunkra megfelelő legyen sok mindent figyelembe kell venni.
+
+Szem előtt kell tartani:
+
+* a telek méretét
+* a telek tájolását
+* a talaj milyenségét
+* a ráfordított időt
+* a kerti munka mennyiségét
+* a házunk stílusát
+* a vágyott kert stílusát
+
+A kertek arculata nagyon sok féle lehet. Van romantikus, természetközeli, parkszerű, mértani, stb. Különböző növények illenek a különböző kertekhez, és eltérő az elvégzendő munka milyensége, menyisége is
 
 
 
