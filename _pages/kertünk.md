@@ -20,7 +20,7 @@ image:
 Utazás közben előszeretettel nézegetem az utamba eső kiskerteket, udvarokat, a ház előtti részeket. Mindig  csodálattal tölt el, hogy egy jól megválasztott fa, egy cserje, vagy épp egy virágoskert mennyi pluszt tud hozzá tenni a házak arculatához. A természet zöldje, a virágok élénk színei nemcsak az otthonunkra, hanem ránk is jó hatással van.
 
 
-![virág](/assets/kertunk/idezet.jpg)
+![virág](/assets/kertunk/idézet.jpg)
 
 ## A tervezés fontossága
 
@@ -37,9 +37,12 @@ Szem előtt kell tartani:
 * a házunk stílusát
 * a vágyott kert stílusát
 
+![virág](/assets/kertunk/IMG_20190520_174725.jpg)
+
+
 A kertek arculata nagyon sok féle lehet. Van romantikus, természetközeli, parkszerű, mértani, stb. Különböző növények illenek a különböző kertekhez, és eltérő az elvégzendő munka milyensége, menyisége is.
 
-Megtérül az az idő amit azzal töltünk, hogy megálmodjuk a kertünket. Sok bosszúságtól kímáljük meg magunkat, ha az azonnali ásás helyett, kicsit körbejárjuk a témát.
+Megtérül az az idő amit azzal töltünk, hogy megálmodjuk a kertünket. Sok bosszúságtól kíméljük meg magunkat, ha az azonnali ásás helyett, kicsit körbejárjuk a témát.
 
 
 
