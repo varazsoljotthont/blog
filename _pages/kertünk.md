@@ -63,10 +63,10 @@ A kavicsos részen hiába öntöztünk, szinte azonnal elszivárgott a víz, az 
 Az első év őszén értünk el addig, hogy kertre is jutott az energiánkból.  
 
 
-![virág](/assets/kertunk/DSCF2646.jpg)
+![virág](/assets/kertunk/DSCF2646.JPG)
 
 
-![virág](/assets/kertunk/DSCF3192.jpg)
+![virág](/assets/kertunk/DSCF3192.JPG)
 
 ## Koszorúk, kopogtatók és más csecse-becsék
 
