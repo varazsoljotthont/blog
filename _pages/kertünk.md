@@ -61,7 +61,10 @@ A kavicsos részen hiába öntöztünk, szinte azonnal elszivárgott a víz, az 
 
 **Ültessünk fát**
 
-Az első év őszén értünk el addig, hogy kertre is jutott az energiánkból.  
+A ház vásárlás után egy évvel jutottunk el addig, hogy kertre is jutott az energiánkból.  
+
+> Tapasztalat: bevallom, hogy akkoriban még nem terveztem meg előre, hogy mit is akarok kezdeni az üres területtel. Ez sajnos vissza is ütött, hisz rövid idő alatt teljesen mást gondoltam, és ez a "kis" módostás plusz munkákat, és a növények áttelepítését eredményezte.
+Ma már én is tudatosan állok neki egy-egy szűz terület beültetésének. Szóval, a tervezés fontos!
 
 
 ![virág](/assets/kertunk/DSCF2646.JPG)
