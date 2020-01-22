@@ -71,7 +71,7 @@ Szóval, a tervezés fontos!
 _Itt még csak néhány bokor és fa van az Uradalomban_
 
 
-Elsőként az volt a koncepció, hogy legyen parkszerű a kert. Pár díszfa, virágzó bokor, a kerítés elé pedig pampafű. Elméletben ez nagyon szépnek tűnt, de már röviddel az ültetés után látszott, hogy nem egézsen olyan lett, mint képzeltem.
+Elsőként az volt a koncepció, hogy legyen parkszerű a kert. Pár díszfa, virágzó bokor, a kerítés elé pedig pampafű. Elméletben ez nagyon szépnek tűnt, de már röviddel az ültetés után látszott, hogy nem egészen olyan lett, mint képzeltem.
 Hiába voltak szépek a vásárolt fák, cserjék, a tarackos, lucernás alap miatt nem érvényesültek, a "fűnyírást" viszont megnehezítették, hisz' kerülgetni kellett őket.
 
 **Télen is legyen zöld**
