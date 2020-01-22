@@ -38,6 +38,7 @@ Szem előtt kell tartani:
 * a vágyott kert stílusát
 
 ![virág](/assets/kertunk/IMG_20190520_174725.jpg)
+_Örökzöld, cserje, évelő egy képen_
 
 
 A kertek arculata nagyon sok féle lehet. Van romantikus, természetközeli, parkszerű, mértani, stb. Különböző növények illenek a különböző kertekhez, és eltérő az elvégzendő munka milyensége, menyisége is.
@@ -64,9 +65,11 @@ Az első év őszén értünk el addig, hogy kertre is jutott az energiánkból.
 
 
 ![virág](/assets/kertunk/DSCF2646.JPG)
+_Itt még csak néhány bokor és fa van az Uradalomban_
 
 
 ![virág](/assets/kertunk/DSCF3192.JPG)
+_Az örökzöld babérmeggy nagyon jó választás volt_
 
 ## Koszorúk, kopogtatók és más csecse-becsék
 
