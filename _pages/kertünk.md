@@ -22,13 +22,6 @@ Utazás közben előszeretettel nézegetem az utamba eső kiskerteket, udvarokat
 
 ![virág](/assets/kertunk/idezet.jpg)
 
-## Minden kezdet nehéz
-
-A "Miházunk" nagyon rossz minőségű, hol agyagos, hol nagyon kavicsos, hol pedig törmelékkel feltöltött telken áll. Se az udvaron, se a kertben nem megfelelő a termőréteg vastagsága. 
-Az Uradalomban nem volt más csak lucerna és tarack. Egyik sem  töltött el örömmel bennünket...
-Eleinte voltak próbálkozásaink zöldségekkel, konyhakerti növényekkel, de be kellett látnunk, hogy ezen a talajon nem leszünk sikeresek.
-A kavicsos részen hiába öntöztünk, szinte azonnal elszivárgott a víz, az agyagos terület pedig nagyon kötött, ami szintén nem szerencsés a növényeknek.
-
 ## A tervezés fontossága
 
 Időt, pénzt, energiát spórolunk ha körültekintően végig járjuk a kerttervezés témáját.
@@ -44,7 +37,26 @@ Szem előtt kell tartani:
 * a házunk stílusát
 * a vágyott kert stílusát
 
-A kertek arculata nagyon sok féle lehet. Van romantikus, természetközeli, parkszerű, mértani, stb. Különböző növények illenek a különböző kertekhez, és eltérő az elvégzendő munka milyensége, menyisége is
+A kertek arculata nagyon sok féle lehet. Van romantikus, természetközeli, parkszerű, mértani, stb. Különböző növények illenek a különböző kertekhez, és eltérő az elvégzendő munka milyensége, menyisége is.
+
+Megtérül az az idő amit azzal töltünk, hogy megálmodjuk a kertünket. Sok bosszúságtól kímáljük meg magunkat, ha az azonnali ásás helyett, kicsit körbejárjuk a témát.
+
+
+
+
+
+
+## Minden kezdet nehéz
+
+A "Miházunk" nagyon rossz minőségű, hol agyagos, hol nagyon kavicsos, hol pedig törmelékkel feltöltött telken áll. Se az udvaron, se a kertben nem megfelelő a termőréteg vastagsága. 
+Az Uradalomban nem volt más csak lucerna és tarack. Egyik sem  töltött el örömmel bennünket...
+Eleinte voltak próbálkozásaink zöldségekkel, konyhakerti növényekkel, de be kellett látnunk, hogy ezen a talajon nem leszünk sikeresek.
+A kavicsos részen hiába öntöztünk, szinte azonnal elszivárgott a víz, az agyagos terület pedig nagyon kötött, ami szintén nem szerencsés a növényeknek.
+
+
+
+
+
 
 
 
