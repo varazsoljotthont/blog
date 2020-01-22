@@ -29,12 +29,20 @@ Az Uradalomban nem volt más csak lucerna és tarack. Egyik sem  töltött el ö
 Eleinte voltak próbálkozásaink zöldségekkel, konyhakerti növényekkel, de be kellett látnunk, hogy ezen a talajon nem leszünk sikeresek.
 A kavicsos részen hiába öntöztünk, szinte azonnal elszivárgott a víz, az agyagos terület pedig nagyon kötött, ami szintén nem szerencsés a növényeknek.
 
+## A tervezés fontossága
+
+Az, hogy milyen legyen a kert
+
+
+
+
 
 **Ültessünk fát**
 
+Az első év őszén értünk el addig, hogy kertre is jutott az energiánkból.  
 
 
-Az első év őszén értünk el addig, hogy kertre is jutott az energiánkból. 
+
 
 
 
