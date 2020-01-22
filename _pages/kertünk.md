@@ -17,7 +17,7 @@ image:
 ## Legyen szép környezetünk
 
 
-Utazás közben előszeretettel nézegetem az utamba eső kiskerteket, udvarokat, a ház előtti részeket. Mindig  csodálattal tölt el, hogy egy jól megválasztott fa, egy cserje, vagy épp egy virágoskert mennyi pluszt tud hozzá tenni a házak arculatához. A természet zöldje, a virágok élénk színei nemcsak az otthonunkra, hanem ránk is jó hatással van.
+Utazás közben előszeretettel nézegetem az utamba eső kiskerteket, udvarokat, a ház előtti részeket. Mindig  csodálattal tölt el, hogy egy jól megválasztott fa, egy cserje, vagy épp egy virágoskert mennyi pluszt tud hozzá tenni a házak arculatához. A természet zöldje, a virágok élénk színei nemcsak az otthonunkra, hanem ránk is jó hatással vannak.
 
 
 ![virág](/assets/kertunk/idézet.jpg)
@@ -65,7 +65,6 @@ A kavicsos részen hiába öntöztünk, szinte azonnal elszivárgott a víz, az 
 A ház vásárlás után egy évvel jutottunk el addig, hogy kertre is jutott az energiánkból.  
 
 > Tapasztalat: bevallom, akkoriban nem gondoltam át alaposan, hogy mit is akarok kezdeni az üres területtel. Ez sajnos vissza is ütött, hisz rövid idő alatt teljesen mást gondoltam, és ez a "kis" módostás plusz munkát, és a növények áttelepítését eredményezte.
-Ma már én is tudatosan állok neki egy-egy szűz terület beültetésének. 
 Szóval, a tervezés fontos!
 
 ![virág](/assets/kertunk/DSCF2646.JPG)
