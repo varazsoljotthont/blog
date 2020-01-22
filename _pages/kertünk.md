@@ -25,7 +25,7 @@ Utazás közben előszeretettel nézegetem az utamba eső kiskerteket, udvarokat
 ## A tervezés fontossága
 
 Időt, pénzt, energiát spórolunk ha körültekintően végig járjuk a kerttervezés témáját.
-Ahhoz, hogy szép és számunkra megfelelő legyen sok mindent figyelembe kell venni.
+Ahhoz, hogy számunkra megfelelő, és még szép is legyen sok mindent figyelembe kell venni.
 
 Szem előtt kell tartani:
 
@@ -36,6 +36,8 @@ Szem előtt kell tartani:
 * a kerti munka mennyiségét
 * a házunk stílusát
 * a vágyott kert stílusát
+* a tervezett növények igényeit, méreteit
+
 
 ![virág](/assets/kertunk/IMG_20190520_174725.jpg)
 _Örökzöld, cserje, évelő egy képen_
@@ -63,13 +65,18 @@ A kavicsos részen hiába öntöztünk, szinte azonnal elszivárgott a víz, az 
 
 A ház vásárlás után egy évvel jutottunk el addig, hogy kertre is jutott az energiánkból.  
 
-> Tapasztalat: bevallom, hogy akkoriban még nem terveztem meg előre, hogy mit is akarok kezdeni az üres területtel. Ez sajnos vissza is ütött, hisz rövid idő alatt teljesen mást gondoltam, és ez a "kis" módostás plusz munkákat, és a növények áttelepítését eredményezte.
-Ma már én is tudatosan állok neki egy-egy szűz terület beültetésének. Szóval, a tervezés fontos!
-
+> Tapasztalat: bevallom, akkoriban nem gondoltam át alaposan, hogy mit is akarok kezdeni az üres területtel. Ez sajnos vissza is ütött, hisz rövid idő alatt teljesen mást gondoltam, és ez a "kis" módostás plusz munkákat, és a növények áttelepítését eredményezte.
+Ma már én is tudatosan állok neki egy-egy szűz terület beültetésének. 
+Szóval, a tervezés fontos!
 
 ![virág](/assets/kertunk/DSCF2646.JPG)
 _Itt még csak néhány bokor és fa van az Uradalomban_
 
+
+Első ötletként az volt a koncepció, hogy legyen parkszerű a kert. Pár díszfa, virágzó bokor, a kerítés elé pedig pampafű. Elméletben ez nagyon szépnek is tűnt, de már röviddel az ültetés után látszott, hogy nem egézsen olyan lett, mint képzeltem.
+Hiába voltak szépek a vásárolt fák, cserjék, a tarackos, lucernás "alap" miatt nem érvényesültek, a "fűnyírást" viszont megnehezítették, hisz' kerülgetni kellett őket.
+
+**Télen is zöld**
 
 ![virág](/assets/kertunk/DSCF3192.JPG)
 _Az örökzöld babérmeggy nagyon jó választás volt_
