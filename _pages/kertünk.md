@@ -71,7 +71,7 @@ A ház vásárlás után egy évvel jutottunk el addig, hogy kertre is jutott az
 
 
 Elsőként az volt a koncepció, hogy legyen parkszerű a kert. Pár díszfa, virágzó bokor, a kerítés elé pedig pampafű. Elméletben ez nagyon szépnek tűnt, de már röviddel az ültetés után látszott, hogy nem egészen olyan lett, mint képzeltem.
-Hiába voltak szépek a vásárolt fák, cserjék, a tarackos, lucernás alap miatt nem érvényesültek, a "fűnyírást" viszont megnehezítették, hisz' kerülgetni kellett őket.
+Hiába voltak szépek a vásárolt fák, cserjék, a tarackos, lucernás alap miatt nem érvényesültek. A "fűnyírást" viszont megnehezítették, hisz' kerülgetni kellett őket.
 
 ![virág](/assets/kertunk/DSCF2646.JPG)
 _Itt még csak néhány bokor és fa van az Uradalomban_
