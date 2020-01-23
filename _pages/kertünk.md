@@ -95,8 +95,7 @@ _Az örökzöld babérmeggy nagyon jó választás volt_
 ![virág](/assets/kertunk/IMG_4412.jpg)
 _Télen is mutatósak a nagy, fényes levelek_
 
-![virág](/assets/kertunk/IMG_20190731_054020.jpg)
-_A kis ajtót japán lonccal futtattam be_
+
 
 ![virág](/assets/kertunk/IMG_20190805_202956.jpg)
 _A kis ajtót japán lonccal futtattam be_
