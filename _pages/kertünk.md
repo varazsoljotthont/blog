@@ -149,7 +149,7 @@ _Megbújik a virágok között a kertirom_
 Tavasztól őszig gyakran használjuk a [kiülő](/2019-05-29/kiülő)t is. Sütögetéshez, baráti beszélgetéskhez ideális, a rusztikussága révén a kertben is jól mutat.
 
 ![virág](/assets/kertunk/IMG_20190523_155418.jpg)
-_A kiülő madártávlatból _
+_A kiülő madártávlatból_
 
 
 
