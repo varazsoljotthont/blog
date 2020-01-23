@@ -100,6 +100,33 @@ _Télen is mutatósak a nagy, fényes levelek_
 ![virág](/assets/kertunk/IMG_20190805_202956.jpg)
 _A kis ajtót japán lonccal futtattam be_
 
+
+## Újra tervezés
+
+Mivel az első ötletem, a park-szerű kert nem nyerte el a tetszésemet, tovább kellett gondolnom a kert tervezését.  
+Egy tél elég volt arra, hogy beleássam magam a témába, és már meg tudtam fogalmazni, hogy mit is szeretnék.
+
+A házunk vidéki jellege meghatározta a kert stílusát is. 
+Vidékies, az angol kertekre hasonlító, buja díszkertet álmodtam meg, sok-sok évelő virággal, kis kerti utakkal, természetes ágyásokkal.
+Csupa hagyományos, a régi falusi házaknál is megtalálható virágot terveztem bele. Így lett színes, tavasztól őszig folyamatosan virágzó
+falusi virágos kertünk.
+
+**Lucerna helyett virágágyás
+
+
+
+
+
+
+
+
+
+
+## Építmények a kertben
+
+Ahol kert van, ott szükség van 
+
+
 **+ 1 gondolat:**   
 A kertészkedés nem csak a környezetünben, bennünk is látványos változást hoz. A friss levegőn elvégzett munka, a széppé tett kert felett érzett öröm, a lelkünkre is jó hatással van.
 
