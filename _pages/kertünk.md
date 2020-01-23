@@ -111,7 +111,7 @@ Vidékies, az angol kertekre hasonlító, buja díszkertet álmodtam meg, sok-so
 Csupa hagyományos, a régi falusi házaknál is megtalálható virágot terveztem bele. Így lett színes, tavasztól őszig folyamatosan virágzó
 falusi virágos kertünk.
 
-**Lucerna helyett virágágyás
+**Lucerna helyett virágágyás**
 
 
 
