@@ -117,7 +117,7 @@ A kert átalakítása nem volt egyszerű feladat.
 
 
 Január végén az időjárás lehetővé tette, hogy neki kezdjünk felásni a kertet. A férjemnek jutott ez a megtiszteltetés, én pedig a felforgatott hantokat másztam végig, és szedtem ki a föld közül a gyomokat. 
-Nem tudnám megmondani, hányat fordultam a gazzal megrakott talicskával mire valahogy kinézett a terület.
+Nem tudnám megmondani hányat fordultam a gazzal megrakott talicskával, mire valahogy kinézett a terület.
 
 ![virág](/assets/kertunk/DSCF3087.JPG)
 _A lucernát, a gyomokat ki kellett szedni a talajból_
