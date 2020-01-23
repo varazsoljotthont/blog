@@ -124,7 +124,34 @@ falusi virágos kertünk.
 
 ## Építmények a kertben
 
-Ahol kert van, ott szükség van 
+Az Uradalom területe elég nagy ahhoz, hogy elférjenek a különböző épületek.
+
+
+![virág](/assets/kertunk/cover2.jpg)
+
+
+
+Ahol kert van, ott szükség van [szerszámtároló](/2019-08-18/szerszamtarolo)ra is. És ha már építünk, miért ne lehetne ez is a kert stílusához passzoló? 
+
+
+
+
+
+
+![virág](/assets/kertunk/IMG_20190817_190539j.jpg)
+_Itt elfér minden, ami fontos_
+
+A kertiromot [kertirom](/2019-09-12/kertirom)ot egy fajta búvóhelynek építettük. Tökéletesen illeszkedik az Uradalom hangulatához, és ahogy az idő hozzá teszi a magáét, egyre romantikusabb.
+
+![virág](/assets/kertunk/IMG_20190625_080138.jpg)
+_Megbújik a virágok között a kertirom_
+
+Tavasztól őszig gyakran használjuk a [kiülőt](/2019-05-29/kiülő)t is. Sütögetéshez, baráti beszélgetéskhez ideális, a rusztikussága révén a kertben is jól mutat.
+
+![virág](/assets/kertunk/IMG_20190523_155418.jpg)
+_A kiülő madártávlatból _
+
+
 
 
 **+ 1 gondolat:**   
