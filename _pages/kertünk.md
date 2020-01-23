@@ -92,7 +92,14 @@ Hogy szép legyen, mindig kíméletlenül visszavágtam. Mostanra majdnem elért
 ![virág](/assets/kertunk/DSCF3192.JPG)
 _Az örökzöld babérmeggy nagyon jó választás volt_
 
+![virág](/assets/kertunk/IMG_4412.JPG)
+_Télen is mutatósak a nagy, fényes levelek_
 
+![virág](/assets/kertunk/IMG_20190731_054020.JPG)
+_A kis ajtót japán lonccal futtattam be_
+
+![virág](/assets/kertunk/IMG_20190805_202956.JPG)
+_A kis ajtót japán lonccal futtattam be_
 
 **+ 1 gondolat:**   
 A kertészkedés nem csak a környezetünben, bennünk is látványos változást hoz. A friss levegőn elvégzett munka, a széppé tett kert felett érzett öröm, a lelkünkre is jó hatással van.
