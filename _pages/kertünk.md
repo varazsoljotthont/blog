@@ -54,8 +54,8 @@ _A hagymás virágok már kora tavasszalszínnel töltik meg a kertet_
 
 ## Minden kezdet nehéz
 
-A "Miházunk" nagyon rossz minőségű, hol agyagos, hol nagyon kavicsos, hol pedig törmelékkel feltöltött telken áll. Se az udvaron, se a kertben nem megfelelő a termőréteg vastagsága. 
-Az Uradalomban nem volt más csak lucerna és tarack. Egyik sem  töltött el örömmel bennünket...
+A "Miházunk" nagyon rossz minőségű, hol agyagos, hol nagyon kavicsos, hol pedig törmelékkel feltöltött telken áll. Se az udvaron, se a kertben nem megfelelő a termőréteg vastagsága.  
+Az Uradalomban sem volt más csak lucerna és tarack. Egyik sem  töltött el örömmel bennünket...  
 Eleinte voltak próbálkozásaink zöldségekkel, konyhakerti növényekkel, de be kellett látnunk, hogy ezen a talajon nem leszünk sikeresek.
 A kavicsos részen hiába öntöztünk, szinte azonnal elszivárgott a víz, az agyagos terület pedig nagyon kötött, ami szintén nem szerencsés a növényeknek.
 
