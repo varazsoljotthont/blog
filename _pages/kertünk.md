@@ -47,7 +47,8 @@ A kertek arculata nagyon sok féle lehet. Van romantikus, természetközeli, par
 Megtérül az az idő amit azzal töltünk, hogy megálmodjuk a kertünket. Sok bosszúságtól kíméljük meg magunkat, ha az azonnali ásás helyett, kicsit körbejárjuk a témát.
 
 
-
+![virág](/assets/kertunk/IMG_20190420_203324_761.jpg)
+_A hagymás virágok már kora tavasszalszínnel töltik meg a kertet_
 
 
 
@@ -58,7 +59,8 @@ Az Uradalomban nem volt más csak lucerna és tarack. Egyik sem  töltött el ö
 Eleinte voltak próbálkozásaink zöldségekkel, konyhakerti növényekkel, de be kellett látnunk, hogy ezen a talajon nem leszünk sikeresek.
 A kavicsos részen hiába öntöztünk, szinte azonnal elszivárgott a víz, az agyagos terület pedig nagyon kötött, ami szintén nem szerencsés a növényeknek.
 
-
+![virág](/assets/kertunk/IMG_20190402_173326_622.jpg)
+_A virágzó cserjékkel nem lehet mellé fogni_
 
 **Szép, szép, de nem az igazi**
 
