@@ -130,9 +130,9 @@ Tavaszra lett annyira tiszta a terület, hogy  ki tudtuk jelölni az ágyás hat
 A felásott rész széléhez tetőcserepet ásott le a férjem (saját ötlet alapján), hogy a tarack átterjedését meggátoljuk. A cserepek mellé pedig kisebb terméskövet tettem le.  
 A terület nagysága miatt sikerült megvalósítani a kerttel kacsolatos egyik álmomat is; lett kanyargós út is virágok között.
 
-![virág](/assets/kertunk/IMG_20180330_155957.JPG)
+![virág](/assets/kertunk/IMG_20180330_155957.jpg)
 
-![virág](/assets/kertunk/36918944_1609538712478825_8419964521140977664_n.JPG)
+![virág](/assets/kertunk/36918944_1609538712478825_8419964521140977664_n.jpg)
 
 
 ## Építmények a kertben
