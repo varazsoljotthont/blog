@@ -46,8 +46,8 @@ A kertek típusa nagyon sok féle lehet. Van romantikus, természetközeli, park
 Megtérül az az idő amit azzal töltünk, hogy megálmodjuk a kertünket. Sok bosszúságtól kíméljük meg magunkat, ha az azonnali ásás helyett, kicsit körbejárjuk a témát.
 
 
-![virág](/assets/kertunk/IMG_20190420_203324_761.jpg)
-_A hagymás virágok már kora tavasszal színnel töltik meg a kertet_
+![virág](/assets/kertunk/IMG_20190830_123346.jpg)
+_Az árnyékos területre is van megoldás_
 
 
 
@@ -193,9 +193,12 @@ A nagyobb méretű kövek, a fatuskók, odvas fa darabok, rozsdás, míves dekor
 ![virág](/assets/kertunk/IMG_20190520_174725.jpg)
 _Örökzöld, cserje, évelő, korhadt fa egy képen_
 
+![virág](/assets/kertunk/IMG_20190427_152115.jpg)
+
+
 Ültessünk hagymás virágokat, és már kora tavasszal színes kavalkád lesz a kertünkben.
 
-![virág](/assets/kertunk/IMG_20190427_152115.jpg)
+![virág](/assets/kertunk/IMG_20190420_190726.jpg)
 
 
 **+ 1 gondolat:**   
