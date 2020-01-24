@@ -88,7 +88,7 @@ Vidékies, az angol kertekre hasonlító, buja díszkertet álmodtam meg, sok-so
 Csupa hagyományos, a régi falusi házaknál is megtalálható virágot terveztem bele. Így lett tavasztól őszig folyamatosan virágzó
 falusi "kis" kertünk.
 
-![virág](/assets/kertunk/IMG_20190428_150516.jpg)
+![virág](/assets/kertunk/IMG_20190428_150321.jpg)
 _A kék nefelejcs a hagyományos falusi kertek virága_
 
 
