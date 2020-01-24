@@ -39,7 +39,7 @@ Szem előtt kell tartani:
 * a tervezett növények igényeit, méreteit
 
 
-![virág](/assets/kertunk/IMG_20190520_174725.jpg)
+![virág](/assets/kertunk/IMG_20190625_080320.jpg)
 _Örökzöld, cserje, évelő egy képen_
 
 
@@ -89,6 +89,9 @@ Vidékies, az angol kertekre hasonlító, buja díszkertet álmodtam meg, sok-so
 Csupa hagyományos, a régi falusi házaknál is megtalálható virágot terveztem bele. Így lett tavasztól őszig folyamatosan virágzó
 falusi "kis" kertünk.
 
+![virág](/assets/kertunk/IMG_20190524_071636.jpg)
+
+
 **Lucerna helyett virágágyás**
 
 A kert átalakítása nem volt egyszerű feladat. 
@@ -111,13 +114,14 @@ A terület nagysága miatt sikerült megvalósítani a kerttel kacsolatos egyik 
 
 ![virág](/assets/kertunk/36918944_1609538712478825_8419964521140977664_n.jpg)
 
-![virág](/assets/kertunk/IMG_20190507_173312.jpg)
 
 
 Apránként kezdtem beültetni a helyet. Folyamatosan jártam a kertészetet, hogy mindig legyen virágzó növény a kertben. 
 
 
 ![virág](/assets/kertunk/IMG_20180502_192437j.jpg)
+
+![virág](/assets/kertunk/IMG_20190507_173312.jpg)
 
 Őszinte leszek; az elején nagyon sok munkát adott, hogy a semmiből varázsoljunk egy üde virágos kertet. De mostanra már kevesebb a dolog, és több az öröm. 
 Persze továbbra sem maradtunk feladat nélkül, hisz' a növényekre nagyon oda kell figyelni.  
@@ -182,7 +186,16 @@ Tavasztól őszig gyakran használjuk a [kiülő](/2019-05-29/kiülő)t is. Süt
 ![virág](/assets/kertunk/IMG_20190523_155418.jpg)
 _A kiülő madártávlatból_
 
+## Tipp
 
+A nagyobb méretű kövek, a fatuskók, odvas fa darabok, rozsdás, míves dekorációk remekül kiegészítik a vidékies kerteket. Ne féljünk használni. 
+
+![virág](/assets/kertunk/IMG_20190520_174725.jpg)
+_Örökzöld, cserje, évelő, korhadt fa egy képen_
+
+Ültessünk hagymás virágokat, és már kora tavasszal színes kavalkád lesz a kertünkben.
+
+![virág](/assets/kertunk/IMG_20190405_130744_484.jpg)
 
 
 **+ 1 gondolat:**   
