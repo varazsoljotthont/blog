@@ -128,6 +128,9 @@ Az öntözés, az elnyílt virágok leszedése, a ritkítás, metszés, a tápol
 
 Még egy lényeges dolgot meg kell említenem. A szép udvar, kert nem csak munkába kerül, hanem pénzbe is. A költségeket lehet csökkenteni azzal, hogy magunk szaporítunk virágokat, gyökereztetünk ágakat. Ha nyitott szemmel járunk, az ismeretségi körön belül is szép növényekhez juthatunk. Mára már én is sokaknak adtam tovább a szaporulatot, és ezzel a kert szeretetét is.
 
+![virág](/assets/kertunk/IMG_20190829_072906.jpg)
+
+
 
 ## Télen is legyen zöld
 
@@ -183,8 +186,7 @@ _A kiülő madártávlatból_
 
 
 **+ 1 gondolat:**   
-A kertészkedés nem csak a környezetünben, bennünk is látványos változást hoz. A friss levegőn elvégzett munka, a széppé tett kert felett érzett öröm, a lelkünkre is jó hatással van.
-
+A tanulást nem lehet megspórolni. Egy éven keresztül vásároltam különböző kertészeti újságokat, és az interneten is kerestem az ilyen témájú műsorokat, hogy magamhoz és a kerthez képest a legjobban csináljam. Ma is folyamatosan inspirálódom, és ha valamiben segítségre van szükségem, nagyon jó, segítőkész kertészeti csoportokat találni a Facebook-on.
 
 
 Ha tetszett, kedveld a <a href="https://www.facebook.com/Var%C3%A1zsolj-otthont-360330751226066/" target="_blank">Facebook</a> oldalt, itt még több érdekességet találsz a mindennapok varázslataiból.
