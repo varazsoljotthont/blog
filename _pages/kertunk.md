@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Kerttervezés, kertépítés házilag"
-permalink: /kertünk/
+permalink: /kertunk/
 cover: /assets/kertunk/cover.jpg
 categories: [kert, dekor]
 image:
