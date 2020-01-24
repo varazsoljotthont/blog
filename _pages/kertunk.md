@@ -42,7 +42,7 @@ Szem előtt kell tartani:
 ![virág](/assets/kertunk/IMG_20190625_080320.jpg)
 _Bujaság_
 
-A kertek típusa nagyon sok féle lehet. Van romantikus, természetközeli, parkszerű, mediterrán, mértani, stb. Különböző növények illenek a különböző kertekhez, és eltérő az elvégzendő munka milyensége, menyisége is.  
+A kertek típusa nagyon sok féle lehet. Van romantikus, természetközeli, park-szerű, mediterrán, mértani, stb. Különböző növények illenek a különböző kertekhez, és eltérő az elvégzendő munka milyensége, menyisége is.  
 Megtérül az az idő amit azzal töltünk, hogy megálmodjuk a kertünket. Sok bosszúságtól kíméljük meg magunkat, ha az azonnali ásás helyett, kicsit körbejárjuk a témát.
 
 
@@ -86,7 +86,7 @@ Mivel az első ötletem, a parkos kert nem nyerte el a tetszésemet, át kellett
 Egy tél elég volt arra, hogy beleássam magam a részletekbe, és meg tudjam fogalmazni, hogy mit is szeretnék.
 
 A házunk vidéki jellege meghatározta a kert stílusát is. 
-Vidékies, az angol kertekre hasonlító, buja díszkertet álmodtam meg, sok-sok évelő virággal, kis kerti utakkal, természetes ágyásokkal.
+Vidékies, az angol kertekre hasonlító, buja kertet álmodtam meg, sok-sok évelő virággal, kis kerti utakkal, természetes ágyásokkal.
 Csupa hagyományos, a régi falusi házaknál is megtalálható virágot terveztem bele. Így lett tavasztól őszig folyamatosan virágzó
 falusi "kis" kertünk.
 
@@ -112,7 +112,8 @@ _A lucernát, a gyomokat ki kellett szedni a talajból_
 Tavaszra lett annyira tiszta a terület, hogy  ki tudtuk jelölni az ágyás határait.
 
 A felásott rész széléhez tetőcserepet ásott le a férjem (saját ötlet alapján), hogy a tarack átterjedését meggátoljuk, a cserepek mellé pedig kisebb termésköveket tettem le.  
-A terület nagysága miatt sikerült megvalósítani a kerttel kacsolatos egyik álmomat is; lett kanyargós út a virágok közé.
+A terület nagysága elegendő volt arra is, hogy kanyargós utat csináljunk a virágok közé.
+
 
 ![virág](/assets/kertunk/36918944_1609538712478825_8419964521140977664_n.jpg)
 
