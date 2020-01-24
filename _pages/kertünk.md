@@ -195,6 +195,7 @@ A nagyobb méretű kövek, a fatuskók, odvas fa darabok, rozsdás, míves dekor
 ![virág](/assets/kertunk/IMG_20190520_174725.jpg)
 _Örökzöld, cserje, évelő, korhadt fa egy képen_
 
+
 ![virág](/assets/kertunk/IMG_20190427_152115.jpg)
 
 
