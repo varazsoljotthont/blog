@@ -54,8 +54,7 @@ _A hagymás virágok már kora tavasszalszínnel töltik meg a kertet_
 
 ## Minden kezdet nehéz
 
-A "Miházunk" nagyon rossz minőségű, hol agyagos, hol nagyon kavicsos, hol pedig törmelékkel feltöltött telken áll. Se az udvaron, se a kertben nem megfelelő a termőréteg vastagsága.  
-Az Uradalomban sem volt más csak lucerna és tarack. Egyik sem  töltött el örömmel bennünket...  
+A "Miházunk" nagyon rossz minőségű, lucernás, tarackos, és hol agyagos, hol nagyon kavicsos, hol pedig törmelékkel feltöltött telken áll. Se az udvaron, se a kertben nem megfelelő a termőréteg vastagsága.  
 Eleinte voltak próbálkozásaink zöldségekkel, konyhakerti növényekkel, de be kellett látnunk, hogy ezen a talajon nem leszünk sikeresek.
 A kavicsos részen hiába öntöztünk, szinte azonnal elszivárgott a víz, az agyagos terület pedig nagyon kötött, ami szintén nem szerencsés a növényeknek.
 
@@ -65,9 +64,6 @@ _A virágzó cserjékkel nem lehet mellé fogni_
 **Szép, szép, de nem az igazi**
 
 A ház vásárlás után egy évvel jutottunk el addig, hogy kertre is jutott az energiánkból.  
-
-
-
 
 
 Elsőként az volt a koncepció, hogy legyen parkszerű a kert. Pár díszfa, virágzó bokor, a kerítés elé pedig pampafű. Elméletben ez nagyon szépnek tűnt, de már röviddel az ültetés után látszott, hogy nem egészen olyan lett, mint képzeltem.
@@ -80,25 +76,6 @@ _Itt még csak néhány bokor és fa van az Uradalomban_
 > Tapasztalat: bevallom, akkoriban nem gondoltam át alaposan, hogy mit is akarok kezdeni az üres területtel. Ez sajnos vissza is ütött, hisz rövid idő alatt teljesen mást gondoltam, és ez a "kis" módostás plusz munkát, és a növények áttelepítését eredményezte.
 Szóval, a tervezés fontos!
 
-**Télen is legyen zöld**
-
-Amit biztosan tudtam és azóta sem bántam meg, hogy legyen a kertben örökzöld sövény. Némi kutató munka után a babérmeggyet választottam, és a kis ház, valamint a fatároló elé ültettem el.
-
-< Metszés utáni levágott ágakat kaptam, amiket aztán én gyökereztettem meg. Érdemes körbenézni az ismerősök között, mert a komposztra szánt növényeket tovább lehet szaporítani. Ingyen van, és még sikerélményünk is lesz.
-
-Hogy szép legyen, mindig kíméletlenül visszavágtam. Mostanra majdnem elérte a tervezett magasságot, és sűrű, egészséges sövényünk lett 3 év alatt.
-
-
-![virág](/assets/kertunk/DSCF3192.JPG)
-_Az örökzöld babérmeggy nagyon jó választás volt_
-
-![virág](/assets/kertunk/IMG_4412.jpg)
-_Télen is mutatósak a nagy, fényes levelek_
-
-
-
-![virág](/assets/kertunk/IMG_20190805_202956.jpg)
-_A kis ajtót japán lonccal futtattam be_
 
 
 ## Újra tervezés
@@ -117,7 +94,7 @@ A kert átalakítása nem volt egyszerű feladat.
 
 
 Január végén, mikor már az időjárás lehetővé tette elkezdtük felásni a kertet. A férjemnek jutott ez a megtiszteltetés, én pedig a felforgatott hantokat másztam végig, és szedtem ki a föld közül a gyomokat. 
-Nem tudnám megmondani hányat fordultam a gazzal megrakott talicskával, mire valahogy kinézett a terület.
+Nem tudnám megmondani hányat fordultam a gazzal megrakott talicskával, mire valahogy kinézett a hely.
 
 ![virág](/assets/kertunk/DSCF3087.JPG)
 _A lucernát, a gyomokat ki kellett szedni a talajból_
@@ -129,7 +106,7 @@ _A lucernát, a gyomokat ki kellett szedni a talajból_
 Tavaszra lett annyira tiszta a terület, hogy  ki tudtuk jelölni az ágyás határait.
 
 A felásott rész széléhez tetőcserepet ásott le a férjem (saját ötlet alapján), hogy a tarack átterjedését meggátoljuk. A cserepek mellé pedig kisebb terméskövet tettem le.  
-A terület nagysága miatt sikerült megvalósítani a kerttel kacsolatos egyik álmomat is; lett kanyargós út is virágok között.
+A terület nagysága miatt sikerült megvalósítani a kerttel kacsolatos egyik álmomat is; lett kanyargós út a virágok közé.
 
 
 
@@ -139,6 +116,37 @@ A terület nagysága miatt sikerült megvalósítani a kerttel kacsolatos egyik 
 
 ![virág](/assets/kertunk/IMG_20180326_170546j.jpg)
 
+Apránként kezdtem beültetni a helyet. Folyamatosan jártam a kertészetet, hogy mindig legyen virágzó növény a kertben. 
+
+
+
+
+Őszinte leszek; az elején nagyon sok munkát adott, hogy a semmiből varázsoljunk egy üde virágos kertet. De mostanra már kevesebb a dolog, és több az öröm. 
+Persze továbbra sem maradtunk feladat nélkül, hisz' a növényekre nagyon oda kell figyelni. Az öntözés, az elnyílt virágok leszedése, a ritkítás, metszés, a tápoldatozás mind-mind elhagyhatatlan ahhoz, hogy a kertünk mindig szép legyen. Viszont a kapálás, gazolás szinte teljesen megszűnt. Egyrészt rengeteg mulcsot elterítettem - nagyon hasznos a gazok elnyomásában, és a nedvességet is jobban megőrzi a talaj - másrészt olyan sok már a virág, hogy a gazoknak esélye sincs köztük előbújni.
+
+
+Még egy lényeges dolgot meg kell említenem. A szép udvar, kert nem csak munkába kerül, hanem pénzbe is. A költségeket lehet csökkenteni azzal, hogy magunk szaporítunk virágokat, gyökereztetünk ágakat. Ha nyitott szemmel járunk, az ismeretségi körön belül is szép növényekhez juthatunk. Mára már én is sokaknak adtam tovább a szaporulatot, és ezzel a kert szeretetét is.
+
+
+## Télen is legyen zöld
+
+Amit biztosan tudtam és azóta sem bántam meg, hogy legyen a kertben örökzöld sövény. Némi kutató munka után a babérmeggyet választottam, és a kis ház, valamint a fatároló elé ültettem el.
+
+< Metszés utáni levágott ágakat kaptam, amiket aztán én gyökereztettem meg. Érdemes körbenézni az ismerősök között, mert a komposztra szánt növényeket tovább lehet szaporítani. Ingyen van, és még sikerélményünk is lesz.
+
+Hogy szép legyen, mindig kíméletlenül visszavágtam. Mostanra majdnem elérte a tervezett magasságot, és sűrű, egészséges sövényünk lett 3 év alatt.
+
+
+![virág](/assets/kertunk/DSCF3192.JPG)
+_Az örökzöld babérmeggy nagyon jó választás volt_
+
+![virág](/assets/kertunk/IMG_4412.jpg)
+_Télen is mutatósak a nagy, fényes levelek_
+
+
+
+![virág](/assets/kertunk/IMG_20190805_202956.jpg)
+_A kis ajtót japán lonccal futtattam be_
 
 
 ## Építmények a kertben
