@@ -109,13 +109,10 @@ Tavaszra lett annyira tiszta a terület, hogy  ki tudtuk jelölni az ágyás hat
 A felásott rész széléhez tetőcserepet ásott le a férjem (saját ötlet alapján), hogy a tarack átterjedését meggátoljuk, a cserepek mellé pedig kisebb termésköveket tettem le.  
 A terület nagysága miatt sikerült megvalósítani a kerttel kacsolatos egyik álmomat is; lett kanyargós út a virágok közé.
 
-
-
 ![virág](/assets/kertunk/36918944_1609538712478825_8419964521140977664_n.jpg)
 
+![virág](/assets/kertunk/IMG_20190507_173312.jpg)
 
-
-IMG_20180502_192437j
 
 Apránként kezdtem beültetni a helyet. Folyamatosan jártam a kertészetet, hogy mindig legyen virágzó növény a kertben. 
 
@@ -123,8 +120,11 @@ Apránként kezdtem beültetni a helyet. Folyamatosan jártam a kertészetet, ho
 ![virág](/assets/kertunk/IMG_20180502_192437j.jpg)
 
 Őszinte leszek; az elején nagyon sok munkát adott, hogy a semmiből varázsoljunk egy üde virágos kertet. De mostanra már kevesebb a dolog, és több az öröm. 
-Persze továbbra sem maradtunk feladat nélkül, hisz' a növényekre nagyon oda kell figyelni. Az öntözés, az elnyílt virágok leszedése, a ritkítás, metszés, a tápoldatozás mind-mind elhagyhatatlan ahhoz, hogy a kertünk mindig szép legyen. Viszont a kapálás, gazolás szinte teljesen megszűnt. Egyrészt rengeteg mulcsot elterítettem - nagyon hasznos a gazok elnyomásában, és a nedvességet is jobban megőrzi a talaj - másrészt olyan sok már a virág, hogy a gazoknak esélye sincs köztük előbújni.
+Persze továbbra sem maradtunk feladat nélkül, hisz' a növényekre nagyon oda kell figyelni.  
+Az öntözés, az elnyílt virágok leszedése, a ritkítás, metszés, a tápoldatozás mind-mind elhagyhatatlan ahhoz, hogy a kertünk mindig szép legyen. Viszont a kapálás, gazolás szinte teljesen megszűnt. Egyrészt rengeteg mulcsot elterítettem - nagyon hasznos a gazok elnyomásában, és a nedvességet is jobban megőrzi a talaj - másrészt olyan sok már a virág, hogy a gazoknak esélye sincs köztük előbújni.
 
+
+![virág](/assets/kertunk/IMG_20190616_210145.jpg)
 
 Még egy lényeges dolgot meg kell említenem. A szép udvar, kert nem csak munkába kerül, hanem pénzbe is. A költségeket lehet csökkenteni azzal, hogy magunk szaporítunk virágokat, gyökereztetünk ágakat. Ha nyitott szemmel járunk, az ismeretségi körön belül is szép növényekhez juthatunk. Mára már én is sokaknak adtam tovább a szaporulatot, és ezzel a kert szeretetét is.
 
