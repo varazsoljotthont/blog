@@ -45,13 +45,13 @@ _Bujaság_
 A kertek típusa nagyon sok féle lehet. Van romantikus, természetközeli, parkszerű, mediterrán, mértani, stb. Különböző növények illenek a különböző kertekhez, és eltérő az elvégzendő munka milyensége, menyisége is.  
 Megtérül az az idő amit azzal töltünk, hogy megálmodjuk a kertünket. Sok bosszúságtól kíméljük meg magunkat, ha az azonnali ásás helyett, kicsit körbejárjuk a témát.
 
-![virág](/assets/kertunk/IMG_20190420_203324_761.jpg)
-_Figyeljünk a színek harmóniájára_
+
 
 ![virág](/assets/kertunk/IMG_20190830_123346.jpg)
 _Az árnyékos területre is van megoldás_
 
-
+![virág](/assets/kertunk/IMG_20190420_203324_761.jpg)
+_Figyeljünk a színek harmóniájára_
 
 ## Minden kezdet nehéz
 
