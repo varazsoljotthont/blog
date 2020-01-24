@@ -122,7 +122,7 @@ Nem tudnám megmondani hányat fordultam a gazzal megrakott talicskával, mire v
 ![virág](/assets/kertunk/DSCF3087.JPG)
 _A lucernát, a gyomokat ki kellett szedni a talajból_
 
-![virág](/assets/kertunk/DSCF3090 jav.JPG)
+![virág](/assets/kertunk/DSCF3090 jav.jpg)
 
 **Ágyásszegélyek, íves utak**
 
