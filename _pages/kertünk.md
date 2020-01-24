@@ -2,10 +2,10 @@
 layout: post
 title: "Kerttervezés, kertépítés házilag"
 permalink: /kertünk/
-cover: /assets/kertünk/ablak.jpg
+cover: /assets/kertünk/cover.jpg
 categories: [kert, dekor]
 image:
-  path: /assets/kertünkt/ablak.jpg
+  path: /assets/kertünkt/cover.jpg
   height: 300
   width: 300
 ---
