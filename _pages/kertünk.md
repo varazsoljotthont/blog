@@ -40,15 +40,14 @@ Szem előtt kell tartani:
 
 
 ![virág](/assets/kertunk/IMG_20190625_080320.jpg)
-_Örökzöld, cserje, évelő egy képen_
-
+_Bujaság_
 
 A kertek típusa nagyon sok féle lehet. Van romantikus, természetközeli, parkszerű, mediterrán, mértani, stb. Különböző növények illenek a különböző kertekhez, és eltérő az elvégzendő munka milyensége, menyisége is.  
 Megtérül az az idő amit azzal töltünk, hogy megálmodjuk a kertünket. Sok bosszúságtól kíméljük meg magunkat, ha az azonnali ásás helyett, kicsit körbejárjuk a témát.
 
 
 ![virág](/assets/kertunk/IMG_20190420_203324_761.jpg)
-_A hagymás virágok már kora tavasszalszínnel töltik meg a kertet_
+_A hagymás virágok már kora tavasszal színnel töltik meg a kertet_
 
 
 
