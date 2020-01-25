@@ -220,7 +220,7 @@ Kövess az <a href="https://www.instagram.com/varazsoljotthont/?hl=hu/" target="
 
 
 * [Az ősz a szépség maga, az ősz gyönyörű!](/2019-10-14/ősz)
-* [Rusztikus terasz ötletes megoldásokkal, hangulatos dekorációkkal](/2019-08-01/teraszdekor)
+* [Így lett a tűzifa az otthonunk dísze](/2019-05-16/fábólkreatívan)
 * [Ilyen volt, ilyen lett: így lett a kaszálóból romantikus, vidéki kert](/2019-06-26/kulsokorlet)
 * [Hozzuk formába az otthonunkat!](/2019-03-26/dekoráció)
 
