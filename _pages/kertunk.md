@@ -145,7 +145,7 @@ Amit biztosan tudtam és azóta sem bántam meg, hogy legyen a kertben örökzö
 
 > Metszés utáni levágott ágakat kaptam, amiket aztán én gyökereztettem meg. Érdemes körbenézni az ismerősök között, mert a komposztra szánt növényeket tovább lehet szaporítani. Ingyen van, és még sikerélményünk is lesz.
 
-Hogy szép legyen, mindig kíméletlenül visszavágtam. Mostanra majdnem elérte a tervezett magasságot, és sűrű, egészséges sövényünk lett 3 év alatt.
+Hogy szép legyen, mindig kíméletlenül visszavágtam. Mostanra majdnem elérte a tervezett magasságot, és 3 év alatt sűrű, egészséges sövényünk lett.
 
 
 ![virág](/assets/kertunk/DSCF3192.JPG)
