@@ -202,7 +202,7 @@ _Örökzöld, cserje, évelő, korhadt fa egy képen_
 
 Ültessünk hagymás virágokat, és már kora tavasszal színes kavalkád lesz a kertünkben.
 
-![virág](/assets/kertunk/IMG_20190420_190726.jpg)
+![virág](/assets/kertunk/tulipan.jpg)
 
 
 **+ 1 gondolat:**   
