@@ -17,8 +17,8 @@ image:
 ## Legyen szép környezetünk
 
 
-Utazás közben előszeretettel nézegetem az utamba eső kiskerteket, udvarokat, ház előtti részeket. Mindig csodálattal tölt el, hogy egy jól megválasztott fa, egy cserje, vagy épp egy virágoskert mennyi pluszt tud hozzá tenni a házak arculatához. A természet zöldje, a virágok élénk színei nemcsak az otthonunkra, hanem lelkünkre is jó hatással van. Nem kell ahhoz feltétlenül kertésznek lenni, hogy mutatós kertet varázsoljunk.
-
+Utazás közben előszeretettel nézegetem az utamba eső kiskerteket, udvarokat, ház előtti részeket. Mindig csodálattal tölt el, hogy egy jól megválasztott fa, egy cserje, vagy épp egy virágoskert mennyi pluszt tud hozzá tenni a házak arculatához. A természet zöldje, a virágok élénk színei nemcsak az otthonunkra, hanem lelkünkre is jó hatással van. Nem kell ahhoz feltétlenül kertésznek lenni, hogy mutatós kertet varázsoljunk.  
+Én amatőrként valósítottam meg a kerttel kapcsolatos álmaimat. Ebben a posztban leírom, hogyan csináltuk.
 
 ![virág](/assets/kertunk/idézet.jpg)
 
