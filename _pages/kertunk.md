@@ -24,7 +24,7 @@ Utazás közben előszeretettel nézegetem az utamba eső kiskerteket, udvarokat
 
 ## A tervezés fontossága
 
-Időt, pénzt és energiát spórolunk ha körültekintően végig járjuk a kerttervezés témáját.
+Időt, pénzt és energiát spórolunk, ha körültekintően végigjárjuk a kerttervezés témáját.
 Ahhoz, hogy számunkra megfelelő, és még szép is legyen, sok mindent figyelembe kell venni.
 
 Szem előtt kell tartani:
