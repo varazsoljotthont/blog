@@ -12,19 +12,19 @@ image:
 
 
 
-**A kertvárosi, vidéki, falusi házakhoz elengedhetetlen a kisebb vagy nagyobb kertrész. Hogy ez konyha ill. díszkert lesz-e, az a házigazdán éppannyira múlik, mint a telek adottságain. Odafigyeléssel, törődéssel, és persze gondos munkával egy kopár területet is édenné lehet varázsolni.**
+**A kertvárosi, vidéki, falusi házakhoz általában tartozik egy kisebb vagy nagyobb kertrész. Hogy ez konyha ill. díszkert lesz-e, az a tulajdonoson éppannyira múlik, mint a telek adottságain. Odafigyeléssel, törődéssel és persze gondos munkával egy kopár területet is édenné lehet varázsolni.**
 
 ## Legyen szép környezetünk
 
 
-Utazás közben előszeretettel nézegetem az utamba eső kiskerteket, udvarokat, ház előtti részeket. Mindig csodálattal tölt el, hogy egy jól megválasztott fa, egy cserje, vagy épp egy virágoskert mennyi pluszt tud hozzá tenni a házak arculatához. A természet zöldje, a virágok élénk színei nemcsak az otthonunkra, hanem ránk is jó hatással vannak.
+Utazás közben előszeretettel nézegetem az utamba eső kiskerteket, udvarokat, ház előtti részeket. Mindig csodálattal tölt el, hogy egy jól megválasztott fa, egy cserje, vagy épp egy virágoskert mennyi pluszt tud hozzá tenni a házak arculatához. A természet zöldje, a virágok élénk színei nemcsak az otthonunkra, hanem lelkünkre is jó hatással van.
 
 
 ![virág](/assets/kertunk/idézet.jpg)
 
 ## A tervezés fontossága
 
-Időt, pénzt, energiát spórolunk ha körültekintően végig járjuk a kerttervezés témáját.
+Időt, pénzt és energiát spórolunk ha körültekintően végig járjuk a kerttervezés témáját.
 Ahhoz, hogy számunkra megfelelő, és még szép is legyen, sok mindent figyelembe kell venni.
 
 Szem előtt kell tartani:
