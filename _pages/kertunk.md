@@ -43,7 +43,7 @@ Szem előtt kell tartani:
 _Bujaság_
 
 A kertek típusa nagyon sok féle lehet. Van romantikus, természetközeli, park-szerű, mediterrán, mértani, stb. Különböző növények illenek a különböző kertekhez, és eltérő az elvégzendő munka milyensége, menyisége is.  
-Megtérül az az idő amit azzal töltünk, hogy megálmodjuk a kertünket. Sok bosszúságtól kíméljük meg magunkat, ha az azonnali ásás helyett, kicsit körbejárjuk a témát.
+Megtérül az az idő, amit azzal töltünk, hogy megálmodjuk a kertünket. Sok bosszúságtól kíméljük meg magunkat, ha az azonnali ásás helyett kicsit körbejárjuk a témát.
 
 
 
@@ -55,7 +55,7 @@ _Figyeljünk a színek harmóniájára_
 
 ## Minden kezdet nehéz
 
-A "Miházunk" nagyon rossz minőségű, lucernás, tarackos, és hol agyagos, hol nagyon kavicsos, hol pedig törmelékkel feltöltött telken áll. Se az udvaron, se a kertben nem megfelelő a termőréteg vastagsága.  
+A "Miházunk" nagyon rossz minőségű, lucernás, tarackos, és hol agyagos, hol nagyon kavicsos, hol pedig törmelékkel feltöltött telken áll. Sem az udvaron, sem a kertben nem megfelelő a termőréteg vastagsága.  
 Eleinte voltak próbálkozásaink konyhakerti növényekkel, de be kellett látnunk, hogy ezen a talajon nem leszünk sikeresek.
 A kavicsos részen hiába öntöztünk, szinte azonnal elszivárgott a víz, az agyagos terület pedig nagyon kötött, ami szintén nem szerencsés a növényeknek.
 
@@ -126,7 +126,7 @@ Apránként kezdtem beültetni a helyet. Folyamatosan jártam a kertészetet, ho
 
 ![virág](/assets/kertunk/IMG_20190507_173312.jpg)
 
-Őszinte leszek; az elején nagyon sok munkát adott, hogy a semmiből varázsoljunk egy üde virágos kertet. De mostanra már kevesebb a dolog, és több az öröm. 
+Őszinte leszek; az elején nagyon sok munkát adott, hogy a semmiből varázsoljunk egy üde, virágos kertet. De mostanra már kevesebb a dolog, és több az öröm. 
 Persze továbbra sem maradtunk feladat nélkül, hisz' a növényekre nagyon oda kell figyelni.  
 Az öntözés, az elnyílt virágok leszedése, a ritkítás, metszés, a tápoldatozás mind-mind elhagyhatatlan ahhoz, hogy a kertünk mindig szép legyen. Viszont a kapálás, gazolás szinte teljesen megszűnt. Egyrészt rengeteg mulcsot elterítettem - nagyon hasznos a gazok elnyomásában, és a nedvességet is jobban megőrzi a talaj - másrészt olyan sok már a virág, hogy a gazoknak esélye sincs köztük előbújni.
 
@@ -141,7 +141,7 @@ Még egy lényeges dolgot meg kell említenem. A szép udvar, kert nem csak munk
 
 ## Télen is legyen zöld
 
-Amit biztosan tudtam és azóta sem bántam meg, hogy legyen a kertben örökzöld sövény. Némi kutató munka után a babérmeggyet választottam, és a kis ház, valamint a fatároló elé ültettem el.
+Amit biztosan tudtam és azóta sem bántam meg, hogy legyen a kertben örökzöld sövény. Némi kutatómunka után a babérmeggyet választottam, és a kis ház, valamint a fatároló elé ültettem el.
 
 > Metszés utáni levágott ágakat kaptam, amiket aztán én gyökereztettem meg. Érdemes körbenézni az ismerősök között, mert a komposztra szánt növényeket tovább lehet szaporítani. Ingyen van, és még sikerélményünk is lesz.
 
@@ -184,7 +184,7 @@ A [kertirom](/2019-09-12/kertirom)ot egy fajta búvóhelynek építettük. Tök�
 ![virág](/assets/kertunk/IMG_20190625_080138.jpg)
 _Megbújik a virágok között a kertirom_
 
-Tavasztól őszig gyakran használjuk a [kiülő](/2019-05-29/kiülő)t is. Sütögetéshez, baráti beszélgetéskhez ideális, a rusztikussága révén a kertben is jól mutat.
+Tavasztól őszig gyakran használjuk a [kiülő](/2019-05-29/kiülő)t is. Sütögetéshez, baráti beszélgetéskhez ideális, rusztikussága révén a kertben is jól mutat.
 
 ![virág](/assets/kertunk/IMG_20190523_155418.jpg)
 _A kiülő madártávlatból_
@@ -206,7 +206,7 @@ _Örökzöld, cserje, évelő, korhadt fa egy képen_
 
 
 **+ 1 gondolat:**   
-A tanulást nem lehet megspórolni. Egy éven keresztül vásároltam különböző kertészeti újságokat, és az interneten is kerestem az ilyen témájú blogokat, oldalakat, hogy magamhoz és a kerthez képest a legjobban csináljam. Ma is folyamatosan inspirálódom, és ha valamiben segítségre van szükségem, nagyon jó, segítőkész kertészeti csoportokat találni a Facebook-on. Jó szívvvel ajánlom <a href="https://www.facebook.com/groups/1449320471883426/" target="_blank">Virágbolondok</a> oldalt.
+A tanulást nem lehet megspórolni. Egy éven keresztül vásároltam különböző kertészeti újságokat, és az interneten is kerestem az ilyen témájú blogokat, oldalakat, hogy magamhoz és a kerthez képest a legjobban csináljam. Ma is folyamatosan inspirálódom, és ha valamiben segítségre szorulok, segítőkész kertészeti csoportokat találok a Facebook-on is. Például, jó szívvvel ajánlom <a href="https://www.facebook.com/groups/1449320471883426/" target="_blank">Virágbolondok</a> oldalt.
 
 
 Ha tetszett, kedveld a <a href="https://www.facebook.com/Var%C3%A1zsolj-otthont-360330751226066/" target="_blank">Facebook</a> oldalt, itt még több érdekességet találsz a mindennapok varázslataiból.
