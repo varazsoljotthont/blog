@@ -206,7 +206,7 @@ _Örökzöld, cserje, évelő, korhadt fa egy képen_
 
 
 **+ 1 gondolat:**   
-A tanulást nem lehet megspórolni. Egy éven keresztül vásároltam különböző kertészeti újságokat, és az interneten is kerestem az ilyen témájú műsorokatblogokat, oldalakat, hogy magamhoz és a kerthez képest a legjobban csináljam. Ma is folyamatosan inspirálódom, és ha valamiben segítségre van szükségem, nagyon jó, segítőkész kertészeti csoportokat találni a Facebook-on. Jó szívvvel ajánlom <a href="/https://www.facebook.com/groups/1449320471883426/" target="_blank">Virágbolondok</a> oldalt.
+A tanulást nem lehet megspórolni. Egy éven keresztül vásároltam különböző kertészeti újságokat, és az interneten is kerestem az ilyen témájú blogokat, oldalakat, hogy magamhoz és a kerthez képest a legjobban csináljam. Ma is folyamatosan inspirálódom, és ha valamiben segítségre van szükségem, nagyon jó, segítőkész kertészeti csoportokat találni a Facebook-on. Jó szívvvel ajánlom <a href="/https://www.facebook.com/groups/1449320471883426/" target="_blank">Virágbolondok</a> oldalt.
 
 
 Ha tetszett, kedveld a <a href="https://www.facebook.com/Var%C3%A1zsolj-otthont-360330751226066/" target="_blank">Facebook</a> oldalt, itt még több érdekességet találsz a mindennapok varázslataiból.
