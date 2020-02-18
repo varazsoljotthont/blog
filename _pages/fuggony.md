@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Rusztikus terasz ötletes megoldásokkal, hangulatos dekorációkkal" 
+title: "Otthonunk ruhája a függyöny" 
 permalink: /teraszdekor/
 cover: /assets/teraszdekor/cover.jpg
 categories: [haz, kert, dekor]
