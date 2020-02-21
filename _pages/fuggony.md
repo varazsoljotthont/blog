@@ -11,17 +11,26 @@ image:
 ---
 
 
- **Otthonunk berendezésénél a textíliák teszik fel az I-re a pontot, és azt hiszem nem túlzás azt mondani, hogy a lakás estélyiruhája a függöny. Azt gondolhatnánk, hogy egy függöny vásárlása nem tartogat nehézségeket, pedig kiválasztásakor figyelni kell az anyag, a szín, a fazon és nem utolsósorban a helyiség stílusára is. A dekoráción túl a szerepe is lényeges, ezért már a tervezéskor érdemes a részleteket alaposan átgondolni. Ha jól választottunk, akkor a lakásunk megkapja azt a csipetnyi fűszert, amitől igazán különleges lesz az összhatás.** 
+ **Otthonunk berendezésénél a textíliák teszik fel az I-re a pontot, és úgy hiszem, nem túlzás azt mondani, hogy a lakás estélyiruhája a függöny. Azt gondolhatnánk, hogy egy függöny vásárlása nem tartogat nehézségeket, pedig kiválasztásakor figyelni kell az anyag, a szín, a fazon és nem utolsósorban a helyiség stílusára is. A dekoráción túl a szerepe is lényeges, ezért már a tervezéskor érdemes a részleteket alaposan átgondolni. Ha jól választottunk, akkor a lakásunk megkapja azt a csipetnyi fűszert, amitől igazán különleges lesz az összhatás.** 
 
-## Mindig akad egy ablak
-
-
-
-Azt hiszem, nagyon szerencsés vagyok, hisz' a közelünkben lévő függöny szaküzlet tulajdonsát jól ismerem, de ami még lényegesebb, hogy Ő is jól ismer engem, és persze az otthonunkat is.
-A "Miházunk"
+## Mindig akad egy ablak amire függöny kell...
 
 
-![idézet](/assets/teraszdekor/Nevtelen.png)
+
+Azt hiszem, nagyon szerencsés vagyok, hisz' a közelünkben lévő függöny szaküzlet tulajdonosát jól ismerem, de ami még lényegesebb, hogy Ő is jól ismer engem, és persze az otthonunkat is.
+A "Miházunk" már a negyedik, amit Zsuzsi segítségével függönyöztem be. Tudja mi az elképzelésem, így már "személyre szabottan" mutatja a kínálatot. Mindig alaposan átbeszéljük a részleteket, többször is egyeztetünk, hogy aztán a végeredménnyel mindketten elégedettek legyünk.
+
+
+## Kabáthoz a gombot
+
+A hatalmas kínálatból a megfelelő függyönyt kiválasztani nem is olyan egyszerű. Amikor az üzeletben elénk rakják a szebbnél-szebb méterárut, szinte elveszünk a bőség zavarában. Hogy ne essünk ebbe a csapdába, érdemes konkrét tervekkel felkészülni. Hiába szép egy anyag önmagában, ha nem passzol az otthonuk berendezéshez, stílusához nem szabad választani. Szűkítsük a kört, és csak azt nézzük meg ami anyagában, színében, mintázatában is megfelel. Ezzel megkönnyíthetjük a magunk és az eladó dolgát is. Sokkal inkább tudja a számunkra megfelelőt ajánlani, ha pontos információja van arról, hogy mit is szeretnénk.
+
+
+
+
+
+
+[idézet](/assets/teraszdekor/Nevtelen.png)
 
 
 
