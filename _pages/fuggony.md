@@ -11,8 +11,7 @@ image:
 ---
 
 
- **Szerencsés helyzetben vagyunk, ha az otthonunkhoz terasz is tartozik. Tavasztól őszig tökéletes színtere a pihenésnek, ahogy a  családi, baráti összejöveteleknek is. Hogy az itt eltöltött idő minél kellemesebb legyen, érdemes kiemelt figyelmet szánni a berendezésének. A terasz az otthonunk meghosszabítása, így hangulatában jó ha követi azt a stílust, amit a házunknál és a környezetünknél már megvalósítottunk.**
-
+ **Otthonunk berendezésénél a textíliák teszik fel az I-re a pontot, és azt hiszem nem túlzás azt mondani, hogy a lakás estélyiruhája a függöny. Azt gondolhatnánk, hogy egy függöny vásárlása nem tartogat nehézségeket, pedig kiválasztásakor figyelni kell az anyag, a szín, a fazon és nem utolsósorban a helyiség stílusára is. A dekoráción túl a szerepe is lényeges, ezért vásárláskor érdemes a részleteket alaposan átgondolni. Ha jól választottunk, akkor a lakásunk megkapja azt a csipetnyi fűszert, amitől igazán különleges lesz az összhatás.** 
 
 ## Az első benyomás
 
