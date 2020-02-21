@@ -11,13 +11,14 @@ image:
 ---
 
 
- **Otthonunk berendezésénél a textíliák teszik fel az I-re a pontot, és azt hiszem nem túlzás azt mondani, hogy a lakás estélyiruhája a függöny. Azt gondolhatnánk, hogy egy függöny vásárlása nem tartogat nehézségeket, pedig kiválasztásakor figyelni kell az anyag, a szín, a fazon és nem utolsósorban a helyiség stílusára is. A dekoráción túl a szerepe is lényeges, ezért vásárláskor érdemes a részleteket alaposan átgondolni. Ha jól választottunk, akkor a lakásunk megkapja azt a csipetnyi fűszert, amitől igazán különleges lesz az összhatás.** 
+ **Otthonunk berendezésénél a textíliák teszik fel az I-re a pontot, és azt hiszem nem túlzás azt mondani, hogy a lakás estélyiruhája a függöny. Azt gondolhatnánk, hogy egy függöny vásárlása nem tartogat nehézségeket, pedig kiválasztásakor figyelni kell az anyag, a szín, a fazon és nem utolsósorban a helyiség stílusára is. A dekoráción túl a szerepe is lényeges, ezért már a tervezéskor érdemes a részleteket alaposan átgondolni. Ha jól választottunk, akkor a lakásunk megkapja azt a csipetnyi fűszert, amitől igazán különleges lesz az összhatás.** 
 
-## Az első benyomás
+## Mindig akad egy ablak
 
 
 
-A bejárati ajtónk a teraszról nyílik. Innen indulunk és ide érkezünk haza. Ide jönnek először az ismerősök, és az első benyomás is - az udvaron kívül - itt ér mindenkit. 
+Azt hiszem, nagyon szerencsés vagyok, hisz' a közelünkben lévő függöny szaküzlet tulajdonsát jól ismerem, de ami még lényegesebb, hogy Ő is jól ismer engem, és persze az otthonunkat is.
+A "Miházunk"
 
 
 ![idézet](/assets/teraszdekor/Nevtelen.png)
