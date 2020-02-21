@@ -23,14 +23,14 @@ A "Miházunk" már a negyedik, amit Zsuzsi segítségével függönyöztem be. T
 
 ## Kabáthoz a gombot
 
-A hatalmas kínálatból a megfelelő függyönyt kiválasztani nem is olyan egyszerű. Amikor az üzeletben elénk rakják a szebbnél-szebb méterárut, szinte elveszünk a bőség zavarában. Hogy ne essünk ebbe a csapdába, érdemes konkrét tervekkel felkészülni. Hiába szép egy anyag önmagában, ha nem passzol az otthonuk berendezéshez, stílusához nem szabad választani. Szűkítsük a kört, és csak azt nézzük meg ami anyagában, színében, mintázatában is megfelel. Ezzel megkönnyíthetjük a magunk és az eladó dolgát is. Sokkal inkább tudja a számunkra megfelelőt ajánlani, ha pontos információja van arról, hogy mit is szeretnénk.
+A hatalmas kínálatból a megfelelő függyönyt kiválasztani nem is olyan egyszerű. Amikor az üzletben elénk rakják a szebbnél-szebb méterárut, hirtelen azt sem tudjuk, hogy milyet is szeretnénk. Hogy ne essünk ebbe a csapdába, érdemes konkrét tervekkel felkészülni. Hiába szép egy anyag önmagában, ha nem passzol az otthonunk berendezéséhez, stílusához, nem szabad választani. Szűkítsük a kört, és csak azt nézzük meg ami anyagában, színében, mintázatában is megfelel. Ezzel megkönnyíthetjük a magunk és az eladó dolgát is. Sokkal inkább tudja a számunkra megfelelőt ajánlani, ha pontos információja van arról, hogy mit is szeretnénk.
 
 
 
 ## Fényáteresztő, sötétítő, black out
 
-A méteráruk alapanyaga, szövése
 
+A fényáteresztő függöny az alapja 
 
 
 
