@@ -27,6 +27,10 @@ A hatalmas kínálatból a megfelelő függyönyt kiválasztani nem is olyan egy
 
 
 
+## Fényáteresztő, sötétítő, black out
+
+A méteráruk alapanyaga, szövése
+
 
 
 
