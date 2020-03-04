@@ -11,7 +11,7 @@ image:
 ---
 
 
- **Otthonunk berendezésénél a textíliák teszik fel az I-re a pontot, és úgy hiszem, nem túlzás azt mondani, hogy a lakás estélyiruhája a függöny. Azt gondolhatnánk, hogy egy függöny vásárlása nem tartogat nehézségeket, pedig kiválasztásakor figyelni kell az anyag, a szín, a fazon és nem utolsósorban a helyiség stílusára is. A dekoráción túl a szerepe is lényeges, ezért már a tervezéskor érdemes a részleteket alaposan átgondolni. Ha jól választottunk, akkor a lakásunk megkapja azt a csipetnyi fűszert, amitől igazán különleges lesz az összhatás.** 
+ **Otthonunk berendezésénél a textíliák teszik fel az I-re a pontot, és úgy hiszem, nem túlzás azt mondani, hogy a lakás estélyiruhája a függöny. Azt gondolhatnánk, hogy egy függöny vásárlása nem tartogat nehézségeket, pedig kiválasztásakor figyelni kell az anyag, a szín, a fazon és nem utolsósorban a helyiség stílusára is. A dekoráción túl a szerepe is lényeges, ezért már a tervezéskor érdemes a részleteket alaposan átgondolni. 
 
 ## Mindig akad egy ablak amire függöny kell...
 
@@ -23,21 +23,37 @@ A "Miházunk" már a negyedik, amit Zsuzsi segítségével függönyöztem be. T
 
 ## Kabáthoz a gombot
 
-A hatalmas kínálatból a megfelelő függyönyt kiválasztani nem is olyan egyszerű. Amikor az üzletben elénk rakják a szebbnél-szebb méterárut, hirtelen azt sem tudjuk, hogy milyet is szeretnénk. Hogy ne essünk ebbe a csapdába, érdemes konkrét tervekkel felkészülni. Hiába szép egy anyag önmagában, ha nem passzol az otthonunk berendezéséhez, stílusához, nem szabad választani. Szűkítsük a kört, és csak azt nézzük meg ami anyagában, színében, mintázatában is megfelel. Ezzel megkönnyíthetjük a magunk és az eladó dolgát is. Sokkal inkább tudja a számunkra megfelelőt ajánlani, ha pontos információja van arról, hogy mit is szeretnénk.
+A hatalmas kínálatból a megfelelő függyönyt kiválasztani nem is olyan egyszerű. Szűkítsük a kört, és csak azt nézzük meg ami anyagában, színében, mintázatában is megfelel. Ezzel megkönnyíthetjük a magunk és az eladó dolgát is. Sokkal inkább tudja a számunkra megfelelőt ajánlani, ha pontos információja van arról, hogy mit is szeretnénk.
 
 
 
-## Fényáteresztő, sötétítő, black out
+## Fehér vagy színes
+
+Ma már a fényáteresztő függönyök között is találunk színeseket, és azonos színeken belül különböző árnyalatokat. A drappos, bézses, krémszínű, homokszínű méterárú között hatalmas a különbség. Nem mindegy melyiket válasszuk. Más illik egy modern otthonba, és más egy vidékies stílusú házba.
 
 
-A fényáteresztő függöny az alapja 
 
 
 
+ 
+
+
+
+## Az anyag struktúrája
+
+
+Az anyagok szövésésében szintén óriási különbségek vannak. Más hangulatot teremt a organza, voile és mást a len hatású anyag. 
+
+**Vasalni vagy nem vasalni...**
+
+vasalni organza, voile vasalást könnyített anyag
 [idézet](/assets/teraszdekor/Nevtelen.png)
 
+Ha jól választottunk, akkor a lakásunk megkapja azt a csipetnyi fűszert, amitől igazán különleges lesz az összhatás.** 
 
+Amikor az üzletben elénk rakják a szebbnél-szebb méterárut, hirtelen azt sem tudjuk, hogy milyet is szeretnénk. Hogy ne essünk ebbe a csapdába, érdemes konkrét tervekkel felkészülni. Hiába szép egy anyag önmagában, ha nem passzol az otthonunk berendezéséhez, stílusához, nem szabad választani. S
 
+újrhasznosított anyagból készülnek pet palack 
 
 Számomra nagyon fontos volt, hogy olyan "kisugárzása" legyen a terasznak ami bennünket is és a hozzánk látogatókat is jó érzéssel tölti el.  
 Igen, minket is. Szerintem a szorgos mindennapok után nem mindegy, hogy a haza érkezés milyen környezetbe történik.  
