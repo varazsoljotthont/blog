@@ -58,7 +58,7 @@ Az áruház kertészei; Zoli és Reni már jól ismernek. Nem tudok tőlük olya
 
 ![üzlet](/assets/pannonia/IMG_5368.jpg)
 
-![üzlet](/assets/pannonia/13350402_369344079856016_1383352079501802487_o.jpg)
+![üzlet](/assets/pannonia/13350402_369344079856016_1383352079501802487_oj.jpg)
 
 ![üzlet](/assets/pannonia/11703298_308633365927088_437534541464892210_o.jpg)
 
@@ -66,7 +66,7 @@ Hihetetlen, hogy milyen választékkal rendelkeznek! A hagymások, évelők, ör
 Kaspókat én még máshol nem láttam ilyen választékban. Kerámia, agyag, műanyag… Mindenki megtalálhatja az ízlésének, pénztárcájának valót.
 
 
-![üzlet](/assets/pannonia/60691322_1094081854048898_4234098504085012480_o.jpg)
+![üzlet](/assets/pannonia/60691322_1094081854048898_4234098504085012480_oj.jpg)
 
 **Amire szükségünk lehet a kertben**
 
