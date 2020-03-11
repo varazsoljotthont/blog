@@ -68,9 +68,9 @@ A virágföldek – minden növényfajtához -, a különböző mulcsok, vetőma
 A hobbikertészeken túl a gazdálkodókat is várják. Raktárkészletüknek köszönhetően nagyobb mennyiségben is kiszolgálják igényeket.
 A szőlészettel foglakozók is megtalálnak itt mindent egy helyen, hogy jó bor kerülhessen az asztalra.
 
-[hordó](/assets/pannonia/10865988_280194432104315_4617761558783016226_o.jpg)
+![hordó](/assets/pannonia/10865988_280194432104315_4617761558783016226_o.jpg)
 
-[szolo](/assets/pannonia/IMG_5365.jpg)
+![szolo](/assets/pannonia/IMG_5365.jpg)
 
 
 
