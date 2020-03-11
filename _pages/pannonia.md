@@ -12,15 +12,15 @@ image:
 
 
 
-**Azon ritka nők közé tartozom, akik nem szeretnek vásárolni. Tényleg így van! A férjem a megmondhatója, hogy igazat mondok! 
-Ez alól egyetlen kivétel van; ha a háznak, vagy a kertnek van szüksége valamire, akkor azonnal útra kelek. 
+**Azon ritka nők közé tartozom, akik nem szeretnek vásárolni. Tényleg így van, és a férjem a megmondhatója, hogy igazat írok! 
+De ez alól van egyetlen kivétel; ha a háznak, vagy a kertnek van szüksége valamire, akkor azonnal útra kelek. 
 Tudom, hogy köztetek is vannak hasonlóan gondolkodóak, ezért most bemutatom nektek a kedvenc üzletemet.** 
 
 
 ## Pannónia Üzletház, Vitnyéd
 
 Vitnyéden, a Pannónia Üzletház az, ahol mindig mindent megtalálok, ami a kerthez, az otthonhoz, a  dekorációkhoz, a különböző ünnepekhez szükséges lehet.
-A 85-ös főút mellett, Győr és Sopron között majdnem félúton található, hatalmas, ingyenes parkolóval, hozzáértő eladókkal, és olyan áru választékkal, amit eddig még sehol nem tapasztaltam.
+A 85-ös főút mellett, Győr és Sopron között majdnem félúton található, hatalmas, ingyenes parkolóval, hozzáértő eladókkal, és olyan áru készlettel, amit eddig még sehol nem tapasztaltam.
 
 ![üzlet](/assets/pannonia/885514_241812399275852_7227901824338415276_o.jpg)
 
@@ -49,7 +49,19 @@ Az apróságokért, virágokért el kell jönni az áruházba, de ezt nem is bá
 **Kert és udvar**
 
 Az Uradalomba a legtöbb növényt innen vásároltam. Már kora tavasszal megjelenek, és novemberig folyamatosan visszatérő vendég vagyok a kertészetben. 
+
+![üzlet](/assets/pannonia/IMG_5371.jpg)
+
+
+
 Az áruház kertészei; Zoli és Reni már jól ismernek. Nem tudok tőlük olyat kérdezni, amire nem tudják a választ. Igyekeznek egyéni kéréseket is teljesíteni, rendelésre meghozatják a kért növényeket.
+
+![üzlet](/assets/pannonia/IMG_5368.jpg)
+
+![üzlet](/assets/pannonia/13350402_369344079856016_1383352079501802487_o.jpg)
+
+![üzlet](/assets/pannonia/11703298_308633365927088_437534541464892210_o.jpg)
+
 Hihetetlen, hogy milyen választékkal rendelkeznek! A hagymások, évelők, örökzöldek, díszfák, gyümölcsfák, különleges növények, cserjék között csak téblábolok, és a bőségzavarával küzdök! Ha végre eldöntöm, hogy mit válasszak, jön a dilemma, hogy milyen színű legyen…
 Kaspókat én még máshol nem láttam ilyen választékban. Kerámia, agyag, műanyag… Mindenki megtalálhatja az ízlésének, pénztárcájának valót.
 
