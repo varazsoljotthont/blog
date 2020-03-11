@@ -22,7 +22,7 @@ Tudom, hogy köztetek is vannak hasonlóan gondolkodóak, ezért most bemutatom 
 Vitnyéden, a Pannónia Üzletház az, ahol mindig mindent megtalálok, ami a kerthez, az otthonhoz, a  dekorációkhoz, a különböző ünnepekhez szükséges lehet.
 A 85-ös főút mellett, Győr és Sopron között majdnem félúton található, hatalmas, ingyenes parkolóval, hozzáértő eladókkal, és olyan áru választékkal, amit eddig még sehol nem tapasztaltam.
 
-![virág](/assets/kertunk/IMG_20190625_080320.jpg)
+![üzlet](/assets/pannonia/885514_241812399275852_7227901824338415276_o.jpg)
 
 ## Pannónia Üzletház az interneten
 
@@ -33,8 +33,18 @@ Még nőként is jó volt ott barangolni. A sövényvágók, szegélynyírók, f
 A webshopban, a házkörül szükséges kis-és nagy gépek széles választékban megtalálhatóak. A barkács ill. kerti gépek, a különböző szerszámok kínálata lenyűgöző.
 A webáruház kínálata folyamatosan bővül. Mindenképpen érdemes visszatérni, hogy az aktuális újdonságokról időben értesüljünk. 
 
+![üzlet](/assets/pannonia/885514_241812399275852_7227901824338415276_o.jpg)
+
 ## Barangolás az áruházban
 Az apróságokért, virágokért el kell jönni az áruházba, de ezt nem is bánom, mert az igazi „élvezetet” az áruházban történő nézegetés jelenti. Bevallom, nem szeretem a plázákat, a bevásárló központokat, de itt bármeddig el tudok „tekeregni”.
+
+![üzlet](/assets/pannonia/55963143_1034730566650694_883109103566585856_o.jpg)
+
+
+![üzlet](/assets/pannonia/21083620_572959032827852_5211685248228180777_o.jpg)
+
+![üzlet](/assets/pannonia/IMG_5397.jpg)
+
 
 **Kert és udvar**
 
@@ -44,12 +54,25 @@ Hihetetlen, hogy milyen választékkal rendelkeznek! A hagymások, évelők, ör
 Kaspókat én még máshol nem láttam ilyen választékban. Kerámia, agyag, műanyag… Mindenki megtalálhatja az ízlésének, pénztárcájának valót.
 
 
+![üzlet](/assets/pannonia/60691322_1094081854048898_4234098504085012480_o.jpg)
+
 **Amire szükségünk lehet a kertben**
 
 A virágföldek – minden növényfajtához -, a különböző mulcsok, vetőmagok, fűmagok, geo textíliák, agrárfóliák, díszkavicsok, kövek, permetszerek, a különböző drótok, csak egy részét képezik az ott található kínálatnak. 
 
+![üzlet](/assets/pannonia/IMG_5374.jpg)
+
+![üzlet](/assets/pannonia/IMG_5374.jpg)
+
+
 A hobbikertészeken túl a gazdálkodókat is várják. Raktárkészletüknek köszönhetően nagyobb mennyiségben is kiszolgálják igényeket.
 A szőlészettel foglakozók is megtalálnak itt mindent egy helyen, hogy jó bor kerülhessen az asztalra.
+
+[üzlet](/assets/pannonia/10865988_280194432104315_4617761558783016226_o.jpg)
+
+[üzlet](/assets/pannonia/IMG_5365.jpg)
+
+
 
 **Dekoráció**
 
