@@ -62,7 +62,7 @@ A virágföldek – minden növényfajtához -, a különböző mulcsok, vetőma
 
 ![üzlet](/assets/pannonia/IMG_5374.jpg)
 
-![üzlet](/assets/pannonia/IMG_5374.jpg)
+![üzlet](/assets/pannonia/IMG_5375.jpg)
 
 
 A hobbikertészeken túl a gazdálkodókat is várják. Raktárkészletüknek köszönhetően nagyobb mennyiségben is kiszolgálják igényeket.
