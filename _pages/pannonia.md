@@ -60,17 +60,17 @@ Kaspókat én még máshol nem láttam ilyen választékban. Kerámia, agyag, m�
 
 A virágföldek – minden növényfajtához -, a különböző mulcsok, vetőmagok, fűmagok, geo textíliák, agrárfóliák, díszkavicsok, kövek, permetszerek, a különböző drótok, csak egy részét képezik az ott található kínálatnak. 
 
-![üzlet](/assets/pannonia/IMG_5374.jpg)
+![kő](/assets/pannonia/IMG_5374.jpg)
 
-![üzlet](/assets/pannonia/IMG_5375.jpg)
+![kő](/assets/pannonia/IMG_5375.jpg)
 
 
 A hobbikertészeken túl a gazdálkodókat is várják. Raktárkészletüknek köszönhetően nagyobb mennyiségben is kiszolgálják igényeket.
 A szőlészettel foglakozók is megtalálnak itt mindent egy helyen, hogy jó bor kerülhessen az asztalra.
 
-[üzlet](/assets/pannonia/10865988_280194432104315_4617761558783016226_o.jpg)
+[hordó](/assets/pannonia/10865988_280194432104315_4617761558783016226_o.jpg)
 
-[üzlet](/assets/pannonia/IMG_5365.jpg)
+[szolo](/assets/pannonia/IMG_5365.jpg)
 
 
 
