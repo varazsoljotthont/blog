@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Újra itt az ősz, és csordultig van szépséggel"
-permalink: /ősz/
+permalink: /pannonia/
 cover: /assets/pannoniaüzlethaz/cover.jpg
 categories: [kert, dekor]
 image:
@@ -12,8 +12,7 @@ image:
 
 
 
-**Azon ritka nők közé tartozom, akik nem szeretnek vásárolni. 
-Tényleg így van! A férjem a megmondhatója, hogy igazat mondok! 
+**Azon ritka nők közé tartozom, akik nem szeretnek vásárolni. Tényleg így van! A férjem a megmondhatója, hogy igazat mondok! 
 Ez alól egyetlen kivétel van; ha a háznak, vagy a kertnek van szüksége valamire, akkor azonnal útra kelek. 
 Tudom, hogy köztetek is vannak hasonlóan gondolkodóak, ezért most bemutatom nektek a kedvenc üzletemet.** 
 
@@ -22,6 +21,8 @@ Tudom, hogy köztetek is vannak hasonlóan gondolkodóak, ezért most bemutatom 
 
 Vitnyéden, a Pannónia Üzletház az, ahol mindig mindent megtalálok, ami a kerthez, az otthonhoz, a  dekorációkhoz, a különböző ünnepekhez szükséges lehet.
 A 85-ös főút mellett, Győr és Sopron között majdnem félúton található, hatalmas, ingyenes parkolóval, hozzáértő eladókkal, és olyan áru választékkal, amit eddig még sehol nem tapasztaltam.
+
+![virág](/assets/kertunk/IMG_20190625_080320.jpg)
 
 ## Pannónia Üzletház az interneten
 
