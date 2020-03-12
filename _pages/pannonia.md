@@ -100,7 +100,10 @@ A hobbikertészeken túl a gazdálkodókat is várják. Raktárkészletüknek k�
 **Dekoráció**
 
 Tudjátok rólam, hogy szenvedélyes dekoráló vagyok.  
-Az áruház az ebbéli igényeimet is kielégíti. Akrilfestékek, dekor hungarocellek, koszorúalapok, táblák, díszek, lámpások, kerti figurák , és még pluszban az épp aktuális ünnepi díszek segítenek abban, hogy minden alkalomra díszbe rakjam a „Miházunkat”.
+Az áruház az ebbéli igényeimet is kielégíti. Akrilfestékek, dekor hungarocellek, koszorúalapok, táblák, díszek, lámpások, kerti figurák, és még pluszban az épp aktuális ünnepi díszek segítenek abban, hogy minden alkalomra díszbe rakjam a „Miházunkat”. 
+
+
+Ha valamit nem találok, - ami nem is csoda, hisz' annyi minden van - Katica rögtön a segítségemre siet, és a kezembe adja amit kerestem.
 
 ![dekor](/assets/pannonia/IMG_5394.jpg)
 
