@@ -13,7 +13,7 @@ image:
 
 
 **Azon ritka nők közé tartozom, akik nem szeretnek vásárolni. Tényleg így van, és a férjem a megmondhatója, hogy igazat írok! 
-De ez alól van egyetlen kivétel; ha a háznak, vagy a kertnek van szüksége valamire, akkor azonnal útra kelek. 
+De ez alól egyetlen kivétel van; ha a háznak, vagy a kertnek van szüksége valamire, akkor azonnal útra kelek. 
 Tudom, hogy köztetek is vannak hasonlóan gondolkodók, ezért most bemutatom nektek a kedvenc üzletemet.** 
 
 
