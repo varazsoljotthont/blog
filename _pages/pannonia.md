@@ -14,12 +14,12 @@ image:
 
 **Azon ritka nők közé tartozom, akik nem szeretnek vásárolni. Tényleg így van, és a férjem a megmondhatója, hogy igazat írok! 
 De ez alól van egyetlen kivétel; ha a háznak, vagy a kertnek van szüksége valamire, akkor azonnal útra kelek. 
-Tudom, hogy köztetek is vannak hasonlóan gondolkodóak, ezért most bemutatom nektek a kedvenc üzletemet.** 
+Tudom, hogy köztetek is vannak hasonlóan gondolkodók, ezért most bemutatom nektek a kedvenc üzletemet.** 
 
 
 ## Pannónia Üzletház, Vitnyéd
 
-Vitnyéden, a Pannónia Üzletház az, ahol mindig mindent megtalálok, ami a kerthez, az otthonhoz, a  dekorációkhoz, a különböző ünnepekhez szükséges lehet.
+Vitnyéden, a Pannónia Üzletház az, ahol mindig mindent megtalálok, ami a kerthez, az otthonhoz, a dekorációkhoz, a különböző ünnepekhez szükséges lehet.
 A 85-ös főút mellett, Győr és Sopron között majdnem félúton található, hatalmas, ingyenes parkolóval, hozzáértő eladókkal, és olyan áru választékkal, amit eddig még sehol nem tapasztaltam.
 
 ![üzlet](/assets/pannonia/885514_241812399275852_7227901824338415276_o.jpg)
@@ -29,18 +29,18 @@ A 85-ös főút mellett, Győr és Sopron között majdnem félúton található
 Pár hónapja, egy az áruházban dolgozó barátnőm említette, hogy a <a href="https://pannoniawebshop.hu/" target="_blank">webáruház</a>
   is elindult, és ezzel a távolabb élők számára is könnyedén elérhetővé vált ez a fantasztikus üzlet.
 Felkerestem, hisz’ kíváncsi voltam mi mindent találok ott. 
-Még nőként is jó volt ott barangolni,hiszen olyan kerti gépeket találtam, mint például sövényvágók, szegélynyírók, fűnyírók, lombfúvók, amiket én is rendszeresen használok, hogy a kertünk mindig olyan legyen, amilyennek szeretném.  
+Még nőként is jó volt ott barangolni,hiszen olyan kerti gépeket találtam, - mint például sövényvágók, szegélynyírók, fűnyírók, lombfúvók -, amiket én is rendszeresen használok, hogy a kertünk mindig olyan legyen, amilyennek szeretném.  
 Van egy blogjuk is, ahol hasznos tippek, javaslatok olvashatóak, ezzel is segítve a vásárlókat.
 
 ![üzlet](/assets/pannonia/IMG_5457.PNG)
 
 
-A webshopban, a házkörül szükséges kis-és nagy gépek széles választékban megtalálhatóak. A barkács ill. kerti gépek, a különböző szerszámok kínálata lenyűgöző, és a webáruház kínálata folyamatosan bővül. Mindenképpen érdemes visszatérni, hogy az aktuális újdonságokról időben értesüljünk.
+A webshopban, a házkörül szükséges kis-és nagy gépek széles választékban megtalálhatók. A barkács ill. kerti gépek, a különböző szerszámok kínálata lenyűgöző, és a webáruház terméklistája folyamatosan bővül. Mindenképpen érdemes visszatérni, hogy az aktuális újdonságokról időben értesüljünk.
 
 ![üzlet](/assets/pannonia/IMG_5455.PNG)
 
 ## Barangolás az áruházban
-Az apróságokért, virágokért személyesen kell eljönni, de ezt nem is bánom; az igazi „élvezetet” az áruházban történő nézegetés jelenti. Bevallom, nem szeretem a plázákat, a bevásárló központokat, de itt bármeddig el tudok „tekeregni”.
+Az apróságokért, virágokért személyesen kell eljönni, de ezt nem is bánom; az igazi „élvezetet” számomra az áruházban történő nézegetés jelenti. Bevallom, nem szeretem a plázákat, a bevásárló központokat, de itt bármeddig el tudok „tekeregni”.
 
 ![üzlet](/assets/pannonia/55963143_1034730566650694_883109103566585856_o.jpg)
 
@@ -57,7 +57,7 @@ Az Uradalomba a legtöbb növényt innen vásároltam. Már kora tavasszal megje
  ![üzlet](/assets/pannonia/11703298_308633365927088_437534541464892210_o.jpg)
 
 
-Az áruház kertészei, Zoli és Reni már jól ismernek. Nem tudok tőlük olyat kérdezni, amire nem tudják a választ. Igyekeznek egyéni kéréseket is teljesíteni, rendelésre meghozatják a kért növényeket.
+Az áruház kertészei, Zoli és Reni már jól ismernek. Nem tudok tőlük olyat kérdezni, amire nem tudják a választ. Igyekeznek egyéni kéréseket is teljesíteni, továbbá rendelésre is meghozatják a kért növényeket.
 
 ![üzlet](/assets/pannonia/IMG_5368.jpg)
 
@@ -65,7 +65,8 @@ Az áruház kertészei, Zoli és Reni már jól ismernek. Nem tudok tőlük olya
 
 
 
-Hihetetlen, hogy milyen választékkal rendelkeznek! A hagymások, évelők, örökzöldek, díszfák, gyümölcsfák, különleges növények, cserjék között csak téblábolok, és a bőségzavarával küzdök! Ha végre eldöntöm, hogy mit válasszak, jön a dilemma, hogy milyen színű legyen…
+Hihetetlen, hogy milyen növény választékkal rendelkeznek!  
+A hagymások, évelők, örökzöldek, díszfák, gyümölcsfák, különleges növények, cserjék között csak téblábolok, és a bőségzavarával küzdök! Ha végre eldöntöm, hogy mit válasszak, jön a dilemma, hogy milyen színű legyen…
 
 ![üzlet](/assets/pannonia/IMG_5371.jpg)
 
@@ -87,7 +88,7 @@ _Lehet dekorálni az udvart_
 
 
 
-A szőlészettel foglakozók is megtalálnak itt mindent egy helyen, hogy jó bor kerülhessen az asztalra.
+A szőlősgazdák is megtalálnak itt mindent egy helyen, hogy jó bor kerülhessen az asztalra.
 
 ![szolo](/assets/pannonia/IMG_5365.jpg)
 
@@ -95,15 +96,17 @@ A szőlészettel foglakozók is megtalálnak itt mindent egy helyen, hogy jó bo
 
 
 
-A hobbikertészeken túl a gazdálkodókat is várják. Raktárkészletüknek köszönhetően nagyobb mennyiségben is kiszolgálják igényeket.
+A hobbikertészeken túl a termelőket is várják. Raktárkészletüknek köszönhetően nagyobb mennyiségben is kiszolgálják a vásárlókat.
 
 **Dekoráció**
 
 Tudjátok rólam, hogy szenvedélyes dekoráló vagyok.  
-Az áruház az ebbéli igényeimet is kielégíti. Akrilfestékek, dekor hungarocellek, koszorúalapok, táblák, díszek, lámpások, kerti figurák, és még pluszban az épp aktuális ünnepi díszek segítenek abban, hogy minden alkalomra díszbe rakjam a „Miházunkat”. 
+Az áruház az ebbéli igényeimet is kielégíti. Akrilfestékek, dekor hungarocellek, koszorúalapok, táblák, díszek, lámpások, kerti figurák, és még pluszban az épp aktuális ünnepi díszek segítenek abban, hogy minden alkalomra díszbe öltöztessem a „Miházunkat”. 
 
 
-Ha valamit nem találok, - ami nem is csoda, hisz' annyi minden van - Katica rögtön a segítségemre siet, és a kezembe adja amit kerestem.
+Ha a sok féle csecse-becsével kapcsolatban kérdésem támad, Katica rögtön a segítségemre siet.
+
+
 
 ![dekor](/assets/pannonia/IMG_5394.jpg)
 
@@ -116,7 +119,7 @@ _Nekem a kedvencem ez a bagoly_
 **Konyha és a háztartás**
 
 Mint minden háziasszony, én is sütök-főzök-takarítok-pakolok.
-Amit a konyhában használni kell, azt itt megtalálom. A legjobb süti kiszúróim ebből az áruházból vannak, és hogy a cappuccino tetejét ki tudjam díszíteni, ahhoz is itt találtam sablont.
+Amit a konyhában használni kell, azt is megtalálom. A legjobb süti kiszúróim ebből az áruházból vannak, és hogy a cappuccino tetejét ki tudjam díszíteni, ahhoz is itt találtam sablont.
 Ezen kívül keverő tálak, tányérok, poharak, evőeszközök, edények is vannak, amik elengedhetetlenek a főzés során.
 A lekvár főzéshez szükséges igazi, nagy fazekat is láttam már itt.
 
@@ -136,11 +139,11 @@ _Nagymamáink sparheltje is kapható_
 
 
 
-Azt biztosan állíthatom, hogy ez olyan bevásárló hely, ahol a férfiak is jól érzik magukat, míg a nejük nézeget.  
+Azt biztosan állíthatom, hogy ez olyan bevásárlóhely, ahol a férfiak is jól érzik magukat, míg a nejük nézeget.  
 Ha ide jövök, mindig találok olyan ötletet, ami beilleszthető lenne hozzánk is. Több mindenünk van „innen”. Sok-sok apróság, és több nagy dolog, amiktől az otthonunk kedvesebbé, a kerti munkák pedig könnyebbé válnak.  
 Az eladók szívélyessége, szakmaisága, a pénztárnál Jolcsi kedves szavai nagyban hozzájárulnak ahhoz, hogy mindig visszatérjek ide. 
 
-És vissza is térek... ...és erről is a férjem tudna a férjem mesélni...
+És vissza is térek... ...és erről a férjem tudna mesélni...
 
 Ha tetszett, kedveld a <a href="https://www.facebook.com/Var%C3%A1zsolj-otthont-360330751226066/" target="_blank">Facebook</a> oldalt, itt még több érdekességet találsz a mindennapok varázslataiból.
 
