@@ -107,7 +107,6 @@ Amit a konyhában használni kell, azt itt megtalálom. A legjobb süti kiszúr�
 Ezen kívül keverő tálak, tányérok, poharak, evőeszközök, edények is vannak, amik elengedhetetlenek a főzés során.
 A lekvár főzéshez szükséges igazi, nagy fazekat is láttam már itt.
 
-
 **Az otthon melege**
 
 
