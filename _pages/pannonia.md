@@ -127,7 +127,6 @@ Az eladók szívélyessége, szakmaisága, a pénztárnál Jolcsi kedves szavai 
 
 És vissza is térek... ...erről is a férjem tudna mesélni...
 
-
 Ha tetszett, kedveld a <a href="https://www.facebook.com/Var%C3%A1zsolj-otthont-360330751226066/" target="_blank">Facebook</a> oldalt, itt még több érdekességet találsz a mindennapok varázslataiból.
 
 Kövess az <a href="https://www.instagram.com/varazsoljotthont/?hl=hu/" target="_blank">Instagramon</a> is, és sok olyan fotót láthatsz, ami a blogról vagy a Facebook oldalról kimaradt.
