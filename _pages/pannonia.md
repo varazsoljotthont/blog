@@ -101,9 +101,7 @@ A hobbikertészeken túl a termelőket is várják. Raktárkészletüknek kösz�
 **Dekoráció**
 
 Tudjátok rólam, hogy szenvedélyes dekoráló vagyok.  
-Az áruház az ebbéli igényeimet is kielégíti. Akrilfestékek, dekor hungarocellek, koszorúalapok, táblák, díszek, lámpások, kerti figurák, és még pluszban az épp aktuális ünnepi díszek segítenek abban, hogy minden alkalomra díszbe öltöztessem a „Miházunkat”. 
-
-
+Az áruház az ebbéli igényeimet is kielégíti. Akrilfestékek, dekor hungarocellek, koszorúalapok, táblák, díszek, lámpások, kerti figurák, és még pluszban az épp aktuális ünnepi díszek segítenek abban, hogy minden alkalomra díszbe öltöztessem a „Miházunkat”.  
 És ha a sok féle csecse-becsével kapcsolatban kérdésem támad, Katica rögtön a segítségemre siet.
 
 
@@ -116,7 +114,7 @@ _Nekem a kedvencem ez a bagoly_
 
 
 
-**Konyha és a háztartás**
+**Konyha és háztartás**
 
 Mint minden háziasszony, én is sütök-főzök-takarítok-pakolok.
 Amit a konyhában használni kell, azt is megtalálom. A legjobb süti kiszúróim ebből az áruházból vannak, és hogy a cappuccino tetejét ki tudjam díszíteni, ahhoz is itt találtam sablont.
