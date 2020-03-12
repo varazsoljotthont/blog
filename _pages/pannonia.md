@@ -66,7 +66,7 @@ Az áruház kertészei, Zoli és Reni már jól ismernek. Nem tudok tőlük olya
 
 
 Hihetetlen, hogy milyen növény választékkal rendelkeznek!  
-A hagymások, évelők, örökzöldek, díszfák, gyümölcsfák, különleges növények, cserjék között csak téblábolok, és a bőségzavarával küzdök! Ha végre eldöntöm, hogy mit válasszak, jön a dilemma, hogy milyen színű legyen…
+A hagymások, évelők, örökzöldek, díszfák, gyümölcsfák, különleges növények, cserjék között csak téblábolok, és a bőség zavarával küzdök! Ha végre eldöntöm, hogy mit válasszak, jön a dilemma, hogy milyen színű legyen…
 
 ![üzlet](/assets/pannonia/IMG_5371.jpg)
 
