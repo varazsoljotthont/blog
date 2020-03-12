@@ -113,7 +113,6 @@ A lekvár főzéshez szükséges igazi, nagy fazekat is láttam már itt.
 Abban egész biztosan egyet értünk, hogy egy jól megválasztott kályha vagy kandalló nem csak meleget ad, hanem dekorációs elemként is funkcionál az otthonunkban.
 Az áruházban a kazánokon túl még ezek közül is választhatunk.
 
-
 ![dekor](/assets/pannonia/IMG_5381.jpg)
 
 ![dekor](/assets/pannonia/IMG_5391.jpg)
@@ -123,7 +122,7 @@ Az áruházban a kazánokon túl még ezek közül is választhatunk.
 A Miházunkban rengeteg minden van „innen”. Sok-sok apróság, és több nagy dolog, amiktől az otthonunk kedvesebbé, a kerti munkák pedig könnyebbé válnak.  
 Az eladók szívélyessége, szakmaisága, a pénztárnál Jolcsi kedves szavai nagyban hozzájárulnak ahhoz, hogy mindig visszatérjek ide. 
 
-És vissza is térek... ...erről is tudna a férjem mesélni...
+És vissza is térek... ...erről is a férjem tudna mesélni...
 
 
 Ha tetszett, kedveld a <a href="https://www.facebook.com/Var%C3%A1zsolj-otthont-360330751226066/" target="_blank">Facebook</a> oldalt, itt még több érdekességet találsz a mindennapok varázslataiból.
