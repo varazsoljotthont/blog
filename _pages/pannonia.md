@@ -2,10 +2,10 @@
 layout: post
 title: 'Pannónia üzletház, a kedvenc "boltom"'
 permalink: /pannonia/
-cover: /assets/pannonia/885514_241812399275852_7227901824338415276_o.jpg
+cover: /assets/pannonia/cover.jpg
 categories: [kert, dekor]
 image:
-  path: /assets/pannonia/885514_241812399275852_7227901824338415276_o.jpg
+  path: /assets/pannonia/cover.jpg
   height: 300
   width: 300
 ---
