@@ -132,12 +132,15 @@ _Az áruházban a kazánokon túl, még a kandallók között is válogathatunk.
 ![dekor](/assets/pannonia/IMG_5391.jpg)
 _Nagymamáink sparheltje is kapható_
 
-**Komolyan mondom, ez a környék legjobb áruháza**
+**Komolyan mondom, ez a környék legjobb üzletháza**
 
-A Miházunkban rengeteg minden van „innen”. Sok-sok apróság, és több nagy dolog, amiktől az otthonunk kedvesebbé, a kerti munkák pedig könnyebbé válnak.  
+
+
+Azt biztosan állíthatom, hogy ez olyan bevásárló hely, ahol a férfiak is jól érzik magukat, míg a nejük nézeget.  
+Ha ide jövök, mindig találok olyan ötletet, ami beilleszthető lenne hozzánk is. Több mindenünk van „innen”. Sok-sok apróság, és több nagy dolog, amiktől az otthonunk kedvesebbé, a kerti munkák pedig könnyebbé válnak.  
 Az eladók szívélyessége, szakmaisága, a pénztárnál Jolcsi kedves szavai nagyban hozzájárulnak ahhoz, hogy mindig visszatérjek ide. 
 
-És vissza is térek... ...erről is a férjem tudna mesélni...
+És vissza is térek... ...és erről is a férjem tudna a férjem mesélni...
 
 Ha tetszett, kedveld a <a href="https://www.facebook.com/Var%C3%A1zsolj-otthont-360330751226066/" target="_blank">Facebook</a> oldalt, itt még több érdekességet találsz a mindennapok varázslataiból.
 
