@@ -78,7 +78,7 @@ Kaspókat én még máshol nem láttam ilyen választékban. Kerámia, agyag, m�
 A virágföldek – minden növényfajtához -, a különböző mulcsok, vetőmagok, fűmagok, geo textíliák, agrárfóliák, díszkavicsok, kövek, permetszerek, a különböző drótok, csak egy részét képezik az ott található kínálatnak. 
 
 ![kő](/assets/pannonia/IMG_5374.jpg)
-
+_Lehet dekorálni az udvart_
 ![kő](/assets/pannonia/IMG_5375.jpg)
 
 
@@ -100,6 +100,7 @@ Az áruház az ebbéli igényeimet is kielégíti. Akrilfestékek, dekor hungaro
 
 
 ![dekor](/assets/pannonia/IMG_5392.jpg)
+_Nekem a kedvencem ez a bagoly_
 
 
 
@@ -113,12 +114,14 @@ A lekvár főzéshez szükséges igazi, nagy fazekat is láttam már itt.
 **Az otthon melege**
 
 
-Abban egész biztosan egyet értünk, hogy egy jól megválasztott kályha vagy kandalló nem csak meleget ad, hanem dekorációs elemként is funkcionál az otthonunkban.
-Az áruházban a kazánokon túl még ezek közül is választhatunk.
+Abban egész biztosan egyet értünk, hogy egy jól megválasztott kályha vagy kandalló nem csak meleget ad, hanem dekorációs elemként is funkcionál az otthonunkban. Nekem is régi vágyam, hogy a nappaliban egy kandalló mellett kucorogjunk a téli estéken. 
+
 
 ![dekor](/assets/pannonia/IMG_5381.jpg)
+_Az áruházban a kazánokon túl, még a kandallók között is válogathatunk._
 
 ![dekor](/assets/pannonia/IMG_5391.jpg)
+_Nagymamáink sparheltje is kapható_
 
 **Komolyan mondom, ez a környék legjobb áruháza**
 
