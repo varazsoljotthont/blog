@@ -33,7 +33,7 @@ Még nőként is jó volt ott barangolni. A sövényvágók, szegélynyírók, f
 A webshopban, a házkörül szükséges kis-és nagy gépek széles választékban megtalálhatóak. A barkács ill. kerti gépek, a különböző szerszámok kínálata lenyűgöző.
 A webáruház kínálata folyamatosan bővül. Mindenképpen érdemes visszatérni, hogy az aktuális újdonságokról időben értesüljünk. 
 
-![üzlet](/assets/pannonia/885514_241812399275852_7227901824338415276_o.jpg)
+![üzlet](/assets/pannonia/IMG_5455.PNG)
 
 ## Barangolás az áruházban
 Az apróságokért, virágokért el kell jönni az áruházba, de ezt nem is bánom, mert az igazi „élvezetet” az áruházban történő nézegetés jelenti. Bevallom, nem szeretem a plázákat, a bevásárló központokat, de itt bármeddig el tudok „tekeregni”.
@@ -108,8 +108,7 @@ Az áruházban a kazánokon túl még ezek közül is választhatunk.
 
 A Miházunkban rengeteg minden van „innen”. Sok-sok apróság, és több nagy dolog, amiktől az otthonunk kedvesebbé, a kerti munkák pedig könnyebbé válnak.
 Az eladók szívélyessége, szakmaisága hozzájárul ahhoz, hogy mindig visszatérjek ide. 
-Búcsúzásként még a pénztárnál is kedves szavakat kap a vásárló. Jolcsi  a kasszához ér
-
+A pénztárnál Jolcsi 
 
 
 
