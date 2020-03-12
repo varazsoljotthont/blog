@@ -77,7 +77,7 @@ Kaspókat én még máshol nem láttam ilyen választékban. Kerámia, agyag, m�
 
 **Amire szükségünk lehet a kertben**
 
-A virágföldek – minden növényfajtához -, a különböző mulcsok, vetőmagok, fűmagok, geo textíliák, agrárfóliák, díszkavicsok, kövek, permetszerek, a különböző drótok, csak egy részét képezik az ott található kínálatnak. 
+A virágföldek – minden növényfajtához -, a különböző mulcsok, vetőmagok, fűmagok, geo textíliák, agrárfóliák, díszkavicsok, kövek, permetszerek, a különböző drótok, csak egy részét képezik az itt található kínálatnak. 
 
 ![kő](/assets/pannonia/IMG_5374.jpg)
 _Lehet dekorálni az udvart_
