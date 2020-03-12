@@ -20,16 +20,21 @@ Tudom, hogy köztetek is vannak hasonlóan gondolkodóak, ezért most bemutatom 
 ## Pannónia Üzletház, Vitnyéd
 
 Vitnyéden, a Pannónia Üzletház az, ahol mindig mindent megtalálok, ami a kerthez, az otthonhoz, a  dekorációkhoz, a különböző ünnepekhez szükséges lehet.
-A 85-ös főút mellett, Győr és Sopron között majdnem félúton található, hatalmas, ingyenes parkolóval, hozzáértő eladókkal, és olyan áru készlettel, amit eddig még sehol nem tapasztaltam.
+A 85-ös főút mellett, Győr és Sopron között majdnem félúton található, hatalmas, ingyenes parkolóval, hozzáértő eladókkal, és olyan áru választékkal, amit eddig még sehol nem tapasztaltam.
 
 ![üzlet](/assets/pannonia/885514_241812399275852_7227901824338415276_o.jpg)
 
 ## Pannónia Üzletház az interneten
 
-Pár hónapja, egy az áruházban dolgozó barátnőm említette, hogy a webáruház <a href="https://pannoniawebshop.hu/" target="_blank">webáruház</a>
+Pár hónapja, egy az áruházban dolgozó barátnőm említette, hogy a <a href="https://pannoniawebshop.hu/" target="_blank">webáruház</a>
   is elindult, és ezzel a távolabb élők számára is könnyedén elérhetővé vált ez a fantasztikus üzlet.
 Felkerestem, hisz’ kíváncsi voltam mi mindent találok ott. 
-Még nőként is jó volt ott barangolni. A sövényvágók, szegélynyírók, fűnyírók, lombfúvók olyan kerti gépek, amiket én is rendszeresen használok, hogy a kertünk mindig olyan legyen, amilyennek szeretném. Van egy blogjuk is, ahol hasznos olvasnivalók, tippek, javaslatok olvashatóak, ezzel is segítve a vásárlókat.
+Még nőként is jó volt ott barangolni. A sövényvágók, szegélynyírók, fűnyírók, lombfúvók olyan kerti gépek, amiket én is rendszeresen használok, hogy a kertünk mindig olyan legyen, amilyennek szeretném.  
+Van egy blogjuk is, ahol hasznos olvasnivalók, tippek, javaslatok olvashatóak, ezzel is segítve a vásárlókat.
+
+![üzlet](/assets/pannonia/IMG_5457.PNG)
+
+
 A webshopban, a házkörül szükséges kis-és nagy gépek széles választékban megtalálhatóak. A barkács ill. kerti gépek, a különböző szerszámok kínálata lenyűgöző.
 A webáruház kínálata folyamatosan bővül. Mindenképpen érdemes visszatérni, hogy az aktuális újdonságokról időben értesüljünk. 
 
