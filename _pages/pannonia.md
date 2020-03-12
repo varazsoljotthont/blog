@@ -103,8 +103,6 @@ Az áruház az ebbéli igényeimet is kielégíti. Akrilfestékek, dekor hungaro
 
 
 
-
-
 **Konyha és a háztartás**
 
 Mint minden háziasszony, én is sütök-főzök-takarítok-pakolok.
