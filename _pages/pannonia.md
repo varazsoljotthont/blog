@@ -104,7 +104,7 @@ Tudjátok rólam, hogy szenvedélyes dekoráló vagyok.
 Az áruház az ebbéli igényeimet is kielégíti. Akrilfestékek, dekor hungarocellek, koszorúalapok, táblák, díszek, lámpások, kerti figurák, és még pluszban az épp aktuális ünnepi díszek segítenek abban, hogy minden alkalomra díszbe öltöztessem a „Miházunkat”. 
 
 
-Ha a sok féle csecse-becsével kapcsolatban kérdésem támad, Katica rögtön a segítségemre siet.
+És ha a sok féle csecse-becsével kapcsolatban kérdésem támad, Katica rögtön a segítségemre siet.
 
 
 
