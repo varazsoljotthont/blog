@@ -120,8 +120,17 @@ _Nekem a kedvencem ez a bagoly_
 
 Mint minden háziasszony, én is sütök-főzök-takarítok-pakolok.
 Amit a konyhában használni kell, azt is megtalálom. A legjobb süti kiszúróim ebből az áruházból vannak, és hogy a cappuccino tetejét ki tudjam díszíteni, ahhoz is itt találtam sablont.
+
+![dekor](/assets/pannonia/IMG-4903.jpg)
+
+
+
 Ezen kívül keverő tálak, tányérok, poharak, evőeszközök, edények is vannak, amik elengedhetetlenek a főzés során.
 A lekvár főzéshez szükséges igazi, nagy fazekat is láttam már itt.
+
+
+
+
 
 **Az otthon melege**
 
