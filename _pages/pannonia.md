@@ -28,9 +28,7 @@ A 85-ös főút mellett, Győr és Sopron között majdnem félúton található
 
 Pár hónapja, egy az áruházban dolgozó barátnőm említette, hogy a <a href="https://pannoniawebshop.hu/" target="_blank">webáruház</a>
   is elindult, és ezzel a távolabb élők számára is könnyedén elérhetővé vált ez a fantasztikus üzlet.
-Felkerestem, hisz’ kíváncsi voltam mi mindent találok ott. 
-
-
+Felkerestem, hisz’ kíváncsi voltam mi mindent találok ott.  
 Még nőként is jó volt ott barangolni, hiszen olyan kerti gépeket találtam, - mint például sövényvágók, szegélynyírók, fűnyírók, lombfúvók -, amiket én is rendszeresen használok, hogy a kertünk mindig olyan legyen, amilyennek szeretném.  
 Van egy blogjuk is, ahol hasznos tippek, javaslatok olvashatóak, ezzel is segítve a vásárlókat.
 
