@@ -35,13 +35,12 @@ Van egy blogjuk is, ahol hasznos olvasnivalók, tippek, javaslatok olvashatóak,
 ![üzlet](/assets/pannonia/IMG_5457.PNG)
 
 
-A webshopban, a házkörül szükséges kis-és nagy gépek széles választékban megtalálhatóak. A barkács ill. kerti gépek, a különböző szerszámok kínálata lenyűgöző.
-A webáruház kínálata folyamatosan bővül. Mindenképpen érdemes visszatérni, hogy az aktuális újdonságokról időben értesüljünk. 
+A webshopban, a házkörül szükséges kis-és nagy gépek széles választékban megtalálhatóak. A barkács ill. kerti gépek, a különböző szerszámok kínálata lenyűgöző, és a webáruház kínálata folyamatosan bővül. Mindenképpen érdemes visszatérni, hogy az aktuális újdonságokról időben értesüljünk.
 
 ![üzlet](/assets/pannonia/IMG_5455.PNG)
 
 ## Barangolás az áruházban
-Az apróságokért, virágokért el kell jönni az áruházba, de ezt nem is bánom, mert az igazi „élvezetet” az áruházban történő nézegetés jelenti. Bevallom, nem szeretem a plázákat, a bevásárló központokat, de itt bármeddig el tudok „tekeregni”.
+Az apróságokért, virágokért személyesen kell eljönni, de ezt nem is bánom; az igazi „élvezetet” az áruházban történő nézegetés jelenti. Bevallom, nem szeretem a plázákat, a bevásárló központokat, de itt bármeddig el tudok „tekeregni”.
 
 ![üzlet](/assets/pannonia/55963143_1034730566650694_883109103566585856_o.jpg)
 
@@ -55,19 +54,22 @@ Az apróságokért, virágokért el kell jönni az áruházba, de ezt nem is bá
 
 Az Uradalomba a legtöbb növényt innen vásároltam. Már kora tavasszal megjelenek, és novemberig folyamatosan visszatérő vendég vagyok a kertészetben. 
 
-![üzlet](/assets/pannonia/IMG_5371.jpg)
+ ![üzlet](/assets/pannonia/11703298_308633365927088_437534541464892210_o.jpg)
 
 
-
-Az áruház kertészei; Zoli és Reni már jól ismernek. Nem tudok tőlük olyat kérdezni, amire nem tudják a választ. Igyekeznek egyéni kéréseket is teljesíteni, rendelésre meghozatják a kért növényeket.
+Az áruház kertészei, Zoli és Reni már jól ismernek. Nem tudok tőlük olyat kérdezni, amire nem tudják a választ. Igyekeznek egyéni kéréseket is teljesíteni, rendelésre meghozatják a kért növényeket.
 
 ![üzlet](/assets/pannonia/IMG_5368.jpg)
 
 ![üzlet](/assets/pannonia/13350402_369344079856016_1383352079501802487_oj.jpg)
 
-![üzlet](/assets/pannonia/11703298_308633365927088_437534541464892210_o.jpg)
+
 
 Hihetetlen, hogy milyen választékkal rendelkeznek! A hagymások, évelők, örökzöldek, díszfák, gyümölcsfák, különleges növények, cserjék között csak téblábolok, és a bőségzavarával küzdök! Ha végre eldöntöm, hogy mit válasszak, jön a dilemma, hogy milyen színű legyen…
+
+![üzlet](/assets/pannonia/IMG_5371.jpg)
+
+
 Kaspókat én még máshol nem láttam ilyen választékban. Kerámia, agyag, műanyag… Mindenki megtalálhatja az ízlésének, pénztárcájának valót.
 
 
