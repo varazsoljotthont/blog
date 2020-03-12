@@ -133,7 +133,7 @@ A lekvár főzéshez szükséges igazi, nagy fazekat is láttam már itt.
 **Az otthon melege**
 
 
-Abban egész biztosan egyet értünk, hogy egy jól megválasztott kályha vagy kandalló nem csak meleget ad, hanem dekorációs elemként is funkcionál az otthonunkban. Nekem is régi vágyam, hogy a nappaliban egy kandalló mellett kucorogjunk a téli estéken. 
+Abban egész biztosan egyet értünk, hogy egy jól megválasztott kályha vagy kandalló nem csak meleget ad, hanem dekorációs elemként is funkcionál. Nekem is régi vágyam, hogy a nappaliban egy kandalló mellett kucorogjunk a téli estéken. 
 
 
 ![dekor](/assets/pannonia/IMG_5381.jpg)
