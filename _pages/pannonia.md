@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Újra itt az ősz, és csordultig van szépséggel"
+title: "Pannónia üzletház, a kedvenc "boltom""
 permalink: /pannonia/
 cover: /assets/pannoniaüzlethaz/cover.jpg
 categories: [kert, dekor]
@@ -91,6 +91,14 @@ A szőlészettel foglakozók is megtalálnak itt mindent egy helyen, hogy jó bo
 Tudjátok rólam, hogy szenvedélyes dekoráló vagyok.  
 Az áruház az ebbéli igényeimet is kielégíti. Akrilfestékek, dekor hungarocellek, koszorúalapok, táblák, díszek, lámpások, kerti figurák , és még pluszban az épp aktuális ünnepi díszek segítenek abban, hogy minden alkalomra díszbe rakjam a „Miházunkat”.
 
+![dekor](/assets/pannonia/IMG_5394.jpg)
+
+
+![dekor](/assets/pannonia/IMG_5392.jpg)
+
+
+
+
 
 **Konyha és a háztartás**
 
@@ -101,15 +109,22 @@ A lekvár főzéshez szükséges igazi, nagy fazekat is láttam már itt.
 
 
 **Az otthon melege**
+
+
 Abban egész biztosan egyet értünk, hogy egy jól megválasztott kályha vagy kandalló nem csak meleget ad, hanem dekorációs elemként is funkcionál az otthonunkban.
 Az áruházban a kazánokon túl még ezek közül is választhatunk.
 
+
+![dekor](/assets/pannonia/IMG_5381.jpg)
+
+![dekor](/assets/pannonia/IMG_5391.jpg)
+
 **Komolyan mondom, ez a környék legjobb áruháza**
 
-A Miházunkban rengeteg minden van „innen”. Sok-sok apróság, és több nagy dolog, amiktől az otthonunk kedvesebbé, a kerti munkák pedig könnyebbé válnak.
-Az eladók szívélyessége, szakmaisága hozzájárul ahhoz, hogy mindig visszatérjek ide. 
-A pénztárnál Jolcsi 
+A Miházunkban rengeteg minden van „innen”. Sok-sok apróság, és több nagy dolog, amiktől az otthonunk kedvesebbé, a kerti munkák pedig könnyebbé válnak.  
+Az eladók szívélyessége, szakmaisága, a pénztárnál Jolcsi kedves szavai nagyban hozzájárulnak ahhoz, hogy mindig visszatérjek ide. 
 
+És vissza is térek... ...erről is tudna a férjem mesélni...
 
 
 Ha tetszett, kedveld a <a href="https://www.facebook.com/Var%C3%A1zsolj-otthont-360330751226066/" target="_blank">Facebook</a> oldalt, itt még több érdekességet találsz a mindennapok varázslataiból.
