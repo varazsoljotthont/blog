@@ -12,9 +12,7 @@ image:
 
 
 
-**Azon ritka nők közé tartozom, akik nem szeretnek vásárolni. Tényleg így van, és a férjem a megmondhatója, hogy igazat írok! 
-Ez alól egyetlen kivétel van; ha a háznak, vagy a kertnek van szüksége valamire, akkor azonnal útra kelek. 
-Tudom, hogy köztetek is vannak hasonlóan gondolkodók, ezért most bemutatom nektek a kedvenc üzletemet.** 
+**Azon ritka nők közé tartozom, akik nem szeretnek vásárolni. Ez alól egyetlen kivétel van; ha a háznak, vagy a kertnek van szüksége valamire, akkor azonnal útra kelek. Tudom, hogy köztetek is vannak hasonlóan gondolkodók, ezért most bemutatom nektek a kedvenc üzletemet.** 
 
 
 ## Pannónia Üzletház, Vitnyéd
@@ -29,8 +27,10 @@ A 85-ös főút mellett, Győr és Sopron között majdnem félúton található
 Pár hónapja, egy az áruházban dolgozó barátnőm említette, hogy a <a href="https://pannoniawebshop.hu/" target="_blank">webáruház</a>
   is elindult, és ezzel a távolabb élők számára is könnyedén elérhetővé vált az üzlet.
 Felkerestem az oldalt, hisz’ kíváncsi voltam mi minden van webshopban.  
-Nőként is jó volt ott barangolni, hiszen olyan kerti gépeket találtam, - mint például a sövényvágók, szegélynyírók, fűnyírók, lombfúvók -, amiket én is rendszeresen használok, hogy a kertünk mindig olyan legyen, amilyennek szeretném.  
-Van egy blogjuk is, ahol hasznos tippek, javaslatok olvashatók, ezzel is segítve a vásárlókat.
+Nőként is jó volt ott barangolni, hiszen olyan kerti gépeket találtam, amiket én is rendszeresen használok, hogy a kertünk mindig olyan legyen, amilyennek szeretném. Ilyenek például a <a href="https://pannoniawebshop.hu/?s=s%C3%B6v%C3%A9nyv%C3%A1g%C3%B3/" target="_blank">sövényvágók</a>, <a href="https://pannoniawebshop.hu/?s=szeg%C3%A9lyny%C3%ADr%C3%B3/" target="_blank">szegélynyírók</a>, 
+<a href="https://pannoniawebshop.hu/?s=lombsz%C3%ADv%C3%B3/" target="_blank">lombszívók</a> és <a href="https://pannoniawebshop.hu/?s=f%C5%B1ny%C3%ADr%C3%B3/" target="_blank">fűnyírók</a>
+
+an egy blogjuk is, ahol hasznos tippek, javaslatok olvashatók, ezzel is segítve a vásárlókat.
 
 ![üzlet](/assets/pannonia/IMG_5457.PNG)
 
