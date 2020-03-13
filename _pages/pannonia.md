@@ -34,7 +34,7 @@ Van egy <a href="https://pannoniawebshop.hu/blog-oldal/" target="_blank">blogjuk
 ![üzlet](/assets/pannonia/IMG_5457.PNG)
 
 
-A webshopban, a ház körül szükséges kis-és nagy gépek széles választékban megtalálhatók. A barkács ill. kerti gépek, a különböző szerszámok kínálata lenyűgöző, és a webáruház terméklistája folyamatosan bővül. Mindenképpen érdemes visszatérni, hogy az aktuális újdonságokról időben értesüljünk.
+A webshopban, a ház körül szükséges kis-és nagy gépek széles választékban megtalálhatók. A <a href="https://pannoniawebshop.hu/barkacsgepek/" target="_blank">barkács ill.</a>  <a href="https://pannoniawebshop.hu/kerti-eszkozok/" target="_blank">kertigépek</a>, a különböző szerszámok kínálata lenyűgöző, és a webáruház terméklistája folyamatosan bővül. Mindenképpen érdemes visszatérni, hogy az aktuális újdonságokról időben értesüljünk.
 
 ![üzlet](/assets/pannonia/IMG_5455.PNG)
 
