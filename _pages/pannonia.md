@@ -57,7 +57,7 @@ Az Uradalomba a legtöbb növényt innen vásároltam. Már kora tavasszal megje
  ![üzlet](/assets/pannonia/11703298_308633365927088_437534541464892210_o.jpg)
 
 
-Az áruház kertészei, Zoli és Reni már jól ismernek. Nem tudok tőlük olyat kérdezni, amire nem tudják a választ. Igyekeznek egyéni kéréseket is teljesíteni, továbbá rendelésre is meghozatják a kért növényeket.
+Az áruház kertészei, Zoli és Reni már jól ismernek. Nem tudok tőlük olyat kérdezni, amire nem tudják a választ. Igyekeznek egyéni kéréseket is teljesíteni, továbbá rendelésre meg is hozatják a kért növényeket.
 
 ![üzlet](/assets/pannonia/IMG_5368.jpg)
 
