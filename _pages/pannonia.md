@@ -29,7 +29,7 @@ Pár hónapja, egy az áruházban dolgozó barátnőm említette, hogy a <a href
 Felkerestem az oldalt, hisz’ kíváncsi voltam mi minden van webshopban.  
 Nőként is jó volt ott barangolni, hiszen olyan kerti gépeket találtam, amiket én is rendszeresen használok, hogy a kertünk mindig olyan legyen, amilyennek szeretném. Ilyenek például a <a href="https://pannoniawebshop.hu/termekkategoria/sovenyvago/" target="_blank">sövényvágók</a>, <a href="https://pannoniawebshop.hu/?s=szeg%C3%A9lyny%C3%ADr%C3%B3/" target="_blank">szegélynyírók</a>, 
 <a href="https://pannoniawebshop.hu/termekkategoria/lombfuvo/" target="_blank">lombszívók</a> <a href="https://pannoniawebshop.hu/termekkategoria/funyirok/" target="_blank">és a fűnyírók</a>.  
-Van egy <https://pannoniawebshop.hu/blog-oldal//" target="_blank">blogjuk</a>is, ahol hasznos tippek, javaslatok olvashatók, ezzel is segítve a vásárlókat.
+Van egy <https://pannoniawebshop.hu/blog-oldal/" target="_blank">blogjuk</a>is, ahol hasznos tippek, javaslatok olvashatók, ezzel is segítve a vásárlókat.
 
 ![üzlet](/assets/pannonia/IMG_5457.PNG)
 
