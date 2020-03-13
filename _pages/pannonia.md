@@ -137,7 +137,7 @@ Abban egész biztosan egyet értünk, hogy egy jól megválasztott kályha vagy 
 
 
 ![dekor](/assets/pannonia/IMG_5381.jpg)
-_Az áruházban a kazánokon túl, még a kandallók között is válogathatunk._
+_Az áruházban a kandallókon túl, még kazánok között is válogathatunk._
 
 ![dekor](/assets/pannonia/IMG_5391.jpg)
 _Nagymamáink sparheltje is kapható_
