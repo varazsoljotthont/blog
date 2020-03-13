@@ -42,38 +42,45 @@ A webshopban, a ház körül szükséges kis-és nagy gépek széles választék
 Az apróságokért, virágokért személyesen kell eljönni, de ezt nem is bánom; az igazi „élvezetet” számomra az áruházban történő nézegetés jelenti. Bevallom, nem szeretem a plázákat, a bevásárló központokat, de itt bármeddig el tudok „tekeregni”.
 
 ![üzlet](/assets/pannonia/55963143_1034730566650694_883109103566585856_o.jpg)
+_Különleges kerti dekorációk is találhatók az üzletben_
 
 
 ![üzlet](/assets/pannonia/21083620_572959032827852_5211685248228180777_o.jpg)
+_Díszüvegek nagy választékan kaphatók_
 
 ![üzlet](/assets/pannonia/IMG_5397.jpg)
-
+_Igazán stílusos kerti dísz ez a madárka_
 
 **Kert és udvar**
 
 Az Uradalomba a legtöbb növényt innen vásároltam. Már kora tavasszal megjelenek, és novemberig folyamatosan visszatérő vendég vagyok a kertészetben. 
 
  ![üzlet](/assets/pannonia/11703298_308633365927088_437534541464892210_o.jpg)
+ _Még tavirózsa is van_
 
 
 Az áruház kertészei, Zoli és Reni már jól ismernek. Nem tudok tőlük olyat kérdezni, amire nem tudják a választ. Igyekeznek egyéni kéréseket is teljesíteni, továbbá rendelésre meg is hozatják a kért növényeket.
 
 ![üzlet](/assets/pannonia/IMG_5368.jpg)
+_Formára nyírt díszfák között is válogathatunk_
 
 ![üzlet](/assets/pannonia/13350402_369344079856016_1383352079501802487_oj.jpg)
+_Pálmák, egzotikus növények a kertészetben_ 
 
 
 
-Hihetetlen, hogy milyen növény választékkal rendelkeznek!  
+Hihetetlen, hogy milyen nagy választékkal rendelkeznek!  
 A hagymások, évelők, örökzöldek, díszfák, gyümölcsfák, különleges növények, cserjék között csak téblábolok, és a bőség zavarával küzdök! Ha végre eldöntöm, hogy mit válasszak, jön a dilemma, hogy milyen színű legyen…
 
 ![üzlet](/assets/pannonia/IMG_5371.jpg)
+_Tavaszi primula kavalkád_
 
 
 Kaspókat én még máshol nem láttam ilyen választékban. Kerámia, agyag, műanyag… Mindenki megtalálhatja az ízlésének, pénztárcájának valót.
 
 
 ![üzlet](/assets/pannonia/60691322_1094081854048898_4234098504085012480_oj.jpg)
+_Kaspó minden formában és színben_
 
 **Amire szükségünk lehet a kertben**
 
@@ -90,8 +97,10 @@ _Lehet dekorálni az udvart_
 A szőlősgazdák is megtalálnak itt mindent egy helyen, hogy jó bor kerülhessen az asztalra.
 
 ![szolo](/assets/pannonia/IMG_5365.jpg)
+_Ez aztán a szőlőtőke_
 
 ![hordó](/assets/pannonia/10865988_280194432104315_4617761558783016226_o.jpg)
+_Hordók különböző méretben_
 
 
 
@@ -119,6 +128,7 @@ Mint minden háziasszony, én is sütök-főzök-takarítok-pakolok.
 Amit a konyhában használni kell, azt is megtalálom. A legjobb süti kiszúróim ebből az áruházból vannak, és hogy a cappuccino tetejét ki tudjam díszíteni, ahhoz is itt találtam sablont.
 
 ![dekor](/assets/pannonia/IMG-4903.jpg)
+_Tortát is díszíthetünk ez sablonnal_
 
 
 
