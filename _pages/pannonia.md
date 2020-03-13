@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Pannónia üzletház, a kedvenc "boltom"'
+title: 'Pannónia Üzletház, a kedvenc "boltom"'
 permalink: /pannonia/
 cover: /assets/pannonia/cover.jpg
 categories: [kert, dekor]
