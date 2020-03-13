@@ -97,7 +97,7 @@ _Lehet dekorálni az udvart_
 A szőlősgazdák is megtalálnak itt mindent egy helyen, hogy jó bor kerülhessen az asztalra.
 
 ![szolo](/assets/pannonia/IMG_5365.jpg)
-_Ez aztán a szőlőtőke_
+_Ez aztán a szőlőtőke!_
 
 ![hordó](/assets/pannonia/10865988_280194432104315_4617761558783016226_o.jpg)
 _Hordók különböző méretben_
