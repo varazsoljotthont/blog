@@ -31,7 +31,7 @@ Nőként is jó volt ott barangolni, hiszen olyan kerti gépeket találtam, amik
 <a href="https://pannoniawebshop.hu/termekkategoria/lombfuvo/" target="_blank">lombszívók</a> <a href="https://pannoniawebshop.hu/termekkategoria/funyirok/" target="_blank">és a fűnyírók</a>.  
 Van egy <a href="https://pannoniawebshop.hu/blog-oldal/" target="_blank">blogjuk</a> is, ahol hasznos tippek, javaslatok olvashatók, ezzel is segítve a vásárlókat.
 
-![üzlet](/assets/pannonia/IMG_5457.PNG
+![üzlet](/assets/pannonia/IMG_5457.PNG)
 
 
 A webshopban, a ház körül szükséges kis-és nagy gépek széles választékban megtalálhatók. A barkács ill. kerti gépek, a különböző szerszámok kínálata lenyűgöző, és a webáruház terméklistája folyamatosan bővül. Mindenképpen érdemes visszatérni, hogy az aktuális újdonságokról időben értesüljünk.
