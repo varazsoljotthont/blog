@@ -156,7 +156,7 @@ _Nagymamáink sparheltje is kapható_
 
 
 Azt biztosan állíthatom, hogy ez olyan bevásárlóhely, ahol a férfiak is jól érzik magukat, míg a nejük nézeget.  
-Ha ide jövök, mindig találok olyan ötletet, ami beilleszthető lenne hozzánk is. Több mindenünk van „innen”. Sok-sok apróság, és több nagy dolog, amiktől az otthonunk kedvesebbé, a kerti munkák pedig könnyebbé válnak.  
+Ha ide jövök, mindig találok olyan ötletet, ami beilleszthető lenne hozzánk is. Több mindenünk van „tőlük”. Sok-sok apróság, és több nagy dolog, amiktől az otthonunk kedvesebbé, a kerti munkák pedig könnyebbé válnak.  
 Az eladók szívélyessége, szakmaisága, a pénztárnál Jolcsi kedves szavai nagyban hozzájárulnak ahhoz, hogy mindig visszatérjek ide. 
 
 És vissza is térek... ...de erről a férjem tudna mesélni!
