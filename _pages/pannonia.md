@@ -161,6 +161,8 @@ Az eladók szívélyessége, szakmaisága, a pénztárnál Jolcsi kedves szavai 
 
 És vissza is térek... ...de erről a férjem tudna mesélni!
 
+Ha te is szeretnél innen vásárolni barkács vagy kerti eszközöket, de nem szívesen mennél most tömegbe, emberek közé akkor vásárolj a webshopból, ahol most rengeteg gép tavaszi akciós kedvezménnyel elérhető.  <a href="https://pannoniawebshop.hu/tavaszi-akcio-2/ /" target="_blank">Kattints ide</a> és vásárolj otthonod biztonságából.
+
 Ha tetszett, kedveld a <a href="https://www.facebook.com/Var%C3%A1zsolj-otthont-360330751226066/" target="_blank">Facebook</a> oldalt, itt még több érdekességet találsz a mindennapok varázslataiból.
 
 Kövess az <a href="https://www.instagram.com/varazsoljotthont/?hl=hu/" target="_blank">Instagramon</a> is, és sok olyan fotót láthatsz, ami a blogról vagy a Facebook oldalról kimaradt.
