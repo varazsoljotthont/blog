@@ -29,8 +29,15 @@ A hatalmas kínálatból a megfelelő függyönyt kiválasztani nem is olyan egy
 
 ## Fehér vagy színes
 
-Ma már a fényáteresztő függönyök között is találunk színeseket, és azonos színeken belül különböző árnyalatokat. A drappos, bézses, krémszínű, homokszínű méterárú között hatalmas a különbség. Nem mindegy melyiket válasszuk. Más illik egy modern otthonba, és más egy vidékies stílusú házba.
+A fehér függöny igazi klasszikus, és hosszú ideig egyeduralkodóként volt jelen a lakás dekorálásában. 
 
+
+
+
+Ma már a fényáteresztő függönyök között is találunk színeseket, és azonos színeken belül különböző árnyalatokat. Még a drappos, bézses, krémszínű, homokszínű méterárú között is hatalmas a különbség, ezért nem mindegy melyik színt mellett tesszük le a voksunkat. Szőrszál hasogatásnak tűnhet, de az ablakok a függönnyel kiegészítve meghatározó elemei az otthonunknak, így aztán a választásunk nagyban hozzájárul lakásunk egységéhez.
+
+
+> 15 évvel ezelőtt még a "másik házba" mályva színű fényáteresztő függönyt varrattam. Az ülőgarnitúra mintájának színe volt a meghatározó és nagyon jól is mutatott. De nem volt egyszerű elfogadtatni a különleges színt.
 
 
 
@@ -49,18 +56,30 @@ Az anyagok szövésésében szintén óriási különbségek vannak. Más hangul
 
 Legyünk őszinték; a háziasszonyok jó része nem szeret vasalni, függönyt meg pláne...
 
-Az organza és a voile függönyöket vasalni kell. Ha az lakás berendezéshez ez illik, akkor a valamit valamiért elv alapján ezt be kell vállalni.
-De 
+Az organza és a voile függönyöket vasalni kell. Ha a lakás berendezéshez ez illik, akkor a valamit valamiért elv alapján ezt be kell vállalni.
+
+
+Szerencsére ma már azokból az anyagokból is széles a választék, amik nem gyűrődnek, vagy csak minimálsan, és a nedvesen a helyükre téve szépen "kilógják magukat".
+
+
+## Újrahasznosítás és a függöny
+
+Nem mondok újat senkinek; a környezetszennyezés globális probléma. 
+
+Ha szeretnék szép otthont, de a környeztünk is fontos számunkra, vásárolhatunk  már újrahasznosított petpalackokból készült méterárút is.
+
+
 [idézet](/assets/teraszdekor/Nevtelen.png)
+
+
 
 Ha jól választottunk, akkor a lakásunk megkapja azt a csipetnyi fűszert, amitől igazán különleges lesz az összhatás.** 
 
 Amikor az üzletben elénk rakják a szebbnél-szebb méterárut, hirtelen azt sem tudjuk, hogy milyet is szeretnénk. Hogy ne essünk ebbe a csapdába, érdemes konkrét tervekkel felkészülni. Hiába szép egy anyag önmagában, ha nem passzol az otthonunk berendezéséhez, stílusához, nem szabad választani. S
 
-újrhasznosított anyagból készülnek pet palack 
 
-Számomra nagyon fontos volt, hogy olyan "kisugárzása" legyen a terasznak ami bennünket is és a hozzánk látogatókat is jó érzéssel tölti el.  
-Igen, minket is. Szerintem a szorgos mindennapok után nem mindegy, hogy a haza érkezés milyen környezetbe történik.  
+
+
 
 > Azt hiszem nem vagyok egyedül azzal a gondolattal, hogy az otthonunk nem csak arra szolgál, hogy tető legyen a fejünk felett. Az otthon számomra az a hely, ahol erőt gyűjtök, feltöltődöm, és belépve az ajtón azt mondom, de jó itthon lenni! Ez csak úgy megy, ha az  otthon, ahová érkezem rendezett, tiszta, hívogató.
 
