@@ -39,20 +39,22 @@ Ma már a fényáteresztő függönyök között is találunk színeseket, és a
 
 > 15 évvel ezelőtt még a "másik házba" mályva színű fényáteresztő függönyt varrattam. Az ülőgarnitúra mintájának színe volt a meghatározó és nagyon jól is mutatott. De nem volt egyszerű elfogadtatni a különleges színt.
 
-A színes fényáteresztő függöny az ablakra feltéve megváltoztatja a színét. Érdemes az üzlet kirakatához, ablakához odapróbálni, hogy ott milyennek látszik. 
+A színes fényáteresztő függöny az ablakra feltéve megváltoztatja a színét. Érdemes az üzlet kirakatához, ablakához odapróbálni, hogy a fényben látszik . 
 
 
-## A megfelelő függöny kiválasztássa
+## A megfelelő fényáteresztő, sötétítő, dekorfüggöny kiválasztássa
 
-Léteznek örök érvényű szabályok, amik a divat minden területére érvényesek; 
+Léteznek örök érvényű szabályok, amik lakástextilek területére is érvényesek; 
 
-*egyszínűhöz mintás, mintáshoz egyszínű
+* egyszínűhöz mintás, mintáshoz egyszínű
 
-*
+* kis terekhez kis minta, nagyobbakhoz nagyobb 
 
+* sok szín esetén szolidabb, pasztelebb, visszafogottabb berendezés esetén, erőteljesebb, dominánsabb színű függöny
 
+* alacsony belmagasságnál függőleges minta
 
-
+* napsütötte helyiségekbe a hideg színek közül is választhatunk, de a keleti, északi fekvésűekbe a meleg színek közül válasszunk 
 
 
 
@@ -98,30 +100,13 @@ Amikor az üzletben elénk rakják a szebbnél-szebb méterárut, hirtelen azt s
 
 > Azt hiszem nem vagyok egyedül azzal a gondolattal, hogy az otthonunk nem csak arra szolgál, hogy tető legyen a fejünk felett. Az otthon számomra az a hely, ahol erőt gyűjtök, feltöltődöm, és belépve az ajtón azt mondom, de jó itthon lenni! Ez csak úgy megy, ha az  otthon, ahová érkezem rendezett, tiszta, hívogató.
 
-A felújítás során a vidéki stílust választottam a házunkhoz, így nem volt kérdés, hogy a teraszunkra is ezt a hangulatot fogom kivinni.
+
 
 
 ![tégla](/assets/teraszdekor/IMG_20190722_124455.jpg)
 _Ide érkezünk haza_
 
 
-
-
-
-**Aljzat burkolás**
-
-A terasz elkészültekor ideiglenesen a régi [hajópadlóval](/2019-02-12/szobabetonozas) burkoltunk. Átmenetileg jó szolgálatot tett, de ahogy az időjárás engedte, már le is cseréltük tégla burkolatra.
-
-
-
-
-
-
-
-
-A teraszunk 13 m2. Nem túl nagy, de nem is aprócska.
-
-Nem akartam túlzsúfolni; a terasz átjárhatóságát meg akartam tartani. Kettőnknek bőven van hely, de hat-hét ember is körbe tudja ülni az asztalt. 
 
 
 
