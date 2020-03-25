@@ -39,6 +39,21 @@ Ma már a fényáteresztő függönyök között is találunk színeseket, és a
 
 > 15 évvel ezelőtt még a "másik házba" mályva színű fényáteresztő függönyt varrattam. Az ülőgarnitúra mintájának színe volt a meghatározó és nagyon jól is mutatott. De nem volt egyszerű elfogadtatni a különleges színt.
 
+A színes fényáteresztő függöny az ablakra feltéve megváltoztatja a színét. Érdemes az üzlet kirakatához, ablakához odapróbálni, hogy ott milyennek látszik. 
+
+
+## A megfelelő függöny kiválasztássa
+
+Léteznek örök érvényű szabályok, amik a divat minden területére érvényesek; 
+
+*egyszínűhöz mintás, mintáshoz egyszínű
+
+*
+
+
+
+
+
 
 
 
