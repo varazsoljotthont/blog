@@ -87,11 +87,11 @@ _Különböző ráncolási módok<br> forrás:Pinterest_
 A ráncoláson túl, még mindig van lehetőségünk egyénivé tenni a függönyünket. A színek kombinálásával, a trükkös megoldásokkal igazán az otthonunkhoz stílusához alakíthatjuk a választott anyagot.
 
 ![fuggony](/assets/fuggony/338e6529fef6f27b103890e3fd18bda7.jpg)
-_A hideg színek nagyon elegánsak<br> forrás: Pinterest_
+_Színek harmóniája_
 
 
 ![fuggony](/assets/fuggony/07254d42148ef8958d03069769a65bfb.jpg)
-_Egy különleges elkötési mód íbr> forrás: Pinterest
+_Egy különleges elkötési mód<br> forrás: Pinterest
 
 
 ## Az anyag struktúrája
