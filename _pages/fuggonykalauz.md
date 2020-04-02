@@ -34,8 +34,8 @@ _Nemrégiben készült el a konyha új függönye_
 A hatalmas kínálatból a megfelelő függönyt kiválasztani nem is olyan egyszerű. Szűkítsük a kört, és csak azt nézzük meg ami anyagában, színében, mintázatában is megfelel. Ezzel megkönnyíthetjük a magunk és az eladó dolgát is. Sokkal inkább tudják a számunkra megfelelőt ajánlani, ha pontos információja van arról, hogy mit is szeretnénk.
 
 ![fuggony](/assets/fuggony/2fb586a5cbc12c00cda64084b8f2a97c.jpg) 
-_Csak a rolós függönyre ilyen sok megoldás létezik
-forrás: Pinterest_ 
+_Csak a rolós függönyre ilyen sok megoldás létezik_
+_forrás: Pinterest_ 
 
 
 ## Fehér vagy színes
@@ -44,8 +44,15 @@ A fehér függöny igazi klasszikus, és hosszú ideig egyeduralkodóként volt 
 
 
 
+Ma már a fényáteresztő függönyök között is találunk színeseket, és azonos színeken belül különböző árnyalatokat. Még a drappos, bézses, krémszínű, homokszínű méterárú között is hatalmas a különbség, ezért nem mindegy melyik színt mellett tesszük le a voksunkat. 
 
-Ma már a fényáteresztő függönyök között is találunk színeseket, és azonos színeken belül különböző árnyalatokat. Még a drappos, bézses, krémszínű, homokszínű méterárú között is hatalmas a különbség, ezért nem mindegy melyik színt mellett tesszük le a voksunkat. Szőrszál hasogatásnak tűnhet, de az ablakok a függönnyel kiegészítve meghatározó elemei az otthonunknak, így aztán a választásunk nagyban hozzájárul lakásunk egységéhez.
+
+![fuggony](/assets/fuggony/IMG_5100.jpg)
+_A színek közti eltérés nem látványos, és mégis sokat számít mit választunk_
+
+
+
+Szőrszál hasogatásnak tűnhet, de az ablakok a függönnyel kiegészítve meghatározó elemei az otthonunknak, így aztán a választásunk nagyban hozzájárul lakásunk egységéhez.
 
 
 > 15 évvel ezelőtt még a "másik házba" mályva színű fényáteresztő függönyt varrattam. Az ülőgarnitúra mintájának színe volt a meghatározó és nagyon jól is mutatott. De nem volt egyszerű elfogadtatni a különleges színt.
