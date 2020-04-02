@@ -25,13 +25,17 @@ image:
 Azt hiszem, nagyon szerencsés vagyok, hisz' a közelünkben lévő függöny szaküzlet tulajdonosát jól ismerem, de ami még lényegesebb, hogy Ő is jól ismer engem, és persze az otthonunkat is.
 A "Miházunk" már a negyedik, amit Zsuzsi segítségével függönyöztem be. Tudja mi az elképzelésem, így már "személyre szabottan" mutatja a kínálatot. Mindig alaposan átbeszéljük a részleteket, többször is egyeztetünk, hogy aztán a végeredménnyel mindketten elégedettek legyünk.
 
-![tégla](/assets/teraszdekor/IMG_20190722_124455.jpg)
-_Ide érkezünk haza_
+![fuggony](/assets/fuggony/IMG_4766.jpg) 
+_Nemrégiben készült el a konyha új függönye_ 
+
 
 ## Kabáthoz a gombot
 
 A hatalmas kínálatból a megfelelő függönyt kiválasztani nem is olyan egyszerű. Szűkítsük a kört, és csak azt nézzük meg ami anyagában, színében, mintázatában is megfelel. Ezzel megkönnyíthetjük a magunk és az eladó dolgát is. Sokkal inkább tudják a számunkra megfelelőt ajánlani, ha pontos információja van arról, hogy mit is szeretnénk.
 
+![fuggony](/assets/fuggony/2fb586a5cbc12c00cda64084b8f2a97c.jpg) 
+_Csak a rolós függönyre ilyen sok megoldás létezik
+forrás: Pinterest_ 
 
 
 ## Fehér vagy színes
