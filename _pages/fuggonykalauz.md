@@ -14,7 +14,7 @@ image:
  **Otthonunk berendezésénél a textíliák teszik fel az I-re a pontot, és úgy hiszem, nem túlzás azt mondani, hogy a lakás estélyiruhája a függöny. Azt gondolhatnánk, hogy egy függöny vásárlása nem tartogat nehézségeket, pedig kiválasztásakor figyelni kell az anyag, a szín, a fazon és nem utolsósorban a helyiség stílusára is. A dekoráción túl a szerepe is lényeges, ezért már a tervezéskor érdemes a részleteket alaposan átgondolni.** 
  
  
-[fuggony](/assets/fuggony/idezet.jpg) 
+![fuggony](/assets/fuggony/idezet.jpg) 
 
 
 
@@ -25,6 +25,8 @@ image:
 Azt hiszem, nagyon szerencsés vagyok, hisz' a közelünkben lévő függöny szaküzlet tulajdonosát jól ismerem, de ami még lényegesebb, hogy Ő is jól ismer engem, és persze az otthonunkat is.
 A "Miházunk" már a negyedik, amit Zsuzsi segítségével függönyöztem be. Tudja mi az elképzelésem, így már "személyre szabottan" mutatja a kínálatot. Mindig alaposan átbeszéljük a részleteket, többször is egyeztetünk, hogy aztán a végeredménnyel mindketten elégedettek legyünk.
 
+![tégla](/assets/teraszdekor/IMG_20190722_124455.jpg)
+_Ide érkezünk haza_
 
 ## Kabáthoz a gombot
 
