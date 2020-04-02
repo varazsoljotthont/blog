@@ -87,7 +87,7 @@ _Hasonló színek, de különböző méretű minták, és teljesen más hatást 
 
 
 ![fuggony](/assets/fuggony/IMG_5104.jpg)
-_Bőr hatású anyag_
+_A bőr hatású anyag a modern otthonokba illik leginkább_
 
 
 Abban is dönteni kell, hogy a választott anyagot, miként varrassuk meg. Itt is rengeteg megoldás közül válogathatunk.
@@ -144,7 +144,7 @@ A karnisok között is hatalmas a választék.
 
 A helyiség és a függöny stílusa, fazona meghatározza, hogy elrejteni kell, vagy kiemelni. Mindkét esetben számos lehetőségünk van. A műanyag sín, amit falra, mennyezetre is rakhatunk, vagy a fém rúd, ami fekete, bronz, réz, króm színekben, különböző végzárókkal kapható, számos lehetőséget tartogat. A klasszikus fazonú, fa előlapú karnisok 1-2-3 soros változatai között is találhatunk kedvünkre valót.
 
-![fuggony](/assets/fuggony/IMG_5096)
+![fuggony](/assets/fuggony/IMG_5096.jpg)
 _A végzáróknak is jelentősége van_
 
 Ezeken kívül, a különböző rugós függöny tartórudak, vitrázsrudak is a segítségünkre vannak az ablakaink felöltöztetésében.
@@ -177,7 +177,7 @@ Az ördög a részletekben lakozik, szokták mondani, így aztán az apróságok
 _A csipke szinte keretet ad a függönynek_
 
 ![fuggony](/assets/fuggony/788d9026d13544ab2584b506036f8007.jpg)
-_Ne féljünk a színektől<br> forrás: bonprix_
+_Apróságnak tűnik, de mégsem az<br> forrás: bonprix_
 
 
 
