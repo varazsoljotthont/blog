@@ -44,7 +44,7 @@ A fehér függöny igazi klasszikus, és hosszú ideig egyeduralkodóként volt 
 
 
 
-Ma már a fényáteresztő függönyök között is találunk színeseket, és azonos színeken belül különböző árnyalatokat. Még a drappos, bézses, krémszínű, homokszínű méterárú között is hatalmas a különbség, ezért nem mindegy melyik színt mellett tesszük le a voksunkat. 
+Ma már a fényáteresztő függönyök között is találunk színeseket, és azonos színeken belül különböző árnyalatokat. Még a drappos, bézses, krémszínű, homokszínű méterárú között is hatalmas a különbség, ezért nem mindegy melyik szín mellett tesszük le a voksunkat. 
 
 
 ![fuggony](/assets/fuggony/IMG_5100.jpg)
@@ -84,15 +84,18 @@ Abban is dönteni kell, hogy a választott anyagot, miként varrassuk meg. Itt i
 
 ![fuggony](/assets/fuggony/d7c3cebd12ded9fd09eba04c5dbd6fd2.jpg)
 _Különböző ráncolási módok_
+_forrás:Pinterest_
 
 A ráncoláson túl, még mindig van lehetőségünk egyénivé tenni a függönyünket. A színek kombinálásával, a trükkös megoldásokkal igazán az otthonunkhoz stílusához alakíthatjuk a választott anyagot.
 
-![fuggony](/assets/fuggony/d7c3cebd12ded9fd09eba04c5dbd6fd2.jpg)
-_Különböző ráncolási módok_
+![fuggony](/assets/fuggony/338e6529fef6f27b103890e3fd18bda7.jpg)
+_A hideg színek nagyon elegánsak_
+_forrás: Pinterest_
 
 
-![fuggony](/assets/fuggony/d7c3cebd12ded9fd09eba04c5dbd6fd2.jpg)
-_Különböző ráncolási módok_
+![fuggony](/assets/fuggony/07254d42148ef8958d03069769a65bfb.jpg)
+_Egy különleges elkötési mód_
+_forrás: Pinterest
 
 
 ## Az anyag struktúrája
