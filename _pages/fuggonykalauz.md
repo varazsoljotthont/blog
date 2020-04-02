@@ -1,17 +1,21 @@
 ---
 layout: post
 title: "Otthonunk ruhája a függöny" 
-permalink: /teraszdekor/
-cover: /assets/teraszdekor/cover.jpg
+permalink: /fuggonykalauz/
+cover: /assets/fuggony/cover.jpg
 categories: [haz, kert, dekor]
 image:
-  path: /assets/teraszdekor/cover.jpg
+  path: /assets/fuggonykalauz/cover.jpg
   height: 300
   width: 300
 ---
 
 
  **Otthonunk berendezésénél a textíliák teszik fel az I-re a pontot, és úgy hiszem, nem túlzás azt mondani, hogy a lakás estélyiruhája a függöny. Azt gondolhatnánk, hogy egy függöny vásárlása nem tartogat nehézségeket, pedig kiválasztásakor figyelni kell az anyag, a szín, a fazon és nem utolsósorban a helyiség stílusára is. A dekoráción túl a szerepe is lényeges, ezért már a tervezéskor érdemes a részleteket alaposan átgondolni.** 
+ 
+ 
+[idézet](/assets/fuggony/IMG_5053(1).jpg) 
+ 
 
 ## Mindig akad egy ablak amire függöny kell...
 
@@ -23,7 +27,7 @@ A "Miházunk" már a negyedik, amit Zsuzsi segítségével függönyöztem be. T
 
 ## Kabáthoz a gombot
 
-A hatalmas kínálatból a megfelelő függyönyt kiválasztani nem is olyan egyszerű. Szűkítsük a kört, és csak azt nézzük meg ami anyagában, színében, mintázatában is megfelel. Ezzel megkönnyíthetjük a magunk és az eladó dolgát is. Sokkal inkább tudja a számunkra megfelelőt ajánlani, ha pontos információja van arról, hogy mit is szeretnénk.
+A hatalmas kínálatból a megfelelő függönyt kiválasztani nem is olyan egyszerű. Szűkítsük a kört, és csak azt nézzük meg ami anyagában, színében, mintázatában is megfelel. Ezzel megkönnyíthetjük a magunk és az eladó dolgát is. Sokkal inkább tudják a számunkra megfelelőt ajánlani, ha pontos információja van arról, hogy mit is szeretnénk.
 
 
 
