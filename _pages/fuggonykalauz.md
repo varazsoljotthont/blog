@@ -34,7 +34,7 @@ _Nemrégiben készült el a konyha új függönye_
 A hatalmas kínálatból a megfelelő függönyt kiválasztani nem is olyan egyszerű. Szűkítsük a kört, és csak azt nézzük meg ami anyagában, színében, mintázatában is megfelel. Ezzel megkönnyíthetjük a magunk és az eladó dolgát is. Sokkal inkább tudják a számunkra megfelelőt ajánlani, ha pontos információja van arról, hogy mit is szeretnénk.
 
 ![fuggony](/assets/fuggony/2fb586a5cbc12c00cda64084b8f2a97c.jpg) 
-_Csak a rolós függönyre ilyen sok megoldás létezik forrás: Pinterest_ 
+_Csak a rolós függönyre ilyen sok megoldás létezik<br> forrás: Pinterest_ 
 
 
 ## Fehér vagy színes
