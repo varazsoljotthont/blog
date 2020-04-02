@@ -57,7 +57,12 @@ Szőrszál hasogatásnak tűnhet, de az ablakok a függönnyel kiegészítve meg
 
 > 15 évvel ezelőtt még a "másik házba" mályva színű fényáteresztő függönyt varrattam. Az ülőgarnitúra mintájának színe volt a meghatározó és nagyon jól is mutatott. De nem volt egyszerű elfogadtatni a különleges színt.
 
-A színes fényáteresztő függöny az ablakra feltéve megváltoztatja a színét. Érdemes az üzlet kirakatához, ablakához odapróbálni, hogy a fényben látszik . 
+
+![fuggony](/assets/fuggony/IMG_5093.jpg)
+_Rengeteg szín közüllehet válogatni_
+
+
+A színes fényáteresztő függöny az ablakra feltéve megváltoztatja a színét. Érdemes az üzlet kirakatához, ablakához odapróbálni, hogy a fényben milyennek látszik . 
 
 
 ## A megfelelő fényáteresztő, sötétítő, dekorfüggöny kiválasztássa
@@ -66,19 +71,28 @@ Léteznek örök érvényű szabályok, amik lakástextilek területére is érv
 
 * egyszínűhöz mintás, mintáshoz egyszínű
 
-* kis terekhez kis minta, nagyobbakhoz nagyobb 
+* kis terekhez kis minta, nagyobb helyiségekhez nagyobb 
 
 * sok szín esetén szolidabb, pasztelebb, visszafogottabb berendezés esetén, erőteljesebb, dominánsabb színű függöny
 
 * alacsony belmagasságnál függőleges minta
 
-* napsütötte helyiségekbe a hideg színek közül is választhatunk, de a keleti, északi fekvésűekbe a meleg színek közül válasszunk 
+* napsütötte helyiségekbe a hideg színek mellett is dönthetünk, de a keleti, északi fekvésűekbe inkább meleg színek közül válasszunk 
 
 
+Abban is dönteni kell, hogy a választott anyagot, miként varrassuk meg. Itt is rengeteg megoldás közül válogathatunk.
+
+![fuggony](/assets/fuggony/d7c3cebd12ded9fd09eba04c5dbd6fd2.jpg)
+_Különböző ráncolási módok_
+
+A ráncoláson túl, még mindig van lehetőségünk egyénivé tenni a függönyünket. A színek kombinálásával, a trükkös megoldásokkal igazán az otthonunkhoz stílusához alakíthatjuk a választott anyagot.
+
+![fuggony](/assets/fuggony/d7c3cebd12ded9fd09eba04c5dbd6fd2.jpg)
+_Különböző ráncolási módok_
 
 
- 
-
+![fuggony](/assets/fuggony/d7c3cebd12ded9fd09eba04c5dbd6fd2.jpg)
+_Különböző ráncolási módok_
 
 
 ## Az anyag struktúrája
