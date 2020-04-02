@@ -22,8 +22,8 @@ image:
 
 
 
-Azt hiszem, nagyon szerencsés vagyok, hisz' a közelünkben lévő <a href="https://www.google.hu/maps/uv?hl=hu&pb=!1s0x476c063a58733483%3A0x8530e31628e35499!2m22!2m2!1i80!2i80!3m1!2i20!16m16!1b1!2m2!1m1!1e1!2m2!1m1!1e3!2m2!1m1!1e5!2m2!1m1!1e4!2m2!1m1!1e6!3m1!7e115!4shttps%3A%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipMZt0VlFlQM2ClHuz8yynNak7fJJ87eZOKZ_rtx%3Dw284-h160-k-no!5zenN1enNpIGbDvGdnw7ZueSBrYXB1dsOhciAtIEdvb2dsZS1rZXJlc8Opcw!15sCAESAggH&imagekey=!1e10!2sAF1QipMZt0VlFlQM2ClHuz8yynNak7fJJ87eZOKZ_rtx&sa=X&ved=2ahUKEwjGyMmv_f_hAhXto4sKHdM_D-sQoiowDnoECA0QBg/" target="_blank"> függöny szaküzlet</a> 
-tulajdonosát jól ismerem, de ami még lényegesebb, hogy Ő is jól ismer engem, és persze az otthonunkat is.
+Azt hiszem, nagyon szerencsés vagyok, hisz' a közelünkben lévő <a href="https://www.google.hu/maps/uv?hl=hu&pb=!1s0x476c063a58733483%3A0x8530e31628e35499!2m22!2m2!1i80!2i80!3m1!2i20!16m16!1b1!2m2!1m1!1e1!2m2!1m1!1e3!2m2!1m1!1e5!2m2!1m1!1e4!2m2!1m1!1e6!3m1!7e115!4shttps%3A%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipMZt0VlFlQM2ClHuz8yynNak7fJJ87eZOKZ_rtx%3Dw284-h160-k-no!5zenN1enNpIGbDvGdnw7ZueSBrYXB1dsOhciAtIEdvb2dsZS1rZXJlc8Opcw!15sCAESAggH&imagekey=!1e10!2sAF1QipMZt0VlFlQM2ClHuz8yynNak7fJJ87eZOKZ_rtx&sa=X&ved=2ahUKEwjGyMmv_f_hAhXto4sKHdM_D-sQoiowDnoECA0QBg/" target="_blank"> Hanság-Zsuzsi függöny szaküzlet</a> 
+( 9330 Kapuvár, Deák Ferenc u. 18 ) tulajdonosát jól ismerem, de ami még lényegesebb, hogy Ő is jól ismer engem, és persze az otthonunkat is.
 A "Miházunk" már a negyedik, amit Zsuzsi segítségével függönyöztem be. Tudja mi az elképzelésem, így már "személyre szabottan" mutatja a kínálatot. Mindig alaposan átbeszéljük a részleteket, többször is egyeztetünk, hogy aztán a végeredménnyel mindketten elégedettek legyünk.
 
 ![fuggony](/assets/fuggony/IMG_4766.jpg) 
