@@ -46,7 +46,7 @@ A fehér függöny igazi klasszikus, és hosszú ideig egyeduralkodóként volt 
 Ma már a fényáteresztő függönyök között is találunk színeseket, és azonos színeken belül különböző árnyalatokat. Még a drappos, bézses, krémszínű, homokszínű méterárú között is hatalmas a különbség, ezért nem mindegy melyik szín mellett tesszük le a voksunkat. 
 
 
-![fuggony](/assets/fuggony/IMG_5100.jpg)
+![fuggony](/assets/fuggony/IMG_5111.jpg)
 _A színek közti eltérés nem látványos, és mégis sokat számít mit választunk_
 
 
@@ -114,21 +114,25 @@ Az organza és a voile függönyöket vasalni kell. Ha a lakás berendezéshez e
 
 Szerencsére ma már azokból az anyagokból is széles a választék, amik nem gyűrődnek, vagy csak minimálsan, és a nedvesen a helyükre téve szépen "kilógják magukat".
 
-
-## Újrahasznosítás és a függöny
-
-Nem mondok újat senkinek; a környezetszennyezés globális probléma. 
-
-Ha szeretnék szép otthont, de a környeztünk is fontos számunkra, vásárolhatunk  már újrahasznosított petpalackokból készült méterárút is.
-
-
-[idézet](/assets/teraszdekor/Nevtelen.png)
-
-
+![fuggony](/assets/fuggony/IMG_5100.jpg)
+_Ha fontos nekünk, hogy ne kelljen vasalni, akkor ezt az igényünket már vásárláskor jelezzük_
 
 Ha jól választottunk, akkor a lakásunk megkapja azt a csipetnyi fűszert, amitől igazán különleges lesz az összhatás.** 
 
 Amikor az üzletben elénk rakják a szebbnél-szebb méterárut, hirtelen azt sem tudjuk, hogy milyet is szeretnénk. Hogy ne essünk ebbe a csapdába, érdemes konkrét tervekkel felkészülni. Hiába szép egy anyag önmagában, ha nem passzol az otthonunk berendezéséhez, stílusához, nem szabad választani. S
+
+
+
+
+**+ 1 gondolat:**   
+Nem mondok újat senkinek; a környezetszennyezés globális probléma. 
+Van megoldás akkor is, ha a szép otthon, és a környezetvédelem is fontos számotokra... ma  már újrahasznosított petpalackokból készült méterárúkból is lehet vásárolni.
+
+
+
+
+
+
 
 
 
