@@ -59,7 +59,7 @@ Szőrszál hasogatásnak tűnhet, de az ablakok a függönnyel kiegészítve meg
 
 
 ![fuggony](/assets/fuggony/IMG_5093.jpg)
-_Rengeteg szín közüllehet válogatni_
+_Rengeteg szín közül lehet válogatni_
 
 
 A színes fényáteresztő függöny az ablakra feltéve megváltoztatja a színét. Érdemes az üzlet kirakatához, ablakához odapróbálni, hogy a fényben milyennek látszik . 
@@ -79,6 +79,12 @@ Léteznek örök érvényű szabályok, amik lakástextilek területére is érv
 
 * napsütötte helyiségekbe a hideg színek mellett is dönthetünk, de a keleti, északi fekvésűekbe inkább meleg színek közül válasszunk 
 
+![fuggony](/assets/fuggony/0ee28213d8797a884b3cd4e72a49923c.jpg)
+_Hasonló színek, de különböző méretű minták, és teljesen más hatást érünk el<br> forrás:Pinterest_
+
+
+![fuggony](/assets/fuggony/38766477c57fddfa1fe2154712f517fd.jpg)
+
 
 Abban is dönteni kell, hogy a választott anyagot, miként varrassuk meg. Itt is rengeteg megoldás közül válogathatunk.
 
@@ -95,6 +101,8 @@ _Színek harmóniája<br> forrás: Pinterest_
 _Különleges elkötési mód<br> forrás: Pinterest_
 
 ![fuggony](/assets/fuggony/79b33f6925c384923c9964ae29845fc3.jpg)
+
+
 
 ## Az anyag struktúrája
 
@@ -117,6 +125,8 @@ Szerencsére ma már azokból az anyagokból is széles a választék, amik nem 
 
 ![fuggony](/assets/fuggony/IMG_5100.jpg)
 _Ha fontos nekünk, hogy ne kelljen vasalni, akkor ezt az igényünket már vásárláskor jelezzük_
+
+
 
 Ha jól választottunk, akkor a lakásunk megkapja azt a csipetnyi fűszert, amitől igazán különleges lesz az összhatás.** 
 
