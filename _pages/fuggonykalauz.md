@@ -169,8 +169,16 @@ _A természetesség kedvelőinek<br> forrás: Pinterest_
 ![fuggony](/assets/fuggony/bdc69aa91f6e188d989d79c37dc946e5.jpg)
 _És az elegancia híveinek<br> forrás: Pinterest_
 
-![fuggony](/assets/fuggony/2109ae6aa881ce97d7d044461928baae.jpg)
-_Ne féljünk a színektől<br> forrás: Pinterest_
+**Szalagok, csipkék, gombok, stb**
+
+Az ördög a részletekben lakozik, szokták mondani, így aztán az apróságoknak tűnő finomságok meghatarozóak ebben az esetben is.
+
+![fuggony](/assets/fuggony/cover.jpg)
+_A csipke szinte keretet ad a függönynek_
+
+![fuggony](/assets/fuggony/788d9026d13544ab2584b506036f8007.jpg)
+_Ne féljünk a színektől<br> forrás: bonprix_
+
 
 
 ## Tegyük tökéletessé otthonunkat
