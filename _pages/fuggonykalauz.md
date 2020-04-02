@@ -87,18 +87,23 @@ _Különböző ráncolási módok<br> forrás:Pinterest_
 A ráncoláson túl, még mindig van lehetőségünk egyénivé tenni a függönyünket. A színek kombinálásával, a trükkös megoldásokkal igazán az otthonunkhoz stílusához alakíthatjuk a választott anyagot.
 
 ![fuggony](/assets/fuggony/338e6529fef6f27b103890e3fd18bda7.jpg)
-_Színek harmóniája_
+_Színek harmóniája<br> forrás: Pinterest_
 
 
-![fuggony](/assets/fuggony/07254d42148ef8958d03069769a65bfb.jpg)
-_Egy különleges elkötési mód<br> forrás: Pinterest
+![fuggony](/assets/fuggony/c6305f9ef78aeaf79cf6588479f793dd.jpg)
+_Különleges elkötési mód<br> forrás: Pinterest_
 
+![fuggony](/assets/fuggony/79b33f6925c384923c9964ae29845fc3.jpg)
 
 ## Az anyag struktúrája
 
 
 Az anyagok szövésésében szintén óriási különbségek vannak. Más hangulatot teremt a műszálas; mint az organza, a voile, és mást a len hatású anyag. 
 És ebben az esetben is érvényes, hogy az otthonunk stílusa határozza meg a függöny anyagát is.
+
+![fuggony](/assets/fuggony/IMG_5095.jpg)
+_Vidéki otthonba illő vitrázs függöny<br> forrás: Pinterest_
+
 
 **Vasalni vagy nem vasalni...**
 
