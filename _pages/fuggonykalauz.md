@@ -117,8 +117,8 @@ Az anyagok szövésésében szintén óriási különbségek vannak. Más hangul
 ![fuggony](/assets/fuggony/IMG_5095.jpg)
 _Vidéki otthonba illő vitrázs függöny_
 
-![fuggony](/assets/fuggony/IMG_5095.jpg)
-_Vidéki otthonba illő vitrázs függöny_
+![fuggony](/assets/fuggony/d918c8921c16255d7bf6a155c865b362.jpg)
+_Dekorációs céllal az ablakfelső részére is tehetünk függönyt<br> forrás: Pinterest_
 
 
 **Vasalni vagy nem vasalni...**
@@ -133,11 +133,16 @@ Szerencsére ma már azokból az anyagokból is széles a választék, amik nem 
 ![fuggony](/assets/fuggony/IMG_5100.jpg)
 _Ha fontos nekünk, hogy ne kelljen vasalni, akkor ezt az igényünket már vásárláskor jelezzük_
 
+## Tegyük tökéletessé otthonunkat
+
+Ha jól választottunk, akkor a lakásunk megkapja azt a csipetnyi fűszert, amitől igazán különleges lesz az összhatás.
+
+![fuggony](/assets/fuggony/2109ae6aa881ce97d7d044461928baae.jpg)
+_Ne féljünk a színektől<br> forrás: Pinterest_
 
 
-Ha jól választottunk, akkor a lakásunk megkapja azt a csipetnyi fűszert, amitől igazán különleges lesz az összhatás.** 
 
-Amikor az üzletben elénk rakják a szebbnél-szebb méterárut, hirtelen azt sem tudjuk, hogy milyet is szeretnénk. Hogy ne essünk ebbe a csapdába, érdemes konkrét tervekkel felkészülni. Hiába szép egy anyag önmagában, ha nem passzol az otthonunk berendezéséhez, stílusához, nem szabad választani. S
+Amikor az üzletben elénk rakják a szebbnél-szebb méterárut, hirtelen azt sem tudjuk, hogy milyet is szeretnénk. Hogy ne essünk ebbe a csapdába, érdemes konkrét tervekkel felkészülni. Hiába szép egy anyag önmagában, ha nem passzol az otthonunk berendezéséhez, stílusához, nem szabad választani. 
 
 
 
@@ -156,13 +161,6 @@ Van megoldás akkor is, ha a szép otthon, és a környezetvédelem is fontos sz
 
 
 
-> Azt hiszem nem vagyok egyedül azzal a gondolattal, hogy az otthonunk nem csak arra szolgál, hogy tető legyen a fejünk felett. Az otthon számomra az a hely, ahol erőt gyűjtök, feltöltődöm, és belépve az ajtón azt mondom, de jó itthon lenni! Ez csak úgy megy, ha az  otthon, ahová érkezem rendezett, tiszta, hívogató.
-
-
-
-
-![tégla](/assets/teraszdekor/IMG_20190722_124455.jpg)
-_Ide érkezünk haza_
 
 
 
