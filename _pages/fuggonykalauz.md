@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Otthonunk ruhája a függöny" 
+title: "Otthonunk ruhája, a függöny" 
 permalink: /fuggonykalauz/
 cover: /assets/fuggony/cover.jpg
 categories: [haz, kert, dekor]
@@ -184,8 +184,8 @@ Ha tetszett, kedveld a <a href="https://www.facebook.com/Var%C3%A1zsolj-otthont-
 ## Kapcsolódó cikkek
 
  
-* [Ilyen volt, ilyen lett: így lett a kaszálóból romantikus, vidéki kert](/2019-06-26/kulsokorlet)
-* [Így lett a tüzifa az otthonunk dísze](/2019-05-16/fábólkreatívan)
+* [Életre kelnek a falak](/2019-03-01/színesfalak)
+* [Ötletes tároló dobozok sajátkezűleg, vidéki stílusban](/2019-04-17/tárolók)
 * [Bontott tégla varázsa az otthonunkban](/2019-04-23/tegla)
 * [Hozzuk formába az otthonunkat!](/2019-03-26/dekoráció)
 
