@@ -161,7 +161,7 @@ _A természetesség jegyében<br> forrás: Pinterest_
 ![fuggony](/assets/fuggony/elkoto2.png)  
 _Az elegancia kedvelőinek<br> forrás: Pinterest_
 
-![fuggony](/assets/fuggony/elkoto2.png)  
+![fuggony](/assets/fuggony/elkoto3.png)  
 _Mindenben ott a lehetőség<br> forrás: Pinterest_
 
 
