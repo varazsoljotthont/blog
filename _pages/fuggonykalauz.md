@@ -155,14 +155,9 @@ Természetesen itt is több variáció van.
 
 Lehet a függöny saját anyagából, de lehet teljesen más anyagból is, mint a fém, a szalag, a klasszikus zsinóros megoldás, vagy akár alternatív megoldást is választhatunk.
 
-![fuggony](/assets/fuggony/9ce50b0e0b22376086929c3a8a9e8563.jpg)  ![fuggony](/assets/fuggony/6d3dbfcc6d5911302b797a7982af0486.jpg)
+![fuggony](/assets/fuggony/elkoto.png)  
                                 _Mindenben ott a lehetőség<br> forrás: Pinterest_
 
-
-
-
-![fuggony](/assets/fuggony/1992240bccf0a02595623237d17327d8.jpg)    ![fuggony](/assets/fuggony/bdc69aa91f6e188d989d79c37dc946e5j.jpg)
-  _A természetesség kedvelőinek<br> forrás: Pinterest_               _És az elegancia híveinek<br> forrás: Pinterest_                                                                            
 
 
 
