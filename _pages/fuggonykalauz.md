@@ -82,19 +82,16 @@ Léteznek örök érvényű szabályok, amik lakástextilek területére is érv
 Abban is dönteni kell, hogy a választott anyagot, miként varrassuk meg. Itt is rengeteg megoldás közül válogathatunk.
 
 ![fuggony](/assets/fuggony/d7c3cebd12ded9fd09eba04c5dbd6fd2.jpg)
-_Különböző ráncolási módok_
-_forrás:Pinterest_
+_Különböző ráncolási módok<br> forrás:Pinterest_
 
 A ráncoláson túl, még mindig van lehetőségünk egyénivé tenni a függönyünket. A színek kombinálásával, a trükkös megoldásokkal igazán az otthonunkhoz stílusához alakíthatjuk a választott anyagot.
 
 ![fuggony](/assets/fuggony/338e6529fef6f27b103890e3fd18bda7.jpg)
-_A hideg színek nagyon elegánsak_
-_forrás: Pinterest_
+_A hideg színek nagyon elegánsak<br> forrás: Pinterest_
 
 
 ![fuggony](/assets/fuggony/07254d42148ef8958d03069769a65bfb.jpg)
-_Egy különleges elkötési mód_
-_forrás: Pinterest
+_Egy különleges elkötési mód íbr> forrás: Pinterest
 
 
 ## Az anyag struktúrája
