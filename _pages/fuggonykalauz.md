@@ -87,10 +87,10 @@ _Hasonló színek, de különböző méretű minták, és teljesen más hatást 
 
 
 ![fuggony](/assets/fuggony/IMG_5104.jpg)
-_A bőr hatású anyag a modern otthonokba illik leginkább_
+_A bőr hatású anyag leinkább a modern otthonokba illik _
 
 
-Abban is dönteni kell, hogy a választott anyagot, miként varrassuk meg. Itt is rengeteg megoldás közül válogathatunk.
+Abban is dönteni kell, hogy a méterárut miként varrassuk meg. Itt is rengeteg megoldás közül válogathatunk.
 
 ![fuggony](/assets/fuggony/d7c3cebd12ded9fd09eba04c5dbd6fd2.jpg)
 _Különböző ráncolási módok<br> forrás:Pinterest_
@@ -102,7 +102,7 @@ _Színek harmóniája<br> forrás: Pinterest_
 
 
 ![fuggony](/assets/fuggony/c6305f9ef78aeaf79cf6588479f793dd.jpg)
-_Különleges elkötési mód<br> forrás: Pinterest_
+_Különleges elkötési ötletek<br> forrás: Pinterest_
 
 ![fuggony](/assets/fuggony/79b33f6925c384923c9964ae29845fc3.jpg)
 
@@ -155,19 +155,16 @@ Természetesen itt is több variáció van.
 
 Lehet a függöny saját anyagából, de lehet teljesen más anyagból is, mint a fém, a szalag, a klasszikus zsinóros megoldás, vagy akár alternatív megoldást is választhatunk.
 
-![fuggony](/assets/fuggony/9ce50b0e0b22376086929c3a8a9e8563.jpg)
-_Mindenben ott a lehetőség<br> forrás: Pinterest_
-
-![fuggony](/assets/fuggony/6d3dbfcc6d5911302b797a7982af0486.jpg)
+![fuggony](/assets/fuggony/9ce50b0e0b22376086929c3a8a9e8563.jpg)  ![fuggony](/assets/fuggony/6d3dbfcc6d5911302b797a7982af0486.jpg)
+                                _Mindenben ott a lehetőség<br> forrás: Pinterest_
 
 
 
-![fuggony](/assets/fuggony/1992240bccf0a02595623237d17327d8.jpg)
-_A természetesség kedvelőinek<br> forrás: Pinterest_
+
+![fuggony](/assets/fuggony/1992240bccf0a02595623237d17327d8.jpg)    ![fuggony](/assets/fuggony/bdc69aa91f6e188d989d79c37dc946e5j.jpg)
+  _A természetesség kedvelőinek<br> forrás: Pinterest_               _És az elegancia híveinek<br> forrás: Pinterest_                                                                            
 
 
-![fuggony](/assets/fuggony/bdc69aa91f6e188d989d79c37dc946e5.jpg)
-_És az elegancia híveinek<br> forrás: Pinterest_
 
 **Szalagok, csipkék, gombok, stb**
 
