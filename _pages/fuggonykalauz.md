@@ -32,7 +32,7 @@ _Nemrégiben készült el a konyha új függönye_
 
 ## Könnyítsük meg a választást
 
-A hatalmas kínálatból a megfelelő függönyt kiválasztani nem is olyan egyszerű. Szűkítsük a kört, és csak azt nézzük meg ami anyagában, színében, mintázatában is megfelel. Ezzel megkönnyíthetjük a magunk és az eladó dolgát is. Sokkal inkább tudják a számunkra megfelelőt ajánlani, ha pontos információja van arról, hogy mit is szeretnénk.
+A hatalmas kínálatból a megfelelő függönyt kiválasztani nem is olyan egyszerű. Szűkítsük a kört, és csak azt nézzük meg ami anyagában, színében, mintázatában is megfelel. Ezzel megkönnyíthetjük a magunk és az eladó dolgát is. Sokkal inkább tudják a számunkra megfelelőt ajánlani, ha pontos információt adunk arról, hogy mit is szeretnénk.
 
 ![fuggony](/assets/fuggony/2fb586a5cbc12c00cda64084b8f2a97c.jpg) 
 _Csak a rolós függönyre ilyen sok megoldás létezik<br> forrás: Pinterest_ 
@@ -44,7 +44,7 @@ A fehér függöny igazi klasszikus, és hosszú ideig egyeduralkodóként volt 
 
 
 
-Ma már a fényáteresztő függönyök között is találunk színeseket, és azonos színeken belül különböző árnyalatokat. Még a drappos, bézses, krémszínű, homokszínű méterárú között is hatalmas a különbség, ezért nem mindegy melyik szín mellett tesszük le a voksunkat. 
+Ma már a fényáteresztő függönyök között is találunk színeseket, és azonos színeken belül különböző árnyalatokat. Még a drapp, bézs, krémszínű, homokszínű méterárú között is hatalmas a különbség, ezért nem mindegy melyik szín mellett tesszük le a voksunkat. 
 
 
 ![fuggony](/assets/fuggony/IMG_5111.jpg)
@@ -55,7 +55,7 @@ _A színek közti eltérés nem látványos, és mégis sokat számít mit vála
 Szőrszál hasogatásnak tűnhet, de az ablakok a függönnyel kiegészítve meghatározó elemei az otthonunknak, így aztán a választásunk nagyban hozzájárul lakásunk egységéhez.
 
 
-> 15 évvel ezelőtt még a "másik házba" mályva színű fényáteresztő függönyt varrattam. Az ülőgarnitúra mintájának színe volt a meghatározó és nagyon jól is mutatott. De nem volt egyszerű elfogadtatni a különleges színt.
+> Közel 20 évvel ezelőtt még a "másik házba" mályva színű fényáteresztő függönyt varrattam. Az ülőgarnitúra mintájának színe volt a meghatározó és nagyon jól is mutatott. De nem volt egyszerű elfogadtatni a különleges színt.
 
 
 ![fuggony](/assets/fuggony/IMG_5093.jpg)
@@ -118,7 +118,7 @@ Az anyagok szövésésében szintén óriási különbségek vannak. Más hangul
 _Vidéki otthonba illő vitrázs függöny_
 
 ![fuggony](/assets/fuggony/d918c8921c16255d7bf6a155c865b362.jpg)
-_Dekorációs céllal az ablakfelső részére is tehetünk függönyt<br> forrás: Pinterest_
+_Dekorációs céllal az ablak felső részére is tehetünk függönyt<br> forrás: Pinterest_
 
 
 **Vasalni vagy nem vasalni...**
@@ -133,6 +133,46 @@ Szerencsére ma már azokból az anyagokból is széles a választék, amik nem 
 ![fuggony](/assets/fuggony/IMG_5100.jpg)
 _Ha fontos nekünk, hogy ne kelljen vasalni, akkor ezt az igényünket már vásárláskor jelezzük_
 
+
+## Kiegészítők
+
+Ha a függönyt megálmodtuk, jöhetnek hozzá az apróságok. 
+
+**Karnis**
+
+A karnisok között is hatalmas a választék.
+
+A helyiség és a függöny stílusa, fazona meghatározza, hogy elrejteni kell, vagy kiemelni. Mindkét esetben számos lehetőségünk van. A műanyag sín, amit falra, mennyezetre is rakhatunk, vagy a fém rúd, ami fekete, bronz, réz, króm színekben, különböző végzárókkal kapható, számos lehetőséget tartogat. A klasszikus fazonú, fa előlapú karnisok 1-2-3 soros változatai között is találhatunk kedvünkre valót.
+
+![fuggony](/assets/fuggony/IMG_5096)
+_A végzáróknak is jelentősége van_
+
+Ezeken kívül, a különböző rugós függöny tartórudak, vitrázsrudak is a segítségünkre vannak az ablakaink felöltöztetésében.
+
+**Elkötő zsinór**
+
+Természetesen itt is több variáció van.
+
+Lehet a függöny saját anyagából, de lehet teljesen más anyagból is, mint a fém, a szalag, a klasszikus zsinóros megoldás, vagy akár alternatív megoldást is választhatunk.
+
+![fuggony](/assets/fuggony/9ce50b0e0b22376086929c3a8a9e8563.jpg)
+_Mindenben ott a lehetőség<br> forrás: Pinterest_
+
+![fuggony](/assets/fuggony/6d3dbfcc6d5911302b797a7982af0486.jpg)
+
+
+
+![fuggony](/assets/fuggony/1992240bccf0a02595623237d17327d8.jpg)
+_A természetesség kedvelőinek<br> forrás: Pinterest_
+
+
+![fuggony](/assets/fuggony/bdc69aa91f6e188d989d79c37dc946e5.jpg)
+_És az elegancia híveinek<br> forrás: Pinterest_
+
+![fuggony](/assets/fuggony/2109ae6aa881ce97d7d044461928baae.jpg)
+_Ne féljünk a színektől<br> forrás: Pinterest_
+
+
 ## Tegyük tökéletessé otthonunkat
 
 Ha jól választottunk, akkor a lakásunk megkapja azt a csipetnyi fűszert, amitől igazán különleges lesz az összhatás.
@@ -142,7 +182,7 @@ _Ne féljünk a színektől<br> forrás: Pinterest_
 
 
 
-Amikor az üzletben elénk rakják a szebbnél-szebb méterárut, hirtelen azt sem tudjuk, hogy milyet is szeretnénk. Hogy ne essünk ebbe a csapdába, érdemes konkrét tervekkel felkészülni. Hiába szép egy anyag önmagában, ha nem passzol az otthonunk berendezéséhez, stílusához, nem szabad választani. 
+Amikor az üzletben elénk rakják a szebbnél-szebb méterárut, hirtelen azt sem tudjuk, milyet is szeretnénk. Hogy ne essünk ebbe a csapdába, érdemes konkrét tervekkel felkészülni. Hiába szép egy anyag önmagában, ha nem passzol az otthonunk berendezéséhez, stílusához, nem szabad választani. 
 
 
 
