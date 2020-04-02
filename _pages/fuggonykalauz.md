@@ -30,7 +30,7 @@ A "Miházunk" már a negyedik, amit Zsuzsi segítségével függönyöztem be. T
 _Nemrégiben készült el a konyha új függönye_ 
 
 
-## Kabáthoz a gombot
+## Könnyítsük meg a választást
 
 A hatalmas kínálatból a megfelelő függönyt kiválasztani nem is olyan egyszerű. Szűkítsük a kört, és csak azt nézzük meg ami anyagában, színében, mintázatában is megfelel. Ezzel megkönnyíthetjük a magunk és az eladó dolgát is. Sokkal inkább tudják a számunkra megfelelőt ajánlani, ha pontos információja van arról, hogy mit is szeretnénk.
 
