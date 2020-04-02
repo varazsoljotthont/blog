@@ -183,16 +183,13 @@ _Apróságnak tűnik, de mégsem az<br> forrás: bonprix_
 
 ## Tegyük tökéletessé otthonunkat
 
-Ha jól választottunk, akkor a lakásunk megkapja azt a csipetnyi fűszert, amitől igazán különleges lesz az összhatás.
+Amikor az üzletben elénk rakják a szebbnél-szebb méterárut, hirtelen azt sem tudjuk, milyet is szeretnénk. Hogy ne essünk ebbe a csapdába, érdemes konkrét tervekkel felkészülni. Hiába szép egy anyag önmagában, ha nem passzol az otthonunk berendezéséhez, stílusához, nem szabad választani. 
+
 
 ![fuggony](/assets/fuggony/2109ae6aa881ce97d7d044461928baae.jpg)
 _Ne féljünk a színektől<br> forrás: Pinterest_
 
-
-
-Amikor az üzletben elénk rakják a szebbnél-szebb méterárut, hirtelen azt sem tudjuk, milyet is szeretnénk. Hogy ne essünk ebbe a csapdába, érdemes konkrét tervekkel felkészülni. Hiába szép egy anyag önmagában, ha nem passzol az otthonunk berendezéséhez, stílusához, nem szabad választani. 
-
-
+Ha jól választottunk, akkor a lakásunk megkapja azt a csipetnyi fűszert, amitől igazán különleges lesz az összhatás.
 
 
 **+ 1 gondolat:**   
