@@ -86,6 +86,10 @@ _Hasonló színek, de különböző méretű minták, és teljesen más hatást 
 ![fuggony](/assets/fuggony/38766477c57fddfa1fe2154712f517fd.jpg)
 
 
+![fuggony](/assets/fuggony/IMG_5104.jpg)
+_Bőr hatású anyag_
+
+
 Abban is dönteni kell, hogy a választott anyagot, miként varrassuk meg. Itt is rengeteg megoldás közül válogathatunk.
 
 ![fuggony](/assets/fuggony/d7c3cebd12ded9fd09eba04c5dbd6fd2.jpg)
@@ -111,7 +115,10 @@ Az anyagok szövésésében szintén óriási különbségek vannak. Más hangul
 És ebben az esetben is érvényes, hogy az otthonunk stílusa határozza meg a függöny anyagát is.
 
 ![fuggony](/assets/fuggony/IMG_5095.jpg)
-_Vidéki otthonba illő vitrázs függöny<br> forrás: Pinterest_
+_Vidéki otthonba illő vitrázs függöny_
+
+![fuggony](/assets/fuggony/IMG_5095.jpg)
+_Vidéki otthonba illő vitrázs függöny_
 
 
 **Vasalni vagy nem vasalni...**
