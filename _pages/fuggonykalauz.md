@@ -191,7 +191,7 @@ Ha jól választottunk, akkor a lakásunk megkapja azt a csipetnyi fűszert, ami
 
 **+ 1 gondolat:**   
 Nem mondok újat senkinek; a környezetszennyezés globális probléma. 
-Van megoldás akkor is, ha a szép otthon, és a környezetvédelem is fontos számotokra... ma  már újrahasznosított petpalackokból készült méterárúkból is lehet vásárolni.
+Van megoldás akkor is, ha a szép otthon, és a környezetvédelem is fontos számotokra... ma  már újrahasznosított petpalackokból készült méterárukból is lehet vásárolni.
 
 
 Ha tetszett, kedveld a <a href="https://www.facebook.com/Var%C3%A1zsolj-otthont-360330751226066/" target="_blank">Facebook oldalt</a> is. Itt még több érdekességet találsz a mindennapok varázslataiból.
