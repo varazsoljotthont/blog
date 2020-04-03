@@ -70,7 +70,7 @@ A színes fényáteresztő függöny az ablakra feltéve megváltoztatja a szín
 
 Léteznek örök érvényű szabályok, amik lakástextilek területére is érvényesek; 
 
-* egyszínűhöz mintás, mintáshoz egyszínű
+* egyszínűhöz mintás, mintáshoz egyszínű (vagyis, ha a fényáteresztő mintás, akkor a sötétítő egyszínű, és fordítva) 
 
 * kis terekhez kis minta, nagyobb helyiségekhez nagyobb 
 
