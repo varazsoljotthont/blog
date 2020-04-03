@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Otthonunk ruhája, a függöny" 
-permalink: /fuggonykalauz/
 cover: /assets/fuggony/coverj.jpg
 categories: [haz, dekor]
 image:
