@@ -32,6 +32,7 @@ _Nemrégiben készült el a konyha új függönye_
 
 ## Könnyítsük meg a választást
 
+
 A hatalmas kínálatból a megfelelő függönyt kiválasztani nem is olyan egyszerű. Szűkítsük a kört, és csak azt nézzük meg ami anyagában, színében, mintázatában is megfelel. Ezzel megkönnyíthetjük a magunk és az eladó dolgát is. Sokkal inkább tudják a számunkra megfelelőt ajánlani, ha pontos információt adunk arról, hogy mit is szeretnénk.
 
 ![fuggony](/assets/fuggony/2fb586a5cbc12c00cda64084b8f2a97c.jpg) 
