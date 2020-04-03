@@ -86,8 +86,7 @@ _Hasonló színek, de különböző méretű minták, és teljesen más hatást 
 ![fuggony](/assets/fuggony/38766477c57fddfa1fe2154712f517fd.jpg)
 
 
-![fuggony](/assets/fuggony/IMG_5104.jpg)
-_A bőr hatású anyag leinkább a modern otthonokba illik _
+
 
 
 Abban is dönteni kell, hogy a méterárut miként varrassuk meg. Itt is rengeteg megoldás közül válogathatunk.
@@ -176,10 +175,12 @@ _A csipke szinte keretet ad a függönynek_
 _Apróságnak tűnik, de mégsem az<br> forrás: bonprix_
 
 
-
 ## Tegyük tökéletessé otthonunkat
 
 Amikor az üzletben elénk rakják a szebbnél-szebb méterárut, hirtelen azt sem tudjuk, milyet is szeretnénk. Hogy ne essünk ebbe a csapdába, érdemes konkrét tervekkel felkészülni. Hiába szép egy anyag önmagában, ha nem passzol az otthonunk berendezéséhez, stílusához, nem szabad választani. 
+
+![fuggony](/assets/fuggony/IMG_5104.jpg)
+_A bőr hatású anyag leinkább a modern otthonokba illik _
 
 
 ![fuggony](/assets/fuggony/2109ae6aa881ce97d7d044461928baae.jpg)
