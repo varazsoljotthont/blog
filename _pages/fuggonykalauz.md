@@ -11,7 +11,7 @@ image:
 ---
 
 
- **Otthonunk berendezésénél a textíliák teszik fel az I-re a pontot, és úgy hiszem, nem túlzás azt mondani, hogy a lakás estélyiruhája a függöny. Azt gondolhatnánk, hogy egy függöny vásárlása nem tartogat nehézségeket, pedig kiválasztásakor figyelni kell az anyag, a szín, a fazon és nem utolsósorban a helyiség stílusára is. A dekoráción túl a szerepe is lényeges, ezért már a tervezéskor érdemes a részleteket alaposan átgondolni.** 
+ **Otthonunk berendezésénél a textíliák teszik fel az i-re a pontot, és úgy hiszem, nem túlzás azt mondani, hogy a lakás estélyiruhája a függöny. Azt gondolhatnánk, hogy egy függöny vásárlása nem tartogat nehézségeket, pedig kiválasztásakor figyelni kell az anyag, a szín, a fazon és nem utolsósorban a helyiség stílusára is. A dekoráción túl a szerepe is lényeges, ezért már a tervezéskor érdemes a részleteket alaposan átgondolni.** 
  
  
 ![fuggony](/assets/fuggony/idezet.jpg) 
