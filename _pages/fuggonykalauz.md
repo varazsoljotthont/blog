@@ -169,7 +169,7 @@ _Mindenben ott a lehetőség<br> forrás: Pinterest_
 
 Az ördög a részletekben lakozik, szokták mondani, így aztán az apróságoknak tűnő finomságok meghatarozóak ebben az esetben is.
 
-![fuggony](/assets/fuggony/cover.jpg)
+![fuggony](/assets/fuggony/coverj.jpg)
 _A csipke szinte keretet ad a függönynek_
 
 ![fuggony](/assets/fuggony/788d9026d13544ab2584b506036f8007.jpg)
