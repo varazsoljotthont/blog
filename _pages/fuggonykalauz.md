@@ -180,7 +180,7 @@ _Apróságnak tűnik, de mégsem az<br> forrás: bonprix_
 Amikor az üzletben elénk rakják a szebbnél-szebb méterárut, hirtelen azt sem tudjuk, milyet is szeretnénk. Hogy ne essünk ebbe a csapdába, érdemes konkrét tervekkel felkészülni. Hiába szép egy anyag önmagában, ha nem passzol az otthonunk berendezéséhez, stílusához, nem szabad választani. 
 
 ![fuggony](/assets/fuggony/IMG_5104.jpg)
-_A bőr hatású anyag leinkább a modern otthonokba illik _
+_A bőr hatású anyag leinkább a modern otthonokba illik_
 
 
 ![fuggony](/assets/fuggony/2109ae6aa881ce97d7d044461928baae.jpg)
