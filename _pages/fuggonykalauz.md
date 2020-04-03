@@ -26,7 +26,7 @@ Azt hiszem, nagyon szerencsés vagyok, hisz' a közelünkben lévő <a href="htt
 ( 9330 Kapuvár, Deák Ferenc u. 18 ) tulajdonosát jól ismerem, de ami még lényegesebb, hogy Ő is jól ismer engem, és persze az otthonunkat is. 
 A "Miházunk" már a negyedik, amit Zsuzsi segítségével függönyöztem be. Tudja mi az elképzelésem, így már "személyre szabottan" mutatja a kínálatot. Mindig alaposan átbeszéljük a részleteket, többször is egyeztetünk, hogy aztán a végeredménnyel mindketten elégedettek legyünk.
 
-**A függöny mindig fontos része volt az otthonunk berendezésének, és én minden esetben igyekeztem a legtöbbet kihozni a lehetőségekből. Mivel nem vagyok lakberendező, alaposan körbejártam a témát. Most a saját tapasztalataimat, valamint az évek alatt összeszedett információkat szeretném veletek is megosztani.**
+**A függöny mindig fontos része volt az otthonunk berendezésének, és én minden esetben igyekeztem a legtöbbet kihozni a lehetőségekből. Mivel nem vagyok lakberendező, alaposan körbejártam a témát. Most a saját tapasztalataimat, valamint az évek alatt összeszedett "tudást" szeretném veletek is megosztani.**
 
 
 
