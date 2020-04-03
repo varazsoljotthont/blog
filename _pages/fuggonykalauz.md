@@ -3,7 +3,7 @@ layout: post
 title: "Otthonunk ruhája, a függöny" 
 permalink: /fuggonykalauz/
 cover: /assets/fuggony/cover.jpg
-categories: [haz, kert, dekor]
+categories: [haz, dekor]
 image:
   path: /assets/fuggonykalauz/cover.jpg
   height: 300
