@@ -206,6 +206,7 @@ Van megoldás akkor is, ha a szép otthon, és a környezetvédelem is fontos sz
 
 Ha tetszett, kedveld a <a href="https://www.facebook.com/Var%C3%A1zsolj-otthont-360330751226066/" target="_blank">Facebook oldalt</a> is. Itt még több érdekességet találsz a mindennapok varázslataiból.
 
+
 <a href="https://www.instagram.com/varazsoljotthont/?hl=hu/" target="_blank">Kövess az Instagramon</a> is, és sok olyan fotót láthatsz, ami a blogról vagy a Facebook oldalról kimaradt.
 
 
