@@ -164,6 +164,12 @@ _Az elegancia kedvelőinek<br> forrás: Pinterest_
 ![fuggony](/assets/fuggony/elkoto3.png)
 _Mindenben ott a lehetőség<br> forrás: Pinterest_
 
+![fuggony](/assets/fuggony/2.png)
+_A nálunk ilyenek az elkötők_
+
+
+
+
 
 **Szalagok, csipkék, gombok, stb**
 
