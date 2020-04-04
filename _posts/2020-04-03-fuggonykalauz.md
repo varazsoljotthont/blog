@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Otthonunk ruhája, a függöny" 
-cover: /assets/fuggony/4e2d93af78ae9d9a8e8c532ac8808998.jpg
+cover: /assets/fuggony/IMG_4766.jpg
 categories: [haz, dekor]
 image:
-  path: /assets/fuggony/4e2d93af78ae9d9a8e8c532ac8808998.jpg
+  path: /assets/fuggony/IMG_4766.jpg
   height: 300
   width: 300
 ---
