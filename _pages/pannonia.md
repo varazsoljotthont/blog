@@ -36,7 +36,7 @@ Van egy <a href="https://pannoniawebshop.hu/blog-oldal/" target="_blank">blogjuk
 
 A webshopban, a ház körül szükséges kis-és nagy gépek széles választékban megtalálhatók. A <a href="https://pannoniawebshop.hu/barkacsgepek/" target="_blank">barkács ill.</a>  <a href="https://pannoniawebshop.hu/kerti-eszkozok/" target="_blank">kertigépek</a>, a különböző szerszámok kínálata lenyűgöző, és a webáruház terméklistája folyamatosan bővül. Mindenképpen érdemes visszatérni, hogy az aktuális újdonságokról időben értesüljünk.
 
-![üzlet](/assets/pannonia/IMG_5455.PNG)
+![üzlet](/assets/pannonia/hirdetes.png)
 
 ## Barangolás az áruházban
 Az apróságokért, virágokért személyesen kell eljönni, de ezt nem is bánom; az igazi „élvezetet” számomra az áruházban történő nézegetés jelenti. Bevallom, nem szeretem a plázákat, a bevásárló központokat, de itt bármeddig el tudok „tekeregni”.
@@ -161,7 +161,7 @@ Az eladók szívélyessége, szakmaisága, a pénztárnál Jolcsi kedves szavai 
 
 És vissza is térek... ...de erről a férjem tudna mesélni!
 
-**Ha te is szeretnél innen vásárolni barkács vagy kerti eszközöket, de nem szívesen mennél most tömegbe, emberek közé akkor vásárolj a webshopból, ahol most rengeteg gép tavaszi akciós kedvezménnyel elérhető.  <a href="https://pannoniawebshop.hu/tavaszi-akcio-2/" target="_blank">Kattints ide</a> és vásárolj otthonod biztonságából. Az akció csak 2020.03.29-ig tart.**
+**Ha te is szeretnél innen vásárolni barkács vagy kerti eszközöket, de nem szívesen mennél most tömegbe, emberek közé akkor vásárolj a webshopból, ahol most rengeteg gép tavaszi akciós kedvezménnyel elérhető.  <a href="https://pannoniawebshop.hu/kert-akcio/" target="_blank">Kattints ide</a> és vásárolj otthonod biztonságából. Az akció csak 2020.03.29-ig tart.**
 
 Ha tetszett, kedveld a <a href="https://www.facebook.com/Var%C3%A1zsolj-otthont-360330751226066/" target="_blank">Facebook</a> oldalt, itt még több érdekességet találsz a mindennapok varázslataiból.
 
