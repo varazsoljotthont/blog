@@ -70,11 +70,15 @@ _Pálmák, egzotikus növények a kertészetben_
 
 
 Hihetetlen, hogy milyen nagy választékkal rendelkeznek!  
-A hagymások, évelők, örökzöldek, díszfák, gyümölcsfák, különleges növények, cserjék között csak téblábolok, és a bőség zavarával küzdök! Ha végre eldöntöm, hogy mit válasszak, jön a dilemma, hogy milyen színű legyen…
+A hagymások, egynyáriak, évelők, örökzöldek, díszfák, gyümölcsfák, különleges növények, cserjék között csak téblábolok, és a bőség zavarával küzdök! Ha végre eldöntöm, hogy mit válasszak, jön a dilemma, hogy milyen színű legyen…
 
 ![üzlet](/assets/pannonia/IMG_5371.jpg)
 _Tavaszi primula kavalkád_
 
+![üzlet](/assets/pannonia/IMG_6224.jpg)
+_Egynyári virágok és muskátlik is nagy választékban megtalálhatóak az üzletben_
+
+![üzlet](/assets/pannonia/IMG_6225.jpg)
 
 Kaspókat én még máshol nem láttam ilyen választékban. Kerámia, agyag, műanyag… Mindenki megtalálhatja az ízlésének, pénztárcájának valót.
 
