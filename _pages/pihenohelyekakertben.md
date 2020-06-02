@@ -1,21 +1,21 @@
 ---
 layout: post
-title: "Kerttervezés, kertépítés házilag"
-permalink: /kertunk/
+title: "Pihenőhelyek a kertben"
+permalink: /pihenohelyekakertben/
 cover: /assets/kertunk/cover.jpg
 categories: [kert, dekor]
 image:
-  path: /assets/kertunk/cover.jpg
+  path: /assets/pihenohelyekakertben/cover.jpg
   height: 300
   width: 300
 ---
 
 
 
-**A kertvárosi, vidéki, falusi házakhoz általában tartozik egy kisebb vagy nagyobb kertrész. Hogy ez konyha ill. díszkert lesz-e, az a tulajdonoson éppannyira múlik, mint a telek adottságain. Odafigyeléssel, törődéssel és persze gondos munkával egy kopár területet is édenné lehet varázsolni.**
+**A kert azontúl, hogy feladatot ad tulajdonosának egyben a pihenés helyszíne is. A magányos napozástól kezdve, a családi, baráti összejövetelek, kikapcsolódások színtereként fontos szerepet tölt be. Évszaktól, napszaktól, tevékenységtől is függ, hogy milyen jellegű pihenőhelyeket alakítunk ki kertünkben, udvarunkban.
 
-## Legyen szép környezetünk
 
+## Maradjunk stílusban
 
 Utazás közben előszeretettel nézegetem az utamba eső kiskerteket, udvarokat, ház előtti részeket. Mindig csodálattal tölt el, hogy egy jól megválasztott fa, egy cserje, vagy épp egy virágoskert mennyi pluszt tud hozzá tenni a házak arculatához. A természet zöldje, a virágok élénk színei nemcsak az otthonunkra, hanem lelkünkre is jó hatással van. Nem kell ahhoz feltétlenül kertésznek lenni, hogy mutatós kertet varázsoljunk.  
 Én amatőrként valósítottam meg a kerttel kapcsolatos álmaimat. Ebben a posztban leírom, hogyan csináltuk.
