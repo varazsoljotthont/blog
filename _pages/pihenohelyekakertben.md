@@ -53,13 +53,13 @@ Ahogy kilépünk a házból már ott is van az első pihenőhelyünk.
 
 A [terasz](/2019-08-01/teraszdekor)unkon van egy kis pad, két szék, egy [asztalka](/2019-02-12/varrogepasztal).és mivel fedett, minden évszakban használható. Nekünk itt van a tökéletes kávézó helyünk. De idejövök ki akkor is, ha sok volt a lakásban töltött idő ( részemről már jó ideje home office van ) és kell pár percnyi friss levegő.
 
-![virág](/assets/pihenohelyek/86500004_566002883992184_578742771507003392_n (2)jpg)
+![virág](/assets/pihenohelyek/86500004_566002883992184_578742771507003392_n (2).jpg)
 
 
 Itt nem szoktunk hosszú ideig pihenni, a terasz, amolyan instant pihenőhely számunkra. De ennek ellenére is nagyon fontos, hogy mikor kint vagyunk akkor a szép, rendezett udvart látjuk. Így pár perc alatt is tudunk töltekezni, és újult erővel megyünk tovább.
 
 
-
+![virág](/assets/pihenohelyek/1B8691CF-1A30-47A7-9252-77B868EE2BDC (2).jpg)
 
 
 A [kertirom](/2019-09-12/kertirom)ot
