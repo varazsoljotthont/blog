@@ -44,7 +44,13 @@ Csak egy pokróc kell, és kész is a legolcsóbb pihenőhely.
 
 > Hogy ki, milyen fát ültet ízlés dolga. A fűzfa ősszel elég sok levelet hullat, de nekünk ez nem okoz problémát. Aki nem szeretne ilyen munkákra időt, energiát áldozni, az biztosan megtalálja a megfelelőt.  
 
-## Padok, hintaágyak
+## Kis pad, nagy pad, hintaágy az udvaron
+
+Mi az udvart és az Uradalmat külön kezeljük. 
+
+Az, hogy az udvaron van egy hintaágy, egy pad, nem ok arra, hogy ne tegyünk az Uradalomba is egyet. Az egyik elől van, a másik hátul. Az egyik napon, a másik a fa alatt. Mindegyiket használjuk, mindegyik fontos, csak különböző időszakokban.
+
+> Olyan ez mint a kabát. Van kabátunk a nagy hidegre, és van vékony pulóverünk a nyári estékre. Van a szél ellen, és van az eső ellen. Mindegyiknek meg van a maga ideje és funkciója.
 
 **Kispad a teraszon**
 
@@ -78,24 +84,16 @@ _A D vitamin pótlásához ideális hely_
 
 A terasszal szemben (is) van egy hintaágy.
 
-Ez igazából nekem volt fontos, mert én szívesen kiülök olvasni, telefonálni, miközben elringatózom a hintaágyon. Ez már jobban árnyékban van, de nagy melegekben nem igazán komfortos.
+Ez igazából nekem volt fontos, mert szívesen ülök ki olvasni, telefonálni, miközben elringatózom a hintaágyon. Ez már jobban árnyékban van, de nagy melegekben nem igazán komfortos.
 
 A mérete miatt el is lehet rajt feküdni, így akár egy kis szunyókálást is be lehet iktatni. Bár elég robosztusnak látszik, meglepően kényelmes hintaágy.
 
 ![udvar](/assets/pihenohelyek/hintaudvar.png)
-_Ide már hosszabban is kiülünk _
+_Ide már hosszabban is kiülünk_
 
 
 
-## Újra tervezés
-
-Mivel az első ötletem, a parkos kert nem nyerte el a tetszésemet, át kellett gondolnom hogyan menjek tovább.  
-Egy tél elég volt arra, hogy beleássam magam a részletekbe, és meg tudjam fogalmazni, hogy mit is szeretnék.
-
-A házunk vidéki jellege meghatározta a kert stílusát is. 
-Vidékies, az angol kertekre hasonlító, buja kertet álmodtam meg, sok-sok évelő virággal, kis kerti utakkal, természetes ágyásokkal.
-Csupa hagyományos, a régi falusi házaknál is megtalálható virágot terveztem bele. Így lett tavasztól őszig folyamatosan virágzó
-falusi "kis" kertünk.
+## Uradalmi pihenőhelyek
 
 ![virág](/assets/kertunk/IMG_20190428_150321.jpg)
 _A kék nefelejcs a hagyományos falusi kertek virága_
