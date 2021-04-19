@@ -46,9 +46,20 @@ Csak egy pokróc kell, és kész is a legolcsóbb pihenőhely.
 
 ## Padok, hintaágyak
 
+**Kispad a teraszon**
+
+
 Ahogy kilépünk a házból már ott is van az első pihenőhelyünk.
 
-A [terasz](/2019-08-01/teraszdekor)unkon van egy kis pad, két szék, egy [asztalka](/2019-02-12/varrogepasztal). Minden évszakban használható. Nekünk itt van a tökéletes kávézós helyünk. A [kertirom](/2019-09-12/kertirom)ot
+A [terasz](/2019-08-01/teraszdekor)unkon van egy kis pad, két szék, egy [asztalka](/2019-02-12/varrogepasztal).és mivel fedett, minden évszakban használható. Nekünk itt van a tökéletes kávézó helyünk. De idejövök ki akkor is, ha sok volt a lakásban töltött idő ( részemről már jó ideje home office van ) és kell pár percnyi friss levegő. 
+
+Itt nem szoktunk hosszú ideig pihenni, a terasz, amolyan instant pihenőhely számunkra. De ennek ellenére is nagyon fontos, hogy mikor kint vagyunk akkor a szép, rendezett udvart látjuk. Így pár perc alatt is tudunk töltekezni, és újult erővel megyünk tovább.
+
+
+
+
+
+A [kertirom](/2019-09-12/kertirom)ot
 
 * a telek méretét
 * a telek tájolását
