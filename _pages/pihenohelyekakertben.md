@@ -48,7 +48,7 @@ Csak egy pokróc kell, és kész is a legolcsóbb pihenőhely.
 
 Ahogy kilépünk a házból már ott is van az első pihenőhelyünk.
 
-A [teraszunkon](/2019-08-01/teraszdekor) van egy kis pad, két szék, egy [asztalka](/2019-02-12/varrogepasztal). Minden évszakban használható. Nekünk itt van a tökéletes kávézós helyünk
+A [terasz](/2019-08-01/teraszdekor)unkon van egy kis pad, két szék, egy [asztalka](/2019-02-12/varrogepasztal). Minden évszakban használható. Nekünk itt van a tökéletes kávézós helyünk. A [kertirom](/2019-09-12/kertirom)ot
 
 * a telek méretét
 * a telek tájolását
