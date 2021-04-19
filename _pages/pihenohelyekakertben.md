@@ -15,10 +15,16 @@ image:
 **A kert azontúl, hogy feladatot ad tulajdonosának egyben a pihenés helyszíne is. A magányos napozástól kezdve, a családi, baráti összejövetelek, kikapcsolódások színtereként fontos szerepet tölt be. Évszaktól, napszaktól, tevékenységtől is függ, hogy milyen jellegű pihenőhelyeket alakítunk ki kertünkben, udvarunkban.
 
 
-## Maradjunk stílusban
+## A pihenő helyekről általában
 
-Utazás közben előszeretettel nézegetem az utamba eső kiskerteket, udvarokat, ház előtti részeket. Mindig csodálattal tölt el, hogy egy jól megválasztott fa, egy cserje, vagy épp egy virágoskert mennyi pluszt tud hozzá tenni a házak arculatához. A természet zöldje, a virágok élénk színei nemcsak az otthonunkra, hanem lelkünkre is jó hatással van. Nem kell ahhoz feltétlenül kertésznek lenni, hogy mutatós kertet varázsoljunk.  
-Én amatőrként valósítottam meg a kerttel kapcsolatos álmaimat. Ebben a posztban leírom, hogyan csináltuk.
+A pihenés, a baráti beszélgetés, a társasági összejövetelek, a kerti sütögetés más - más helyet igényel. Az, hogy reggel vagy délután, tavasszal vagy inkább nyáron kerül használatba megint csak átgondolásra készteti a kert tulajdonost. Ilyen sok féle szempontot nem lehet egyetlen hintaággyal kielégíteni. 
+Hisz' ahol szívesen napfürdőzünk a kora tavaszi napsütésben, oda nem fogunk kiülni a nyári hőségben. És persze ez fordítva is igaz. 
+A kerti munka közben meginni egy kávét tökéletes egy kerti szék, de ha akad egy szabad délutánunk folytatni a megkezdett könyvünket, egész biztosan kényelmesebb megoldásra vágyunk.
+A meghitt zugok, a szomszédoktól elzárt sarkok tökéletesek lehetnek a napozáshoz, a "világtól való elbújáshoz". 
+
+
+Azt hiszem érthető, hogy mi miért csináltunk a "Miházunkba" mindenfelé egy- egy pihenőhelyet, pihenősarkot.
+
 
 ![virág](/assets/kertunk/idézet.jpg)
 
