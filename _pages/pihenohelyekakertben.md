@@ -54,46 +54,27 @@ Ahogy kilépünk a házból már ott is van az első pihenőhelyünk.
 A [teraszunkon](/2019-08-01/teraszdekor) van egy kis pad, két szék, egy [asztalka](/2019-02-12/varrogepasztal), és mivel fedett, minden évszakban használható. Nekünk itt van a tökéletes kávézó helyünk. De idejövök ki akkor is, ha sok volt a lakásban töltött idő ( részemről már jó ideje home office van ) és kell pár percnyi friss levegő.
 
 ![virág](/assets/pihenohelyek/terasznarcisz.png)
+_A teraszon leülni, meginni egy kávét, és már menni is tovább_
 
 
 Itt nem szoktunk hosszú ideig pihenni. A terasz, amolyan instant pihenőhely számunkra. De ennek ellenére is nagyon fontos, hogy mikor kint vagyunk akkor a szép, hangulatos, rendezett udvart látjuk. Így pár perc alatt is tudunk töltekezni, és újult erővel megyünk tovább.
 
 
 ![udvar](/assets/pihenohelyek/teraszroljav.png)
+_...ez a látvány a teraszról_
 
 **Pad a tavaszi, őszi napsütéshez**
 
 
-A teraszról kilépve a járdán van egy ún. parkipadunk. Hangulatos eleme a háznak, és tájolása szerint a déli oldalra néz. Épp ezért nyáron nem igazán használható, de tavasszal és ősszel oda kiülni, és élvezni a napsugarakat, felér bármivel.
+A teraszról kilépve, a járdán van egy ún. köztéri vagy parkipadunk. Hangulatos eleme a háznak, tájolása szerint a déli oldalra néz. Épp ezért nyáron nem igazán használható, de tavasszal és ősszel ide kiülni, és élvezni a napsugarakat, felér bármivel.
 
 ![udvar](/assets/pihenohelyek/padj.png)
-
-![virág](/assets/kertunk/IMG_20190625_080320.jpg)
-_Bujaság_
-
-A kertek típusa nagyon sok féle lehet. Van romantikus, természetközeli, park-szerű, mediterrán, mértani, stb. Különböző növények illenek a különböző kertekhez, és eltérő az elvégzendő munka milyensége, menyisége is.  
-Megtérül az az idő, amit azzal töltünk, hogy megálmodjuk a kertünket. Sok bosszúságtól kíméljük meg magunkat, ha az azonnali ásás helyett kicsit körbejárjuk a témát.
+_A D vitamin pótlásához ideális hely_
 
 
 
-![virág](/assets/kertunk/IMG_20190830_123346.jpg)
-_Az árnyékos területre is van megoldás_
 
-![virág](/assets/kertunk/IMG_20190420_203324_761.jpg)
-_Figyeljünk a színek harmóniájára_
 
-## Minden kezdet nehéz
-
-A "Miházunk" nagyon rossz minőségű, lucernás, tarackos, és hol agyagos, hol nagyon kavicsos, hol pedig törmelékkel feltöltött telken áll. Sem az udvaron, sem a kertben nem megfelelő a termőréteg vastagsága.  
-Eleinte voltak próbálkozásaink konyhakerti növényekkel, de be kellett látnunk, hogy ezen a talajon nem leszünk sikeresek.
-A kavicsos részen hiába öntöztünk, szinte azonnal elszivárgott a víz, az agyagos terület pedig nagyon kötött, ami szintén nem szerencsés a növényeknek.
-
-![virág](/assets/kertunk/IMG_20190402_173326_622.jpg)
-_A virágzó cserjékkel nem lehet mellé fogni_
-
-**Szép, szép, de nem az igazi**
-
-A ház vásárlás után egy évvel jutottunk el addig, hogy kertre is jutott az energiánkból.  
 
 
 Elsőként park-szerű kertet akartam.  
