@@ -80,7 +80,7 @@ A terasszal szemben (is) van egy hintaágy.
 
 Ez igazából nekem volt fontos, mert én szívesen kiülök olvasni, telefonálni, miközben elringatózom a hintaágyon. Ez már jobban árnyékban van, de nagy melegekben nem igazán komfortos.
 
-A mérete miatt el is lehet rajt feküdni, így akár egy kis szunyókálást is be lehet rajt iktatni. bár elég robosztusnak látszik, meglepően kényelmes hintaágy.
+A mérete miatt el is lehet rajt feküdni, így akár egy kis szunyókálást is be lehet iktatni. Bár elég robosztusnak látszik, meglepően kényelmes hintaágy.
 
 ![udvar](/assets/pihenohelyek/hintaudvar.png)
 _Ide már hosszabban is kiülünk _
