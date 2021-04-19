@@ -12,28 +12,39 @@ image:
 
 
 
-**A kert azontúl, hogy feladatot ad tulajdonosának egyben a pihenés helyszíne is. A magányos napozástól kezdve, a családi, baráti összejövetelek, kikapcsolódások színtereként fontos szerepet tölt be. Évszaktól, napszaktól, tevékenységtől is függ, hogy milyen jellegű pihenőhelyeket alakítunk ki kertünkben, udvarunkban.
+**A kert azontúl, hogy feladatot ad tulajdonosának egyben a pihenés helyszíne is. A magányos napozástól kezdve, a családi, baráti összejövetelek, kikapcsolódások színtereként fontos szerepet tölt be. Évszaktól, napszaktól, tevékenységtől is függ, hogy milyen jellegű pihenőhelyeket alakítunk ki kertünkben, udvarunkban.**
 
 
 ## A pihenő helyekről általában
 
-A pihenés, a baráti beszélgetés, a társasági összejövetelek, a kerti sütögetés más - más helyet igényel. Az, hogy reggel vagy délután, tavasszal vagy inkább nyáron kerül használatba megint csak átgondolásra készteti a kert tulajdonost. Ilyen sok féle szempontot nem lehet egyetlen hintaággyal kielégíteni. 
+A pihenés, a baráti beszélgetés, a társasági összejövetelek, a kerti sütögetés más - más helyet igényel. Az, hogy reggel vagy délután, tavasszal vagy inkább nyáron kerül használatba megint csak átgondolásra készteti a kert tulajdonost. 
+
 Hisz' ahol szívesen napfürdőzünk a kora tavaszi napsütésben, oda nem fogunk kiülni a nyári hőségben. És persze ez fordítva is igaz. 
-A kerti munka közben meginni egy kávét tökéletes egy kerti szék, de ha akad egy szabad délutánunk folytatni a megkezdett könyvünket, egész biztosan kényelmesebb megoldásra vágyunk.
-A meghitt zugok, a szomszédoktól elzárt sarkok tökéletesek lehetnek a napozáshoz, a "világtól való elbújáshoz". 
+A kerti munka közben meginni egy kávét tökéletes a kerti szék, de ha akad egy szabad délutánunk folytatni a megkezdett könyvünket, egész biztosan kényelmesebb megoldásra vágyunk.
+
+A meghitt zugok, a szomszédoktól elzárt sarkok tökéletesek lehetnek a "világtól való elbújáshoz". És kell megfelelő hely akkor is, amikor a család összejön.
 
 
-Azt hiszem érthető, hogy mi miért csináltunk a "Miházunkba" mindenfelé egy- egy pihenőhelyet, pihenősarkot.
+
+
+Azt hiszem érthető, hogy mi miért csináltunk a "Miházunkba" mindenfelé egy- egy pihenőhelyet, pihenősarkot. Ilyen sok féle szempontot nem lehet egyetlen hintaággyal kielégíteni. 
 
 
 ![virág](/assets/kertunk/idézet.jpg)
 
-## A tervezés fontossága
+## A legfontosabb dolog
 
-Időt, pénzt és energiát spórolunk, ha körültekintően végigjárjuk a kerttervezés témáját.
-Ahhoz, hogy számunkra megfelelő, és még szép is legyen, sok mindent figyelembe kell venni.
+Minden kert tulajdonos tudja, hogy egy nagy, árnyat adó fa mekkora kincs. 
 
-Szem előtt kell tartani:
+Mikor megvettük a házat, akkor ültettünk egy kicsi fűzfát. Néhány év alatt akkorára nőtt, hogy a legnagyobb hőségben is elférünk alatta. 
+
+Csak egy pokróc kell, és kész is a legolcsóbb pihenőhely.
+
+
+
+> Hogy ki, milyen fát ültet ízlés dolga. A fűzfa ősszel elég sok levelet hullat, de nekünk ez nem okoz problémát. Aki nem szeretne ilyen munkákra időt, energiát áldozni, az biztosan megtalálja a megfelelőt.  
+
+
 
 * a telek méretét
 * a telek tájolását
