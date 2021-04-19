@@ -15,7 +15,7 @@ image:
 **A kert azontúl, hogy feladatot ad tulajdonosának egyben a pihenés helyszíne is. A magányos napozástól kezdve, a családi, baráti összejövetelek, kikapcsolódások színtereként fontos szerepet tölt be. Évszaktól, napszaktól, tevékenységtől is függ, hogy milyen jellegű pihenőhelyeket alakítunk ki kertünkben, udvarunkban.**
 
 
-## A pihenő helyekről általában
+## A pihenőhelyekről általában
 
 A pihenés, a baráti beszélgetés, a társasági összejövetelek, a kerti sütögetés más - más helyet igényel. Az, hogy reggel vagy délután, tavasszal vagy inkább nyáron kerül használatba megint csak átgondolásra készteti a kert tulajdonost. 
 
@@ -56,23 +56,17 @@ A [teraszunkon](/2019-08-01/teraszdekor) van egy kis pad, két szék, egy [aszta
 ![virág](/assets/pihenohelyek/terasznarcisz.png)
 
 
-Itt nem szoktunk hosszú ideig pihenni, a terasz, amolyan instant pihenőhely számunkra. De ennek ellenére is nagyon fontos, hogy mikor kint vagyunk akkor a szép, rendezett udvart látjuk. Így pár perc alatt is tudunk töltekezni, és újult erővel megyünk tovább.
+Itt nem szoktunk hosszú ideig pihenni. A terasz, amolyan instant pihenőhely számunkra. De ennek ellenére is nagyon fontos, hogy mikor kint vagyunk akkor a szép, hangulatos, rendezett udvart látjuk. Így pár perc alatt is tudunk töltekezni, és újult erővel megyünk tovább.
 
 
 ![udvar](/assets/pihenohelyek/teraszroljav.png)
 
+**Pad a tavaszi, őszi napsütéshez**
 
-A [kertirom](/2019-09-12/kertirom)ot
 
-* a telek méretét
-* a telek tájolását
-* a talaj milyenségét
-* a ráfordított időt
-* a kerti munka mennyiségét
-* a házunk stílusát
-* a vágyott kert stílusát
-* a tervezett növények igényeit, méreteit
+A teraszról kilépve a járdán van egy ún. parkipadunk. Hangulatos eleme a háznak, és tájolása szerint a déli oldalra néz. Épp ezért nyáron nem igazán használható, de tavasszal és ősszel oda kiülni, és élvezni a napsugarakat, felér bármivel.
 
+![udvar](/assets/pihenohelyek/padj.png)
 
 ![virág](/assets/kertunk/IMG_20190625_080320.jpg)
 _Bujaság_
