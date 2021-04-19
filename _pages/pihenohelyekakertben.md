@@ -27,7 +27,7 @@ A meghitt zugok, a szomszédoktól elzárt sarkok tökéletesek lehetnek a "vil�
 
 
 
-Azt hiszem érthető, hogy mi miért csináltunk a "Miházunkba" mindenfelé egy- egy pihenőhelyet, pihenősarkot. Ilyen sok féle szempontot nem lehet egyetlen hintaággyal kielégíteni. 
+Azt hiszem érthető, hogy mi miért alakítottunk ki a "Miházunkban" mindenfelé egy - egy pihenőhelyet, pihenősarkot. Ilyen sok féle szempontot nem lehet egyetlen hintaággyal kielégíteni. 
 
 
 ![virág](/assets/kertunk/idézet.jpg)
@@ -36,7 +36,7 @@ Azt hiszem érthető, hogy mi miért csináltunk a "Miházunkba" mindenfelé egy
 
 Minden kert tulajdonos tudja, hogy egy nagy, árnyat adó fa mekkora kincs. 
 
-Mikor megvettük a házat, akkor ültettünk egy kicsi fűzfát. Néhány év alatt akkorára nőtt, hogy a legnagyobb hőségben is elférünk alatta. 
+Mikor megvettük a házat, akkor ültettünk egy kicsi fűzfát, és már néhány év alatt akkorára nőtt, hogy elfér alatta a család. 
 
 Csak egy pokróc kell, és kész is a legolcsóbb pihenőhely.
 
@@ -44,7 +44,11 @@ Csak egy pokróc kell, és kész is a legolcsóbb pihenőhely.
 
 > Hogy ki, milyen fát ültet ízlés dolga. A fűzfa ősszel elég sok levelet hullat, de nekünk ez nem okoz problémát. Aki nem szeretne ilyen munkákra időt, energiát áldozni, az biztosan megtalálja a megfelelőt.  
 
+## Padok, hintaágyak
 
+Ahogy kilépünk a házból már ott is van az első pihenőhelyünk.
+
+A [teraszunkon](/2019-08-01/teraszdekor) van egy kis pad, két szék, egy [asztalka](/2019-02-12/varrogepasztal). Minden évszakban használható. Nekünk itt van a tökéletes kávézós helyünk
 
 * a telek méretét
 * a telek tájolását
