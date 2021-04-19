@@ -73,20 +73,17 @@ _A D vitamin pótlásához ideális hely_
 
 
 
+**Hintaágy az udvaron**
 
 
+A terasszal szemben (is) van egy hintaágy.
 
+Ez igazából nekem volt fontos, mert én szívesen kiülök olvasni, telefonálni, miközben elringatózom a hintaágyon. Ez már jobban árnyékban van, de nagy melegekben nem igazán komfortos.
 
-Elsőként park-szerű kertet akartam.  
-Pár díszfa, virágzó bokor, a kerítés elé pedig pampafű. Elméletben ez nagyon szépnek tűnt, de már röviddel az ültetés után látszott, hogy nem egészen olyan lett, mint képzeltem.
-Hiába voltak szépek a vásárolt fák, cserjék, a tarackos, lucernás alap miatt nem érvényesültek. A "fűnyírást" viszont megnehezítették, hisz' kerülgetni kellett őket.
+A mérete miatt el is lehet rajt feküdni, így akár egy kis szunyókálást is be lehet rajt iktatni. bár elég robosztusnak látszik, meglepően kényelmes hintaágy.
 
-![virág](/assets/kertunk/DSCF2646.JPG)
-_Itt még csak néhány bokor és fa van az Uradalomban_
-
-
-> Tapasztalat: bevallom, akkoriban nem gondoltam át alaposan, hogy mit is akarok kezdeni az üres területtel. Ez sajnos vissza is ütött, hisz rövid idő alatt teljesen mást gondoltam, és ez a "kis" módostás plusz munkát, és a növények áttelepítését eredményezte.
-
+![udvar](/assets/pihenohelyek/hintaagyudvar(2).png)
+_A D vitamin pótlásához ideális hely_
 
 
 
