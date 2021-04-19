@@ -82,7 +82,7 @@ Ez igazából nekem volt fontos, mert én szívesen kiülök olvasni, telefonál
 
 A mérete miatt el is lehet rajt feküdni, így akár egy kis szunyókálást is be lehet rajt iktatni. bár elég robosztusnak látszik, meglepően kényelmes hintaágy.
 
-![udvar](/assets/pihenohelyek/hintaagyudvar(2).png)
+![udvar](/assets/pihenohelyek/hintaagyudvar (2).png)
 _A D vitamin pótlásához ideális hely_
 
 
