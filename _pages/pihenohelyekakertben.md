@@ -30,7 +30,7 @@ A meghitt zugok, a szomszédoktól elzárt sarkok tökéletesek lehetnek a "vil�
 Azt hiszem érthető, hogy mi miért alakítottunk ki a "Miházunkban" mindenfelé egy - egy pihenőhelyet, pihenősarkot. Ilyen sok féle szempontot nem lehet egyetlen hintaággyal kielégíteni. 
 
 
-![virág](/assets/kertunk/idézet.jpg)
+![virág](/assets/pihenohelyek/idézet.png)
 
 ## A legfontosabb dolog
 
