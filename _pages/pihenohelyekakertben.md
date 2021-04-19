@@ -59,7 +59,7 @@ A [teraszunkon](/2019-08-01/teraszdekor) van egy kis pad, két szék, egy [aszta
 Itt nem szoktunk hosszú ideig pihenni, a terasz, amolyan instant pihenőhely számunkra. De ennek ellenére is nagyon fontos, hogy mikor kint vagyunk akkor a szép, rendezett udvart látjuk. Így pár perc alatt is tudunk töltekezni, és újult erővel megyünk tovább.
 
 
-![udvar](/assets/pihenohelyek/teraszrol.jpg)
+![udvar](/assets/pihenohelyek/teraszroljav.png)
 
 
 A [kertirom](/2019-09-12/kertirom)ot
