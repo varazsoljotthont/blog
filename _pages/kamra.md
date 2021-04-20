@@ -12,12 +12,12 @@ image:
 
 
 
-**Ha nem szeretnénk, hogy az otthonunkat elborítsa a sok "jó lesz ez még valamire" tárgy, akkor muszáj egy olyan helyiséget kialakítani, ahol ezeket átláthatóan, esztétikusan tudjuk tárolni. Hogy ez a házon belül, vagy egy külső részen kerül kialakításra, az már csak részlet kérdés. A lényeg, ha szükségünk van valamire könnyedén elérhető legyen.** 
+**Ha nem szeretnénk, hogy az otthonunkat elborítsa a sok "jó lesz ez még valamire" tárgy, akkor muszáj olyan tárolási lehetőséget kialakítani, ahol ezeket a holmikat átláthatóan, esztétikusan tudjuk elpakolni. Hogy ez a házon belül, vagy egy külső részen kerül kialakításra, az már csak részlet kérdés. A lényeg, ha szükségünk van valamire könnyedén elérhető legyen.** 
 
 
 ## Káosz vagy rend?
 
-Ha nem szeretnénk, hogy az otthonunkban minden szem előtt legyen, ha nem szeretnénk rendetlenségben, túlzsúfoltan élni, akkor muszáj egy tárolásra alkalmas helyiségen elgondolkodnunk. A szellős, könnyed otthon egyik titka, hogy rendszerezve pakoljuk el az épp nem használt tárgyakat.
+Amennyiben nem az a célunk, hogy az otthonunkban minden szem előtt legyen, ha nem akarunk rendetlenségben, túlzsúfoltan élni, akkor bizony szükségünk van egy kis raktár helyiségre. A szellős, könnyed otthon egyik titka, hogy rendszerezve pakoljuk el az épp nem használt tárgyakat. Az állandó helyhiányt is felszámolhatjuk, ha kis odafigyeléssel rendezzük a környezetünket. 
 
 
 **Tervezés**
@@ -27,9 +27,9 @@ Az, hogy új házat építünk, vagy egy régit gondolunk újra igazából telje
 **Szanálás**
 
 Bármennyire is fájdalmas, olykor-olykor meg kell ejtni egy nagy átválogatást.   
-Egészen biztos, hogy amihez nem nyúltunk pár évig, ahhoz ezután sem fogunk. Hajlamosak vagyunk őrizgetni mindenféle tárgyat, és szinte észrevétlenül nő túl rajtunk 
+Egészen biztos, hogy amihez nem nyúltunk pár évig, ahhoz ezután sem fogunk. Hajlamosak vagyunk mindenfélét őrizgetni, és szinte észrevétlenül nő túl rajtunk a használati tárgyaink mennyisége. A megoldás nem egy új kis bútor vásárlása, hanem az ésszerű gyűjtögetés. Tapasztalatból mondom - bár ezt nő társaim egész biztosan meg tudják erősíteni - hogy amikor a nem használt ruháinkra, cipőnkre, tárgyainkra ránézünk, rossz érzés tölt el bennünket. Viszont ha veszünk egy nagy levegőt, és ezektől megszabadulunk, egy fajta megkönnyebülés lesz urrá rajtunk.
 
-
+> Nálam a konyhában csak tésztaszűrőből volt 7 darab. Innen-onnan kerültek be a háztartásba, és volt köztük olyan, ami olyan gyenge műanyagból volt, hogy csak egyszer használtam. Most 3 darab van. Egy kicsi, egy nagyobb, de apró  hálós, és egy nagy tésztaszűrő. Épp elég.
 
 
 
@@ -42,9 +42,9 @@ Mi a régen istállónak használt melléképületből választottunk le egy ré
 Az első terv az volt, hogy nyárikonyhaként funkcionáljon és mellette még tárolásra is alkalmas legyen. 
 
 Mindenképpen szerettük volna a ház stílusára szabni, és persze nem volt utolsó szempont, hogy ne csak praktikus, hanem olcsó is legyen. Ha nem a bejárati ajtón érünk be a házba, akkor a másik lehetőségünk az, hogy ideérkezünk. Ezért, az hogy milyen a hangulata, számomra lényeges volt. 
-A helyiség  válasz falai már a mosókonyha megépítesekor megadták a nyárikonyha falait is. Ezért aztén megint csak a régi jó barátot választottuk. Így került az aljára bontott tégla.
+A helyiség  válasz falai már a mosókonyha megépítesekor megadták a nyárikonyha falait is.   Nem akartunk vagyonokat költeni, ezért a régi jó baráthoz tértünk vissza. Bontott téglából lett az aljzat, ami megadta a számomra oly' kedves vidékies hangulatot. 
 
-A webshopban, a ház körül szükséges kis-és nagy gépek széles választékban megtalálhatók. A <a href="https://pannoniawebshop.hu/barkacsgepek/" target="_blank">barkács ill.</a>  <a href="https://pannoniawebshop.hu/kerti-eszkozok/" target="_blank">kertigépek</a>, a különböző szerszámok kínálata lenyűgöző, és a webáruház terméklistája folyamatosan bővül. Mindenképpen érdemes visszatérni, hogy az aktuális újdonságokról időben értesüljünk.
+
 
 ![üzlet](/assets/pannonia/hirdetes.png)
 
