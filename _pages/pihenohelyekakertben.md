@@ -96,6 +96,13 @@ _Ide már hosszabban is kiülünk_
 ## Uradalmi pihenőhelyek
 
 
+Az Uradalom a mérete miatt lehetőséget adott arra, hogy több féle kiülőt, leülőt kialakítsunk.
+
+> Már mondták, hogy annyi kiülőt csinálunk, hogy épp ezért nincs időnk leülni a pihenőhelyeken.  
+
+Nem igaz. Elkészül, megvalósítjuk amit elképzeltünk, és tényleg mindegyiket használatba is vesszük. De tényleg nem alkalmas mindegyik minden célra. Ha pedig együtt van a család, akkor mindenképpen szükséges a több férőhelyes lehetőség.
+
+
 ![virág](/assets/kertunk/tulipan.jpg)
 
 
