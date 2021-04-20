@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Pannónia Üzletház, a kedvenc "boltom"'
-permalink: /pannonia/
+title: 'Tárolni, de hol?"'
+permalink: /kamra/
 cover: /assets/pannonia/cover.jpg
 categories: [kert, dekor]
 image:
@@ -12,27 +12,23 @@ image:
 
 
 
-**Azon ritka nők közé tartozom, akik nem szeretnek vásárolni. Ez alól egyetlen kivétel van; ha a háznak, vagy a kertnek van szüksége valamire, akkor azonnal útra kelek. Tudom, hogy köztetek is vannak hasonlóan gondolkodók, ezért most bemutatom nektek a kedvenc üzletemet.** 
+**Ha nem szeretnénk, hogy az otthonunkat elborítsa a sok "jó lesz ez még valamire" tárgy, akkor muszáj egy olyan helyiséget kialakítani, ahol ezeket átláthatóan, esztétikusan tudjuk tárolni. Hogy ez a házon belül, vagy egy külső részen kerül kialakításra, az már csak részlet kérdés. A lényeg, ha szükségünk van valamire könnyedén elérhető legyen.** 
 
 
-## Pannónia Üzletház, Vitnyéd
+## Tervezés
 
-Vitnyéden, a Pannónia Üzletházban mindig mindent megtalálok, ami a kerthez, az otthonhoz, a dekorációkhoz, a különböző ünnepekhez szükséges lehet.
-A 85-ös főút mellett, Győr és Sopron között majdnem félúton található, hatalmas, ingyenes parkolóval, hozzáértő eladókkal, és olyan áru választékkal, amit eddig még sehol nem láttam.
+Az, hogy új házat építünk, vagy egy régit gondolunk újra igazából teljesen mindegy. A lényeg, hogy már a tervezés során vegyük számításba, egy olyan helyiség kialakítását, ami megfelel a "tegyük félre" dolgok, a szezonális dekorációk, a ritkán használt konyhai eszközök, stb. elrakására.
 
 ![üzlet](/assets/pannonia/885514_241812399275852_7227901824338415276_o.jpg)
 
-## Pannónia Üzletház az interneten
+## Istállóból kamra
 
-Pár hónapja, egy az áruházban dolgozó barátnőm említette, hogy a <a href="https://pannoniawebshop.hu/" target="_blank">webáruház</a>
-  is elindult, és ezzel a távolabb élők számára is könnyedén elérhetővé vált az üzlet.
-Felkerestem az oldalt, hisz’ kíváncsi voltam mi minden van webshopban.  
-Nőként is jó volt ott barangolni, hiszen olyan kerti gépeket találtam, amiket én is rendszeresen használok, hogy a kertünk mindig olyan legyen, amilyennek szeretném. Ilyenek például a <a href="https://pannoniawebshop.hu/termekkategoria/sovenyvago/" target="_blank">sövényvágók</a>, <a href="https://pannoniawebshop.hu/?s=szeg%C3%A9lyny%C3%ADr%C3%B3/" target="_blank">szegélynyírók</a>, 
-<a href="https://pannoniawebshop.hu/termekkategoria/lombfuvo/" target="_blank">lombszívók</a>  és a <a href="https://pannoniawebshop.hu/termekkategoria/funyirok/" target="_blank"> fűnyírók</a>.  
-Van egy <a href="https://pannoniawebshop.hu/blog-oldal/" target="_blank">blogjuk</a> is, ahol hasznos tippek, javaslatok olvashatók, ezzel is segítve a vásárlókat.
+Mi a régen istállónak használt melléképületből választottunk le egy részt (az istállóból lett a [mosókonyha](/2019-05-06/mosókonyhaberendezés) és a kazánház is) erre a célra.
 
-![üzlet](/assets/pannonia/IMG_5457.PNG)
+Az első terv az volt, hogy nyárikonyhaként funkcionáljon és mellette még tárolásra is alkalmas legyen. 
 
+Mindenképpen szerettük volna a ház stílusára szabni, és persze nem volt utolsó szempont, hogy ne csak praktikus, hanem olcsó is legyen. Ha nem a bejárati ajtón érünk be a házba, akkor a másik lehetőségünk az, hogy ideérkezünk. Ezért, az hogy milyen a hangulata, számomra lényeges volt. 
+A helyiség  válasz falai már a mosókonyha megépítesekor megadták a nyárikonyha falait is. Ezért aztén megint csak a régi jó barátot választottuk. Így került az aljára bontott tégla.
 
 A webshopban, a ház körül szükséges kis-és nagy gépek széles választékban megtalálhatók. A <a href="https://pannoniawebshop.hu/barkacsgepek/" target="_blank">barkács ill.</a>  <a href="https://pannoniawebshop.hu/kerti-eszkozok/" target="_blank">kertigépek</a>, a különböző szerszámok kínálata lenyűgöző, és a webáruház terméklistája folyamatosan bővül. Mindenképpen érdemes visszatérni, hogy az aktuális újdonságokról időben értesüljünk.
 
