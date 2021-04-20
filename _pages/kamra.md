@@ -12,7 +12,7 @@ image:
 
 
 
-**Ha nem szeretnénk, hogy az otthonunkat elborítsa a sok "jó lesz ez még valamire" tárgy, akkor muszáj olyan tárolási lehetőséget kialakítani, ahol ezeket a holmikat átláthatóan, esztétikusan tudjuk elpakolni. Hogy ez a házon belül, vagy egy külső részen kerül kialakításra, az már csak részlet kérdés. A lényeg, ha szükségünk van valamire könnyedén elérhető legyen.** 
+**Ha nem szeretnénk, hogy az otthonunkat elborítsa a sok "jó lesz ez még valamire" tárgy, akkor muszáj olyan tárolási lehetőséget kialakítani, ahol ezeket a holmikat átláthatóan, és esztétikusan tudjuk elpakolni. Hogy ezt a lakáson belül, vagy mondjuk a garázs egy részen tudjuk megoldani, az már csak részlet kérdés. A lényeg, ha szükségünk van valamire könnyedén elérhető legyen.** 
 
 
 ## Káosz vagy rend?
@@ -27,7 +27,7 @@ Az, hogy új házat építünk, vagy egy régit gondolunk újra igazából telje
 **Szanálás**
 
 Bármennyire is fájdalmas, olykor-olykor meg kell ejtni a nagy átválogatást.   
-Egészen biztos, hogy amihez nem nyúltunk pár évig, ahhoz ezután sem fogunk. Hajlamosak vagyunk mindenfélét őrizgetni, és szinte észrevétlenül nő túl rajtunk a használati tárgyaink mennyisége. A megoldás nem egy új kis bútor vásárlása, hanem az ésszerű gyűjtögetés. Tapasztalatból mondom - bár ezt nő társaim egész biztosan meg tudják erősíteni - hogy amikor a nem használt ruháinkra, cipőnkre, tárgyainkra ránézünk, rossz érzés tölt el bennünket. Viszont ha veszünk egy nagy levegőt, és ezektől megszabadulunk, egy fajta megkönnyebülés lesz urrá rajtunk.
+Egészen biztos, hogy amihez nem nyúltunk pár évig, ahhoz ezután sem fogunk. Hajlamosak vagyunk mindenfélét őrizgetni, és szinte észrevétlenül nő túl rajtunk a használati tárgyaink mennyisége. A megoldás nem egy új kis bútor vásárlás, hanem az ésszerű gyűjtögetés. Tapasztalatból mondom - bár ezt nő társaim egész biztosan meg tudják erősíteni - hogy amikor a nem használt ruháinkra, cipőnkre, tárgyainkra ránézünk, rossz érzés tölt el bennünket. Viszont ha veszünk egy nagy levegőt, és ezektől megszabadulunk, egy fajta megkönnyebülés lesz urrá rajtunk.
 
 > Nálam a konyhában csak tésztaszűrőből volt 7 darab. Innen-onnan kerültek be a háztartásba, és volt köztük olyan, ami olyan gyenge műanyagból volt, hogy csak egyszer használtam. Most 3 darab van. Egy kicsi, egy nagyobb, de apró  hálós, és egy nagy tésztaszűrő. Épp elég.
 
