@@ -12,13 +12,13 @@ image:
 
 
 
-**Ha nem szeretnénk, hogy az otthonunkat elborítsa a sok "jó lesz ez még valamire" tárgy, akkor muszáj olyan tárolási lehetőséget kialakítani, ahol ezeket a holmikat átláthatóan, és esztétikusan tudjuk elpakolni. Hogy ezt a lakáson belül, vagy mondjuk a garázs egy részen tudjuk megoldani, az már csak részlet kérdés. A lényeg, ha szükségünk van valamire könnyedén elérhető legyen.** 
+**Ha úgy érezzük, hogy a lakásban eluralkodott a káosz, hogy elborított bennünket a sok "jó lesz ez még valamire" tárgy, akkor muszáj átgondolni, hogy hogyan lehet újra élhetővé tenni a lakóterünket. Ha szánunk időt, energiát arra, hogy rendszerezzük a dolgainkat, jutalmunk egy szellős, rendezett otthon lesz.** 
 
 
 ## Káosz vagy rend?
 
-Amennyiben nem az a célunk, hogy az otthonunkban minden szem előtt legyen, ha nem akarunk rendetlenségben, túlzsúfoltan élni, akkor bizony szükségünk van egy kis raktár helyiségre. A szellős, könnyed otthon egyik titka, hogy rendszerezve pakoljuk el az épp nem használt tárgyakat. Az állandó helyhiányt is felszámolhatjuk, ha kis odafigyeléssel rendezzük a környezetünket. 
-
+Amennyiben nem az a célunk, hogy az otthonunkban minden szem előtt legyen, ha nem akarunk rendetlenségben, túlzsúfoltan élni, akkor bizony szükségünk van egy kis raktárra. A tágas, könnyed otthon egyik titka, hogy folyamatosan pakoljuk el az épp nem használt tárgyakat. Az állandó helyhiányt felszámolhatjuk, ha kis odafigyeléssel rendszerezzük a dolgainkat. 
+Próbáljunk olyan tárolási lehetőséget kialakítani, ahol ezeket a holmikat átláthatóan, és esztétikusan tudjuk elpakolni. Hogy ezt a lakáson belül, vagy mondjuk a garázs egy részen tudjuk megoldani, az már csak részlet kérdés. A lényeg, ha szükségünk van valamire könnyedén elérhető legyen.
 
 **Tervezés**
 
@@ -27,7 +27,7 @@ Az, hogy új házat építünk, vagy egy régit gondolunk újra igazából telje
 **Szanálás**
 
 Bármennyire is fájdalmas, olykor-olykor meg kell ejtni a nagy átválogatást.   
-Egészen biztos, hogy amihez nem nyúltunk pár évig, ahhoz ezután sem fogunk. Hajlamosak vagyunk mindenfélét őrizgetni, és szinte észrevétlenül nő túl rajtunk a használati tárgyaink mennyisége. A megoldás nem egy új kis bútor vásárlás, hanem az ésszerű gyűjtögetés. Tapasztalatból mondom - bár ezt nő társaim egész biztosan meg tudják erősíteni - hogy amikor a nem használt ruháinkra, cipőnkre, tárgyainkra ránézünk, rossz érzés tölt el bennünket. Viszont ha veszünk egy nagy levegőt, és ezektől megszabadulunk, egy fajta megkönnyebülés lesz urrá rajtunk.
+Egészen biztos, hogy amihez nem nyúltunk pár évig, ahhoz ezután sem fogunk. Hajlamosak vagyunk mindenfélét őrizgetni, és szinte észrevétlenül nő túl rajtunk a használati tárgyaink mennyisége. A megoldás nem egy új kis bútor vásárlás, hanem az ésszerű gyűjtögetés. Tapasztalatból mondom - bár ezt nő társaim egész biztosan meg tudják erősíteni - hogy amikor a nem használt ruháinkra, cipőnkre, tárgyainkra ránézünk, rossz érzés tölt el bennünket. Viszont ha veszünk egy nagy levegőt, és ezektől megszabadulunk, egy fajta megkönnyebülés lesz úrrá rajtunk.
 
 > Nálam a konyhában csak tésztaszűrőből volt 7 darab. Innen-onnan kerültek be a háztartásba, és volt köztük olyan, ami olyan gyenge műanyagból volt, hogy csak egyszer használtam. Most 3 darab van. Egy kicsi, egy nagyobb, de apró  hálós, és egy nagy tésztaszűrő. Épp elég.
 
@@ -37,33 +37,50 @@ Egészen biztos, hogy amihez nem nyúltunk pár évig, ahhoz ezután sem fogunk.
 
 ## Istállóból kamra
 
-Mi a régen istállónak használt melléképületből választottunk le egy részt (az istállóból lett a [mosókonyha](/2019-05-06/mosókonyhaberendezés) és a kazánház is) erre a célra.
+Mi a régen istállónak használt melléképületből választottunk le egy részt erre a célra. (Az istállóból lett a [mosókonyha](/2019-05-06/mosókonyhaberendezés) és a kazánház is) 
 
 Az első terv az volt, hogy nyárikonyhaként funkcionáljon és mellette még tárolásra is alkalmas legyen. 
 
-Mindenképpen szerettük volna a ház stílusára szabni, és persze nem volt utolsó szempont, hogy ne csak praktikus, hanem házilag is kivitelezhető legyen. Ha nem a bejárati ajtón érünk be a házba, akkor a másik lehetőségünk az, hogy ideérkezünk. Ezért, az hogy milyen a hangulata, számomra lényeges volt. 
+Mindenképpen szerettük volna a ház stílusára szabni, és persze nem utolsó szempont volt, hogy ne csak praktikus, hanem házilag is kivitelezhető legyen. Ha nem a bejárati ajtón érünk be a házba, akkor a másik lehetőségünk az, hogy ideérkezünk. Ezért, az hogy milyen a hangulata, számomra lényeges volt. 
+
+
 A helyiség  válasz falai már a mosókonyha megépítesekor megadták a nyárikonyha falait is.  
 
 
 Nem akartunk vagyonokat költeni, ezért a régi jó baráthoz, a bontott téglához tértünk vissza. Ebből lett az aljzat, ami megadta a számomra oly' kedves vidékies hangulatot. 
 
-
+A mennyezetét régi csinálta meg a férjem. Én lenolajjal lekentem, és ez visszadta fa a régies hangulatát. Aztán jöhetett a festés, és el is készültünk.
 
 ![üzlet](/assets/pannonia/hirdetes.png)
 
 ## Berendezés
 
-Nagy vágyam volt, hogy legyen egy olyan hely, ahol a befőzéseket el tudom intézni. Így idekerült a régi gáztűzhely, mellé egy lerakó pult, és ez alá polcok. A falra egy-két polc, rá az olyan bögrék, csészék amiket már a konyhában nem használtam, de kidobni nem akartam.
+Nagy vágyam volt, hogy legyen egy olyan hely, ahol a befőzéseket el tudom intézni. Így idekerült a régi gáztűzhely, mellé egy lerakó pult, alatta tárolási lehetősséggel. A falra egy-két polc, rá az olyan bögrék, csészék amiket már a konyhában nem használtam, de kidobni nem akartam.
+
+Még az előző tulajdonostól maradt itt egy régi szekrény - aminek hiányzott az egyik ajtaja -, én ezt felújítottam, és beállítottuk a kamrába.
 
 
-A dekorációs dolgaim akkor még a gardróbban és a mosókonyhában voltak. 
+
+Szép volt, hangulatos csak nem praktikus. 
+
+A befőzések továbbra is a konyhában történtek ( kényelmesebb volt ), kevés volt hely, a nyitott polcok mindig porosak voltak... Mondogattam a férjemnek, hogy ez nem igazán jött össze. Tovább kell gondolni, hogy mit lehet kihozni belőle, mert itt van egy kiváló helyiség, mi pedig nem használjuk ki a benne lévő lehetőséget.
+
+A kevés tárolási hely miatt a dekorációs dolgaim akkor még a gardróbban és a mosókonyhában voltak, én pedig nagyon szerettem volna egy helyen tudni őket. Átlátható módon, könnyen kezelhetően, hozzáférhetően akartam elrakni őket.
 
 ![üzlet](/assets/pannonia/IMG_5397.jpg)
 _Igazán stílusos kerti dísz ez a madárka_
 
-**Kert és udvar**
 
-Az Uradalomba a legtöbb növényt innen vásároltam. Már kora tavasszal megjelenek, és novemberig folyamatosan visszatérő vendég vagyok a kertészetben. 
+## Újra tervezés
+
+**Kell egy szekrény**
+
+
+A Marketplace nagyon jó hely. Jó ideig keresgéltem a megfelelő méretben, árban, stílusban és állapotban lévő kredencet, míg aztán meg nem találtam a tökéletes darabot.
+
+**Berendezés 2**
+
+Sikerült meggyőznöm a kamra átalakításának fontosságáról, így neki kezdtem a  
 
  ![üzlet](/assets/pannonia/11703298_308633365927088_437534541464892210_o.jpg)
  _Még tavirózsa is van_
