@@ -26,7 +26,7 @@ Az, hogy új házat építünk, vagy egy régit gondolunk újra igazából telje
 
 **Szanálás**
 
-Bármennyire is fájdalmas, olykor-olykor meg kell ejtni egy nagy átválogatást.   
+Bármennyire is fájdalmas, olykor-olykor meg kell ejtni a nagy átválogatást.   
 Egészen biztos, hogy amihez nem nyúltunk pár évig, ahhoz ezután sem fogunk. Hajlamosak vagyunk mindenfélét őrizgetni, és szinte észrevétlenül nő túl rajtunk a használati tárgyaink mennyisége. A megoldás nem egy új kis bútor vásárlása, hanem az ésszerű gyűjtögetés. Tapasztalatból mondom - bár ezt nő társaim egész biztosan meg tudják erősíteni - hogy amikor a nem használt ruháinkra, cipőnkre, tárgyainkra ránézünk, rossz érzés tölt el bennünket. Viszont ha veszünk egy nagy levegőt, és ezektől megszabadulunk, egy fajta megkönnyebülés lesz urrá rajtunk.
 
 > Nálam a konyhában csak tésztaszűrőből volt 7 darab. Innen-onnan kerültek be a háztartásba, és volt köztük olyan, ami olyan gyenge műanyagból volt, hogy csak egyszer használtam. Most 3 darab van. Egy kicsi, egy nagyobb, de apró  hálós, és egy nagy tésztaszűrő. Épp elég.
@@ -41,22 +41,22 @@ Mi a régen istállónak használt melléképületből választottunk le egy ré
 
 Az első terv az volt, hogy nyárikonyhaként funkcionáljon és mellette még tárolásra is alkalmas legyen. 
 
-Mindenképpen szerettük volna a ház stílusára szabni, és persze nem volt utolsó szempont, hogy ne csak praktikus, hanem olcsó is legyen. Ha nem a bejárati ajtón érünk be a házba, akkor a másik lehetőségünk az, hogy ideérkezünk. Ezért, az hogy milyen a hangulata, számomra lényeges volt. 
-A helyiség  válasz falai már a mosókonyha megépítesekor megadták a nyárikonyha falait is.   Nem akartunk vagyonokat költeni, ezért a régi jó baráthoz tértünk vissza. Bontott téglából lett az aljzat, ami megadta a számomra oly' kedves vidékies hangulatot. 
+Mindenképpen szerettük volna a ház stílusára szabni, és persze nem volt utolsó szempont, hogy ne csak praktikus, hanem házilag is kivitelezhető legyen. Ha nem a bejárati ajtón érünk be a házba, akkor a másik lehetőségünk az, hogy ideérkezünk. Ezért, az hogy milyen a hangulata, számomra lényeges volt. 
+A helyiség  válasz falai már a mosókonyha megépítesekor megadták a nyárikonyha falait is.  
+
+
+Nem akartunk vagyonokat költeni, ezért a régi jó baráthoz, a bontott téglához tértünk vissza. Ebből lett az aljzat, ami megadta a számomra oly' kedves vidékies hangulatot. 
 
 
 
 ![üzlet](/assets/pannonia/hirdetes.png)
 
-## Barangolás az áruházban
-Az apróságokért, virágokért személyesen kell eljönni, de ezt nem is bánom; az igazi „élvezetet” számomra az áruházban történő nézegetés jelenti. Bevallom, nem szeretem a plázákat, a bevásárló központokat, de itt bármeddig el tudok „tekeregni”.
+## Berendezés
 
-![üzlet](/assets/pannonia/55963143_1034730566650694_883109103566585856_o.jpg)
-_Különleges kerti dekorációk is találhatók az üzletben_
+Nagy vágyam volt, hogy legyen egy olyan hely, ahol a befőzéseket el tudom intézni. Így idekerült a régi gáztűzhely, mellé egy lerakó pult, és ez alá polcok. A falra egy-két polc, rá az olyan bögrék, csészék amiket már a konyhában nem használtam, de kidobni nem akartam.
 
 
-![üzlet](/assets/pannonia/21083620_572959032827852_5211685248228180777_o.jpg)
-_Díszüvegek nagy választékan kaphatók_
+A dekorációs dolgaim akkor még a gardróbban és a mosókonyhában voltak. 
 
 ![üzlet](/assets/pannonia/IMG_5397.jpg)
 _Igazán stílusos kerti dísz ez a madárka_
