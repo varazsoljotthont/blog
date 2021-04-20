@@ -98,16 +98,14 @@ _Ide már hosszabban is kiülünk_
 
 Az Uradalom a mérete miatt lehetőséget adott arra, hogy több féle kiülőt, leülőt kialakítsunk.
 
-> Már mondták, hogy annyi kiülőt csinálunk, hogy épp ezért nincs időnk leülni a pihenőhelyeken.  
-
-Nem igaz. Elkészül, megvalósítjuk amit elképzeltünk, és tényleg mindegyiket használatba is vesszük. De tényleg nem alkalmas mindegyik minden célra. Ha pedig együtt van a család, akkor mindenképpen szükséges a több férőhelyes lehetőség.
+> Már mondták, hogy annyi kiülőt csinálunk, hogy épp ezért nincs időnk leülni a pihenőhelyeken. Nem igaz. Elkészül, megvalósítjuk amit elképzeltünk, és tényleg mindegyiket használatba is vesszük. De tényleg nem alkalmas mindegyik minden célra. Ha pedig együtt van a család, akkor mindenképpen szükséges a több férőhelyes lehetőség.
 
 
-![virág](/assets/kertunk/tulipan.jpg)
+**A kerti kiülő**
 
 
 **+ 1 gondolat:**   
-A tanulást nem lehet megspórolni. Egy éven keresztül vásároltam különböző kertészeti újságokat, és az interneten is kerestem az ilyen témájú blogokat, oldalakat, hogy magamhoz és a kerthez képest a legjobban csináljam. Ma is folyamatosan inspirálódom, és ha valamiben segítségre szorulok, segítőkész kertészeti csoportokat találok a Facebook-on is. Például, jó szívvel ajánlom <a href="https://www.facebook.com/groups/1449320471883426/" target="_blank">Virágbolondok</a> oldalt.
+Az, hogy nálunk ilyen nagy hangsúlyt kapott a pihenőhely, és többféle megoldást is beépítettünk, nem jelenti azt, hogy ezekre vagyonokat költöttünk. A kispadot és a székeket kaptuk, a köztéri padokat néhány ezer forintért vettük, az egyik hintaágyat és a napozóágyat a férjem készítette. A függőágyra az őszi leárazás során bukkantam.  Tényleg nem pénz kérdése, hogy a szabadtéri pihenésünk kényelmesen teljen.
 
 
 Ha tetszett, kedveld a <a href="https://www.facebook.com/Var%C3%A1zsolj-otthont-360330751226066/" target="_blank">Facebook</a> oldalt, itt még több érdekességet találsz a mindennapok varázslataiból.
