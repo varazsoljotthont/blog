@@ -15,9 +15,23 @@ image:
 **Ha nem szeretnénk, hogy az otthonunkat elborítsa a sok "jó lesz ez még valamire" tárgy, akkor muszáj egy olyan helyiséget kialakítani, ahol ezeket átláthatóan, esztétikusan tudjuk tárolni. Hogy ez a házon belül, vagy egy külső részen kerül kialakításra, az már csak részlet kérdés. A lényeg, ha szükségünk van valamire könnyedén elérhető legyen.** 
 
 
-## Tervezés
+## Káosz vagy rend?
 
-Az, hogy új házat építünk, vagy egy régit gondolunk újra igazából teljesen mindegy. A lényeg, hogy már a tervezés során vegyük számításba, egy olyan helyiség kialakítását, ami megfelel a "tegyük félre" dolgok, a szezonális dekorációk, a ritkán használt konyhai eszközök, stb. elrakására.
+Ha nem szeretnénk, hogy az otthonunkban minden szem előtt legyen, ha nem szeretnénk rendetlenségben, túlzsúfoltan élni, akkor muszáj egy tárolásra alkalmas helyiségen elgondolkodnunk. A szellős, könnyed otthon egyik titka, hogy rendszerezve pakoljuk el az épp nem használt tárgyakat.
+
+
+**Tervezés**
+
+Az, hogy új házat építünk, vagy egy régit gondolunk újra igazából teljesen mindegy. A lényeg, hogy már a tervezés során vegyük számításba, egy olyan helyiség kialakítását, ami megfelel a "tegyük félre" dolgok, a szezonális dekorációk, a ritkán használt konyhai eszközök, stb. elrakására. Remekül működhet az is, ha 2:1 helyiségben gondolkodunk. A spájz  vagy kamra nem csak a befőttek tárolására lehet jó, de ugyanígy a gardrób is elnyelhet a ruhákon kívül még sok minden mást is. A lényeg, hogy a módszerünk számunkra megfelelő, helytakarékos, rendezett, áttekinthető legyen. 
+
+**Szanálás**
+
+Bármennyire is fájdalmas, olykor-olykor meg kell ejtni egy nagy átválogatást.   
+Egészen biztos, hogy amihez nem nyúltunk pár évig, ahhoz ezután sem fogunk. Hajlamosak vagyunk őrizgetni mindenféle tárgyat, és szinte észrevétlenül nő túl rajtunk 
+
+
+
+
 
 ![üzlet](/assets/pannonia/885514_241812399275852_7227901824338415276_o.jpg)
 
