@@ -12,7 +12,7 @@ image:
 
 
 
-**Ha úgy érezzük, hogy a lakásban eluralkodott a káosz, hogy elborított bennünket a sok "jó lesz ez még valamire" tárgy, akkor muszáj átgondolni, hogy hogyan lehet újra élhetővé tenni a lakóterünket. Ha szánunk időt, energiát arra, hogy rendszerezzük a dolgainkat, jutalmunk egy szellős, rendezett otthon lesz.** 
+**Ha azt érezzük, hogy a lakásban kezd eluralkodni a káosz, hogy elborított bennünket a sok "jó lesz ez még valamire" tárgy, akkor muszáj átgondolni, hogy hogyan lehet újra élhetővé tenni a lakóterünket. Ha szánunk időt, energiát arra, hogy rendszerezzük a dolgainkat, jutalmunk egy szellős, rendezett otthon lesz.** 
 
 
 ## Káosz vagy rend?
