@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Karácsony és más ünnepek a családunkban" 
+title: "tárolás" 
 permalink: /karácsony/
 cover: /assets/karácsony/cover.jpg
 categories: [dekor]
@@ -10,8 +10,26 @@ image:
   width: 300  
 ---
 
-**Karácsony! Olyan sok minden rejtőzik ebben a szóban! Benne van a várakozás, az izgalom, az ünnepi ebéd, a sok feladat, de benne van a család, a szeretet, az együtt töltött idő fontossága is. Miért ne szervezhetnénk úgy a Karácsonyt, hogy legyen időnk az ajándékok mellé magunkat is odaadni? Közösen megélt pillanatokkal, jóízű nevetésekkel és nagy beszélgetésekkel még szebbé tehetjük a karácsonyt.**
+**Ha azt érezzük, hogy a lakásban kezd eluralkodni a káosz, hogy elborított bennünket a sok "jó lesz ez még valamire" tárgy, akkor muszáj átgondolni, hogy hogyan lehet újra élhetővé tenni a lakóterünket. Ha időt, energiát szánunk arra, hogy rendszerezzük a dolgainkat, jutalmunk egy szellős, rendezett otthon lesz.** 
 
+
+
+
+## Káosz vagy rend?
+
+Amennyiben nem célunk, hogy az otthonunkban minden szem előtt legyen, ha nem akarunk rendetlenségben, túlzsúfoltan élni, akkor bizony szükségünk van egy kis raktározási ismeretre. A tágas, könnyed otthon egyik titka, hogy folyamatosan pakoljuk el az épp nem használt tárgyakat. Az állandó helyhiányt felszámolhatjuk, ha kis odafigyeléssel átcsoportosítjuk azt, amit évek alatt összegyűjtöttünk. 
+Próbáljunk olyan tárolási lehetőséget, rendszert kialakítani, ahol ezeket a holmikat átláthatóan, és esztétikusan tudjuk elpakolni. Hogy ezt a lakáson belül, vagy mondjuk a garázs egy részen tudjuk megoldani, az már csak részlet kérdés. A lényeg, ha szükségünk van valamire könnyedén elérhető legyen.
+
+**Tervezés**
+
+Az, hogy új házat építünk, vagy egy régit gondolunk újra igazából teljesen mindegy. A lényeg - ha lehetőségünk van rá -, már a tervezés során vegyük számításba, egy olyan helyiség kialakítását, ami megfelel a "tegyük félre" dolgok, a szezonális dekorációk, a ritkán használt konyhai eszközök, stb. elrakására. Remekül működhet az is, ha 2:1 helyiségben gondolkodunk. A spájz  vagy kamra nem csak a befőttek tárolására lehet jó, de ugyanígy a gardrób is elnyelhet a ruhákon kívül még sok minden mást is. A lényeg, hogy a módszerünk számunkra megfelelő, helytakarékos, rendezett, áttekinthető legyen. 
+
+**Szanálás**
+
+Bármennyire is fájdalmas, olykor-olykor meg kell ejtni a nagy átválogatást.   
+Egészen biztos, hogy amihez nem nyúltunk pár évig, ahhoz ezután sem fogunk. Hajlamosak vagyunk mindenfélét őrizgetni, és szinte észrevétlenül nő túl rajtunk a használati tárgyaink mennyisége. A megoldás nem egy új kis bútor vásárlás, hanem az ésszerű gyűjtögetés. Tapasztalatból mondom - bár ezt nő társaim egész biztosan meg tudják erősíteni - hogy amikor a nem használt ruháinkra, cipőnkre, tárgyainkra ránézünk, rossz érzés tölt el bennünket. Viszont ha veszünk egy nagy levegőt, és ezektől megszabadulunk, egy fajta megkönnyebülés lesz úrrá rajtunk.
+
+> Nálam a konyhában csak tésztaszűrőből volt 7 darab. Innen-onnan kerültek be a háztartásba, és volt köztük olyan, ami olyan gyenge műanyagból volt, hogy csak egyszer használtam. Most 3 darab van. Egy kicsi, egy nagyobb, de apró  hálós, és egy nagy tésztaszűrő. Épp elég.
 
 
 
