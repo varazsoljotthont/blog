@@ -36,6 +36,9 @@ Az első terv az volt, hogy nyárikonyhaként funkcionáljon és mellette még t
 
 Mindenképpen szerettük volna a ház stílusára szabni, és persze nem utolsó szempont volt, hogy ne csak praktikus, hanem házilag is kivitelezhető legyen. Ha nem a bejárati ajtón érünk be a házba, akkor a másik lehetőségünk az, hogy ideérkezünk. Ezért, az hogy milyen a hangulata, számomra lényeges volt. 
 
+![kamra](/assets/kamra2/Névtelen1.png)
+
+
 ![kamra](/assets/kamra2/Névtelen8j.png)
 
 
