@@ -33,7 +33,7 @@ Egészen biztos, hogy amihez nem nyúltunk pár évig, ahhoz ezután sem fogunk.
 
 
 
-![üzlet](/assets/pannonia/885514_241812399275852_7227901824338415276_o.jpg)
+![kamra](/assets/kamra/Névtelen1.png)
 
 ## Istállóból kamra
 
