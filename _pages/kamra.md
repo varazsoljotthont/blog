@@ -26,7 +26,7 @@ A "Miházunkhoz" nagy alapterületű istálló tartozott, ami a házzal teljesen
 
 
 
-![kamra](/assets/kamra/Névtelen1.png)
+![kamra](/assets/kamra2/Névtelen1.png)
 
 ## Istállóból kamra
 
@@ -36,7 +36,7 @@ Az első terv az volt, hogy nyárikonyhaként funkcionáljon és mellette még t
 
 Mindenképpen szerettük volna a ház stílusára szabni, és persze nem utolsó szempont volt, hogy ne csak praktikus, hanem házilag is kivitelezhető legyen. Ha nem a bejárati ajtón érünk be a házba, akkor a másik lehetőségünk az, hogy ideérkezünk. Ezért, az hogy milyen a hangulata, számomra lényeges volt. 
 
-![kamra](/assets/kamra/Névtelen5.png)
+![kamra](/assets/kamra2/Névtelen8.png)
 
 
 A helyiség  válasz falai már a mosókonyha megépítesekor megadták a nyárikonyha falait is.  
@@ -44,9 +44,9 @@ A helyiség  válasz falai már a mosókonyha megépítesekor megadták a nyári
 
 Nem akartunk vagyonokat költeni, ezért a régi jó baráthoz, a bontott téglához tértünk vissza. Ebből lett az aljzat, ami megadta a számomra oly' kedves vidékies hangulatot. 
 
-![kamra](/assets/kamra/Névtelen2.png)
+![kamra](/assets/kamra2/Névtelen2.png)
 
-![kamra](/assets/kamra/Névtelen3.png)
+![kamra](/assets/kamra2/Névtelen3.png)
 
 
 
