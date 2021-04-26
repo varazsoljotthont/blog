@@ -53,12 +53,14 @@ Nem akartunk vagyonokat költeni, ezért a régi jó baráthoz, a bontott tégl�
 
 A mennyezetét régi padlásdeszkából csinálta meg a férjem. Megcsiszolta, én lenolajjal lekentem, és ez nagyszerűen visszadta fa a régies hangulatát. 
 
-![kamra](/assets/kamra2/Névtelen14.png)
+
 
 ![kamra](/assets/kamra2/Névtelen15.png)
 
 
-A kazánház felől kellett egy fal szerűség, ami első ránézésre még engem is elbizonytalanított. A lomok között volt egy bontott ablakm és azt gondolta az én férjuram, hogy ezt befogja építeni. Semmi funkciója nincs, csak feldobja a helyiséget. Be kellett látnom, hogy nem volt rossz ötlet...
+![kamra](/assets/kamra2/Névtelen14.png)
+
+A kazánház felől kellett egy fal szerűség, ami első ránézésre még engem is elbizonytalanított. A lomok között volt egy bontott ablak és azt gondolta az én férjuram, hogy ezt befogja építeni. Semmi funkciója nincs, csak feldobja a helyiséget. Be kellett látnom, hogy nem volt rossz ötlet...
 
 ![kamra](/assets/kamra2/Névtelen10.png)
 
@@ -67,7 +69,7 @@ A kazánház felől kellett egy fal szerűség, ami első ránézésre még enge
 
 ![kamra](/assets/kamra2/Névtelen22.png)
 
-Még az albérlteből maradt meg sárga festékünk, és én úgy gondoltam, hogy az erre a helyiségre tökéletes lesz. Abszolút célunk volt, hogy minél költséghatékonyabban oldjuk meg ezt a projketünket (is).
+Még az albérletből maradt sárga festékünk, és én úgy gondoltam, hogy az erre a helyiségre tökéletes lesz. Abszolút célunk volt, hogy minél költséghatékonyabban oldjuk meg ezt a projketünket (is).
 
 
 
@@ -125,62 +127,9 @@ Sikerült meggyőznöm a kamra átalakításának fontosságáról, így neki ke
 
 
 
-**Dekoráció**
-
-Tudjátok rólam, hogy szenvedélyes dekoráló vagyok.  
-Az áruház az ebbéli igényeimet is kielégíti. Akrilfestékek, dekor hungarocellek, koszorúalapok, táblák, díszek, lámpások, kerti figurák, és még pluszban az épp aktuális ünnepi díszek segítenek abban, hogy minden alkalomra díszbe öltöztessem a „Miházunkat”.  
-És ha a sok féle csecse-becsével kapcsolatban kérdésem támad, Katica rögtön a segítségemre siet.
 
 
 
-![dekor](/assets/pannonia/IMG_5394.jpg)
-
-
-![dekor](/assets/pannonia/IMG_5392.jpg)
-_Nekem a kedvencem ez a bagoly_
-
-
-
-**Konyha és háztartás**
-
-Mint minden háziasszony, én is sütök-főzök-takarítok-pakolok.
-Amit a háztartásban használni kell, azt is megtalálom. A legjobb süti kiszúróim ebből az áruházból vannak, és hogy a cappuccino tetejét ki tudjam díszíteni, ahhoz is itt találtam sablont.
-
-![dekor](/assets/pannonia/IMG-4903.jpg)
-_Tortát is díszíthetünk ezzel a sablonnal_
-
-
-
-Ezen kívül keverő tálak, tányérok, poharak, evőeszközök, edények is vannak, amik elengedhetetlenek a főzés során.
-A lekvár főzéshez szükséges igazi, nagy fazekat is láttam már itt.
-
-
-
-
-
-**Az otthon melege**
-
-
-Abban egész biztosan egyet értünk, hogy egy jól megválasztott kályha vagy kandalló nem csak meleget ad, hanem dekorációs elemként is funkcionál. Nekem is régi vágyam, hogy a nappaliban egy kandalló mellett kucorogjunk a téli estéken. 
-
-
-![dekor](/assets/pannonia/IMG_5381.jpg)
-_Az áruházban a kandallókon túl, még kazánok között is válogathatunk._
-
-![dekor](/assets/pannonia/IMG_5391.jpg)
-_Nagymamáink sparheltje is kapható_
-
-**Komolyan mondom, ez a környék legjobb üzletháza**
-
-
-
-Azt biztosan állíthatom, hogy ez olyan bevásárlóhely, ahol a férfiak is jól érzik magukat, míg a nejük nézeget.  
-Ha ide jövök, mindig találok olyan ötletet, ami beilleszthető lenne hozzánk is. Több mindenünk van „tőlük”. Sok-sok apróság, és több nagy dolog, amiktől az otthonunk kedvesebbé, a kerti munkák pedig könnyebbé válnak.  
-Az eladók szívélyessége, szakmaisága, a pénztárnál Jolcsi kedves szavai nagyban hozzájárulnak ahhoz, hogy mindig visszatérjek ide. 
-
-És vissza is térek... ...de erről a férjem tudna mesélni!
-
-**Ha te is szeretnél innen vásárolni barkács vagy kerti eszközöket, de nem szívesen mennél most tömegbe, emberek közé akkor vásárolj a webshopból, ahol most rengeteg gép tavaszi akciós kedvezménnyel elérhető.  <a href="https://pannoniawebshop.hu/kert-akcio/" target="_blank">Kattints ide</a> és vásárolj otthonod biztonságából. Az akció csak 2020.05.01-ig tart.**
 
 Ha tetszett, kedveld a <a href="https://www.facebook.com/Var%C3%A1zsolj-otthont-360330751226066/" target="_blank">Facebook</a> oldalt, itt még több érdekességet találsz a mindennapok varázslataiból.
 
