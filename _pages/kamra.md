@@ -46,7 +46,7 @@ Nem akartunk vagyonokat költeni, ezért a régi jó baráthoz, a bontott tégl�
 
 ![kamra](/assets/kamra2/Névtelen2.png)
 
-![kamra](/assets/kamra2/Névtelen3.png)
+
 
 ![kamra](/assets/kamra2/Névtelen6.png)
 
@@ -57,7 +57,20 @@ A mennyezetét régi padlásdeszkából csinálta meg a férjem. Megcsiszolta, �
 
 ![kamra](/assets/kamra2/Névtelen15.png)
 
+
+A kazánház felől kellett egy fal szerűség, ami első ránézésre még engem is elbizonytalanított. A lomok között volt egy bontott ablakm és azt gondolta az én férjuram, hogy ezt befogja építeni. Semmi funkciója nincs, csak feldobja a helyiséget. Be kellett látnom, hogy nem volt rossz ötlet...
+
+![kamra](/assets/kamra2/Névtelen10.png)
+
+![kamra](/assets/kamra2/Névtelen16.png)
+
+
+![kamra](/assets/kamra2/Névtelen22.png)
+
 Még az albérlteből maradt meg sárga festékünk, és én úgy gondoltam, hogy az erre a helyiségre tökéletes lesz. Abszolút célunk volt, hogy minél költséghatékonyabban oldjuk meg ezt a projketünket (is).
+
+
+
 
 
 ## Berendezés
@@ -74,7 +87,7 @@ Még az előző tulajdonostól maradt itt egy régi szekrény - aminek hiányzot
 
 ![kamra](/assets/kamra/Névtelen12.png)
 
-Idekerült egy régi, beépíthetőnek szánt kis hűtő, amit csak alkalomszerűen használunk. Férjem nagyszerű ötletének, majd megvalósításának köszönhetően, az ajtó borítást kapott és ezzel már be is illeszkedett a nyárikonyha stílusába.
+Idekerült egy régi, beépíthetőnek szánt kis hűtő, amit csak alkalomszerűen használunk. Férjem nagyszerű ötletének majd megvalósításának köszönhetően, az ajtó borítást kapott és ezzel már be is illeszkedett a nyárikonyha stílusába.
 
 ![kamra](/assets/kamra/Névtelen18.png)
 
@@ -99,60 +112,18 @@ A Marketplace nagyon jó hely. Jó ideig keresgéltem a megfelelő méretben, á
 
 Sikerült meggyőznöm a kamra átalakításának fontosságáról, így neki kezdtem a  
 
- ![üzlet](/assets/pannonia/11703298_308633365927088_437534541464892210_o.jpg)
- _Még tavirózsa is van_
-
-
-Az áruház kertészei, Zoli és Reni már jól ismernek. Nem tudok tőlük olyat kérdezni, amire nem tudják a választ. Igyekeznek egyéni kéréseket is teljesíteni, továbbá rendelésre meg is hozatják a kért növényeket.
-
-![üzlet](/assets/pannonia/IMG_5368.jpg)
-_Formára nyírt díszfák között is válogathatunk_
-
-![üzlet](/assets/pannonia/13350402_369344079856016_1383352079501802487_oj.jpg)
-_Pálmák, egzotikus növények a kertészetben_ 
-
-
-
-Hihetetlen, hogy milyen nagy választékkal rendelkeznek!  
-A hagymások, egynyáriak, évelők, örökzöldek, díszfák, gyümölcsfák, különleges növények, cserjék között csak téblábolok, és a bőség zavarával küzdök! Ha végre eldöntöm, hogy mit válasszak, jön a dilemma, hogy milyen színű legyen…
-
-![üzlet](/assets/pannonia/IMG_5371.jpg)
-_Tavaszi primula kavalkád_
-
-![üzlet](/assets/pannonia/IMG_6224.jpg)
-_Egynyári virágok és muskátlik is nagy választékban megtalálhatóak az üzletben_
-
-![üzlet](/assets/pannonia/IMG_6225.jpg)
-
-Kaspókat én még máshol nem láttam ilyen választékban. Kerámia, agyag, műanyag… Mindenki megtalálhatja az ízlésének, pénztárcájának valót.
-
-
-![üzlet](/assets/pannonia/60691322_1094081854048898_4234098504085012480_oj.jpg)
-_Kaspó minden formában és színben_
-
-**Amire szükségünk lehet a kertben**
-
-A virágföldek – minden növényfajtához -, a különböző mulcsok, vetőmagok, fűmagok, geo textíliák, agrárfóliák, díszkavicsok, kövek, permetszerek, a különböző drótok, csak egy részét képezik az itt található kínálatnak. 
-
-![kő](/assets/pannonia/IMG_5374.jpg)
-_Lehet dekorálni az udvart_
-![kő](/assets/pannonia/IMG_5375.jpg)
+ 
 
 
 
 
 
-A szőlősgazdák is megtalálnak itt mindent egy helyen, hogy jó bor kerülhessen az asztalra.
-
-![szolo](/assets/pannonia/IMG_5365.jpg)
-_Ez aztán a szőlőtőke!_
-
-![hordó](/assets/pannonia/10865988_280194432104315_4617761558783016226_o.jpg)
-_Hordók különböző méretben_
 
 
 
-A hobbikertészeken túl a termelőket is várják. Raktárkészletüknek köszönhetően nagyobb mennyiségben is kiszolgálják a vásárlókat.
+
+
+
 
 **Dekoráció**
 
