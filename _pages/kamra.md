@@ -87,7 +87,7 @@ Még az előző tulajdonostól maradt itt egy régi szekrény - aminek hiányzot
 
 ![kamra](/assets/kamra/Névtelen11.png)
 
-![kamra](/assets/kamra/Névtelen12.png)
+![kamra](/assets/kamra/Névtelen19.png)
 
 Idekerült egy régi, beépíthetőnek szánt kis hűtő, amit csak alkalomszerűen használunk. Férjem nagyszerű ötletének majd megvalósításának köszönhetően, az ajtó borítást kapott és ezzel már be is illeszkedett a nyárikonyha stílusába.
 
