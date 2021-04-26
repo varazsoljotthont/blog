@@ -36,7 +36,7 @@ Az első terv az volt, hogy nyárikonyhaként funkcionáljon és mellette még t
 
 Mindenképpen szerettük volna a ház stílusára szabni, és persze nem utolsó szempont volt, hogy ne csak praktikus, hanem házilag is kivitelezhető legyen. Ha nem a bejárati ajtón érünk be a házba, akkor a másik lehetőségünk az, hogy ideérkezünk. Ezért, az hogy milyen a hangulata, számomra lényeges volt. 
 
-![kamra](/assets/kamra2/Névtelen8.png)
+![kamra](/assets/kamra2/Névtelen8j.png)
 
 
 A helyiség  válasz falai már a mosókonyha megépítesekor megadták a nyárikonyha falait is.  
@@ -48,12 +48,14 @@ Nem akartunk vagyonokat költeni, ezért a régi jó baráthoz, a bontott tégl�
 
 ![kamra](/assets/kamra2/Névtelen3.png)
 
-
+![kamra](/assets/kamra2/Névtelen6.png)
 
 
 A mennyezetét régi padlásdeszkából csinálta meg a férjem. Megcsiszolta, én lenolajjal lekentem, és ez nagyszerűen visszadta fa a régies hangulatát. 
 
-![kamra](/assets/pannonia/Névtelen8.png)
+![kamra](/assets/kamra2/Névtelen14.png)
+
+![kamra](/assets/kamra2/Névtelen15.png)
 
 Még az albérlteből maradt meg sárga festékünk, és én úgy gondoltam, hogy az erre a helyiségre tökéletes lesz. Abszolút célunk volt, hogy minél költséghatékonyabban oldjuk meg ezt a projketünket (is).
 
