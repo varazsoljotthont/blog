@@ -26,7 +26,7 @@ A "Miházunkhoz" nagy alapterületű istálló tartozott, ami a házzal teljesen
 
 
 
-![kamra](/assets/kamra2/Névtelen1.png)
+![kamra](/assets/kamra2/Névtelen.png)
 
 ## Istállóból kamra
 
