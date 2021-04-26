@@ -99,8 +99,6 @@ A befőzések továbbra is a konyhában történtek ( kényelmesebb volt ), kev�
 
 A kevés tárolási hely miatt a dekorációs dolgaim akkor még a gardróbban és a mosókonyhában voltak, én pedig nagyon szerettem volna egy helyen tudni őket. Átlátható módon, könnyen kezelhetően, hozzáférhetően akartam elrakni őket.
 
-![üzlet](/assets/pannonia/IMG_5397.jpg)
-_Igazán stílusos kerti dísz ez a madárka_
 
 
 ## Újra tervezés
