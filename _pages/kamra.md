@@ -12,26 +12,17 @@ image:
 
 
 
-**Ha azt érezzük, hogy a lakásban kezd eluralkodni a káosz, hogy elborított bennünket a sok "jó lesz ez még valamire" tárgy, akkor muszáj átgondolni, hogy hogyan lehet újra élhetővé tenni a lakóterünket. Ha időt, energiát szánunk arra, hogy rendszerezzük a dolgainkat, jutalmunk egy szellős, rendezett otthon lesz.** 
+**A felújításra váró házaknál szinte mindenesetben van olyan melléképület, amit újra tervezve már az új otthon részévé is lehet tenni. Átalakítás után akár nyárikonyha, kamra, vagy kis raktározásra alkalmas helyiség is válhat belőle. Ezek a helyiségek jól jönnek minden családiháznál, hisz' gyakorta vannak olyan dolgok körülöttünk, amik keresik a helyüket, de nincs igazán megoldva a tárolásuk.**
 
 
 
 
-## Káosz vagy rend?
+## A több funkcióssá vált istálló
 
-Amennyiben nem célunk, hogy az otthonunkban minden szem előtt legyen, ha nem akarunk rendetlenségben, túlzsúfoltan élni, akkor bizony szükségünk van egy kis raktározási ismeretre. A tágas, könnyed otthon egyik titka, hogy folyamatosan pakoljuk el az épp nem használt tárgyakat. Az állandó helyhiányt felszámolhatjuk, ha kis odafigyeléssel átcsoportosítjuk azt, amit évek alatt összegyűjtöttünk. 
-Próbáljunk olyan tárolási lehetőséget, rendszert kialakítani, ahol ezeket a holmikat átláthatóan, és esztétikusan tudjuk elpakolni. Hogy ezt a lakáson belül, vagy mondjuk a garázs egy részen tudjuk megoldani, az már csak részlet kérdés. A lényeg, ha szükségünk van valamire könnyedén elérhető legyen.
+A "Miházunkhoz" nagy alapterületű istálló tartozott, ami a házzal teljesen egybe épült. Feladatának már rég nem tett eleget, és mi is teljesen más szerept szántunk neki. A 
+[felújítás](/2019-04-11/külsőfalak) során rendbe tettük a külsejét, majd egyrészéből a [mosókonyhát](//2019-04-30/mosokonyha) is kialakítottuk. A mosókonyha berendezéséről [itt olvashatsz.](/2019-05-06/mosókonyhaberendezés) Kellett még terület a kazánháznak, és a megmaradt helyet alaposan átgondolva kellett megterveznünk.
 
-**Tervezés**
 
-Az, hogy új házat építünk, vagy egy régit gondolunk újra igazából teljesen mindegy. A lényeg - ha lehetőségünk van rá -, már a tervezés során vegyük számításba, egy olyan helyiség kialakítását, ami megfelel a "tegyük félre" dolgok, a szezonális dekorációk, a ritkán használt konyhai eszközök, stb. elrakására. Remekül működhet az is, ha 2:1 helyiségben gondolkodunk. A spájz  vagy kamra nem csak a befőttek tárolására lehet jó, de ugyanígy a gardrób is elnyelhet a ruhákon kívül még sok minden mást is. A lényeg, hogy a módszerünk számunkra megfelelő, helytakarékos, rendezett, áttekinthető legyen. 
-
-**Szanálás**
-
-Bármennyire is fájdalmas, olykor-olykor meg kell ejtni a nagy átválogatást.   
-Egészen biztos, hogy amihez nem nyúltunk pár évig, ahhoz ezután sem fogunk. Hajlamosak vagyunk mindenfélét őrizgetni, és szinte észrevétlenül nő túl rajtunk a használati tárgyaink mennyisége. A megoldás nem egy új kis bútor vásárlás, hanem az ésszerű gyűjtögetés. Tapasztalatból mondom - bár ezt nő társaim egész biztosan meg tudják erősíteni - hogy amikor a nem használt ruháinkra, cipőnkre, tárgyainkra ránézünk, rossz érzés tölt el bennünket. Viszont ha veszünk egy nagy levegőt, és ezektől megszabadulunk, egy fajta megkönnyebülés lesz úrrá rajtunk.
-
-> Nálam a konyhában csak tésztaszűrőből volt 7 darab. Innen-onnan kerültek be a háztartásba, és volt köztük olyan, ami olyan gyenge műanyagból volt, hogy csak egyszer használtam. Most 3 darab van. Egy kicsi, egy nagyobb, de apró  hálós, és egy nagy tésztaszűrő. Épp elég.
 
 
 
@@ -60,9 +51,7 @@ Nem akartunk vagyonokat költeni, ezért a régi jó baráthoz, a bontott tégl�
 
 
 
-A mennyezetét régi csinálta meg a férjem. Én lenolajjal lekentem, és ez visszadta fa a régies hangulatát. Aztán jöhetett a festés, és el is készültünk.
-
-![kamra](/assets/pannonia/Névtelen7.png)
+A mennyezetét régi padlásdeszkából csinálta meg a férjem. Megcsiszolta, én lenolajjal lekentem, és ez nagyszerűen visszadta fa a régies hangulatát. 
 
 ![kamra](/assets/pannonia/Névtelen8.png)
 
@@ -71,7 +60,7 @@ Még az albérlteből maradt meg sárga festékünk, és én úgy gondoltam, hog
 
 ## Berendezés
 
-Nagy vágyam az volt, hogy legyen egy olyan helya házban, ahol a befőzéseket el tudom intézni. 
+Nagy vágyam az volt, hogy legyen egy olyan hely a házban, ahol a befőzéseket el tudom intézni. 
 
 Így idekerült a régi gáztűzhely, mellé egy lerakó pult, alatta tárolási lehetősséggel. A falra egy-két polc, rá az olyan bögrék, csészék amiket már a konyhában nem használtam, de kidobni nem akartam.
 
@@ -83,7 +72,9 @@ Még az előző tulajdonostól maradt itt egy régi szekrény - aminek hiányzot
 
 ![kamra](/assets/kamra/Névtelen12.png)
 
-Idekerült egy régi, beépíthetőnek szánt kis hűtő, amit csak alkalomszerűen használunk. Férjem nagyszerű öteletének, majd megvalósításának köszönhetően, hogy az ajtó borítást kapjon és ezzel illeszkedjen
+Idekerült egy régi, beépíthetőnek szánt kis hűtő, amit csak alkalomszerűen használunk. Férjem nagyszerű ötletének, majd megvalósításának köszönhetően, az ajtó borítást kapott és ezzel már be is illeszkedett a nyárikonyha stílusába.
+
+![kamra](/assets/kamra/Névtelen18.png)
 
 Szép volt, hangulatos, csak nem praktikus. 
 
