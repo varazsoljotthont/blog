@@ -12,7 +12,7 @@ image:
 
 
 
-**A felújításra váró házaknál szinte mindenesetben van olyan melléképület, amit újra tervezve már az új otthon részévé is lehet tenni. Átalakítás után akár nyárikonyha, kamra, vagy kis raktározásra alkalmas helyiség is válhat belőle. Ezek a helyiségek jól jönnek minden családiháznál, hisz' gyakorta vannak olyan dolgok körülöttünk, amik keresik a helyüket, de nincs igazán megoldva a tárolásuk.**
+**A felújításra váró házaknál szinte mindenesetben van olyan melléképület, ami újra tervezve már az új otthon részévé válhat. Átalakítás után akár nyárikonyha, kamra, vagy kis raktározásra alkalmas helyiség is válhat belőle. Ezek a helyiségek jól jönnek minden családiháznál, hisz' gyakorta vannak olyan dolgok körülöttünk, amik keresik a helyüket, de nincs igazán megoldva a tárolásuk.**
 
 
 
