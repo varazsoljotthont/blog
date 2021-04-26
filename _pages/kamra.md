@@ -12,17 +12,17 @@ image:
 
 
 
-**Ha azt érezzük, hogy a lakásban kezd eluralkodni a káosz, hogy elborított bennünket a sok "jó lesz ez még valamire" tárgy, akkor muszáj átgondolni, hogy hogyan lehet újra élhetővé tenni a lakóterünket. Ha szánunk időt, energiát arra, hogy rendszerezzük a dolgainkat, jutalmunk egy szellős, rendezett otthon lesz.** 
+**Ha azt érezzük, hogy a lakásban kezd eluralkodni a káosz, hogy elborított bennünket a sok "jó lesz ez még valamire" tárgy, akkor muszáj átgondolni, hogy hogyan lehet újra élhetővé tenni a lakóterünket. Ha időt, energiát szánunk arra, hogy rendszerezzük a dolgainkat, jutalmunk egy szellős, rendezett otthon lesz.** 
 
 
 ## Káosz vagy rend?
 
-Amennyiben nem az a célunk, hogy az otthonunkban minden szem előtt legyen, ha nem akarunk rendetlenségben, túlzsúfoltan élni, akkor bizony szükségünk van egy kis raktárra. A tágas, könnyed otthon egyik titka, hogy folyamatosan pakoljuk el az épp nem használt tárgyakat. Az állandó helyhiányt felszámolhatjuk, ha kis odafigyeléssel rendszerezzük a dolgainkat. 
+Amennyiben nem az a célunk, hogy az otthonunkban minden szem előtt legyen, ha nem akarunk rendetlenségben, túlzsúfoltan élni, akkor bizony szükségünk van egy kis raktározási ismeretre. A tágas, könnyed otthon egyik titka, hogy folyamatosan pakoljuk el az épp nem használt tárgyakat. Az állandó helyhiányt felszámolhatjuk, ha kis odafigyeléssel rendszerezzük a dolgainkat. 
 Próbáljunk olyan tárolási lehetőséget kialakítani, ahol ezeket a holmikat átláthatóan, és esztétikusan tudjuk elpakolni. Hogy ezt a lakáson belül, vagy mondjuk a garázs egy részen tudjuk megoldani, az már csak részlet kérdés. A lényeg, ha szükségünk van valamire könnyedén elérhető legyen.
 
 **Tervezés**
 
-Az, hogy új házat építünk, vagy egy régit gondolunk újra igazából teljesen mindegy. A lényeg, hogy már a tervezés során vegyük számításba, egy olyan helyiség kialakítását, ami megfelel a "tegyük félre" dolgok, a szezonális dekorációk, a ritkán használt konyhai eszközök, stb. elrakására. Remekül működhet az is, ha 2:1 helyiségben gondolkodunk. A spájz  vagy kamra nem csak a befőttek tárolására lehet jó, de ugyanígy a gardrób is elnyelhet a ruhákon kívül még sok minden mást is. A lényeg, hogy a módszerünk számunkra megfelelő, helytakarékos, rendezett, áttekinthető legyen. 
+Az, hogy új házat építünk, vagy egy régit gondolunk újra igazából teljesen mindegy. A lényeg - ha lehetőségünk van rá -, már a tervezés során vegyük számításba, egy olyan helyiség kialakítását, ami megfelel a "tegyük félre" dolgok, a szezonális dekorációk, a ritkán használt konyhai eszközök, stb. elrakására. Remekül működhet az is, ha 2:1 helyiségben gondolkodunk. A spájz  vagy kamra nem csak a befőttek tárolására lehet jó, de ugyanígy a gardrób is elnyelhet a ruhákon kívül még sok minden mást is. A lényeg, hogy a módszerünk számunkra megfelelő, helytakarékos, rendezett, áttekinthető legyen. 
 
 **Szanálás**
 
