@@ -15,10 +15,12 @@ image:
 **Ha azt érezzük, hogy a lakásban kezd eluralkodni a káosz, hogy elborított bennünket a sok "jó lesz ez még valamire" tárgy, akkor muszáj átgondolni, hogy hogyan lehet újra élhetővé tenni a lakóterünket. Ha időt, energiát szánunk arra, hogy rendszerezzük a dolgainkat, jutalmunk egy szellős, rendezett otthon lesz.** 
 
 
+
+
 ## Káosz vagy rend?
 
-Amennyiben nem az a célunk, hogy az otthonunkban minden szem előtt legyen, ha nem akarunk rendetlenségben, túlzsúfoltan élni, akkor bizony szükségünk van egy kis raktározási ismeretre. A tágas, könnyed otthon egyik titka, hogy folyamatosan pakoljuk el az épp nem használt tárgyakat. Az állandó helyhiányt felszámolhatjuk, ha kis odafigyeléssel rendszerezzük a dolgainkat. 
-Próbáljunk olyan tárolási lehetőséget kialakítani, ahol ezeket a holmikat átláthatóan, és esztétikusan tudjuk elpakolni. Hogy ezt a lakáson belül, vagy mondjuk a garázs egy részen tudjuk megoldani, az már csak részlet kérdés. A lényeg, ha szükségünk van valamire könnyedén elérhető legyen.
+Amennyiben nem célunk, hogy az otthonunkban minden szem előtt legyen, ha nem akarunk rendetlenségben, túlzsúfoltan élni, akkor bizony szükségünk van egy kis raktározási ismeretre. A tágas, könnyed otthon egyik titka, hogy folyamatosan pakoljuk el az épp nem használt tárgyakat. Az állandó helyhiányt felszámolhatjuk, ha kis odafigyeléssel átcsoportosítjuk azt, amit évek alatt összegyűjtöttünk. 
+Próbáljunk olyan tárolási lehetőséget, rendszert kialakítani, ahol ezeket a holmikat átláthatóan, és esztétikusan tudjuk elpakolni. Hogy ezt a lakáson belül, vagy mondjuk a garázs egy részen tudjuk megoldani, az már csak részlet kérdés. A lényeg, ha szükségünk van valamire könnyedén elérhető legyen.
 
 **Tervezés**
 
@@ -37,17 +39,26 @@ Egészen biztos, hogy amihez nem nyúltunk pár évig, ahhoz ezután sem fogunk.
 
 ## Istállóból kamra
 
-Mi a régen istállónak használt melléképületből választottunk le egy részt erre a célra. (Az istállóból lett a [mosókonyha](/2019-05-06/mosókonyhaberendezés) és a kazánház is) 
+Mi, a régen istállónak használt melléképületből választottunk le egy részt erre a célra. (Az istállóból lett a [mosókonyha](/2019-05-06/mosókonyhaberendezés) és a kazánház is) 
 
 Az első terv az volt, hogy nyárikonyhaként funkcionáljon és mellette még tárolásra is alkalmas legyen. 
 
 Mindenképpen szerettük volna a ház stílusára szabni, és persze nem utolsó szempont volt, hogy ne csak praktikus, hanem házilag is kivitelezhető legyen. Ha nem a bejárati ajtón érünk be a házba, akkor a másik lehetőségünk az, hogy ideérkezünk. Ezért, az hogy milyen a hangulata, számomra lényeges volt. 
+
+![kamra](/assets/kamra/Névtelen5.png)
 
 
 A helyiség  válasz falai már a mosókonyha megépítesekor megadták a nyárikonyha falait is.  
 
 
 Nem akartunk vagyonokat költeni, ezért a régi jó baráthoz, a bontott téglához tértünk vissza. Ebből lett az aljzat, ami megadta a számomra oly' kedves vidékies hangulatot. 
+
+![kamra](/assets/kamra/Névtelen2.png)
+
+![kamra](/assets/kamra/Névtelen3.png)
+
+
+
 
 A mennyezetét régi csinálta meg a férjem. Én lenolajjal lekentem, és ez visszadta fa a régies hangulatát. Aztán jöhetett a festés, és el is készültünk.
 
