@@ -19,7 +19,7 @@ image:
 
 ## A több funkcióssá vált istálló
 
-A "Miházunkhoz" nagy alapterületű istálló tartozott, ami a házzal teljesen egybe épült. Feladatának már rég nem tett eleget, és mi is teljesen más szerept szántunk neki. A 
+A "Miházunkhoz" nagy alapterületű istálló tartozott, ami a házzal teljesen egybe épült. Feladatának már rég nem tett eleget, és mi is teljesen más szerepet szántunk neki. A 
 [felújítás](/2019-04-11/külsőfalak) során rendbe tettük a külsejét, majd egyrészéből a [mosókonyhát](//2019-04-30/mosokonyha) is kialakítottuk. A mosókonyha berendezéséről [itt olvashatsz.](/2019-05-06/mosókonyhaberendezés) Kellett még terület a kazánháznak, és a megmaradt helyet alaposan átgondolva kellett megterveznünk.
 
 
