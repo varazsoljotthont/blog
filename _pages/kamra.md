@@ -62,17 +62,30 @@ Nem akartunk vagyonokat költeni, ezért a régi jó baráthoz, a bontott tégl�
 
 A mennyezetét régi csinálta meg a férjem. Én lenolajjal lekentem, és ez visszadta fa a régies hangulatát. Aztán jöhetett a festés, és el is készültünk.
 
-![üzlet](/assets/pannonia/hirdetes.png)
+![kamra](/assets/pannonia/Névtelen7.png)
+
+![kamra](/assets/pannonia/Névtelen8.png)
+
+Még az albérlteből maradt meg sárga festékünk, és én úgy gondoltam, hogy az erre a helyiségre tökéletes lesz. Abszolút célunk volt, hogy minél költséghatékonyabban oldjuk meg ezt a projketünket (is).
+
 
 ## Berendezés
 
-Nagy vágyam volt, hogy legyen egy olyan hely, ahol a befőzéseket el tudom intézni. Így idekerült a régi gáztűzhely, mellé egy lerakó pult, alatta tárolási lehetősséggel. A falra egy-két polc, rá az olyan bögrék, csészék amiket már a konyhában nem használtam, de kidobni nem akartam.
+Nagy vágyam az volt, hogy legyen egy olyan helya házban, ahol a befőzéseket el tudom intézni. 
+
+Így idekerült a régi gáztűzhely, mellé egy lerakó pult, alatta tárolási lehetősséggel. A falra egy-két polc, rá az olyan bögrék, csészék amiket már a konyhában nem használtam, de kidobni nem akartam.
 
 Még az előző tulajdonostól maradt itt egy régi szekrény - aminek hiányzott az egyik ajtaja -, én ezt felújítottam, és beállítottuk a kamrába.
 
+![kamra](/assets/kamra/Névtelen10.png)
 
+![kamra](/assets/kamra/Névtelen11.png)
 
-Szép volt, hangulatos csak nem praktikus. 
+![kamra](/assets/kamra/Névtelen12.png)
+
+Idekerült egy régi, beépíthetőnek szánt kis hűtő, amit csak alkalomszerűen használunk. Férjem nagyszerű öteletének, majd megvalósításának köszönhetően, hogy az ajtó borítást kapjon és ezzel illeszkedjen
+
+Szép volt, hangulatos, csak nem praktikus. 
 
 A befőzések továbbra is a konyhában történtek ( kényelmesebb volt ), kevés volt hely, a nyitott polcok mindig porosak voltak... Mondogattam a férjemnek, hogy ez nem igazán jött össze. Tovább kell gondolni, hogy mit lehet kihozni belőle, mert itt van egy kiváló helyiség, mi pedig nem használjuk ki a benne lévő lehetőséget.
 
