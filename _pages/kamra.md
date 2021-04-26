@@ -30,11 +30,12 @@ A "Miházunkhoz" nagy alapterületű istálló tartozott, ami a házzal teljesen
 
 ## Istállóból kamra
 
-Mi, a régen istállónak használt melléképületből választottunk le egy részt erre a célra. (Az istállóból lett a [mosókonyha](/2019-05-06/mosókonyhaberendezés) és a kazánház is) 
 
-Az első terv az volt, hogy nyárikonyhaként funkcionáljon és mellette még tárolásra is alkalmas legyen. 
 
-Mindenképpen szerettük volna a ház stílusára szabni, és persze nem utolsó szempont volt, hogy ne csak praktikus, hanem házilag is kivitelezhető legyen. Ha nem a bejárati ajtón érünk be a házba, akkor a másik lehetőségünk az, hogy ideérkezünk. Ezért, az hogy milyen a hangulata, számomra lényeges volt. 
+Az első tervünk az volt, hogy ahelyiség nyárikonyhaként funkcionáljon, de mellette még tárolásra is alkalmas legyen. 
+
+Mindenképpen szerettük volna a ház stílusára szabni, és mindenképpen házilag megoldani a kialakítását.  
+Ha nem a bejárati ajtón érünk be a házba, akkor a másik lehetőségünk az, hogy ideérkezünk. Ezért, az hogy milyen lesz a hangulata, számomra lényeges volt. 
 
 ![kamra](/assets/kamra2/Névtelen1.png)
 
