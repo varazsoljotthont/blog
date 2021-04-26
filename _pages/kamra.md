@@ -83,15 +83,15 @@ Nagy vágyam az volt, hogy legyen egy olyan hely a házban, ahol a befőzéseket
 
 Még az előző tulajdonostól maradt itt egy régi szekrény - aminek hiányzott az egyik ajtaja -, én ezt felújítottam, és beállítottuk a kamrába.
 
-![kamra](/assets/kamra/Névtelen10.png)
+![kamra](/assets/kamra2/Névtelen12j.png)
 
-![kamra](/assets/kamra/Névtelen11.png)
+![kamra](/assets/kamra2/Névtelen13.png)
 
-![kamra](/assets/kamra/Névtelen19.png)
+![kamra](/assets/kamra2/Névtelen19.png)
 
 Idekerült egy régi, beépíthetőnek szánt kis hűtő, amit csak alkalomszerűen használunk. Férjem nagyszerű ötletének majd megvalósításának köszönhetően, az ajtó borítást kapott és ezzel már be is illeszkedett a nyárikonyha stílusába.
 
-![kamra](/assets/kamra/Névtelen18.png)
+![kamra](/assets/kamra2/Névtelen21.png)
 
 Szép volt, hangulatos, csak nem praktikus. 
 
