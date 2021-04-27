@@ -46,7 +46,7 @@ Ha nem a bejárati ajtón érünk be a házba, akkor a másik lehetőségünk az
 ![kamra](/assets/kamra2/Névtelen8j.png)
 
 
-A helyiség  válasz falai már a mosókonyha megépítesekor megadták a nyárikonyha falait is.  
+
 
 
 Nem akartunk vagyonokat költeni, ezért a régi jó baráthoz, a bontott téglához tértünk vissza. Ebből lett az aljzat, ami megadta a számomra oly' kedves vidékies hangulatot. 
@@ -76,9 +76,12 @@ A kazánház felől kellett egy fal szerűség, ami első ránézésre még enge
 
 ![kamra](/assets/kamra2/Névtelen22.png)
 
-Még az albérletből maradt sárga festékünk, és én úgy gondoltam, hogy az erre a helyiségre tökéletes lesz. Abszolút célunk volt, hogy minél költséghatékonyabban oldjuk meg ezt a projketünket (is).
 
 
+
+A villanyszerelés,és a faljavítás után jöhetett a festés. Még az albérletből maradt meg a sárga festék, és én úgy gondoltam, hogy az erre a helyiségre tökéletes lesz. Abszolút célunk volt, hogy minél költséghatékonyabban oldjuk meg ezt a projketünket (is).
+
+![kamra](/assets/kamra2/Névtelen9.png)
 
 
 
@@ -100,13 +103,25 @@ Idekerült egy régi, beépíthetőnek szánt kis hűtő, amit csak alkalomszer�
 
 ![kamra](/assets/kamra2/Névtelen21.png)
 
-Szép volt, hangulatos, csak nem praktikus. 
+A nyárikonyha nagyjából elkészült. Szép lett, hangulatos, ahogy elképzeltem, de ez önmagában kevésnek bizonyult. Idővel több olyan gyakorlati probléma is előjött, ami azt mutatta, hogy tovább kell gondolnunk ezt a nyárikonyha dolgot. 
 
-A befőzések továbbra is a konyhában történtek ( kényelmesebb volt ), kevés volt hely, a nyitott polcok mindig porosak voltak... Mondogattam a férjemnek, hogy ez nem igazán jött össze. Tovább kell gondolni, hogy mit lehet kihozni belőle, mert itt van egy kiváló helyiség, mi pedig nem használjuk ki a benne lévő lehetőséget.
+![kamra](/assets/kamra2/Névtelen25.png)
 
-A kevés tárolási hely miatt a dekorációs dolgaim akkor még a gardróbban és a mosókonyhában voltak, én pedig nagyon szerettem volna egy helyen tudni őket. Átlátható módon, könnyen kezelhetően, hozzáférhetően akartam elrakni őket.
+* **a fritőz használat közben óriási gőzt adott ki magából, aminek nem volt hova kimenni. (páraelszívót ide nem tudtunk tenni)**
+
+* **a nyitott polcok - a fritőz miatt is - piszkosak és porosak voltak** 
+
+* **a befőzések továbbra is a konyhában történtek (kényelmesebb volt)**
+
+* **nem volt tároló felület** 
+
+* **a kevés rakodó hely miatt a dekorációs dolgaimat kénytelen voltam több helyen tárolni**
 
 
+* akkor még a gardróbban és a mosókonyhában voltak, én pedig nagyon szerettem volna egy helyen tudni őket. Átlátható módon, könnyen kezelhetően, hozzáférhetően akartam elrakni őket.
+
+* 
+* Mondogattam a férjemnek, hogy ez nem igazán jött össze. Tovább kell gondolni, hogy mit lehet kihozni belőle, mert itt van egy kiváló helyiség, mi pedig nem használjuk ki a benne lévő lehetőséget.
 
 ## Újra tervezés
 
