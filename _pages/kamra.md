@@ -121,7 +121,7 @@ _A kábeldobból nem csak az Uradalom kerítése készült, hanem a hűtő ajtaj
 
 A nyárikonyha nagyjából elkészült. Szép lett, hangulatos, ahogy elképzeltem, de ez önmagában kevésnek bizonyult. Idővel több olyan gyakorlati probléma is előjött, ami azt mutatta, hogy tovább kell gondolnunk ezt a nyárikonyha dolgot. 
 
-![kamra](/assets/kamra2/Névtelen23.png)
+![kamra](/assets/kamra2/Névtelen24.png)
 _A textileket én varrtam. Igyekeztem a fokozni ezzel is a vidékies hangulatot_
 
 Ezeket a működésbeli gondokat kellett orvosolni:
