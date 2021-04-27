@@ -197,24 +197,27 @@ Mikor a szekrényre vadásztam a méretnél a magasság is fontos szempont volt.
 _Úgy érzem, másodjára sikerült kihasználnunk a teret_
 
 
+**+ 1 gondolat:**   
+Van az úgy, hogy nem jön elsőre össze a nagy ötlet. Ha egyre többször gondolunk arra, hogy nem stimmel valami, ha rossz érzésünk van azzal a bizonyos dologgal kapcsolatban, akkor egész biztos, hogy érdemes átgondolni, és ha lehetőségünk van akkor orvosolni a problémát.
+
+
+Ha tetszett, kedveld a <a href="https://www.facebook.com/Var%C3%A1zsolj-otthont-360330751226066/" target="_blank">Facebook oldalt</a> is. Itt még több érdekességet találsz a mindennapok varázslataiból.
+
+
+<a href="https://www.instagram.com/varazsoljotthont/?hl=hu/" target="_blank">Kövess az Instagramon</a> is, és sok olyan fotót láthatsz, ami a blogról vagy a Facebook oldalról kimaradt.
 
 
 
+## Kapcsolódó cikkek
+
+ 
+* [A Miházunk átváltozása](/2019-03-20/költözés)
+* [Ötletes tároló dobozok sajátkezűleg, vidéki stílusban](/2019-04-17/tárolók)
+* [Bontott tégla varázsa az otthonunkban](/2019-04-23/tegla)
+* [Hozzuk formába az otthonunkat!](/2019-03-26/dekoráció)
 
 
 
-
-
-
-
-
-
-
-
-
-Ha tetszett, kedveld a <a href="https://www.facebook.com/Var%C3%A1zsolj-otthont-360330751226066/" target="_blank">Facebook</a> oldalt, itt még több érdekességet találsz a mindennapok varázslataiból.
-
-Kövess az <a href="https://www.instagram.com/varazsoljotthont/?hl=hu/" target="_blank">Instagramon</a> is, és sok olyan fotót láthatsz, ami a blogról vagy a Facebook oldalról kimaradt.
 
 
 
