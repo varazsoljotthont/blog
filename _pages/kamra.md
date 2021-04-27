@@ -85,7 +85,7 @@ _Nehéz erről elhinni, hogy még szép is lehet..._
 
 
 ![kamra](/assets/kamra2/Névtelen22.png)
-_...pedig lehet!_
+_...pedig lehet! És még a lámpa is újrahasznosított, saját ötlet, saját kivitelezés_
 
 
 
@@ -121,7 +121,7 @@ _A kábeldobból nem csak az Uradalom kerítése készült, hanem a hűtő ajtaj
 
 A nyárikonyha nagyjából elkészült. Szép lett, hangulatos, ahogy elképzeltem, de ez önmagában kevésnek bizonyult. Idővel több olyan gyakorlati probléma is előjött, ami azt mutatta, hogy tovább kell gondolnunk ezt a nyárikonyha dolgot. 
 
-![kamra](/assets/kamra2/Névtelen25.png)
+![kamra](/assets/kamra2/Névtelen23.png)
 _A textileket én varrtam. Igyekeztem a fokozni ezzel is a vidékies hangulatot_
 
 Ezeket a működésbeli gondokat kellett orvosolni:
@@ -149,27 +149,44 @@ Magamban jó ideig tervezgettem, hogy hogy lehetne praktikusabbá, hasznosabbá 
 **Felvezetni a problémát**
 
 
+
+
 Azért arról meggyőzni a férjemet, hogy ez a nyárkonyha nem igazán jött össze, bevallom nem volt egyszerű. Hogy muszáj tovább gondolnunk mit lehet kihozni belőle, mert itt van egy kiváló helyiség, mi pedig nem használjuk ki a benne lévő lehetőséget.
 
+![kamra](/assets/kamra2/Névtelen25.png)
+_Elkészült, és bontsuk szét?_
 
 
 
-**Kell egy szekrény**
 
 
-A Marketplace nagyon jó hely. Jó ideig keresgéltem a megfelelő méretben, árban, stílusban és állapotban lévő kredencet, míg aztán meg nem találtam a tökéletes darabot.
+**Első lépés: kell egy szekrény**
+
+
+Jó ideig keresgéltem a megfelelő méretben, árban, stílusban és állapotban lévő kredencet, míg aztán meg nem találtam a tökéletes darabot.
 
 ![kamra](/assets/kamra2/188d3d25d6fdd2e9aa41468da1475a2f.jpg)
 _A kép illusztráció, sajnos nem fotóztam a miénket. Forrás: Pinterest_
 
 
+Miután a szekrényt hazahoztuk, jöhetett a kipakolás. A régi tűzhelyet továbbra is megakartuk tartani, így először annak kellett helyet találni. Aztán a kis hűtőnek, a pultnak is mennie kellett. Mikor üres lett a hely, megint festettem, majd átfestettem a kredencet is. A Cellkolor vízbázisú festékét választottam és öröm volt vele dolgozni. Jól fedett, nem volt szaga, a krétafestékhez hasonló felületet adott. A színt úgy kevertettem ki, amit igyekeztem aszerint választani, hogy az eredetihez hasonlítson. 
+
+> Az erről készült fázis fotók elvesztek, így ezt nem tudom megmutatni.
 
 
-**Berendezés 2**
 
-Sikerült meggyőznöm a kamra átalakításának fontosságáról, így neki kezdtem a  
+**Végre pakolhatok**
 
- 
+
+Magam is meglepődtem, hogy milyen sok dolgom van, amit el kell raknom. A szezonális dekorációknak, kerámiáknak, a kreatív hobbis alapanyagoknak mind-mind helyet kellett találnom.
+
+Viszont ahhoz, hogy tudjam mit-hova teszek, kellett egy személyre szabott rendszerezés. Ki kellett találnom, hogy mi az a módszer ami segít nekem abban, hogy hónapok múlva is tudjam mi, hol van. (Erről a témáról készülőben van egy másik poszt.)
+
+
+
+![kamra](/assets/kamra2/Névtelen25.png)
+_Elkészült, és bontsuk szét?_
+
 
 
 
