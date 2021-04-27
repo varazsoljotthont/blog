@@ -19,7 +19,7 @@ image:
 ## A több funkcióssá vált istálló
 
 
-Már amikor megvettük a házat, láttuk, hogy az istálló a mérete miatt több helyiség kialakítására is alkalmas lesz. Lépésről-lépésre kapta meg a jelenlegi kinézetét, és mostanra már teljesen elveszítette egykori külsejét.
+Már amikor megvettük a házat láttuk, hogy az istálló a mérete miatt több helyiség kialakítására is alkalmas lesz. Lépésről-lépésre kapta meg a jelenlegi kinézetét, és mostanra már teljesen elveszítette egykori külsejét.
 A [felújítás](/2019-04-11/külsőfalak) során rendbe tettük a külsejét, majd egyrészéből a [mosókonyhát](/2019-04-30/mosokonyha) is kialakítottuk. Kellett hely a kazánháznak, és a még szabadon maradt területet is praktikusan akartuk kialakítani.
 
 > A mosókonyha berendezéséről [itt olvashatsz.](/2019-05-06/mosókonyhaberendezés) 
