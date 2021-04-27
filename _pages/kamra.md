@@ -12,15 +12,15 @@ image:
 
 
 
-**A felújításra váró falusi házaknál szinte mindig van olyan melléképület, istálló, ami újra gondolva az új otthon része is lehet. Átalakítás után akár nyárikonyha, kamra, vagy kis raktározásra alkalmas helyiség is válhat belőle. Ezek a kis helyiségek a családiházak Jolly Jokerei, hisz' a gyerekek megunt játékait, a szezonális konyhai eszközöket, vagy  az épp nem használt dekorációs tárgyakat is tárolni kell valahol.**
-
+**A felújításra váró falusi házaknál szinte mindig van olyan melléképület, istálló, ami újra gondolva az új otthon része is lehet. Átalakítás után többek között raktározásra alkalmas helyiség is válhat belőle. Ezek a kis helyiségek a családiházak Jolly Jokerei, hisz' a gyerekek megunt játékait, a szezonális konyhai eszközöket, vagy az épp nem használt dekorációs tárgyak tárolására tökéletesek. A "Miházunkhoz" nagy alapterületű istálló tartozott, és mi bontás helyett inkább új szereppel ruháztuk fel.
 
 
 
 ## A több funkcióssá vált istálló
 
-A "Miházunkhoz" nagy alapterületű istálló tartozott, ami a házzal teljesen egybe épült. Feladatának már rég nem tett eleget, és mi is teljesen más szerepet szántunk neki. A 
-[felújítás](/2019-04-11/külsőfalak) során rendbe tettük a külsejét, majd egyrészéből a [mosókonyhát](/2019-04-30/mosokonyha) is kialakítottuk. Kellett hely a kazánháznak, és a még szabadon maradt területet is praktikusan akartuk kialakítani.
+
+Amikor megvettük a házat, az istállóval nem nagyon foglalkoztunk. Azt viszont láttuk, hogy a mérete miatt több helyiség kialakítására is alkalmas lesz. Lépésről-lépésre kapta meg a jelenlegi kinézetét, és mostanra már nyomokban sem hasonlít az egykori istállóra.
+A [felújítás](/2019-04-11/külsőfalak) során rendbe tettük a külsejét, majd egyrészéből a [mosókonyhát](/2019-04-30/mosokonyha) is kialakítottuk. Kellett hely a kazánháznak, és a még szabadon maradt területet is praktikusan akartuk kialakítani.
 
 > A mosókonyha berendezéséről [itt olvashatsz.](/2019-05-06/mosókonyhaberendezés) 
 
