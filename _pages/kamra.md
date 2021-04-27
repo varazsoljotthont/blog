@@ -76,7 +76,7 @@ _...hamarosan..._
 _...ugye, milyen mutatós lett?_
 
 
-A kazánház felől kellett egy fal szerűség, ami első ránézésre még engem is elbizonytalanított. A lomok között volt egy bontott ablak és azt gondolta az én férjuram, hogy ezt befogja építeni. Semmi funkciója nincs, csak feldobja a helyiséget. Be kellett látnom, hogy nem volt rossz ötlet...
+A kazánház felől kellett egy fal szerűség, ami első ránézésre még engem is elbizonytalanított. A lomok között volt egy bontott ablak és azt gondolta az én férjuram, hogy ezt fogja beépíteni. Semmi funkciója nincs, csak feldobja a helyiséget. Be kellett látnom, hogy nem volt rossz ötlet...
 
 ![kamra](/assets/kamra2/Névtelen10.png)
 _Nehéz erről elhinni, hogy még szép is lehet..._
