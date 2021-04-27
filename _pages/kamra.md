@@ -12,7 +12,7 @@ image:
 
 
 
-**A régi házaknál szinte minden esetben van olyan melléképület,  ami újra tervezve már az új otthon részévé válhat. Átalakítás után akár nyárikonyha, kamra, vagy kis raktározásra alkalmas helyiség is válhat belőle. Ezek a helyiségek jól jönnek minden családiháznál, hisz' mindig vannak olyan dolgok körülöttünk, amik keresik a helyüket, de nincs igazán megoldva a tárolásuk.**
+**A felújításra váró falusi házaknál szinte mindig van olyan melléképület, istálló, ami újra gondolva az új otthon része is lehet. Átalakítás után akár nyárikonyha, kamra, vagy kis raktározásra alkalmas helyiség is válhat belőle. Ezek a kis helyiségek a családiházak Jolly Jokerei, hisz' a gyerekek megunt játékait, ruháit, a szezonális konyhai eszközöket, dekorációs tárgyakat mind tárolni kell valahol.
 
 
 
