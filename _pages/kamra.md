@@ -200,7 +200,7 @@ _Ezek a papírdobozok meglepően jó áron voltak_
 
 
 ![kamra](/assets/kamra2/Névtelen30.png)
-_Úgy érzem, másodjára sikerült kihasználnunk a teret_
+_Úgy érzem, másodjára sikerült kihasználnunk a teret, és még maradt is némi hely_
 
 
 **+ 1 gondolat:**   
