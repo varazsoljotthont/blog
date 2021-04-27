@@ -184,7 +184,7 @@ Magam is meglepődtem, hogy milyen sok dolgom van, amit el kell raknom. A szezon
 
 Viszont ahhoz, hogy tudjam mit-hova teszek, kellett egy személyre szabott rendszerezés. Ki kellett találnom, hogy mi az a módszer ami segít nekem abban, hogy hónapok múlva is tudjam mi, hol van. (Erről a témáról készülőben van egy másik poszt.)
 
-![kamra](/assets/kamra2/IMG_1475.jpg)
+![kamra](/assets/kamra2/Névtelen32.png)
 _Dobozok nem csak úgy egymásra vannak rakva, itt már rendszerezve van a tartalom_
 
 
