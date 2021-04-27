@@ -12,7 +12,7 @@ image:
 
 
 
-**A felújításra váró falusi házaknál szinte mindig van olyan melléképület, istálló, ami újra gondolva az új otthon része is lehet. Átalakítás után akár nyárikonyha, kamra, vagy kis raktározásra alkalmas helyiség is válhat belőle. Ezek a kis helyiségek a családiházak Jolly Jokerei, hisz' a gyerekek megunt játékait, a szezonális konyhai eszközöket, vagy akár az épp nem használt dekorációs tárgyakat mind tárolni kell valahol.**
+**A felújításra váró falusi házaknál szinte mindig van olyan melléképület, istálló, ami újra gondolva az új otthon része is lehet. Átalakítás után akár nyárikonyha, kamra, vagy kis raktározásra alkalmas helyiség is válhat belőle. Ezek a kis helyiségek a családiházak Jolly Jokerei, hisz' a gyerekek megunt játékait, a szezonális konyhai eszközöket, vagy  az épp nem használt dekorációs tárgyakat is tárolni kell valahol.**
 
 
 
