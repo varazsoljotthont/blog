@@ -146,14 +146,14 @@ A mindenféle kreatív holmim akkor még a gardróbban és a mosókonyhában vol
 ## Újra tervezés
 
 
-Magamban jó ideig tervezgettem, hogy lehetne praktikusabbá, hasznosabbá tenni a nyárikonyhát. A átalakítás elég nagynak feladatnak tűnt, így szükségszerű volt, hogy előálljak vele.
+Magamban jó ideig tervezgettem, hogy lehetne praktikusabbá, hasznosabbá tenni a nyárikonyhát. Az átalakítás elég nagynak feladatnak tűnt, így szükségszerű volt, hogy a férjem elé álljak vele.
 
 **Felvezetni a problémát**
 
 
 
 
-Azért arról meggyőzni a férjemet, hogy ez a nyárikonyha nem igazán jött össze, bevallom nem volt egyszerű. Fontos volt tovább gondolnunk mit lehet kihozni belőle, mert van egy kiváló helyiségünk, mi pedig nem használjuk ki a benne lévő lehetőséget.
+Azért arról meggyőzni a férjemet, hogy ez a nyárikonyha nem igazán jött össze, bevallom nem volt egyszerű. Viszont fontos lett tovább gondolnunk mit lehet kihozni belőle, mert volt egy kiváló helyiségünk, mi pedig nem használtuk ki a benne lévő lehetőséget.
 
 ![kamra](/assets/kamra2/Névtelen25.png)
 _Elkészült, és bontsuk szét?_
