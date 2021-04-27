@@ -2,10 +2,10 @@
 layout: post
 title: 'Tárolni, de hol?"'
 permalink: /kamra/
-cover: /assets/pannonia/cover.jpg
+cover: /assets/kamra2/Névtelen25.png
 categories: [kert, dekor]
 image:
-  path: /assets/pannonia/cover.jpg
+  path: /assets/kamra/Névtelen25.png
   height: 300
   width: 300
 ---
