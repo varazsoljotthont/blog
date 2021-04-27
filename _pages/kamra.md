@@ -35,6 +35,7 @@ A "Miházunkhoz" nagy alapterületű istálló tartozott, ami a házzal teljesen
 Az első tervünk az volt, hogy a helyiség nyárikonyhaként funkcionáljon, de mellette még tárolásra is alkalmas legyen. Mindenképpen szerettük volna a ház stílusára szabni, és mindenképpen házilag megoldani a kialakítását.  
 
 ![kamra](/assets/kamra2/Névtelen1.png)
+_A kezdet_
 
 
 Ha nem a bejárati ajtón érünk be a házba, akkor a másik lehetőségünk az, hogy ideérkezünk. Ezért, az hogy milyen lesz a hangulata, számomra lényeges volt. 
@@ -42,6 +43,8 @@ Ha nem a bejárati ajtón érünk be a házba, akkor a másik lehetőségünk az
 
 
 ![kamra](/assets/kamra2/Névtelen8j.png)
+_Halad a munka_
+
 
 
 
@@ -50,10 +53,12 @@ Ha nem a bejárati ajtón érünk be a házba, akkor a másik lehetőségünk az
 Nem akartunk vagyonokat költeni, ezért a régi jó baráthoz, a bontott téglához tértünk vissza. Ebből lett az aljzat, ami megadta a számomra oly' kedves vidékies hangulatot. 
 
 ![kamra](/assets/kamra2/Névtelen2.png)
+_A bontott tégla ide is jó választás_
 
 
 
 ![kamra](/assets/kamra2/Névtelen6.png)
+_... és itt már fugázva-
 
 
 A mennyezetét régi padlásdeszkából csinálta meg a férjem. Megcsiszolta, én lenolajjal lekentem, és ez nagyszerűen visszadta fa a régies hangulatát. 
@@ -61,21 +66,26 @@ A mennyezetét régi padlásdeszkából csinálta meg a férjem. Megcsiszolta, �
 
 
 ![kamra](/assets/kamra2/Névtelen15.png)
+_Szép lesz ez..._
 
 
 ![kamra](/assets/kamra2/Névtelen14.png)
+_...hamarosan..._
 
 ![kamra](/assets/kamra/Névtelen20.png)
+_...ugye, milyen mutatós lett?_
 
 
 A kazánház felől kellett egy fal szerűség, ami első ránézésre még engem is elbizonytalanított. A lomok között volt egy bontott ablak és azt gondolta az én férjuram, hogy ezt befogja építeni. Semmi funkciója nincs, csak feldobja a helyiséget. Be kellett látnom, hogy nem volt rossz ötlet...
 
 ![kamra](/assets/kamra2/Névtelen10.png)
+_Nehéz erről elhinni, hogy még szép is lehet..._
 
 ![kamra](/assets/kamra2/Névtelen16.png)
 
 
 ![kamra](/assets/kamra2/Névtelen22.png)
+_...pedig lehet!_
 
 
 
@@ -83,6 +93,7 @@ A kazánház felől kellett egy fal szerűség, ami első ránézésre még enge
 A villanyszerelés,és a faljavítás után jöhetett a festés. Még az albérletből maradt meg a sárga festék, és én úgy gondoltam, hogy az erre a helyiségre tökéletes lesz. Abszolút célunk volt, hogy minél költséghatékonyabban oldjuk meg ezt a projketünket (is).
 
 ![kamra](/assets/kamra2/Névtelen9.png)
+_alakul a csempézés is. Természtesen saját kivitelezésbe._
 
 
 
@@ -92,17 +103,21 @@ Nagy vágyam az volt, hogy legyen egy olyan hely a házban, ahol a befőzéseket
 
 Így idekerült a régi gáztűzhely, mellé egy lerakó pult, alatta tárolási lehetősséggel. A falra egy-két polc, rá az olyan bögrék, csészék amiket már a konyhában nem használtam, de kidobni nem akartam.
 
-Még az előző tulajdonostól maradt itt egy régi szekrény - aminek hiányzott az egyik ajtaja -, én ezt felújítottam, és beállítottuk a kamrába.
+Még az első tulajdonostól maradt egy régi szekrény - aminek hiányzott az egyik ajtaja -, én ezt felújítottam, és beállítottuk a kamrába.
 
 ![kamra](/assets/kamra2/Névtelen12j.png)
+_A megörökölt szekrény_
 
 ![kamra](/assets/kamra2/Névtelen13.png)
+_Az ajtó belső felére a régi dátumok,információk a családról_
 
 ![kamra](/assets/kamra2/Névtelen19.png)
+_Szemfüles olvasók láthatják, hogy az Uradalom még sehol sincs..._
 
 Idekerült egy régi, beépíthetőnek szánt kis hűtő, amit csak alkalomszerűen használunk. Férjem nagyszerű ötletének majd megvalósításának köszönhetően, az ajtó borítást kapott és ezzel már be is illeszkedett a nyárikonyha stílusába.
 
 ![kamra](/assets/kamra2/Névtelen21.png)
+_A kábeldobból nem csak az Uradalom kerítése készült, hanem a hűtő ajtaja és a nyárikonyha pultja is_
 
 A nyárikonyha nagyjából elkészült. Szép lett, hangulatos, ahogy elképzeltem, de ez önmagában kevésnek bizonyult. Idővel több olyan gyakorlati probléma is előjött, ami azt mutatta, hogy tovább kell gondolnunk ezt a nyárikonyha dolgot. 
 
