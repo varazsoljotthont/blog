@@ -32,7 +32,7 @@ A [felújítás](/2019-04-11/külsőfalak) során rendbe tettük az udvar felől
 
 
 
-Az első tervünk az volt, hogy a helyiség nyárikonyhaként funkcionáljon, de mellette még tárolásra is alkalmas legyen. Mindenképpen szerettük volna a ház stílusára szabni, és mindenképpen házilag megoldani a kialakítását.  
+Az első tervünk az volt, hogy a helyiség nyárikonyhaként funkcionáljon, de mellette még tárolásra is alkalmas legyen. Mindenképpen szerettük volna a ház stílusára szabni, és persze házilag megoldani a kialakítását.  
 
 ![kamra](/assets/kamra2/Névtelen1.png)
 _A kezdet_
