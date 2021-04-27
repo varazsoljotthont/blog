@@ -90,7 +90,7 @@ _...pedig lehet! És még a lámpa is újrahasznosított. Saját ötlet, saját 
 
 
 
-A villanyszerelés,és a faljavítás után jöhetett a festés. Még az albérletből maradt meg a sárga festék, és én úgy gondoltam, hogy az erre a helyiségre tökéletes lesz. Abszolút célunk volt, hogy minél költséghatékonyabban oldjuk meg ezt a projketünket (is).
+A villanyszerelés,és a faljavítás után jöhetett a festés. Még az albérletből maradt festék, és én úgy gondoltam, hogy erre a helyiségre tökéletes lesz. Abszolút célunk volt, hogy minél költséghatékonyabban oldjuk meg ezt a projketünket (is).
 
 ![kamra](/assets/kamra2/Névtelen9.png)
 _Alakul a csempézés is. Természtesen saját kivitelezésben_
