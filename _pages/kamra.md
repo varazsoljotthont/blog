@@ -32,9 +32,7 @@ A "Miházunkhoz" nagy alapterületű istálló tartozott, ami a házzal teljesen
 
 
 
-Az első tervünk az volt, hogy a helyiség nyárikonyhaként funkcionáljon, de mellette még tárolásra is alkalmas legyen. 
-
-Mindenképpen szerettük volna a ház stílusára szabni, és mindenképpen házilag megoldani a kialakítását.  
+Az első tervünk az volt, hogy a helyiség nyárikonyhaként funkcionáljon, de mellette még tárolásra is alkalmas legyen. Mindenképpen szerettük volna a ház stílusára szabni, és mindenképpen házilag megoldani a kialakítását.  
 
 ![kamra](/assets/kamra2/Névtelen1.png)
 
@@ -66,6 +64,9 @@ A mennyezetét régi padlásdeszkából csinálta meg a férjem. Megcsiszolta, �
 
 
 ![kamra](/assets/kamra2/Névtelen14.png)
+
+![kamra](/assets/kamra/Névtelen20.png)
+
 
 A kazánház felől kellett egy fal szerűség, ami első ránézésre még engem is elbizonytalanított. A lomok között volt egy bontott ablak és azt gondolta az én férjuram, hogy ezt befogja építeni. Semmi funkciója nincs, csak feldobja a helyiséget. Be kellett látnom, hogy nem volt rossz ötlet...
 
