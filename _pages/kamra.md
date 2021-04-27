@@ -3,7 +3,7 @@ layout: post
 title: 'Tárolni, de hol?"'
 permalink: /kamra/
 cover: /assets/kamra2/Névtelen25.png
-categories: [kert, dekor]
+categories: [házfelújítás, dekor]
 image:
   path: /assets/kamra/Névtelen25.png
   height: 300
