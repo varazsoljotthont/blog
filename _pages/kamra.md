@@ -198,8 +198,7 @@ _Úgy érzem, másodjára sikerült kihasználnunk a teret_
 
 
 **+ 1 gondolat:**   
-Van az úgy, hogy elsőre nem jön össze a nagy ötlet. Ha egyre többször gondolunk arra, hogy nem stimmel valami, ha rossz érzésünk van azzal a bizonyos dologgal kapcsolatban, akkor egész biztos, hogy az nem olyan, amilyennek szerettük volna. 
-
+Van az úgy, hogy elsőre nem jön össze a nagy ötlet. Ha egyre többször gondolunk arra, hogy nem stimmel valami, ha rossz érzésünk van azzal a bizonyos dologgal kapcsolatban, akkor az nem olyan, amilyennek szerettük volna. Nem biztos, hogy mindig egyszerű a megoldás, és persze az is lehet, hogy minimális módosítással javítható a probléma. Ami biztos, hogy mindenképpen érdemes foglalkozni vele.
 
 Ha tetszett, kedveld a <a href="https://www.facebook.com/Var%C3%A1zsolj-otthont-360330751226066/" target="_blank">Facebook oldalt</a> is. Itt még több érdekességet találsz a mindennapok varázslataiból.
 
