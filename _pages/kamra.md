@@ -109,10 +109,10 @@ Még az első tulajdonostól maradt egy régi szekrény - aminek hiányzott az e
 _A megörökölt szekrény_
 
 ![kamra](/assets/kamra2/Névtelen13.png)
-_Az ajtó belső felére a régi dátumok,információk a családról_
+_Az ajtó belső felén régi dátumok, információk a családról_
 
 ![kamra](/assets/kamra2/Névtelen19.png)
-_Szemfüles olvasók láthatják, hogy az Uradalom még sehol sincs..._
+_Szemfüles olvasók láthatják, hogy az Uradalom itt még nincs kialakítva_
 
 Idekerült egy régi, beépíthetőnek szánt kis hűtő, amit csak alkalomszerűen használunk. Férjem nagyszerű ötletének majd megvalósításának köszönhetően, az ajtó borítást kapott és ezzel már be is illeszkedett a nyárikonyha stílusába.
 
@@ -122,24 +122,37 @@ _A kábeldobból nem csak az Uradalom kerítése készült, hanem a hűtő ajtaj
 A nyárikonyha nagyjából elkészült. Szép lett, hangulatos, ahogy elképzeltem, de ez önmagában kevésnek bizonyult. Idővel több olyan gyakorlati probléma is előjött, ami azt mutatta, hogy tovább kell gondolnunk ezt a nyárikonyha dolgot. 
 
 ![kamra](/assets/kamra2/Névtelen25.png)
+_A textileket én varrtam. Igyekeztem a fokozni ezzel is a vidékies hangulatot_
+
+Ezeket a működésbeli gondokat kellett orvosolni:
 
 * **a fritőz használat közben óriási gőzt adott ki magából, aminek nem volt hova kimenni. (páraelszívót ide nem tudtunk tenni)**
 
 * **a nyitott polcok - a fritőz miatt is - piszkosak és porosak voltak** 
 
-* **a befőzések továbbra is a konyhában történtek (kényelmesebb volt)**
+* **a befőzéseket kényelmi okok miatt mégsem itt csináltam, így nem volt szükség a lerakó helyre**
 
-* **nem volt tároló felület** 
+* **a tároló felület viszont nagyon kevés volt** 
 
 * **a kevés rakodó hely miatt a dekorációs dolgaimat kénytelen voltam több helyen tárolni**
 
 
-* akkor még a gardróbban és a mosókonyhában voltak, én pedig nagyon szerettem volna egy helyen tudni őket. Átlátható módon, könnyen kezelhetően, hozzáférhetően akartam elrakni őket.
+A mindenféle kreatív holmim akkor még a gardróbban és a mosókonyhában voltak, én pedig nagyon szerettem volna ezeket egy helyen tudni. Átlátható módon, könnyen kezelhetően, hozzáférhetően akartam elrakni.
 
-* 
-* Mondogattam a férjemnek, hogy ez nem igazán jött össze. Tovább kell gondolni, hogy mit lehet kihozni belőle, mert itt van egy kiváló helyiség, mi pedig nem használjuk ki a benne lévő lehetőséget.
+
 
 ## Újra tervezés
+
+
+Magamban jó ideig tervezgettem, hogy hogy lehetne praktikusabbá, hasznosabbá tenni a nyárikonyhát. A átalakítás elég nagynak feladatnak tűnt, így szükségszerű volt, hogy előálljak vele.
+
+**Felvezetni a problémát**
+
+
+Azért arról meggyőzni a férjemet, hogy ez a nyárkonyha nem igazán jött össze, bevallom nem volt egyszerű. Hogy muszáj tovább gondolnunk mit lehet kihozni belőle, mert itt van egy kiváló helyiség, mi pedig nem használjuk ki a benne lévő lehetőséget.
+
+
+
 
 **Kell egy szekrény**
 
