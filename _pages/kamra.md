@@ -184,7 +184,7 @@ Magam is meglepődtem, hogy milyen sok dolgom van, amit el kell raknom. A szezon
 
 Viszont ahhoz, hogy tudjam mit-hova teszek, kellett egy személyre szabott rendszerezés. Ki kellett találnom, hogy mi az a módszer ami segít nekem abban, hogy hónapok múlva is tudjam mi, hol van. (Erről a témáról készülőben van egy másik poszt.)
 
-![kamra](/assets/kamra2/Névtelen31.png)
+![kamra](/assets/kamra2/Névtelen30.png)
 _Dobozok nem csak úgy egymásra vannak rakva, itt már rendszerezve van a tartalom_
 
 
@@ -193,7 +193,7 @@ _Dobozok nem csak úgy egymásra vannak rakva, itt már rendszerezve van a tarta
 
 Mikor a szekrényre vadásztam a méretnél a magasság is fontos szempont volt. Férjuramat nem akartam tovább stresszelni az ilyen-olyan polcokkal, ezért a tökéletes helykihasználás miatt a szekrénytetejét jól pakolhatóvá akartam tenni. Ehhez fedeles műanyag és papírdobozokat vásároltam, és kezdődhetett is rakodás.
 
-![kamra](/assets/kamra2/Névtelen30.png)
+![kamra](/assets/kamra2/Névtelen31.png)
 _A papírdobozok meglepően jó áron voltak_
 
 
