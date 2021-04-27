@@ -185,7 +185,7 @@ Magam is meglepődtem, hogy milyen sok dolgom van, amit el kell raknom. A szezon
 Viszont ahhoz, hogy tudjam mit-hova teszek, kellett egy személyre szabott rendszerezés. Ki kellett találnom, hogy mi az a módszer ami segít nekem abban, hogy hónapok múlva is tudjam mi, hol van. (Erről a témáról készülőben van egy másik poszt.)
 
 ![kamra](/assets/kamra2/Névtelen32.png)
-_Dobozok nem csak úgy egymásra vannak rakva, itt már rendszerezve van a tartalom_
+_A papírdobozok meglepően jó áron voltak_
 
 
 **Belaktam a kamrát**
@@ -195,8 +195,7 @@ Mikor a szekrényre vadásztam a méretnél a magasság is fontos szempont volt.
 
 
 ![kamra](/assets/kamra2/Névtelen31.png)
-_Ezek a papírdobozok meglepően jó áron voltak_
-
+_Dobozok nem csak úgy egymásra vannak rakva, itt már rendszerezve van a tartalom_
 
 
 ![kamra](/assets/kamra2/Névtelen30.png)
