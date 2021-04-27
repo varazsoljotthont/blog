@@ -131,6 +131,12 @@ A nyárikonyha nagyjából elkészült. Szép lett, hangulatos, ahogy elképzelt
 
 A Marketplace nagyon jó hely. Jó ideig keresgéltem a megfelelő méretben, árban, stílusban és állapotban lévő kredencet, míg aztán meg nem találtam a tökéletes darabot.
 
+![kamra](/assets/kamra2/188d3d25d6fdd2e9aa41468da1475a2f.jpg)
+_A kép illusztráció, sajnos nem fotóztam a miénket. Forrás: Pinterest_
+
+
+
+
 **Berendezés 2**
 
 Sikerült meggyőznöm a kamra átalakításának fontosságáról, így neki kezdtem a  
