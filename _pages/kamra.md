@@ -171,9 +171,9 @@ Jó ideig keresgéltem a megfelelő méretben, árban, stílusban és állapotba
 _A kép illusztráció, sajnos nem fotóztam a miénket. Forrás: Pinterest_
 
 
-Miután a szekrényt hazahoztuk, jöhetett a kipakolás. A régi tűzhelyet továbbra is megakartuk tartani, így először annak kellett helyet találni. Aztán a kis hűtőnek, a pultnak is mennie kellett. Mikor üres lett a hely, megint festettem, majd átfestettem a kredencet is. A Cellkolor vízbázisú festékét választottam és öröm volt vele dolgozni. Jól fedett, nem volt szaga, a krétafestékhez hasonló felületet adott. A színt úgy kevertettem ki, amit igyekeztem aszerint választani, hogy az eredetihez hasonlítson. 
+Miután a szekrényt hazahoztuk, jöhetett a kipakolás. A régi tűzhelyet továbbra is megakartuk tartani, így először annak kellett helyet találni. Aztán a kis hűtőnek, a pultnak is mennie kellett. Mikor üres lett a hely, megint festettem, majd átfestettem a kredencet is. A Cellkolor vízbázisú festékét választottam és öröm volt vele dolgozni. Jól fedett, nem volt szaga, a krétafestékhez hasonló felületet adott. A színt úgy kevertettem ki, hogy az eredetihez minél jobban hasonlítson. 
 
-> Az erről készült fázis fotók elvesztek, így ezt nem tudom megmutatni.
+> Az bútor átfestéséről készült fázis fotók elvesztek, így ezt nem tudom megmutatni.
 
 
 
