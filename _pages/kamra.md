@@ -53,12 +53,12 @@ _Halad a munka_
 Nem akartunk vagyonokat költeni, ezért a régi jó baráthoz, a bontott téglához tértünk vissza. Ebből lett az aljzat, ami megadta a számomra oly' kedves vidékies hangulatot. 
 
 ![kamra](/assets/kamra2/Névtelen2.png)
-_A bontott tégla ide is jó választás_
+_A bontott tégla ide is jó választás volt_
 
 
 
 ![kamra](/assets/kamra2/Névtelen6.png)
-_... és itt már fugázva-
+_...itt már fugázva_
 
 
 A mennyezetét régi padlásdeszkából csinálta meg a férjem. Megcsiszolta, én lenolajjal lekentem, és ez nagyszerűen visszadta fa a régies hangulatát. 
