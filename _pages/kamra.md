@@ -119,8 +119,6 @@ Idekerült egy régi, beépíthetőnek szánt kis hűtő, amit csak alkalomszer�
 ![kamra](/assets/kamra2/Névtelen21.png)
 
 ![kamra](/assets/kamra2/Névtelen26.png)
-
-
 _Kábeldobból készült a hűtő ajtaja és a nyárikonyha pultja is_
 
 A nyárikonyha nagyjából elkészült. Szép lett, hangulatos, ahogy elképzeltem, de ez önmagában kevésnek bizonyult. Idővel több olyan gyakorlati probléma is előjött, ami azt mutatta, hogy tovább kell gondolnunk ezt a nyárikonyha dolgot. 
