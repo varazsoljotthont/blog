@@ -12,7 +12,7 @@ image:
 
 
 
-**A felújításra váró falusi házaknál szinte mindig van olyan melléképület, istálló, ami újra gondolva az új otthon része is lehet. Átalakítás után többek között raktározásra alkalmas helyiség is válhat belőle. Ezek a kis helyiségek a családiházak Jolly Jokerei, hisz' a gyerekek megunt játékait, a szezonális konyhai eszközöket, vagy az épp nem használt dekorációs tárgyak tárolására tökéletesek. A "Miházunkhoz" nagy alapterületű istálló tartozott, és mi bontás helyett inkább új szereppel ruháztuk fel.**
+**A felújításra váró falusi házaknál szinte mindig van olyan melléképület, istálló, ami újra gondolva az új otthon része is lehet. Átalakítás után akár tárolásra alkalmas helyiség is válhat belőle. Ezek a kis helyiségek a családiházak Jolly Jokerei, hisz' a gyerekek megunt játékait, a szezonális konyhai eszközöket, vagy az épp nem használt dekorációs tárgyak "raktározására" tökéletesek. A "Miházunkhoz" nagy alapterületű istálló tartozott, és mi bontás helyett inkább ezzel az új szereppel ruháztuk fel.**
 
 
 
