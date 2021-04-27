@@ -132,9 +132,9 @@ Idővel több olyan gyakorlati probléma is előjött, ami azt mutatta, hogy tov
 
 * **a nyitott polcok - a fritőz miatt is - piszkosak és porosak voltak** 
 
-* **a befőzéseket kényelmi okok miatt mégsem itt csináltam, így nem volt szükség a lerakó helyre**
+* **a befőzéseket kényelmi okok miatt mégsem itt csináltam, így feleslegessé vált a lerakó hely**
 
-* **a tároló felület viszont nagyon kevés volt** 
+* **a tárolásra alkalmas területből viszont nagyon kevés volt** 
 
 * **a kevés rakodó hely miatt a dekorációs dolgaimat kénytelen voltam több helyen tárolni**
 
@@ -146,7 +146,7 @@ A mindenféle kreatív holmim akkor még a gardróbban és a mosókonyhában vol
 ## Újra tervezés
 
 
-Magamban jó ideig tervezgettem, hogy hogy lehetne praktikusabbá, hasznosabbá tenni a nyárikonyhát. A átalakítás elég nagynak feladatnak tűnt, így szükségszerű volt, hogy előálljak vele.
+Magamban jó ideig tervezgettem, hogy lehetne praktikusabbá, hasznosabbá tenni a nyárikonyhát. A átalakítás elég nagynak feladatnak tűnt, így szükségszerű volt, hogy előálljak vele.
 
 **Felvezetni a problémát**
 
@@ -185,9 +185,16 @@ Magam is meglepődtem, hogy milyen sok dolgom van, amit el kell raknom. A szezon
 Viszont ahhoz, hogy tudjam mit-hova teszek, kellett egy személyre szabott rendszerezés. Ki kellett találnom, hogy mi az a módszer ami segít nekem abban, hogy hónapok múlva is tudjam mi, hol van. (Erről a témáról készülőben van egy másik poszt.)
 
 
+**Belaktam a kamrát**
+
+
+Mikor a szekrényre vadásztam a méretnél a magasság is fontos szempont volt. Férjuramat nem akartam tovább stresszelni az ilyen-olyan polcokkal, ezért a tökéletes helykihasználás miatt a szekrénytetejét jól pakolhatóvá akartam tenni. Ehhez fedeles műanyag és papírdobozokat vásároltam, és kezdődhetett is rakodás.
+
+
+
 
 ![kamra](/assets/kamra2/Névtelen25.png)
-_Elkészült, és bontsuk szét?_
+_Úgy érzem, másodjára sikerült kihasználnunk a teret_
 
 
 
