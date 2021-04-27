@@ -153,7 +153,7 @@ Magamban jó ideig tervezgettem, hogy lehetne praktikusabbá, hasznosabbá tenni
 
 
 
-Azért arról meggyőzni a férjemet, hogy ez a nyárkonyha nem igazán jött össze, bevallom nem volt egyszerű. Hogy muszáj tovább gondolnunk mit lehet kihozni belőle, mert itt van egy kiváló helyiség, mi pedig nem használjuk ki a benne lévő lehetőséget.
+Azért arról meggyőzni a férjemet, hogy ez a nyárikonyha nem igazán jött össze, bevallom nem volt egyszerű. Fontos volt tovább gondolnunk mit lehet kihozni belőle, mert van egy kiváló helyiségünk, mi pedig nem használjuk ki a benne lévő lehetőséget.
 
 ![kamra](/assets/kamra2/Névtelen25.png)
 _Elkészült, és bontsuk szét?_
@@ -198,7 +198,7 @@ _Úgy érzem, másodjára sikerült kihasználnunk a teret_
 
 
 **+ 1 gondolat:**   
-Van az úgy, hogy nem jön elsőre össze a nagy ötlet. Ha egyre többször gondolunk arra, hogy nem stimmel valami, ha rossz érzésünk van azzal a bizonyos dologgal kapcsolatban, akkor egész biztos, hogy nem olyan, amilyennek szerettük volna. 
+Van az úgy, hogy elsőre nem jön össze a nagy ötlet. Ha egyre többször gondolunk arra, hogy nem stimmel valami, ha rossz érzésünk van azzal a bizonyos dologgal kapcsolatban, akkor egész biztos, hogy az nem olyan, amilyennek szerettük volna. 
 
 
 Ha tetszett, kedveld a <a href="https://www.facebook.com/Var%C3%A1zsolj-otthont-360330751226066/" target="_blank">Facebook oldalt</a> is. Itt még több érdekességet találsz a mindennapok varázslataiból.
