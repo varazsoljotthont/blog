@@ -32,12 +32,15 @@ A "Miházunkhoz" nagy alapterületű istálló tartozott, ami a házzal teljesen
 
 
 
-Az első tervünk az volt, hogy ahelyiség nyárikonyhaként funkcionáljon, de mellette még tárolásra is alkalmas legyen. 
+Az első tervünk az volt, hogy a helyiség nyárikonyhaként funkcionáljon, de mellette még tárolásra is alkalmas legyen. 
 
 Mindenképpen szerettük volna a ház stílusára szabni, és mindenképpen házilag megoldani a kialakítását.  
-Ha nem a bejárati ajtón érünk be a házba, akkor a másik lehetőségünk az, hogy ideérkezünk. Ezért, az hogy milyen lesz a hangulata, számomra lényeges volt. 
 
 ![kamra](/assets/kamra2/Névtelen1.png)
+
+
+Ha nem a bejárati ajtón érünk be a házba, akkor a másik lehetőségünk az, hogy ideérkezünk. Ezért, az hogy milyen lesz a hangulata, számomra lényeges volt. 
+
 
 
 ![kamra](/assets/kamra2/Névtelen8j.png)
