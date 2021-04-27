@@ -84,8 +84,8 @@ _Nehéz erről elhinni, hogy még szép is lehet..._
 ![kamra](/assets/kamra2/Névtelen16.png)
 
 
-![kamra](/assets/kamra2/Névtelen22.png)
-_...pedig lehet! És még a lámpa is újrahasznosított, saját ötlet, saját kivitelezés_
+![kamra](/assets/kamra2/Névtelen27.png)
+_...pedig lehet! És még a lámpa is újrahasznosított. Saját ötlet, saját kivitelezés_
 
 
 
@@ -117,6 +117,10 @@ _Szemfüles olvasók láthatják, hogy az Uradalom itt még nincs kialakítva_
 Idekerült egy régi, beépíthetőnek szánt kis hűtő, amit csak alkalomszerűen használunk. Férjem nagyszerű ötletének majd megvalósításának köszönhetően, az ajtó borítást kapott és ezzel már be is illeszkedett a nyárikonyha stílusába.
 
 ![kamra](/assets/kamra2/Névtelen21.png)
+
+![kamra](/assets/kamra2/Névtelen26.png)
+
+
 _A kábeldobból nem csak az Uradalom kerítése készült, hanem a hűtő ajtaja és a nyárikonyha pultja is_
 
 A nyárikonyha nagyjából elkészült. Szép lett, hangulatos, ahogy elképzeltem, de ez önmagában kevésnek bizonyult. Idővel több olyan gyakorlati probléma is előjött, ami azt mutatta, hogy tovább kell gondolnunk ezt a nyárikonyha dolgot. 
