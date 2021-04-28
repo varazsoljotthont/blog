@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Tárolni, de hol?"'
+title: 'Tárolni... jó, de hol?'
 permalink: /kamra/
 cover: /assets/kamra2/cover.png
 categories: [házfelújítás, dekor]
