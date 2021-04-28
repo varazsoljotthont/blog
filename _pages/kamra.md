@@ -12,17 +12,15 @@ image:
 
 
 
-**A felújításra váró falusi házaknál szinte mindig van olyan melléképület, egykori istálló, ami az átalakítás után akár tárolásra is alkalmas lehet. Ezek a kis helyiségek a családiházak Jolly Jokerei, hisz' a gyerekek megunt játékainak, a ritkán használt konyhai eszközöknek, vagy az épp felesleges dekorációs tárgyaknak a raktározására is tökéletesek lehetnek. A "Miházunknak is" része volt egy nagy alapterületű istálló, amit mi új szereppel ruháztunk fel.**
-
-**A felújításra váró falusi házaknál szinte mindig van olyan melléképület, egykori istálló, ami az átalakítás után a felújított otthon szerves részévé válhat. A "Miházunkhoz"  is tartozott egy nagy alapterületű istálló, amit mi új szereppel ruháztunk fel. Állandó fejtörést okozott, hogy az épp használaton kívüli dolgainkat hol, és hogyan tároljuk. Az átszabott Ezek a kis helyiségek a családiházak Jolly Jokerei, hisz' a gyerekek megunt játékainak, a ritkán használt konyhai eszközöknek, vagy az épp felesleges dekorációs tárgyaknak a raktározására is tökéletesek lehetnek.**
-
+**A felújításra váró falusi házaknál szinte mindig van olyan melléképület, ami az átalakítás után a felújított otthon szerves részévé válhat. A "Miházunkhoz" is tartozott egy nagy alapterületű istálló, amit mi új szereppel ruháztunk fel. Állandó fejtörést okozott, hogy az épp használaton kívüli dolgainkat hol, és hogyan helyezzük el. Nálunk az átszabott istálló egyik helyiségéből lett egy tároló helyiség, ami igazán jó döntésnek bizonyult.**
 
 
 ## A több funkcióssá vált istálló
 
 
-Már amikor megvettük a házat láttuk, hogy az istálló a mérete miatt több helyiség kialakítására is alkalmas lesz. Lépésről-lépésre kapta meg a jelenlegi kinézetét, és mostanra már teljesen elveszítette egykori külsejét.
-A [felújítás](/2019-04-11/külsőfalak) során rendbe tettük az udvar felől, majd egyrészéből a [mosókonyhát](/2019-04-30/mosokonyha) is kialakítottuk. Kellett még hely a kazánháznak, és a szabadon maradt területet is praktikusan akartuk kialakítani.
+
+Már a ház vásárlásakor láttuk, hogy az egykori istállóban van fantázia. Az, hogy volt egy ilyen nagy méretű helyiségünk, igazi Jolly Joker volt a kezünkben. Lépésről-lépésre kapta meg a jelenlegi kinézetét, és mostanra már teljesen elveszítette egykori külsejét.
+A [felújítás](/2019-04-11/külsőfalak) során rendbe tettük az udvar felől, majd egy részéből a [mosókonyhát](/2019-04-30/mosokonyha) is kialakítottuk. Kellett még hely a kazánháznak, és a szabadon maradt területet is praktikusan akartuk kialakítani.
 
 > A mosókonyha berendezéséről [itt olvashatsz.](/2019-05-06/mosókonyhaberendezés) 
 
@@ -63,7 +61,7 @@ _A bontott tégla ide is jó választás volt_
 _...itt már fugázva_
 
 
-A mennyezetét régi padlásdeszkából csinálta meg a férjem. Megcsiszolta, én lenolajjal lekentem, és ez nagyszerűen visszadta fa a régies hangulatát. 
+A mennyezetét régi padlásdeszkából csinálta meg a férjem. Megcsiszolta, én lenolajjal lekentem, és ez nagyszerűen visszaadta fa a régies hangulatát. 
 
 
 
@@ -92,10 +90,10 @@ _...pedig lehet! És még a lámpa is újrahasznosított. Saját ötlet, saját 
 
 
 
-A villanyszerelés,és a faljavítás után jöhetett a festés. Még az albérletből maradt diszperziós festék, és én úgy gondoltam, hogy erre a helyiségre tökéletes lesz. Abszolút célunk volt, hogy minél költséghatékonyabban oldjuk meg ezt a projketünket (is).
+A villanyszerelés, és a faljavítás után jöhetett a festés. Még az albérletből maradt diszperziós festék, és én úgy gondoltam, hogy erre a helyiségre tökéletes lesz. Abszolút célunk volt, hogy minél költséghatékonyabban oldjuk meg ezt a projeketünket (is).
 
 ![kamra](/assets/kamra2/Névtelen9.png)
-_Alakul a csempézés is. Természtesen saját kivitelezésben_
+_Alakul a csempézés is. Természetesen saját kivitelezésben_
 
 
 
@@ -193,7 +191,7 @@ _A kép illusztráció, sajnos nem fotóztam a miénket. Forrás: Pinterest_
 
 Magam is meglepődtem, hogy milyen sok dolgom van, amit el kell raknom. A szezonális dekorációknak, kerámiáknak, a kreatív hobbis alapanyagoknak mind-mind helyet kellett találnom.
 
-Viszont ahhoz, hogy tudjam mit-hova teszek, kellett egy személyre szabott rendszerezés. Ki kellett találnom, hogy mi az a módszer ami segít nekem abban, hogy hónapok múlva is tudjam mi, hol van. (Erről a témáról készülőben van egy másik poszt.)
+Viszont ahhoz, hogy tudjam, mit-hova teszek, kellett egy személyre szabott rendszerezés. Ki kellett találnom, hogy mi az a módszer, ami segít nekem abban, hogy hónapok múlva is tudjam mi, hol van. (Erről a témáról készülőben van egy másik poszt.)
 
 ![kamra](/assets/kamra2/Névtelen34.png)
 _Dobozok nem csak úgy egymásra vannak rakva, itt már rendszerezve van a tartalom_
