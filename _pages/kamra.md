@@ -193,7 +193,7 @@ Magam is meglepődtem, hogy milyen sok dolgom van, amit el kell raknom. A szezon
 
 Viszont ahhoz, hogy tudjam mit-hova teszek, kellett egy személyre szabott rendszerezés. Ki kellett találnom, hogy mi az a módszer ami segít nekem abban, hogy hónapok múlva is tudjam mi, hol van. (Erről a témáról készülőben van egy másik poszt.)
 
-![kamra](/assets/kamra2/Névtelen31.png)
+![kamra](/assets/kamra2/Névtelen34.png)
 _Dobozok nem csak úgy egymásra vannak rakva, itt már rendszerezve van a tartalom_
 
 
@@ -202,15 +202,21 @@ _Dobozok nem csak úgy egymásra vannak rakva, itt már rendszerezve van a tarta
 
 Mikor a szekrényre vadásztam a méretnél a magasság is fontos szempont volt. Férjuramat nem akartam tovább stresszelni az ilyen-olyan polcokkal, ezért a tökéletes helykihasználás miatt a szekrénytetejét jól pakolhatóvá akartam tenni. Ehhez fedeles műanyag és papírdobozokat vásároltam, és kezdődhetett is rakodás.
 
-![kamra](/assets/kamra2/Névtelen30.png)
+![kamra](/assets/kamra2/Névtelen35.png)
 _A papírdobozok meglepően jó áron voltak_
 
+![kamra](/assets/kamra2/Névtelen36.png)
 
 
 
+![kamra](/assets/kamra2/Névtelen35.png)
+_Úgy érzem, másodjára sikerült kihasználnunk a teret_
 
-![kamra](/assets/kamra2/Névtelen32.png)
-_Úgy érzem, másodjára sikerült kihasználnunk a teret, és még maradt is némi hely_
+
+Azt hiszem azt a célkitűzésemet, hogy ez a helyiség is illeszkedjen a házunk stílusához, sikerült teljesítenem. Vidékies, hangulatos kis raktárt hoztunk össze második nekifutásra.
+
+![kamra](/assets/kamra2/Névtelen34.png)
+_Jó ide belépni_
 
 
 **+ 1 gondolat:**   
