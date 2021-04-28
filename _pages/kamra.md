@@ -171,14 +171,16 @@ Azért arról meggyőzni a férjemet, hogy ez most nem igazán jött össze, bev
 
 
 A megoldást egy régi kredencben láttam.  
-Ezek a bútorok nagyon jól lettek megtervezve. Annak ellenére, hogy a helyigényük nem túl nagy, rengeteg mindent képesek elnyelni. Jó ideig keresgéltem, hogy megtaláljam a megfelelő méretben, árban, stílusban és állapotban lévő darabot.
+Ezek a bútorok nagyon jól lettek megtervezve. Annak ellenére, hogy a helyigényük nem túl nagy, rengeteg mindent képesek elnyelni. Jó ideig keresgéltem a megfelelő méretben, árban, stílusban és állapotban lévő darabot.
 
 
 ![kamra](/assets/kamra2/188d3d25d6fdd2e9aa41468da1475a2f.jpg)
 _A kép illusztráció, sajnos nem fotóztam a miénket. Forrás: Pinterest_
 
+**Régi berendezés ki, új szekrény be**
 
-Miután a szekrényre rátaláltam, jöhetett a kipakolás. A régi tűzhelyet továbbra is megakartuk tartani, így először annak kellett helyet találni. Aztán a kis hűtőnek, a pultnak is mennie kellett. Újra festettem a falakat, majd átfestettem a kredencet is. A Cellkolor vízbázisú festékét választottam és öröm volt vele dolgozni; jól takar, nem volt szaga, és ami még fontos, a krétafestékhez hasonló felületet adott. A színt úgy kevertettem ki, hogy az eredetihez minél jobban hasonlítson. 
+
+Újra festettem a falakat, majd átfestettem a kredencet is. A Cellkolor vízbázisú festékét választottam és öröm volt vele dolgozni; jól takar, nem volt szaga, és ami még fontos, a krétafestékhez hasonló felületet adott. A színt úgy kevertettem ki, hogy az eredetihez minél jobban hasonlítson. 
 
 > Az bútor átfestéséről készült fázis fotók elvesztek, így ezt nem tudom megmutatni.
 
