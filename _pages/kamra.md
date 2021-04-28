@@ -220,7 +220,7 @@ _Jó ide belépni_
 
 
 **+ 1 gondolat:**   
-Van az úgy, hogy elsőre nem jön össze a nagy ötlet. Ha egyre többször gondolunk arra, hogy nem stimmel valami, ha rossz érzésünk van azzal a bizonyos dologgal kapcsolatban, akkor az nem olyan, amilyennek szerettük volna. Mindenképpen érdemes újra átgondolni, hogy mi is volt az elvárásunk, ezt összevetni a jelen állapottal, és ha ez meg van, már közeledünk is a megoldás felé. 
+Van az úgy, hogy elsőre nem jön össze a nagy ötlet. Ha egyre többször gondolunk arra, hogy nem stimmel valami, ha rossz érzésünk van azzal a bizonyos dologgal kapcsolatban, akkor az egész biztosan nem olyan, amilyennek szerettük volna. Mindenképpen érdemes újra átgondolni, hogy mi is volt az elvárásunk, ezt összevetni a jelen állapottal, és ha ez meg van, már közeledünk is a megoldás felé. 
 
 
 Ha tetszett, kedveld a <a href="https://www.facebook.com/Var%C3%A1zsolj-otthont-360330751226066/" target="_blank">Facebook oldalt</a> is. Itt még több érdekességet találsz a mindennapok varázslataiból.
