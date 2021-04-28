@@ -171,7 +171,7 @@ Azért arról meggyőzni a férjemet, hogy ez most nem igazán jött össze, bev
 
 
 A megoldást egy régi kredencben láttam.  
-Ezek a bútorok nagyon jól lettek megtervezve. Annak ellenére, hogy a helyigényük nem túl nagy, rengeteg mindent képesek elnyelni. Jó ideig keresgéltem a megfelelő méretben, árban, stílusban és állapotban lévő darabot.
+Ezek a bútorok nagyon jól lettek megtervezve. Annak ellenére, hogy a helyigényük nem túl nagy, rengeteg mindent képesek elnyelni. Jó ideig keresgéltem a megfelelő méretben, árban, stílusban és állapotban lévő darabot, míg aztán rátaláltam.
 
 
 ![kamra](/assets/kamra2/188d3d25d6fdd2e9aa41468da1475a2f.jpg)
