@@ -143,20 +143,25 @@ A mindenféle kreatív holmim akkor még a gardróbban és a mosókonyhában vol
 
 
 
-## Újra tervezés
+## Újratervezés
+
+Be kellett látnom, hogy ez a projektünk csak 50 %-os lett.  
+A gondot a berendezés jelentette; túl sok volt a szabadon hagyott fal felület, ami miatt nem tudtuk jól kihasználni a teret, és nem volt olyan hely, ahol a portól védve tudtam volna eltenni a dolgaimat.
 
 
-Magamban jó ideig tervezgettem, hogy lehetne praktikusabbá, hasznosabbá tenni a nyárikonyhát. Az átalakítás elég nagynak feladatnak tűnt, így szükségszerű volt, hogy a férjem elé álljak vele.
 
 **Felvezetni a problémát**
 
+Magamban jó ideig tervezgettem, hogy lehetne praktikussá tenni a nyárikonyhát, és mikor nagyjábó összeállt a terv, akkor a férjuramat is beavattam.
 
-
-
-Azért arról meggyőzni a férjemet, hogy ez a nyárikonyha nem igazán jött össze, bevallom nem volt egyszerű. Viszont fontos lett tovább gondolnunk mit lehet kihozni belőle, mert volt egy kiváló helyiségünk, mi pedig nem használtuk ki a benne lévő lehetőséget.
 
 ![kamra](/assets/kamra2/Névtelen25.png)
 _Elkészült, és bontsuk szét?_
+
+
+Azért arról meggyőzni a férjemet, hogy ez most nem igazán jött össze, bevallom nem volt egyszerű. De ő is elismerte, hogy van mit korrigálni, és megint neki kezdtünk a feladatnak.
+
+
 
 
 
@@ -165,13 +170,15 @@ _Elkészült, és bontsuk szét?_
 **Első lépés: kell egy szekrény**
 
 
-Jó ideig keresgéltem a megfelelő méretben, árban, stílusban és állapotban lévő kredencet, míg aztán meg nem találtam a tökéletes darabot.
+A megoldást egy régi kredencben láttam.  
+Ezek a bútorok nagyon jól lettek megtervezve. Annak ellenére, hogy a helyigényük nem túl nagy, rengeteg mindent képesek elnyelni. Jó ideig keresgéltem, hogy megtaláljam a megfelelő méretben, árban, stílusban és állapotban lévő darabot.
+
 
 ![kamra](/assets/kamra2/188d3d25d6fdd2e9aa41468da1475a2f.jpg)
 _A kép illusztráció, sajnos nem fotóztam a miénket. Forrás: Pinterest_
 
 
-Miután a szekrényt hazahoztuk, jöhetett a kipakolás. A régi tűzhelyet továbbra is megakartuk tartani, így először annak kellett helyet találni. Aztán a kis hűtőnek, a pultnak is mennie kellett. Mikor üres lett a hely, megint festettem, majd átfestettem a kredencet is. A Cellkolor vízbázisú festékét választottam és öröm volt vele dolgozni. Jól fedett, nem volt szaga, a krétafestékhez hasonló felületet adott. A színt úgy kevertettem ki, hogy az eredetihez minél jobban hasonlítson. 
+Miután a szekrényre rátaláltam, jöhetett a kipakolás. A régi tűzhelyet továbbra is megakartuk tartani, így először annak kellett helyet találni. Aztán a kis hűtőnek, a pultnak is mennie kellett. Újra festettem a falakat, majd átfestettem a kredencet is. A Cellkolor vízbázisú festékét választottam és öröm volt vele dolgozni; jól takar, nem volt szaga, és ami még fontos, a krétafestékhez hasonló felületet adott. A színt úgy kevertettem ki, hogy az eredetihez minél jobban hasonlítson. 
 
 > Az bútor átfestéséről készült fázis fotók elvesztek, így ezt nem tudom megmutatni.
 
