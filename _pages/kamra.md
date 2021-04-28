@@ -202,10 +202,10 @@ _Dobozok nem csak úgy egymásra vannak rakva, itt már rendszerezve van a tarta
 
 Mikor a szekrényre vadásztam a méretnél a magasság is fontos szempont volt. Férjuramat nem akartam tovább stresszelni az ilyen-olyan polcokkal, ezért a tökéletes helykihasználás miatt a szekrénytetejét jól pakolhatóvá akartam tenni. Ehhez fedeles műanyag és papírdobozokat vásároltam, és kezdődhetett is rakodás.
 
-![kamra](/assets/kamra2/Névtelen35.png)
+![kamra](/assets/kamra2/Névtelen36.png)
 _A papírdobozok meglepően jó áron voltak_
 
-![kamra](/assets/kamra2/Névtelen36.png)
+
 
 
 
