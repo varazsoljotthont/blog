@@ -3,7 +3,7 @@ layout: post
 title: 'Tárolni... jó, de hol?'
 permalink: /kamra/
 cover: /assets/kamra2/coverj.png
-categories: [házfelújítás, dekor]
+categories: [ház felújítás, dekor]
 image:
   path: /assets/kamra/coverj.png
   height: 300
