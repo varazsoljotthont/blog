@@ -152,7 +152,7 @@ A gondot a berendezés jelentette; túl sok volt a szabadon hagyott fal felület
 
 **Felvezetni a problémát**
 
-Magamban jó ideig tervezgettem, hogy lehetne praktikussá tenni a nyárikonyhát, és mikor nagyjábó összeállt a terv, akkor a férjuramat is beavattam.
+Magamban jó ideig tervezgettem, hogy lehetne praktikussá tenni a nyárikonyhát, és mikor nagyjából összeállt a terv, akkor a férjuramat is beavattam.
 
 
 ![kamra](/assets/kamra2/Névtelen25.png)
