@@ -209,7 +209,7 @@ _A papírdobozok meglepően jó áron voltak_
 
 
 
-![kamra](/assets/kamra2/Névtelen35.png)
+![kamra](/assets/kamra2/Névtelen33.png)
 _Úgy érzem, másodjára sikerült kihasználnunk a teret_
 
 
