@@ -229,7 +229,6 @@ Ha tetszett, kedveld a <a href="https://www.facebook.com/Var%C3%A1zsolj-otthont-
 <a href="https://www.instagram.com/varazsoljotthont/?hl=hu/" target="_blank">Kövess az Instagramon</a> is, és sok olyan fotót láthatsz, ami a blogról vagy a Facebook oldalról kimaradt.
 
 
-
 ## Kapcsolódó cikkek
 
  
