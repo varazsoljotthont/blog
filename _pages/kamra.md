@@ -180,7 +180,7 @@ _A kép illusztráció, sajnos nem fotóztam a miénket. Forrás: Pinterest_
 **Régi berendezés ki, új szekrény be**
 
 
-Újra festettem a falakat, majd átfestettem a kredencet is. A Cellkolor vízbázisú festékét választottam és öröm volt vele dolgozni; jól takar, nem volt szaga, és ami még fontos, a krétafestékhez hasonló felületet adott. A színt úgy kevertettem ki, hogy az eredetihez minél jobban hasonlítson. 
+Újra festettem a falakat, majd átfestettem a kredencet is. A Cellkolor vízbázisú festékét választottam, amivel öröm volt dolgozni; jól takar, nem volt szaga, és ami még fontos volt számomra, a krétafestékhez hasonló felületet adott. A színt úgy kevertettem ki, hogy az eredetihez minél jobban hasonlítson. 
 
 > Az bútor átfestéséről készült fázis fotók elvesztek, így ezt nem tudom megmutatni.
 
