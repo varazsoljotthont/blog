@@ -2,10 +2,10 @@
 layout: post
 title: 'Tárolni... jó, de hol?'
 permalink: /kamra/
-cover: /assets/kamra2/cover.png
+cover: /assets/kamra2/coverj.png
 categories: [házfelújítás, dekor]
 image:
-  path: /assets/kamra/cover.png
+  path: /assets/kamra/coverj.png
   height: 300
   width: 300
 ---
@@ -50,7 +50,7 @@ _Halad a munka_
 
 
 
-Nem akartunk vagyonokat költeni, ezért a régi jó baráthoz, a bontott téglához tértünk vissza. Ebből lett az aljzat, ami megadta a számomra oly' kedves vidékies hangulatot. 
+Nem akartunk vagyonokat költeni, ezért a régi jó baráthoz, a bontott téglához tértünk vissza. Ebből lett az aljzat, ami megadta a számomra a nagyon kedves vidékies hangulatot. 
 
 ![kamra](/assets/kamra2/Névtelen2.png)
 _A bontott tégla ide is jó választás volt_
@@ -209,7 +209,7 @@ _A papírdobozok meglepően jó áron voltak_
 
 
 
-![kamra](/assets/kamra2/Névtelen33.png)
+![kamra](/assets/kamra2/Névtelen40.png)
 _Úgy érzem, másodjára sikerült kihasználnunk a teret_
 
 
