@@ -99,9 +99,9 @@ _Alakul a csempézés is. Természtesen saját kivitelezésben_
 
 ## Berendezés
 
-Nagy vágyam az volt, hogy legyen egy olyan hely a házban, ahol a befőzéseket el tudom intézni. 
+Nagy vágyam volt, hogy legyen egy olyan hely a házban, ahol a befőzéseket el tudom intézni. 
 
-Így idekerült a régi gáztűzhely, mellé egy lerakó pult, alatta tárolási lehetősséggel. A falra egy-két polc, rá az olyan bögrék, csészék amiket már a konyhában nem használtam, de kidobni nem akartam.
+Így idekerült a régi gáztűzhely, mellé egy lerakó pult és a falra egy-két polc.
 
 Még az első tulajdonostól maradt egy régi szekrény - aminek hiányzott az egyik ajtaja -, én ezt felújítottam, és beállítottuk a kamrába.
 
@@ -114,7 +114,7 @@ _Az ajtó belső felén régi dátumok, információk a családról_
 ![kamra](/assets/kamra2/Névtelen19.png)
 _Szemfüles olvasók láthatják, hogy az Uradalom itt még nincs kialakítva_
 
-Idekerült egy régi, beépíthetőnek szánt kis hűtő, amit csak alkalomszerűen használunk. Férjem nagyszerű ötletének majd megvalósításának köszönhetően, az ajtó borítást kapott és ezzel már be is illeszkedett a nyárikonyha stílusába.
+Itt kapott helyet egy régi, beépíthetőnek szánt kis hűtő, amit csak alkalomszerűen használunk. Férjem nagyszerű ötletének majd megvalósításának köszönhetően, az ajtó borítást kapott és ezzel már be is illeszkedett a nyárikonyha stílusába.
 
 ![kamra](/assets/kamra2/Névtelen21.png)
 
