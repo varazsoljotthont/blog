@@ -10,7 +10,7 @@ image:
   width: 300  
 ---
 
-**Ha azt érezzük, hogy a lakásban kezd eluralkodni a káosz, hogy elborított bennünket a sok "jó lesz ez még valamire" tárgy, akkor muszáj átgondolni, hogy hogyan lehet újra élhetővé tenni a lakóterünket. Ha időt, energiát szánunk arra, hogy rendszerezzük a dolgainkat, jutalmunk egy szellős, rendezett otthon lesz.** 
+**Talán a kor teszi, de egyre inkább azt kedvelem, ha körülöttem minden átlátható, rendezett, tiszta.** 
 
 
 
