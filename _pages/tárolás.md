@@ -10,7 +10,7 @@ image:
   width: 300  
 ---
 
-**Talán a kor teszi, de egyre inkább azt kedvelem, ha körülöttem minden átlátható, rendezett, tiszta.** 
+**A Miházunk berendezésénél elsődleges szempont volt, hogy ne legyen túlzsúfolt. Ha meg van mindennek a helye, a rendet is sokkal könnyebben meg tudjuk őrizni, és a** 
 
 
 
