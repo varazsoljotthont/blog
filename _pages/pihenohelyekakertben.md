@@ -102,7 +102,7 @@ Az Uradalom a mérete miatt lehetőséget adott arra, hogy több féle kiülőt,
 
 **Kerti kiülő**
 
-Azt hiszem, a [kiülő](//2019-05-29/kiülő) az, amit a leggyakrabban használunk tavasztól őszig. Itt táborozunk le, ha összejövünk egy kis sütögetésre, beszélgetésre a barátokkal, de ebédezünk is itt, ha együtt a család, és ide ülünk, mikor befejezzük a napot. Nyolc ember kényelmesen elfér, és hogy még komfortosabb legyen, készült ide egy párnatartó láda is, hogy kéznél legyen a párna, a pléd.
+Azt hiszem, a [kiülő](/2019-05-29/kiülő) az, amit a leggyakrabban használunk tavasztól őszig. Itt táborozunk le, ha összejövünk egy kis sütögetésre, beszélgetésre a barátokkal, de ebédezünk is itt, ha együtt a család, és ide ülünk, mikor befejezzük a napot. Nyolc ember kényelmesen elfér, és hogy még komfortosabb legyen, készült ide egy párnatartó láda is, hogy kéznél legyen a párna, a pléd.
 
 
 **Hintaágy**
