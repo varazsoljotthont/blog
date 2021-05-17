@@ -56,7 +56,7 @@ Az, hogy az udvaron van egy hintaágy, egy pad, nem ok arra, hogy ne tegyünk az
 
 Ahogy kilépünk a házból már ott is van az első pihenőhelyünk.
 
-A [teraszunkon](/2019-08-01/teraszdekor)) van egy kis pad, két szék, egy [asztalka.](/2019-02-12/varrogepasztal)) Mivel fedett, minden évszakban használható, és nekünk itt van a tökéletes kávézó helyünk. De idejövök ki akkor is, ha sok volt a lakásban töltött idő ( részemről már jó ideje home office van ) és kell pár percnyi friss levegő.
+A [teraszunkon](/2019-08-01/teraszdekor) van egy kis pad, két szék, egy [asztalka.](/2019-02-12/varrogepasztal) Mivel fedett, minden évszakban használható, és nekünk itt van a tökéletes kávézó helyünk. De idejövök ki akkor is, ha sok volt a lakásban töltött idő ( részemről már jó ideje home office van ) és kell pár percnyi friss levegő.
 
 ![virág](/assets/pihenohelyek/terasznarcisz.png)
 _A teraszon leülni, meginni egy kávét, és már menni is tovább_
@@ -102,7 +102,7 @@ Az Uradalom a mérete miatt lehetőséget adott arra, hogy több féle kiülőt,
 
 **Kerti kiülő**
 
-Azt hiszem, a [kiülő](//2019-05-29/kiülő)) az, amit a leggyakrabban használunk tavasztól őszig. Itt táborozunk le, ha összejövünk egy kis sütögetésre, beszélgetésre a barátokkal, de ebédezünk is itt, ha együtt a család, és ide ülünk, mikor befejezzük a napot. Nyolc ember kényelmesen elfér, és hogy még komfortosabb legyen, készült ide egy párnatartó láda is, hogy kéznél legyen a párna, a pléd.
+Azt hiszem, a [kiülő](//2019-05-29/kiülő) az, amit a leggyakrabban használunk tavasztól őszig. Itt táborozunk le, ha összejövünk egy kis sütögetésre, beszélgetésre a barátokkal, de ebédezünk is itt, ha együtt a család, és ide ülünk, mikor befejezzük a napot. Nyolc ember kényelmesen elfér, és hogy még komfortosabb legyen, készült ide egy párnatartó láda is, hogy kéznél legyen a párna, a pléd.
 
 
 **Hintaágy**
@@ -122,7 +122,7 @@ Régi vágyam volt, egy olyan napozóágy, amin el lehet feküdni, a háttámlá
 **Kertirom**
 
 
-A [kertirom](/2019-09-12/kertirom))
+A [kertirom](/2019-09-12/kertirom)
 
 
 
