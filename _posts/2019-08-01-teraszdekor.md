@@ -25,7 +25,7 @@ A bejárati ajtónk a teraszról nyílik. Innen indulunk és ide érkezünk haza
 
 
 
-Számomra nagyon fontos volt, hogy olyan "kisugárzása" legyen a terasznak ami bennünket is és a hozzánk látogatókat is jó érzéssel tölti el.  
+Számomra nagyon fontos volt, hogy olyan "kisugárzása" legyen a terasznak ami bennünket is, és a hozzánk látogatókat is jó érzéssel tölti el.  
 Igen, minket is. Szerintem a szorgos mindennapok után nem mindegy, hogy a haza érkezés milyen környezetbe történik.  
 
 > Azt hiszem nem vagyok egyedül azzal a gondolattal, hogy az otthonunk nem csak arra szolgál, hogy tető legyen a fejünk felett. Az otthon számomra az a hely, ahol erőt gyűjtök, feltöltődöm, és belépve az ajtón azt mondom, de jó itthon lenni! Ez csak úgy megy, ha az  otthon, ahová érkezem rendezett, tiszta, hívogató.
@@ -45,7 +45,7 @@ _Ide érkezünk haza_
 A teraszt csupa [téglából építettük](/2019-07-21/terasz) meg.  
 
 Bontott téglából készültek a pillérek és köztük a parapet magasságú falak is. Ötlet szintjén felmerült, hogy be is vakolhatnánk falazás után, de aztán kitartottunk az eredeti téglás tervünk mellett.  
-Egyrészt, így "csupaszon" is szép, másrészt nem koszolódik, nem omlik le a pucolás, és így nincs vele semmi tennivaló.
+Egyrészt így "csupaszon" is szép, másrészt nem koszolódik, nem omlik le a pucolás, és így nincs vele semmi tennivaló.
 
 ![tégla](/assets/teraszdekor/udvarfeloljav.jpg)
 
@@ -56,7 +56,7 @@ A terasz elkészültekor ideiglenesen a régi [hajópadlóval](/2019-02-12/szoba
 
 
 
-A kis házi tüzép telepünkön kiválogattuk a szép, formás bontott téglákat, és misungos aljzatra kezdtük lerakni.  
+A kis házi tüzéptelepünkön kiválogattuk a szép, formás bontott téglákat, és misungos aljzatra kezdtük lerakni.  
 
 Széles fugahézakokat hagytunk az egyes darabok között, hogy könnyen ki tudjuk önteni a réseket.
 
@@ -69,7 +69,7 @@ _Megfelelő fuga hézaggal kell lerakni a téglát_
 
 ![tégla](/assets/teraszdekor/DSCF2400.JPG)
 
-Száradás után cementtejjel kikentem a fugákat, majd átmostam a téglákat is. Legvégül kőbalzsamot kapott az egész felület. A lábazatot és a küszböt szeletelt téglával rakta ki a férjem, ez nem vett el helyet a teraszból, és megtudtuk tartani téglás egységet.
+Száradás után cementtejjel kikentem a fugákat, majd átmostam a téglákat is. Legvégül kőbalzsamot kapott az egész felület. A lábazatot és a küszöböt szeletelt téglával rakta ki a férjem, ez nem vett el helyet a teraszból, és megtudtuk tartani téglás egységet.
 
 # Dekorfal
 
@@ -135,7 +135,7 @@ Nem adtam fel a vágyamat, és folyamatosan érdeklődtem az ismerősöktől, b�
 
 Egy szépséghibával...
 
-Kicsit kisebbek, mint ami nekünk jó lenne, de addig próbálgattuk míg felkerült. "Kamuzsalugáternek" hívjuk, hisz' nem fukcionál, de azt a szerepet amit én szántam neki, tökéletesen betölti.
+Kicsit kisebbek, mint ami nekünk jó lenne, de addig próbálgattuk míg felkerült. "Kamuzsalugáternek" hívjuk, hisz' nem funkcionál, de azt a szerepet amit én szántam neki, tökéletesen betölti.
 
 ![tégla](/assets/teraszdekor/IMG_20190408_073747.jpg)
 
